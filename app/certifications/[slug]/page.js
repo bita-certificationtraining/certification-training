@@ -1,11 +1,13 @@
-import CertificationPage from "@/app/components/CertificationPage";
-import {seometadatas} from "@/app/util/seometadatas"
+import CertificationPage from "@/app/components/CertificationPage"
+import { seometadatas } from "@/app/util/seometadatas"
 
 export async function generateMetadata({ params }) {
-  const { slug } = params;
+  const { slug } = params
   // console.log(slug,'slug name');
-  
-  const seodata = seometadatas.find((item) => item.slug.toLowerCase() === slug.toLowerCase());; // JSON or fetch
+
+  const seodata = seometadatas.find(
+    (item) => item.slug.toLowerCase() === slug.toLowerCase()
+  ) // JSON or fetch
   // console.log(data.metatitle)
   // console.log(data.metadescription)
 
@@ -38,17 +40,21 @@ export async function generateMetadata({ params }) {
       description: seodata.metadescription,
       images: [seodata.metaimage],
     },
-  };
-
-
+  }
 }
 
+// export default function Certification() {
+//   return(
+//     <>
+//      <CertificationPage data={seodata}/>
+//     </>
+//   )
 
+// }
 export default function Certification() {
-  return(
+  return (
     <>
-     <CertificationPage data={seodata}/>
+      <CertificationPage />
     </>
   )
-
 }
