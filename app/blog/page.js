@@ -36,7 +36,7 @@ export default function BlogSlider() {
   return (
     <div className="my-32 flex flex-col items-center justify-center px-4 md:px-8 lg:flex-row">
       {/* Slider */}
-      <div className="relative w-full rounded border bg-white p-6 shadow-md lg:w-2/3 xl:w-[600px]">
+      <div className="relative w-full rounded border bg-white p-6 shadow-md lg:w-[600px]">
         <h2 className="mb-4 text-center text-xl font-bold text-themeblue">
           Tech Shorts
         </h2>
