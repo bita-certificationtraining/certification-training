@@ -51,8 +51,8 @@ export default function BlogSlider() {
                   <Image
                     src={frame.image}
                     alt={frame.name}
-                    width={120}
-                    height={120}
+                    width={200}
+                    height={200}
                     className="object-contain"
                   />
                 </div>
