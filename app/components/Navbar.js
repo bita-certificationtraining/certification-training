@@ -64,6 +64,14 @@ export default function Navbar() {
           </li>
           <li>
             <Link
+              href="/blog"
+              className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
+            >
+              Blog
+            </Link>
+          </li>
+          <li>
+            <Link
               href="/contactus"
               className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
             >

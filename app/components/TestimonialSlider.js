@@ -1,53 +1,53 @@
 // components/TestimonialSlider.jsx
-'use client';
+"use client"
 
 // import React, { useCallback } from 'react';
-import useEmblaCarousel from 'embla-carousel-react';
-import Autoplay from 'embla-carousel-autoplay';
-import Image from 'next/image';
+import Image from "next/image"
+import Autoplay from "embla-carousel-autoplay"
+import useEmblaCarousel from "embla-carousel-react"
 
 const testimonials = [
   {
-    image: '/clientreviews/clientreview1.webp',
-    name: 'clientreview1',
+    image: "/clientreviews/clientreview1.webp",
+    name: "clientreview1",
   },
   {
-    image: '/clientreviews/clientreview2.webp',
-    name: 'clientreview2',
+    image: "/clientreviews/clientreview2.webp",
+    name: "clientreview2",
   },
   {
-    image: '/clientreviews/clientreview3.webp',
-    name: 'clientreview3',
+    image: "/clientreviews/clientreview3.webp",
+    name: "clientreview3",
   },
   {
-    image: '/clientreviews/clientreview4.webp',
-    name: 'clientreview4',
+    image: "/clientreviews/clientreview4.webp",
+    name: "clientreview4",
   },
   {
-    image: '/clientreviews/clientreview5.webp',
-    name: 'clientreview5',
+    image: "/clientreviews/clientreview5.webp",
+    name: "clientreview5",
   },
   {
-    image: '/clientreviews/clientreview6.webp',
-    name: 'clientreview6',
-  }
-];
+    image: "/clientreviews/clientreview6.webp",
+    name: "clientreview6",
+  },
+]
 
 export default function TestimonialSlider() {
   const [emblaRef] = useEmblaCarousel({ loop: true }, [
     Autoplay({ delay: 3000, stopOnInteraction: false }),
-  ]);
+  ])
 
   return (
-    <div className="overflow-hidden  pb-6 mb-16">
+    <div className="mb-16 overflow-hidden pb-6">
       <div className="embla__viewport" ref={emblaRef}>
         <div className="flex">
           {testimonials.map((item, index) => (
             <div
-              className="min-w-full px-4 flex justify-center items-center"
+              className="flex min-w-full items-center justify-center px-4"
               key={index}
             >
-              <div className="bg-white rounded-xl shadow-lg p-2 max-w-md">
+              <div className="max-w-md rounded-xl bg-white p-2 shadow-lg">
                 <Image
                   src={item.image}
                   alt={item.name}
@@ -61,5 +61,5 @@ export default function TestimonialSlider() {
         </div>
       </div>
     </div>
-  );
+  )
 }
