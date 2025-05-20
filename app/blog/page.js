@@ -18,14 +18,14 @@ export default function BlogSlider() {
       title: "Unlocking Opportunities with SC-100 Certification",
       image: "/blogimages/SC_100.png",
       name: "SC_100",
-      description: `As organizations embrace cloud and hybrid infrastructures, the SC-100: Microsoft Cybersecurity Architect certification is gaining traction. It opens doors to key roles like cybersecurity architect, cloud security consultant, and more. Stay ahead in your career. To know more, read our in-depth blog at BITA: www.bitaacademy.com <a href="https://bitaacademy.com/is-there-a-demand-for-sc-100-microsoft-cybersecurity-architect/" target="_blank" rel="noopener noreferrer" style="color: #3A7BA5; text-decoration: underline;">Read More...</a>`,
+      description: `As organizations embrace cloud and hybrid infrastructures, the SC-100: Microsoft Cybersecurity Architect certification is gaining traction. It opens doors to key roles like cybersecurity architect, cloud security consultant, and more. Stay ahead in your career. To know more, read our in-depth blog at BITA: www.bitaacademy.com <a href="https://bitaacademy.com/is-there-a-demand-for-sc-100-microsoft-cybersecurity-architect/" target="_blank" rel="noopener noreferrer" style="color: #d69e2e;font-weight: bold; text-decoration: underline;">Read More...</a>`,
       date: "MAY 16 2025",
     },
     {
       title: "Power Up Your Data Skills with PCAD",
       image: "/blogimages/PCAD.png",
       name: "pcad",
-      description: `Data professionals are in high demand. The PCAD certification helps you establish a strong foundation in data analytics. Learn more about how it can impact your career. <a href="https://bitaacademy.com" target="_blank" rel="noopener noreferrer" style="color: #3A7BA5; text-decoration: underline;">Read More...</a>`,
+      description: `Data professionals are in high demand. The PCAD certification helps you establish a strong foundation in data analytics. Learn more about how it can impact your career. <a href="https://bitaacademy.com/is-there-a-demand-for-pcad-certified-associate-data-analyst-with-python/" target="_blank" rel="PCAD" style="color: #d69e2e;font-weight: bold; text-decoration: underline;">Read More...</a>`,
       date: "MAY 10 2025",
     },
   ]
@@ -57,7 +57,9 @@ export default function BlogSlider() {
                   />
                 </div>
                 <div className="w-full md:w-2/3 md:pl-4">
-                  <div className="text-sm text-gray-500">{frame.date}</div>
+                  <div className="text-md font-semibold text-yellow-600">
+                    {frame.date}
+                  </div>
                   <h3 className="mb-2 text-lg font-bold text-themeblue">
                     {frame.title}
                   </h3>
