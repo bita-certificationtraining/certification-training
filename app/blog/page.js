@@ -18,14 +18,14 @@ export default function BlogSlider() {
       title: "Unlocking Opportunities with SC-100 Certification",
       image: "/blogimages/SC_100.png",
       name: "SC_100",
-      description: `As organizations embrace cloud and hybrid infrastructures, the SC-100: Microsoft Cybersecurity Architect certification is gaining traction. It opens doors to key roles like cybersecurity architect, cloud security consultant, and more. Stay ahead in your career. To know more, read our in-depth blog at BITA: www.bitaacademy.com <a href="https://bitaacademy.com/is-there-a-demand-for-sc-100-microsoft-cybersecurity-architect/" target="_blank" rel="noopener noreferrer" style="color: #FF6347; text-decoration: underline;">Read More...</a>`,
+      description: `As organizations embrace cloud and hybrid infrastructures, the SC-100: Microsoft Cybersecurity Architect certification is gaining traction. It opens doors to key roles like cybersecurity architect, cloud security consultant, and more. Stay ahead in your career. To know more, read our in-depth blog at BITA: www.bitaacademy.com <a href="https://bitaacademy.com/is-there-a-demand-for-sc-100-microsoft-cybersecurity-architect/" target="_blank" rel="noopener noreferrer" style="color: #3A7BA5; text-decoration: underline;">Read More...</a>`,
       date: "MAY 16 2025",
     },
     {
       title: "Power Up Your Data Skills with PCAD",
-      image: "/blogimages/pcad.png",
+      image: "/blogimages/PCAD.png",
       name: "pcad",
-      description: `Data professionals are in high demand. The PCAD certification helps you establish a strong foundation in data analytics. Learn more about how it can impact your career. <a href="https://bitaacademy.com" target="_blank" rel="noopener noreferrer" style="color: #FF6347; text-decoration: underline;">Read More...</a>`,
+      description: `Data professionals are in high demand. The PCAD certification helps you establish a strong foundation in data analytics. Learn more about how it can impact your career. <a href="https://bitaacademy.com" target="_blank" rel="noopener noreferrer" style="color: #3A7BA5; text-decoration: underline;">Read More...</a>`,
       date: "MAY 10 2025",
     },
   ]
@@ -37,7 +37,7 @@ export default function BlogSlider() {
     <div className="my-32 flex flex-col items-center justify-center px-4 md:px-8 lg:flex-row">
       {/* Slider */}
       <div className="relative w-full rounded border bg-white p-6 shadow-md lg:w-2/3 xl:w-[600px]">
-        <h2 className="mb-4 text-center text-xl font-bold text-red-500">
+        <h2 className="mb-4 text-center text-xl font-bold text-themeblue">
           Tech Shorts
         </h2>
         <div className="overflow-hidden" ref={emblaRef}>
@@ -58,7 +58,7 @@ export default function BlogSlider() {
                 </div>
                 <div className="w-2/3 pl-4">
                   <div className="text-sm text-gray-500">{frame.date}</div>
-                  <h3 className="mb-2 text-lg font-bold text-red-500">
+                  <h3 className="mb-2 text-lg font-bold text-themeblue">
                     {frame.title}
                   </h3>
                   <div
