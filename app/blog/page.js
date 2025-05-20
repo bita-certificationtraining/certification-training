@@ -44,10 +44,10 @@ export default function BlogSlider() {
           <div className="flex">
             {blog.map((frame, idx) => (
               <div
-                className="flex min-w-full rounded bg-gray-100 p-4 shadow-inner"
+                className="flex min-w-full flex-col rounded bg-gray-100 p-4 shadow-inner md:flex-row"
                 key={idx}
               >
-                <div className="flex w-1/3 items-center justify-center">
+                <div className="mb-4 flex w-full items-center justify-center md:mb-0 md:w-1/3">
                   <Image
                     src={frame.image}
                     alt={frame.name}
@@ -56,7 +56,7 @@ export default function BlogSlider() {
                     className="object-contain"
                   />
                 </div>
-                <div className="w-2/3 pl-4">
+                <div className="w-full md:w-2/3 md:pl-4">
                   <div className="text-sm text-gray-500">{frame.date}</div>
                   <h3 className="mb-2 text-lg font-bold text-themeblue">
                     {frame.title}
