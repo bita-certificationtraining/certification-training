@@ -24,13 +24,16 @@ export default function Footer() {
             <ul className="leading-7">
               {/* <li>Home</li> */}
               <li>
-                <Link href="/">Home</Link>
+                <Link href="/">HOME</Link>
               </li>
               <li>
-                <Link href="/aboutus">AboutUs</Link>
+                <Link href="/aboutus">ABOUT US</Link>
               </li>
               <li>
-                <Link href="/contactus">ContactUs</Link>
+                <Link href="/blog">BLOG</Link>
+              </li>
+              <li>
+                <Link href="/contactus">CONTACT US</Link>
               </li>
             </ul>
           </div>

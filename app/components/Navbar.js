@@ -51,7 +51,7 @@ export default function Navbar() {
               href="/"
               className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
             >
-              Home
+              HOME
             </Link>
           </li>
           <li>
@@ -59,7 +59,7 @@ export default function Navbar() {
               href="/aboutus"
               className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
             >
-              AboutUs
+              ABOUT US
             </Link>
           </li>
           <li>
@@ -67,7 +67,7 @@ export default function Navbar() {
               href="/blog"
               className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
             >
-              Blog
+              BLOG
             </Link>
           </li>
           <li>
@@ -75,7 +75,7 @@ export default function Navbar() {
               href="/contactus"
               className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
             >
-              ContactUs
+              CONTACT US
             </Link>
           </li>
           <li>
@@ -105,7 +105,7 @@ export default function Navbar() {
               className="block rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
               onClick={() => setMenuOpen(false)}
             >
-              Home
+              HOME
             </Link>
           </li>
           <li>
@@ -114,7 +114,7 @@ export default function Navbar() {
               className="block rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
               onClick={() => setMenuOpen(false)}
             >
-              About
+              ABOUT
             </Link>
           </li>
           <li>
@@ -122,7 +122,7 @@ export default function Navbar() {
               href="/blog"
               className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
             >
-              Blog
+              BLOG
             </Link>
           </li>
           <li>
@@ -131,7 +131,7 @@ export default function Navbar() {
               className="block rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
               onClick={() => setMenuOpen(false)}
             >
-              Contact
+              CONTACT US
             </Link>
           </li>
         </ul>
