@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        f_popin: ["var(--font-popon)"],
+        f_popin: ["var(--font-popin)"],
       },
       colors: {
         themewhite: "var(--white)",
