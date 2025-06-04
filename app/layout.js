@@ -7,12 +7,13 @@ import "./globals.css"
 
 const poppins = Poppins({
   subsets: ["latin"],
-  weight: ["400", "700"], // Choose the font weights you need
+  variable: "--font-popin",
+  weight: ["400", "600", "700", "800", "900"], // Choose the font weights you need
 })
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en-US">
+    <html lang="en-US" className={`${poppins.variable}`}>
       <head>
         <meta
           name="google-site-verification"
@@ -20,7 +21,7 @@ export default function RootLayout({ children }) {
         />
       </head>
 
-      <body className={poppins.className}>
+      <body className="font-f_popin">
         <section className="mx-auto xl:max-w-[1300px]">
           <Navbar />
           {children}

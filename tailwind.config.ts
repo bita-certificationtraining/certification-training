@@ -1,4 +1,4 @@
-import type { Config } from "tailwindcss";
+import type { Config } from "tailwindcss"
 
 export default {
   content: [
@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        f_popin: ["var(--font-popon)"],
+      },
       colors: {
         themewhite: "var(--white)",
         themelightblack: "var(--lightblack)",
@@ -19,4 +22,4 @@ export default {
     },
   },
   plugins: [],
-} satisfies Config;
+} satisfies Config
