@@ -218,7 +218,7 @@ export const seometadatas = [
   },
   {
     slug: "giacinformationsecurityfundamentalscertification",
-    metatitle: "GIAC Information Security Fundamentals Certification",
+    metatitle: "GISF: GIAC Information Security Fundamentals Certification",
     metadescription:
       "Get certified in GIAC Information Security Fundamentals (GISF). Learn essential security principles and practices to build a strong foundation in cybersecurity.",
     metaimage: "/certification_img/giac_logo/gisf.webp",
