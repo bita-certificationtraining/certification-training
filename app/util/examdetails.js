@@ -463,7 +463,7 @@ export const examdetails = [
   },
   {
     code: "GISP",
-    slug: "gisp",
+    slug: "giacinformationsecurityProfessionalcertification",
     examdetails: {
       examname: "GIAC Information Security Professional (GISP)",
       examlevel: "Advanced",

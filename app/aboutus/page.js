@@ -1,8 +1,8 @@
 import Image from "next/image";
 
 export const metadata = {
-    title: "AboutUs | BITA Academy - Best IT Certification in Chennai",
-    description: "BITA Academy-SHAPING THE FUTURE OF IT PROFESSIONALS FOR15 STRONG YEARS",
+    title: "Certification Training - About us",
+    description: "Contact us and enquire about the services provided by us and upskill your IT Career.",
     robots: {
       index: true,
       follow: true,
@@ -12,17 +12,17 @@ export const metadata = {
       canonical: "https://certificationtraining.in/aboutus",
     },
     openGraph: {
-      title: "AboutUs | BITA Academy - Best IT Certification in Chennai",
-      description: "BITA Academy-SHAPING THE FUTURE OF IT PROFESSIONALS FOR15 STRONG YEARS",
-      url: "https://certificationtraining.in/aboutus",
+      title: "Certification Training - About us",
+    description: "Contact us and enquire about the services provided by us and upskill your IT Career.",
+    url: "https://certificationtraining.in/aboutus",
       siteName: "Certification Training",
       type: "website",
     },
     twitter: {
       card: "summary",
-      title: "AboutUs | BITA Academy - Best IT Certification in Chennai",
-      description: "BITA Academy-SHAPING THE FUTURE OF IT PROFESSIONALS FOR15 STRONG YEARS",
-      images: ["https://certificationtraining.in/bitalogo.png"],
+      title: "Certification Training - About us",
+    description: "Contact us and enquire about the services provided by us and upskill your IT Career.",
+    images: ["https://certificationtraining.in/bitalogo.png"],
     },
   };
 

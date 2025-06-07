@@ -1,8 +1,8 @@
 import ContactPage from "@/app/components/ContactPage"
 
 export const metadata = {
-    title: "ContactUs | BITA Academy - Best IT Certification in Chennai",
-    description: "ContactUs | Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
+    title: "Certification Training - Contact us",
+    description: "Contact us and get information about certified training which helps to improve your IT skills and career with our experienced trainers.",
     robots: {
       index: true,
       follow: true,
@@ -12,17 +12,17 @@ export const metadata = {
       canonical: "https://certificationtraining.in/contactus",
     },
     openGraph: {
-      title: "ContactUs | BITA Academy - Best IT Certification in Chennai",
-      description: "ContactUs | Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
-      url: "https://certificationtraining.in/contactus",
+      title: "Certification Training - Contact us",
+    description: "Contact us and get information about certified training which helps to improve your IT skills and career with our experienced trainers.",
+    url: "https://certificationtraining.in/contactus",
       siteName: "Certification Trainings",
       type: "website",
     },
     twitter: {
       card: "summary",
-      title: "ContactUs | BITA Academy - Best IT Certification in Chennai",
-      description: "ContactUs | Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
-      images: ["https://certificationtraining.in/bitalogo.png"], 
+      title: "Certification Training - Contact us",
+    description: "Contact us and get information about certified training which helps to improve your IT skills and career with our experienced trainers.",
+    images: ["https://certificationtraining.in/bitalogo.png"], 
     },
   };
 

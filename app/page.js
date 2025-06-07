@@ -5,8 +5,8 @@ import TestimonialSlider from "@/app/components/TestimonialSlider"
 import Image from "next/image";
 
 export const metadata = {
-  title: "BITA Academy - Best IT Certification in Chennai",
-  description: "BITA Academy-Best IT Training institute in chennai. Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
+  title: "BITA Academy - it certification training online",
+  description: "Start or grow your career in IT with an IT certification from us. Find everything you need to get certified - from exploring certifications to training.",
   robots: {
     index: true,
     follow: true,
@@ -16,9 +16,9 @@ export const metadata = {
     canonical: "https://certificationtraining.in/",
   },
   openGraph: {
-    title: "BITA Academy - Best IT Certification in Chennai",
-    description: "BITA Academy-Best IT Training institute in chennai. Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
-    url: "https://certificationtraining.in/",
+     title: "BITA Academy - it certification training online",
+  description: "Start or grow your career in IT with an IT certification from us. Find everything you need to get certified - from exploring certifications to training.",
+ url: "https://certificationtraining.in/",
     siteName: "Certification Trainings",
     type: "website",
     images: [
@@ -32,9 +32,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary",
-    title: "BITA Academy - Best IT Certification in Chennai",
-    description: "BITA Academy-Best IT Training institute in chennai. Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
-    images: ["https://certificationtraining.in/bitalogo.png"],
+     title: "BITA Academy - it certification training online",
+  description: "Start or grow your career in IT with an IT certification from us. Find everything you need to get certified - from exploring certifications to training.",
+ images: ["https://certificationtraining.in/bitalogo.png"],
   },
 };
 

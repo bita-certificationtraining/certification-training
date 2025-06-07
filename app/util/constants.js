@@ -2405,8 +2405,8 @@ const giacdefensiblesecurityarchitectcertification =    {
   finally: "BITA provides comprehensive training for the GDSA: GIAC Defensible Security Architect Certification, ensuring that you gain hands-on experience and expert assistance to succeed in the test and in your cybersecurity career. Join us today to develop your abilities and become a certified security architect!"
 };
 
-const gisp = {
-  slug: "giacinformationsecurityfundamentalscertification",
+const giacinformationsecurityProfessionalcertification = {
+  slug: "giacinformationsecurityProfessionalcertification",
   code: "GISP",
   title: "giac information security fundamentals certification",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3248,7 +3248,7 @@ export const allCertifications = {
   giacsecurityoperationscertifiedtraining : giacsecurityoperationscertifiedtraining,
   giacinformationsecurityfundamentalscertification : giacinformationsecurityfundamentalscertification,
   giacdefensiblesecurityarchitectcertification : giacdefensiblesecurityarchitectcertification,
-  gisp : gisp,
+  giacinformationsecurityProfessionalcertification : giacinformationsecurityProfessionalcertification,
   giacsecurityoperationsmanagercertification : giacsecurityoperationsmanagercertification,
   giaccertifiedincidenthandlercourse : giaccertifiedincidenthandlercourse,
   giacpenetrationtestertraining : giacpenetrationtestertraining,
