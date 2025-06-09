@@ -1,11 +1,12 @@
-import { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   experimental: {
-    forceSwcTransforms: true,
+    esmExternals: true, // Allow modern ESM packages
   },
-  swcMinify: true,
+  transpilePackages: [], // Avoid unnecessary transpile
+  modularizeImports: {}, // Keep clean and modern
+  // Optional: Enable React strict mode
+  reactStrictMode: true,
 };
 
 export default nextConfig;
-
