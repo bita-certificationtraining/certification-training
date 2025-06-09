@@ -1,4 +1,3 @@
-// components/TestimonialSlider.jsx
 "use client"
 
 // import React, { useCallback } from 'react';
@@ -53,6 +52,7 @@ export default function TestimonialSlider() {
                   alt={item.name}
                   width={500}
                   height={500}
+                  sizes="(max-width: 768px) 100vw, 500px"
                   className="mx-auto"
                 />
               </div>

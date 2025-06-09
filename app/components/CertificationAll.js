@@ -89,6 +89,7 @@ export default function CertificationPage() {
       className="mt-6 mb-20"
       src="/clientreviews/clientreview1.webp"
       alt="clientreviewimage1"
+      sizes="(max-width: 768px) 100vw, 300px"
       width={300}
       height={90}
 />
@@ -96,6 +97,7 @@ export default function CertificationPage() {
       src="/clientreviews/clientreview2.webp"
       className="my-20"
       alt="clientreviewimage2"
+      sizes="(max-width: 768px) 100vw, 300px"
       width={300}
       height={90}
 />
@@ -103,6 +105,7 @@ export default function CertificationPage() {
       src="/clientreviews/clientreview3.webp"
       className="my-20"
       alt="clientreviewimage3"
+      sizes="(max-width: 768px) 100vw, 300px"
       width={300}
       height={90}
 />
@@ -110,6 +113,7 @@ export default function CertificationPage() {
       src="/clientreviews/clientreview4.webp"
       className="my-20"
       alt="clientreviewimage4"
+      sizes="(max-width: 768px) 100vw, 300px"
       width={300}
       height={90}
 />
@@ -117,6 +121,7 @@ export default function CertificationPage() {
       src="/clientreviews/clientreview5.webp"
       className="my-20"
       alt="clientreviewimage5"
+      sizes="(max-width: 768px) 100vw, 300px"
       width={300}
       height={90}
 />
@@ -124,6 +129,7 @@ export default function CertificationPage() {
       src="/clientreviews/clientreview6.webp"
       className="my-20"
       alt="clientreviewimage6"
+      sizes="(max-width: 768px) 100vw, 300px"
       width={300}
       height={90}
 />
