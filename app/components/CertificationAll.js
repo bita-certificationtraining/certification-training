@@ -1,17 +1,10 @@
 "use client";
 
-import dynamic from 'next/dynamic';
 import { useState } from "react";
 import Link from "next/link";
+import ContactForm from "@/app/components/ContactForm";
 import Image from "next/image";
 import { CertificationList } from "../util/certificationList";
-// import ContactForm from "@/app/components/ContactForm";
-
-const ContactForm = dynamic(() => import("@/app/components/ContactForm"), {
-  ssr: false,         
-  loading: () => <p>Loading...</p>, 
-});
-
 
 export default function CertificationPage() {
   const [selectedCategory, setSelectedCategory] = useState(null);

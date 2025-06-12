@@ -1,12 +1,6 @@
-'use client';
-
-import dynamic from 'next/dynamic';
+import Ccs from "../components/Ccs"
+// import CourseCategorySlider from "../components/CourseCategorySlider"
 import { CertificationList } from "../util/certificationList"
-
-const Ccs = dynamic(() => import("@/app/components/Ccs"), {
-  ssr: false,         
-  loading: () => <p>Loading...</p>, 
-});
 
 export default function MobileviewSlider() {
   return (
@@ -19,6 +13,7 @@ export default function MobileviewSlider() {
               <div key={j}>
                 <h3 className="text-lg font-semibold text-themeblue text-center ">{sub.name}</h3>
                 <Ccs items={sub.items} />
+                {/* <CourseCategorySlider items={sub.items} /> */}
               </div>
             )
           ))}

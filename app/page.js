@@ -1,5 +1,8 @@
+import CertificationAll from "@/app/components/CertificationAll"
+import MobileviewForm from "@/app/components/MobileviewForm"
+import MobileviewSlider from "@/app/components/MobileviewSlider"
+import TestimonialSlider from "@/app/components/TestimonialSlider"
 import Image from "next/image";
-import HomePageComponents from "@/app/components/HomePageComponents"
 
 export const metadata = {
   title: "BITA Academy - it certification training online",
@@ -94,8 +97,28 @@ export default function Home() {
       </section>
     {/* training pattern end */}
 
-    <HomePageComponents/>
+      <div className="block md:hidden my-6">
+       <MobileviewForm/>
+      </div>
 
+    {/* certification slides mobile view start  */}
+      <div className="block lg:hidden">
+      <MobileviewSlider/>
+      </div>
+    {/* certification slides mobile view end */}
+
+    {/* testimonial slider mobileview start */}
+     <div className="block lg:hidden">
+     <h2 className="text-themeblue font-bold text-center text-2xl my-5">Testimonials</h2>
+      <TestimonialSlider/>
+     </div>
+    {/* testimonial slider mobileview end */}
+
+    {/* certification start  */}
+        <div className="my-4 max-lg:hidden block">
+        <CertificationAll/>
+        </div>
+    {/* certification start  */}
 
       </main>
     </>

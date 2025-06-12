@@ -1,4 +1,4 @@
-import ContactPageComponents from "@/app/components/ContactPageComponents";
+import ContactPage from "@/app/components/ContactPage"
 
 export const metadata = {
     title: "Certification Training - Contact us",
@@ -30,7 +30,7 @@ export default function Page() {
 
   return(
     <>
-       <ContactPageComponents/>
+    <ContactPage/>
     </>
   )
  

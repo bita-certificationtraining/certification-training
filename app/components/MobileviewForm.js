@@ -1,14 +1,8 @@
 'use client';
 
-import dynamic from 'next/dynamic';
 import { useState } from 'react';
 import { X } from "lucide-react";
-
-
-const ContactForm = dynamic(() => import("@/app/components/ContactForm"), {
-  ssr: false,         
-  loading: () => <p>Loading...</p>, 
-});
+import ContactForm from "@/app/components/ContactForm";
 
 export default function DemoFormModal() {
   const [showForm, setShowForm] = useState(false);
