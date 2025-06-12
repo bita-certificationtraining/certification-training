@@ -1,10 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
-    legacyBrowsers: false, // ✅ THIS LINE IS CRUCIAL to fix legacy JS issue
-    esmExternals: true,    // ✅ Optional but useful
+    esmExternals: true, // Allow modern ESM packages
   },
-  swcMinify: true,         // ✅ Make sure SWC minifier is enabled
+  transpilePackages: [], // Avoid unnecessary transpile
+  modularizeImports: {}, // Keep clean and modern
+  // Optional: Enable React strict mode
   reactStrictMode: true,
 };
 
