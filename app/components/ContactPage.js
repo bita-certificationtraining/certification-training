@@ -8,33 +8,6 @@ import "react-toastify/dist/ReactToastify.css"
 
 import { LuMail, LuMapPin, LuPhoneCall } from "react-icons/lu"
 
-// export const metadata = {
-//   title: "ContactUs | BITA Academy - Best IT Certification in Chennai",
-//   description:
-//     "ContactUs | Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
-//   robots: {
-//     index: true,
-//     follow: true,
-//     nocache: false,
-//   },
-//   alternates: {
-//     canonical: "https://certificationtraining.in/contactus",
-//   },
-//   openGraph: {
-//     title: "ContactUs | BITA Academy - Best IT Certification in Chennai",
-//     description:
-//       "ContactUs | Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
-//     url: "https://certificationtraining.in/contactus",
-//     siteName: "Certification Trainings",
-//     type: "website",
-//   },
-//   twitter: {
-//     card: "summary",
-//     title: "ContactUs | BITA Academy - Best IT Certification in Chennai",
-//     description:
-//       "ContactUs | Enquire for course fee and schedule a free demo. Call +91 95660 04626 for more details.",
-//   },
-// }
 
 export default function ContactPage() {
   const form = useRef()
