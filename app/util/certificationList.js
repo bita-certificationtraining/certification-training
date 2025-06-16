@@ -62,6 +62,103 @@ export const CertificationList = [
     ],
   },
   {
+    category: "AWS Certification",
+    subcategories: [
+      {
+        name: "AWS Foundation Level",
+        items: [
+          {
+            code: "CLF-C02",
+            slug: "awscertifiedcloudpractitionerlearncloudbasics",
+            title: "AWS Certified Cloud Practitioner",
+            c_image: "/certification_img/aws_logo/aws_cp.webp",
+          },
+          {
+            code: "AIF-C01",
+            slug: "awscertifiedaipractitionerfoundational",
+            title: "AWS Certified AI Practitioner - Foundational",
+            c_image: "/certification_img/aws_logo/aws_ai.webp",
+          }
+        ],
+      },
+      {
+        name: "AWS Associate Level",
+        items: [
+          {
+            code: "MLA-C01",
+            slug: "awscertifiedMachineLearningengineerassociate",
+            title: "AWS Certified Machine Learning Engineer - Associate",
+            c_image: "/certification_img/aws_logo/aws_mle.webp",
+          },
+          {
+            code: "SAA-C03",
+            slug: "awscertifiedsolutionsarchitectassociate",
+            title: "AWS Certified Solutions Architect – Associate",
+            c_image: "/certification_img/aws_logo/aws_saa.webp",
+          },
+          {
+            code: "DVA-C02",
+            slug: "awscertifieddeveloperassociate",
+            title: "AWS Certified Developer – Associate",
+            c_image: "/certification_img/aws_logo/aws_ds.webp",
+          },
+          {
+            code: "DEA-C01",
+            slug: "awscertifieddataengineerassociate",
+            title: "AWS Certified Data Engineer - Associate",
+            c_image: "/certification_img/aws_logo/aws_dea.webp",
+          },
+           {
+            code: "SOA-C02",
+            slug: "awscertifiedsysopsadministratorassociate",
+            title: "AWS Certified SysOps Administrator – Associate",
+            c_image: "/certification_img/aws_logo/aws_soaa.webp",
+          },
+        ],
+      },
+      {
+        name: "Professional Level",
+        items: [
+          {
+            code: "DOP-C02",
+            slug: "awscertifieddevOpsengineerprofessional",
+            title: "AWS Certified DevOps Engineer – Professional",
+            c_image: "/certification_img/aws_logo/aws_dep.webp",
+          },
+          {
+            code: "SAP-C02",
+            slug: "awscertifiedsolutionsarchitectprofessional",
+            title: "AWS Certified Solutions Architect – Professional",
+            c_image: "/certification_img/aws_logo/aws_sap.webp",
+          }
+        ],
+      },
+            {
+        name: "Specialty Level",
+        items: [
+          {
+            code: "MLS-C01",
+            slug: "awscertifiedmachinelearningspecialty",
+            title: "AWS Certified Machine Learning – Specialty",
+            c_image: "/certification_img/aws_logo/aws_mls.webp",
+          },
+          {
+            code: "ANS-C01",
+            slug: "awscertifiedadvancednetworkingspecialty",
+            title: "AWS Certified Advanced Networking – Specialty",
+            c_image: "/certification_img/aws_logo/aws_ans.webp",
+          },
+          {
+            code: "SCS-C02",
+            slug: "awscertifiedsecurityspecialty",
+            title: "AWS Certified Security – Specialty",
+            c_image: "/certification_img/aws_logo/aws_ss.webp",
+          }
+        ],
+      },
+    ],
+  },
+  {
     category: "Microsoft Certification",
     subcategories: [
       {
@@ -374,5 +471,5 @@ export const CertificationList = [
         ],
       },
     ],
-  },
+  }
 ]

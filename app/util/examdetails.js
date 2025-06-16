@@ -99,6 +99,85 @@ export const examdetails = [
     }
   },
   {
+    code: "CLF-C02",
+    slug: "awscertifiedcloudpractitionerlearncloudbasics",
+    examdetails: {
+      examname: "AWS Certified Cloud Practitioner",
+      examlevel: "Foundational",
+      examcode: "CLF-C02",
+      prereq: "None",
+      examlength: "90 minutes",
+      passingscore: "700 out of 1000",
+      price: "USD 100"
+    }
+  },
+    {
+    code: "AIF-C01",
+    slug: "awscertifiedaipractitionerfoundational",
+    examdetails: {
+      examname: "AWS Certified AI Practitioner – Foundational",
+      examlevel: "Foundational",
+      examcode: "AIF-C01 (placeholder – actual code may vary)",
+      prereq: "None",
+      examlength: "90 minutes",
+      passingscore: "700 out of 1000",
+      price: "USD 100"
+    }
+  },
+  {
+    code: "SAA-C03",
+    slug: "awscertifiedsolutionsarchitectassociate",
+    examdetails: {
+      examname: "AWS Certified Solutions Architect – Associate",
+      examlevel: "Associate",
+      examcode: "SAA-C03",
+      prereq: "Recommended 1 year of AWS experience",
+      examlength: "130 minutes",
+      passingscore: "720 out of 1000",
+      price: "USD 150"
+    }
+  },
+    {
+    code: "DVA-C02",
+    slug: "awscertifieddeveloperassociate",
+    examdetails: {
+      examname: "AWS Certified Developer – Associate",
+      examlevel: "Associate",
+      examcode: "DVA-C02",
+      prereq: "None",
+      examlength: "130 minutes",
+      passingscore: "720 out of 1000",
+      price: "USD 150"
+    }
+  },
+  {
+    code: "SOA-C02",
+    slug: "awscertifiedsysopsadministratorassociate",
+    examdetails: {
+      examname: "AWS Certified SysOps Administrator – Associate",
+      examlevel: "Associate",
+      examcode: "SOA-C02",
+      prereq: "Recommended 1 year of AWS system admin experience",
+      examlength: "180 minutes",
+      passingscore: "720 out of 1000",
+      price: "USD 150"
+    }
+  },
+      //   {
+  //   code: "",
+  //   slug: "",
+  //   examdetails: {
+  //     examname: "",
+  //     examlevel: "",
+  //     examcode: "",
+  //     prereq: "",
+  //     examlength: "",
+  //     nofq: ,
+  //     passingscore: "",
+  //     price: ""
+  //   }
+  // },
+  {
     code: "SC-200",
     slug: "microsoftsecurityoperationsanalystcertification",
     examdetails: {

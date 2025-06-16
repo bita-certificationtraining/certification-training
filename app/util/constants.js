@@ -391,6 +391,371 @@ const pcadcertificationsyllabus =      {
   finally: "Enroll immediately in our PCAD Certification Syllabus to initiate the process of obtaining your Certified Associate Data Analyst with Python certification. Acquiring this certification will extend your professional horizons and fortify your proficiency in the domain of data analysis. Seize this opportunity to augment your professional credentials and accomplish your career objectives."
 };
 
+const awscertifiedcloudpractitionerlearncloudbasics =  {
+  slug: "awscertifiedcloudpractitionerlearncloudbasics",
+  code: "CLF-C02",
+  title: "AWS Certified Cloud Practitioner - Learn Cloud Basics",
+  description: "Become a AWS expert with our certification.",
+  cheading: "AWS Certified Cloud Practitioner",
+  courseoverview: "Are you prepared to take the initial steps into the realm of cloud computing? BITA Academy provides an in-depth AWS Certified Cloud Practitioner - Learn Cloud Basics course that builds a solid foundation in AWS Cloud principles. This foundational certification teaches the fundamentals of cloud computing, AWS architecture, basic services, pricing structures, billing methods, and security. Whether you're a student, a working professional, or simply someone interested in learning about cloud technology, this certification is a gateway to one of today's most in-demand skill sets. At BITA, we integrate theoretical and real-world scenarios to help students relate AWS ideas to actual use cases. ",
+  whytakecourseheading: "Why Take the AWS Certified Cloud Practitioner Certification Course?",
+  wtcintro: "Choosing the AWS Certified Cloud Practitioner - Learn Cloud Basics course has various benefits.",
+  wtcoursecontent: [
+    "Foundational Knowledge: This course helps students develop a solid understanding of cloud concepts, making it easier to advance to associate or professional-level certifications in the future.",
+    "Career Boost: AWS certifications are highly valued by recruiters, and this certificate can help you stand out in entry-level employment.",
+    "Future-Ready Skillset: As businesses increasingly use cloud solutions, understanding AWS Cloud basics prepares you for changing IT environments.",
+    "Confidence Builder: Even if you don't have a technological background, this course simplifies AWS and enhances your IT confidence.",
+    "Supports Cross-Functional Roles: From marketing and finance to project management, cloud literacy is becoming increasingly important across organizations."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Cloud Practitioner?",
+  wclcontent: "The AWS Certified Cloud Practitioner - Learn Cloud Basics course is intended for a broad audience, including:",
+  wclpoints: [
+    "Fresh graduates aiming to enter the IT industry",
+    "Business analysts and project managers working on cloud projects.",
+    "Sales, marketing, and finance professionals working with cloud-based services",
+    "HR professionals hiring for cloud opportunities that require cloud fluency.",
+    "Anyone wondering how cloud technology works in today's digital world",
+    "No prior cloud or programming experience is required—only curiosity and a willingness to learn."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Cloud Practitioner",
+  courseprerequcontent: [
+    "There are no prerequisites for enrolling in the AWS Certified Cloud Practitioner - Learn Cloud Basics course. However, a fundamental understanding of IT services and their applications on the AWS Cloud platform can be beneficial.",
+    "If you're new to the cloud, BITA's trainers will make sure the content is understandable and beginner-friendly. All tools, including visual aids, practice problems, and study guides, are designed to help you absorb information more quickly."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Cloud Practitioner Exam?",
+  howtoapplycontent: [
+    "Create an AWS account: Go to AWS official website and set up a free AWS account.",
+    "Visit the AWS Certification Portal: Go to the AWS Certification Portal and login in using your AWS account. Click Certification in the top menu, then select 'AWS Certification Account'.",
+    "Schedule your exam: Select 'Schedule New Exam'. Go for 'AWS Certified Cloud Practitioner - Learn Cloud Basics' You will be sent to one of AWS' testing partners, Pearson VUE or PSI. Select your preferred language, delivery option (online proctored or test center), and available dates and times.",
+    "Pay the examination fee: The exam fee is $100. Payment is made online via the testing partner's portal.",
+    "Prepare for Exam Day: If you are taking the exam online, make sure you have a reliable internet connection, a webcam, and a calm area. You'll also need a valid government-issued identification.",
+    "After passing the exam, you will receive your AWS Certified Cloud Practitioner - Learn Cloud Basics digital badge and certificate by email within a few days."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Cloud Practitioner Certification?",
+  obtainintro: "To obtain the AWS Certified Cloud Practitioner - Learn Cloud Basics certification, you should",
+  obtaincoursecontent: [
+    "Complete the course at BITA to lay a solid foundation.",
+    "Schedule the exam through the AWS Training and Certification Portal.",
+    "Take the examination: It's a 90-minute multiple-choice test that may be taken online or at an authorized testing center.",
+    "Passing requires a minimum score of 700 out of 1000.",
+    "After you pass, you can download your certificate from the AWS portal.",
+    "After finishing the AWS Certified Cloud Practitioner - Learn Cloud Basics course, a number of job opportunities arise, particularly in cloud-enabled enterprises. While the certification is considered entry-level, it adds great value to your resume."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "This certification is beneficial for the following roles",
+  careeroppotunities: [
+    "Cloud Support Associate",
+    "Technical Account Manager (TAM)",
+    "AWS Cloud Sales Rep",
+    "Junior Cloud Administrator",
+    "Project Coordinator for Cloud Projects",
+    "Business Analyst for Cloud Teams",
+    "Pre-sales Consultant (Cloud Solutions)"
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "This certification is also a good starting point for further AWS certifications such as AWS Solutions Architect Associate, AWS Developer Associate, and others.",
+    "With the rapid adoption of cloud technology across industries, organizations are increasingly seeking professionals with the AWS Certified Cloud Practitioner – Learn Cloud Basics certification to strengthen their cloud strategy. Enroll in BITA's expert-led training program today and take your first step toward a successful career in cloud computing!"
+  ]
+};
+
+const awscertifiedaipractitionerfoundational =  {
+  slug: "awscertifiedaipractitionerfoundational",
+  code: "AIF-C01",
+  title: "AWS Certified AI Practitioner - Foundational",
+  description: "Become a AWS Certified AI Practitioner - Foundational our certification",
+  cheading: "AWS Certified AI Practitioner - Foundational",
+  courseoverview: [
+    "Are you prepared to explore the world of artificial intelligence with a solid foundation in cloud-based AI? BITA Academy proudly presents the AWS Certified AI Practitioner - Foundational course, which is intended for individuals who wish to gain a thorough understanding of AI foundations and the AWS services that power intelligent solutions. This entry-level course will prepare you for a career in the rapidly expanding fields of AI, machine learning, and data-driven innovation.",
+    "BITA's organized curriculum, hands-on labs, and real-world case studies ensure that you receive both academic knowledge and practical experience to thrive in the AI sector."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified AI Practitioner – Foundational Course?",
+  wtcoursecontent: [
+    "Foundation in AI Concepts: Learn fundamental AI concepts such as machine learning, natural language processing, computer vision, and recommendation engines.",
+    "AWS AI Services Proficiency: Gain hands-on experience with AWS AI/ML technologies including Amazon SageMaker, Comprehend, Rekognition, and Lex.",
+    "Career Ready: Establish a solid basis for advanced AI and ML certifications and employment in cloud-enabled systems.",
+    "Beginner Friendly: No previous coding or cloud experience? Not an issue. This course breaks down difficult AI principles into understandable units.",
+    "Wide Applicability: Individuals in a variety of areas, including marketing, finance, healthcare, and education, will benefit from incorporating AI into their job."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified AI Practitioner – Foundational?",
+  wclcontent: "The AWS Certified AI Practitioner - Foundational course is appropriate for a broad audience, including",
+  wclpoints: [
+    "Students and recent graduates are interested in AI and cloud computing.",
+    "Working professionals seeking to transition into AI roles.",
+    "Business analysts and domain specialists want to utilize AI findings.",
+    "Project managers handle AI-based projects.",
+    "Marketing and operational departments are integrating AI into digital workflows.",
+    "There is no programming knowledge required—only curiosity and a desire to learn about the potential of AI in modern technologies."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified AI Practitioner – Foundational",
+  prerequestintro :"This course has no formal prerequisites. However, a fundamental grasp of" ,
+  courseprerequcontent: [
+    "General IT or business topics.",
+    "Cloud computing principles (as taught in AWS Cloud Practitioner courses)",
+    "Analytical thinking, curiosity in data, and automation",
+    "BITA's skilled instructors provide all of the foundational assistance you need to grasp the course content, including visual learning aids and hands-on laboratories that reinforce theoretical concepts."
+  ] ,
+  howtoapplyheading: "How to Apply for the AWS Certified AI Practitioner – Foundational Exam?",
+  htaintro: "To apply for the AWS Certified AI Practitioner - Foundational exam, take the following steps",
+  howtoapplycontent: [
+    "Create an AWS account via the official AWS Certification Portal.",
+    'Navigate to "Schedule New Exam" and choose AWS Certified AI Practitioner - Foundational.',
+    "Select your preferred language and delivery method (online proctored or test center).",
+    "Pick a date and time slot that suits you.",
+    "Pay the exam fee of USD 100 through AWS’s official testing partner (Pearson VUE or PSI).",
+    "Be prepared on exam day with a valid ID, a quiet room, and stable internet (if taking it online).",
+    "Upon passing, you’ll receive a digital badge and certification directly from AWS."
+  ],
+  obtaincourseheading: "How to Get AWS Certified AI Practitioner – Foundational Certification?",
+  obtainintro: "To obtain the AWS Certified AI Practitioner - Foundational certification",
+  obtaincoursecontent: [
+    "Complete BITA's organized training program.",
+    "Learn with expert-led advice, quizzes, and real-world projects.",
+    "Take the 90-minute multiple-choice exam.",
+    "Achieve a minimum passing score (typically 700 out of 1000)",
+    "Download your certificate and highlight your talents on LinkedIn or in your resume.",
+    "This certification helps you gain credibility and a deeper understanding of how AI is transforming industries across the globe."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "With the AWS Certified AI Practitioner – Foundational credential, you can unlock entry-level roles such as",
+  careeroppotunities: [
+    "AI Solutions Assistant",
+    "Junior AI/ML Analyst",
+    "Data and AI Associate",
+    "Cloud Support (AI Focused)",
+    "Business Analyst – AI Projects",
+    "Pre-sales Consultant – AI Tools",
+    "It also serves as a gateway to advanced certifications such as AWS Certified Machine Learning – Specialty or other AI/ML tracks."
+  ],
+  examblueprint: "Not yet published",
+  finally: "With AI becoming increasingly important in digital transformation, the AWS Certified AI Practitioner - Foundational certification guarantees that you are prepared to make a meaningful contribution in the age of intelligent technology. Enroll in BITA Academy's skillfully tailored courses today and begin your journey into the exciting realm of Artificial Intelligence."
+};
+
+
+const awscertifiedsolutionsarchitectassociate =  {
+  slug: "awscertifiedsolutionsarchitectassociate",
+  code: "SAA-C03",
+  title: "AWS Certified Solutions Architect – Associate",
+  description: "Become a AWS Certified Solutions Architect – Associate our certification",
+  cheading: "AWS Certified Solutions Architect – Associate",
+  courseoverview: "Are you ready to boost your cloud career with advanced architectural skills? BITA Academy offers an intense AWS Certified Solutions Architect - Associate course for those who wish to create scalable, secure, and cost-effective solutions on AWS. This certification is appropriate for people who have hands-on experience with AWS and a basic understanding of cloud principles. Our real-world scenarios, in-depth labs, and expert-led workshops will teach students how to design and deploy dependable apps on the AWS platform.",
+  whytakecourseheading: "Why Take the AWS Certified Solutions Architect – Associate Course?",
+  wtcintro: "Enrolling in BITA's AWS Certified Solutions Architect - Associate training will provide you a competitive advantage in the IT market. Here's why this qualification is really valuable",
+  wtcoursecontent: [
+    "Real-World Application: Learn how to create well-architected solutions based on customer requirements.",
+    "Career Advancement: This credential is widely recognized and preferred by leading cloud organizations.",
+    "Cloud Mastery: Learn about AWS services such as EC2, S3, RDS, VPC, Route 53, and more.",
+    "Cost Optimization and Security: Learn how to create systems that are not just efficient, but also cost-effective and secure.",
+    "Step Toward Specialization: Provides a foundation for advanced certifications such as AWS Solutions Architect - Professional and DevOps Engineer."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Solutions Architect – Associate?",
+  wclcontent: "The AWS Certified Solutions Architect – Associate course is ideal for",
+  wclpoints: [
+    "Cloud engineers and developers looking to advance into architecture roles.",
+    "System administrators with AWS experience.",
+    "IT professionals prepare for architect-level interviews.",
+    "Freelancers and consultants working on AWS-related projects.",
+    "Anyone who has completed the AWS Cloud Practitioner certification and is prepared for the next level.",
+    "A background in cloud computing, or completion of the Cloud Practitioner course, is suggested but not required."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Solutions Architect – Associate",
+  prerequestintro: "While there are no official prerequisites to attend this course, learners should have",
+  courseprerequcontent: [
+    "At least one year of experience with AWS services.",
+    "Basic understanding of networking, storage, computing, and database services.",
+    "Experience with CLI and AWS Management Console.",
+    "Don't worry—BITA's professional educators will help you fill any knowledge gaps with organized courses and hands-on labs designed for all learners."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Solutions Architect – Associate Exam?",
+  htaintro: "Follow these steps to register for the AWS Certified Solutions Architect – Associate exam",
+  howtoapplycontent: [
+    "Create or log into your AWS Account at the official AWS website.",
+    'Visit the AWS Certification Portal and navigate to “Schedule New Exam.”',
+    "Choose the AWS Certified Solutions Architect – Associate exam (SAA-C03).",
+    "Pick your preferred language, test format (online or at a test center), and exam date.",
+    "Pay the exam fee of USD 150 using AWS’s testing partners (Pearson VUE or PSI).",
+    "On the exam day, ensure you have a valid ID, a quiet space (for online exams), and a stable internet connection.",
+    "After you pass, you'll receive your digital badge and official certification."
+  ],
+  obtaincourseheading: "How Do I Get AWS Certified Solutions Architect - Associate Certification?",
+  obtainintro: "To obtain your AWS Certified Solutions Architect - Associate certification",
+  obtaincoursecontent: [
+    "Complete the BITA full initiatives, which includes theory, laboratories, and mock examinations.",
+    "Register for and pass the SAA-C03, a 130-minute multiple-choice exam.",
+    "Achieve a minimum passing score of 720 out of 1000.",
+    "Download your certificate and badge from your AWS Certification account.",
+    "This achievement will certify your ability to design and deliver scalable systems utilizing AWS best practices."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals holding the AWS Certified Solutions Architect - Associate credential are in high demand in cloud-first enterprises. This certification can lead to roles such as",
+  careeroppotunities: [
+    "Cloud Solutions Architect",
+    "Cloud Infrastructure Engineer",
+    "AWS Consultant",
+    "DevOps Engineer",
+    "Cloud Technical Lead",
+    "Cloud Migration Specialist",
+    "Solutions Architect in Managed Service Providers (MSPs)",
+    "It also prepares the route for advanced AWS certifications and specializations in fields like security, data analytics, and machine learning."
+  ],
+  examblueprint: "Not yet published",
+  finally: "With usage of clouds growing across industries, the AWS Certified Solutions Architect - Associate certification is more valuable than ever. Enroll at BITA Academy today and let our expert-led curriculum prepare you for success on your AWS journey!"
+};
+
+
+
+const awscertifieddeveloperassociate =  {
+  slug: "awscertifieddeveloperassociate",
+  code: "DVA-C02",
+  title: "AWS Certified Developer – Associate",
+  description: "Become a AWS Certified Developer – Associate our certification ",
+  cheading: "AWS Certified Developer – Associate",
+  courseoverview: [
+    "Do you want to specialize in cloud application development utilizing Amazon Web Services? BITA Academy provides hands-on training for the AWS Certified Developer - Associate certification, which allows you to build, launch, and debug cloud-based applications with AWS tools and services. This course is appropriate for professionals with programming experience who want to prove their skills in cloud-native application development.",
+    "Whether you want to advance your development career or build serverless apps, our training is designed to provide you real-world experience and a practical grasp of AWS development methods."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Developer – Associate Course?",
+  wtcintro: "The AWS Certified Developer - Associate course at BITA Academy provides various career benefits",
+  wtcoursecontent: [
+    "Application-Focused Skills: Learn how to create and manage AWS-based applications, such as microservices and serverless operations.",
+    "Deep AWS Service Knowledge: Learn about Lambda, DynamoDB, API Gateway, S3, CloudFormation, and other services firsthand.",
+    "Programming Meets the Cloud: Combine programming foundations with AWS development tools to streamline automation and deployment.",
+    "Career Boost: Developers with AWS certification are in high demand across IT and cloud-based businesses.",
+    "Certification Readiness: BITA's course includes mock tests, real-world laboratories, and project-based training to guarantee you are fully prepared."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Developer – Associate?",
+  wclcontent: "This AWS Certified Developer - Associate course is intended for",
+  wclpoints: [
+    "Software developers want to shift to cloud-native development.",
+    "DevOps engineers want to understand cloud development pipelines.",
+    "Backend developers work on AWS-hosted services.",
+    "Freelancers and IT consultants create AWS-powered apps.",
+    "Anyone preparing for a career that includes AWS SDKs, APIs, and CI/CD workflows.",
+    "Basic programming skills (particularly Python, JavaScript, or Java) are recommended."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Developer – Associate",
+  prerequestintro: "There are no official prerequisites for enrolling in the AWS Certified Developer - Associate course. However, you will gain the following benefits",
+  courseprerequcontent: [
+    "At least one year of experience with AWS services.",
+    "Experience with programming and command-line tools.",
+    "An understanding of basic cloud principles and DevOps methods.",
+    "Don't worry if you're not there yet; our experts will walk you through the foundations before going into advanced ideas."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Developer – Associate Exam?",
+  htaintro: "Follow these easy steps to register for the AWS Certified Developer - Associate exam",
+  howtoapplycontent: [
+    "Log in to your AWS account or create one from the official website.",
+    'Go to the AWS Certification Portal and click on "Schedule New Exam."',
+    "Choose the AWS Certified Developer - Associate exam (DVA-C02).",
+    "Choose the preferred test format (in-person or online), language, and date.",
+    "Pay the USD 150 exam fee through AWS's testing partners, Pearson VUE or PSI.",
+    "Prepare your exam area (for online examinations) and have a valid ID available on test day.",
+    "After passing, AWS will send you a certificate and a digital badge."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Developer – Associate Certification?",
+  obtainintro: "To obtain the AWS Certified Developer - Associate certification",
+  obtaincoursecontent: [
+    "Complete the BITA training course, which includes laboratories and project assignments.",
+    "Book and take the exam (DVA-C02), a 130-minute multiple-choice test.",
+    "Passing requires a score of at least 720 out of 1000.",
+    "Download your AWS certification badge and include it on your resume on LinkedIn.",
+    "This certification will validate your cloud development skills and broaden your employment prospects."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "After achieving the AWS Certified Developer - Associate certification, you'll be prepared for various high-demand roles in cloud development, including",
+  careeroppotunities: [
+    "Cloud Application Developer",
+    "AWS Software Engineer",
+    "Serverless Developer",
+    "DevOps Automation Engineer",
+    "Backend Developer – Cloud Applications",
+    "Technical Consultant for Cloud Projects",
+    "Freelance AWS Developer"
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "This certification also serves as a prerequisite for more advanced credentials such as AWS DevOps Engineer - Professional and AWS Solutions Architect - Associate.",
+    "The demand for certified cloud developers grows across industries. With the AWS Certified Developer - Associate credential, you'll acquire reputation and confidence when developing apps on the AWS platform. Enroll at BITA Academy today and take the next step in your cloud development career!"
+  ]
+};
+
+// const awscertifiedsysopsadministratorassociate =  {
+//   slug: "",
+//   code: "",
+//   title: "",
+//   description: "",
+//   cheading: "",
+//   courseoverview: [
+//   ],
+//   whytakecourseheading: "",
+//   wtcintro: "",
+//   wtcoursecontent: [
+//   ],
+//   whocanlearnheading: "",
+//   wclcontent: "",
+//   wclpoints: [
+//   ],
+//   courseprerequestheading: "",
+//   prerequestintro: "",
+//   courseprerequcontent: "",
+//   howtoapplyheading: "",
+//   htaintro: "",
+//   howtoapplycontent: [
+//   ],
+//   costofcourseheading: "",
+//   costofcoursecontent: [
+//   ],
+//   obtaincourseheading: "",
+//   obtainintro: "",
+//   obtaincoursecontent: [
+//   ],
+//   coheading: "",
+//   cointro: "",
+//   careeroppotunities: [
+//   ],
+//   examblueprint: "Not yet published",
+//   finally: ""
+// };
+
+// const awscertifieddeveloperassociate =  {
+//   slug: "",
+//   code: "",
+//   title: "",
+//   description: "",
+//   cheading: "",
+//   courseoverview: [
+//   ],
+//   whytakecourseheading: "",
+//   wtcintro: "",
+//   wtcoursecontent: [
+//   ],
+//   whocanlearnheading: "",
+//   wclcontent: "",
+//   wclpoints: [
+//   ],
+//   courseprerequestheading: "",
+//   prerequestintro: "",
+//   courseprerequcontent: "",
+//   howtoapplyheading: "",
+//   htaintro: "",
+//   howtoapplycontent: [
+//   ],
+//   costofcourseheading: "",
+//   costofcoursecontent: [
+//   ],
+//   obtaincourseheading: "",
+//   obtainintro: "",
+//   obtaincoursecontent: [
+//   ],
+//   coheading: "",
+//   cointro: "",
+//   careeroppotunities: [
+//   ],
+//   examblueprint: "Not yet published",
+//   finally: ""
+// };
+
+
 const microsoftsecurityoperationsanalystcertification =       {
   slug: "microsoftsecurityoperationsanalystcertification",
   code: "SC-200",
@@ -3222,6 +3587,11 @@ export const allCertifications = {
   pcatonlinecourse : pcatonlinecourse,
   pcedcertificationpreparation : pcedcertificationpreparation,
   pcadcertificationsyllabus : pcadcertificationsyllabus,
+  awscertifiedcloudpractitionerlearncloudbasics : awscertifiedcloudpractitionerlearncloudbasics,
+  awscertifiedaipractitionerfoundational : awscertifiedaipractitionerfoundational,
+  awscertifiedsolutionsarchitectassociate : awscertifiedsolutionsarchitectassociate,
+  awscertifieddeveloperassociate : awscertifieddeveloperassociate,
+  awscertifiedsysopsadministratorassociate : awscertifiedsysopsadministratorassociate,
   microsoftsecurityoperationsanalystcertification : microsoftsecurityoperationsanalystcertification,
   microsoftidentitymanagertraining : microsoftidentitymanagertraining,
   microsoftazureadministratortrainingcourse : microsoftazureadministratortrainingcourse,
