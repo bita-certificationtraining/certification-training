@@ -54,6 +54,12 @@ export const seometadatas = [
         metaimage: "/certification_img/aws_logo/aws_ai.webp",
     },
     {
+        slug: "awscertifiedMachineLearningengineerassociate",
+        metatitle: "AWS Certified Machine Learning Engineer - Associate",
+        metadescription : "Prepare for the AWS Machine Learning Engineer exam and learn cloud architecture, design, and implementation strategies to boost your career.",
+        metaimage: "/certification_img/aws_logo/aws_mle.webp",
+    },
+    {
         slug: "awscertifiedsolutionsarchitectassociate",
         metatitle: "AWS Certified Solutions Architect – Associate",
         metadescription : "Prepare for the AWS Solutions Architect exam and learn cloud architecture, design, and implementation strategies to boost your career.",
@@ -64,6 +70,12 @@ export const seometadatas = [
         metatitle: "AWS Certified Developer – Associate",
         metadescription : "Enhance your cloud development skills and get certified in AWS development. Learn to design and develop applications using AWS tools.",
         metaimage: "/certification_img/aws_logo/aws_da.webp",
+    },
+    {
+        slug: "awscertifieddataengineerassociate",
+        metatitle: "AWS Certified Data Engineer - Associate",
+        metadescription : "Prepare for the AWS Certified Data Engineer certification and learn operational best practices for managing cloud environments with AWS.",
+        metaimage: "/certification_img/aws_logo/aws_dea.webp",
     },
     {
         slug: "awscertifiedsysopsadministratorassociate",

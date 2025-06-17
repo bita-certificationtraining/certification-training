@@ -531,6 +531,79 @@ const awscertifiedaipractitionerfoundational =  {
   finally: "With AI becoming increasingly important in digital transformation, the AWS Certified AI Practitioner - Foundational certification guarantees that you are prepared to make a meaningful contribution in the age of intelligent technology. Enroll in BITA Academy's skillfully tailored courses today and begin your journey into the exciting realm of Artificial Intelligence."
 };
 
+const awscertifiedMachineLearningengineerassociate =  {
+  slug: "awscertifiedMachineLearningengineerassociate",
+  code: "MLA-C01",
+  title: "AWS Certified Machine Learning Engineer - Associate",
+  description: "Become a AWS Certified Machine Learning Engineer - Associate our certification",
+  cheading: "AWS Certified Machine Learning Engineer - Associate",
+  courseoverview: [
+    "Do you want to use your data talents to create effective, real-world machine learning solutions? BITA Academy announces the AWS Certified Machine Learning Engineer - Associate course, a hands-on training for people interested in mastering the AWS machine learning project lifecycle. This certification enables professionals to easily create, train, tune, and deploy Machine Learning models in the cloud.",
+    "Our expert-led seminars, practical laboratories, and real-world applications will provide students with the technical knowledge and confidence needed to function as machine learning engineers in fast-paced organizations."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Machine Learning Engineer – Associate Course?",
+  wtcoursecontent: [
+    "End-to-End ML Knowledge: Discover how to design, construct, and deploy scalable ML models with AWS services such as SageMaker, Glue, and Lambda.",
+    "Industry-Recognized Credential: Set yourself apart in your job with a globally recognized certification that demonstrates your applicable machine learning expertise.",
+    "Hands-on Projects: Use real datasets and AWS environments to reinforce theoretical concepts.",
+    "Career Advancement: Discover new prospects in data science, machine learning, AI development, and cloud architecture.",
+    "Foundation for Specialization: It serves as a solid stepping stone to more senior positions in AI/ML or data engineering."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Machine Learning Engineer – Associate?",
+  wclcontent: "The AWS Certified Machine Learning Engineer – Associate course is ideal for",
+  wclpoints: [
+    "Data scientists and ML engineers looking to validate their abilities on AWS",
+    "Software developers seeking to grow into machine learning.",
+    "Cloud specialists looking to specialize in AI/ML on AWS.",
+    "Technical project managers collaborate with ML teams.",
+    "IT graduates and hobbyists who are passionate about machine learning.",
+    "A basic understanding of machine learning concepts and Python experience is recommended, however BITA provides the necessary support to bridge gaps."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Machine Learning Engineer – Associate",
+  courseprerequcontent: [
+    "At least 6 months to one year of expertise in machine learning or data-related work.",
+    "Basic understanding of Python programming.",
+    "Experience with AWS services like S3, IAM, and EC2.",
+    "Understanding core ML concepts such as supervised/unsupervised learning, overfitting, and model evaluation metrics.",
+    "Don't worry if you're new to AWS; our course includes core refreshers and beginner-friendly labs to help you get caught up."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Machine Learning Engineer – Associate Exam?",
+  howtoapplycontent: [
+    "Sign into your AWS Certification account.",
+    'Click "Schedule New Exam."',
+    "Choose the AWS Certified Machine Learning Engineer - Associate exam (MLE-A01).",
+    "Choose your preferred language and testing format (online proctoring or exam center).",
+    "Pay the exam fee of $150.",
+    "If taking the test online, make sure you have a solid internet connection and are in a calm environment.",
+    "After passing, AWS will send you a formal certificate and a digital badge."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Machine Learning Engineer – Associate Certification?",
+  obtaincoursecontent: [
+    "Complete the BITA complete training course.",
+    "Practice with laboratories, case studies, and practice examinations.",
+    "Take the 130-minute multiple-choice examination.",
+    "Score at least 720 out of 1000.",
+    "Download your certificate from the AWS Certification Portal.",
+    "This certification will demonstrate your ability to confidently tackle real-world machine learning challenges on the AWS platform."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "The AWS Certified Machine Learning Engineer - Associate certification allows you to explore high-impact positions like",
+  careeroppotunities: [
+    "Machine Learning Engineer",
+    "AI/ML Cloud Architect",
+    "Data Scientist",
+    "AWS AI Specialist",
+    "Deep Learning Engineer",
+    "AI Solution Consultant",
+    "NLP Engineer"
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "This certification also sets you on the path for AWS specialty certifications or career progression into research or leadership roles in AI-driven companies.",
+    "The demand for machine learning expertise is fast increasing in all industries. BITA Academy's AWS Certified Machine Learning Engineer - Associate certification will provide you with cutting-edge abilities to help you advance in your career. Enroll today to begin your journey into the future of intelligent systems and cloud innovation!"
+  ]
+};
+
 
 const awscertifiedsolutionsarchitectassociate =  {
   slug: "awscertifiedsolutionsarchitectassociate",
@@ -679,43 +752,295 @@ const awscertifieddeveloperassociate =  {
   ]
 };
 
-// const awscertifiedsysopsadministratorassociate =  {
-//   slug: "",
-//   code: "",
-//   title: "",
-//   description: "",
-//   cheading: "",
-//   courseoverview: [
-//   ],
-//   whytakecourseheading: "",
-//   wtcintro: "",
-//   wtcoursecontent: [
-//   ],
-//   whocanlearnheading: "",
-//   wclcontent: "",
-//   wclpoints: [
-//   ],
-//   courseprerequestheading: "",
-//   prerequestintro: "",
-//   courseprerequcontent: "",
-//   howtoapplyheading: "",
-//   htaintro: "",
-//   howtoapplycontent: [
-//   ],
-//   costofcourseheading: "",
-//   costofcoursecontent: [
-//   ],
-//   obtaincourseheading: "",
-//   obtainintro: "",
-//   obtaincoursecontent: [
-//   ],
-//   coheading: "",
-//   cointro: "",
-//   careeroppotunities: [
-//   ],
-//   examblueprint: "Not yet published",
-//   finally: ""
-// };
+const awscertifieddataengineerassociate =  {
+  slug: "awscertifieddataengineerassociate",
+  code: "DEA-C01",
+  title: "AWS Certified Data Engineer – Associate",
+  description: "Become a AWS Certified Data Engineer – Associate our certification",
+  cheading: "AWS Certified Data Engineer – Associate",
+  courseoverview: [
+    "Are you ready to learn about managing, manipulating, and optimizing data pipelines on the AWS platform? BITA Academy provides a thorough AWS Certified Data Engineer - Associate course that teaches professionals how to master core data engineering skills and certify their ability to create scalable, secure, and high-performing data solutions in the cloud.",
+    "This course provides practical knowledge of AWS analytics services, data lakes, real-time processing, and performance optimization. Whether you want to become a cloud data specialist or develop your data career, this certification will help you enter the ever-changing world of cloud data engineering."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Data Engineer – Associate Course?",
+  wtcoursecontent: [
+    "End-to-End Data Pipeline Skills: Discover how to design, build, and optimize data pipelines with tools such as AWS Glue, Amazon Redshift, Kinesis, and Lake Formation.",
+    "Industry Recognition: This AWS certification confirms your expertise in cloud-based data engineering, boosting your resume.",
+    "Hands-On Training: Gain real-world experience through labs, projects, and instructor-led walkthroughs of actual AWS setups.",
+    "Career advancement opportunities include high-paying employment in analytics, big data, and cloud infrastructure teams.",
+    "Preparation for Higher professions: This course provides a solid basis for advanced professions such as Data Architect or Machine Learning Engineer."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Data Engineer – Associate?",
+  wclpoints: [
+    "Data Engineers and Data Analysts Transitioning to the AWS Cloud",
+    "Software Developers and BI Professionals looking to improve their data pipeline understanding.",
+    "Database administrators and cloud engineers manage data workflows.",
+    "Professionals seeking AWS data certifications or employment in analytics.",
+    "Anyone interested in working with big data and cloud infrastructure.",
+    "While previous experience in data processing and AWS is beneficial, BITA’s training is structured to help even those new to the cloud gain strong command over course content."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Data Engineer – Associate",
+  prerequestintro: "There are no required prerequisites for taking the AWS Certified Data Engineer - Associate course; nevertheless, the following background will help",
+  courseprerequcontent: [
+    "Basic understanding of SQL, databases, and ETL operations.",
+    "Experience with AWS fundamental services like S3, IAM, and EC2.",
+    "Understanding data storage and retrieval principles.",
+    "Experience working with data formats such as JSON, Parquet, and CSV.",
+    "At BITA, our skilled trainers clarify complex concepts and provide step-by-step advice to help learners of all levels succeed."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Data Engineer – Associate Exam?",
+  howtoapplycontent: [
+    "Sign into the official AWS Certification portal using your AWS account.",
+    'Select "Schedule New Exam" and then the AWS Certified Data Engineer - Associate exam (DEA-C01).',
+    "Select your preferred delivery mode (test center or online proctoring) and language.",
+    "Choose a convenient date and time, and then pay the $150 exam fee.",
+    "Ensure you have a government-issued ID and a quiet test environment if taking the exam online.",
+    "Once you pass, you’ll receive your official certification and a digital badge from AWS."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Machine Learning Engineer – Associate Certification?",
+  obtaincoursecontent: [
+    "Enroll in BITA’s expert-led training program with real-time projects and mock assessments.",
+    "Study the official exam domains including data ingestion, transformation, orchestration, and security.",
+    "Take and pass the 130-minute multiple-choice exam.",
+    "Score a minimum of 720 out of 1000 to qualify.",
+    "Download your certificate from the AWS Certification portal and showcase your achievement.",
+    "This certification confirms your ability to design and implement scalable, secure data workflows on AWS."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "After earning the AWS Certified Data Engineer – Associate certification, you can pursue in-demand roles such as",
+  careeroppotunities: [
+    "AWS Data Engineer",
+    "Cloud Data Developer",
+    "Data Integration Specialist",
+    "Big Data Engineer",
+    "Analytics Engineer",
+    "ETL Developer",
+    "Cloud BI Engineer",
+    "It also prepares you for higher-level AWS certifications in analytics, machine learning, and database specializations."
+  ],
+  examblueprint: "Not yet published",
+  finally: "The AWS Certified Data Engineer - Associate certification is an important step toward a successful career in cloud-based data engineering. Enroll in BITA Academy's industry-aligned training today and prepare to transform raw data into business value using AWS."
+};
+
+
+const awscertifiedsysopsadministratorassociate =  {
+  slug: "awscertifiedsysopsadministratorassociate",
+  code: "SOA-C02",
+  title: "AWS Certified SysOps Administrator – Associate",
+  description: "Become a AWS Certified SysOps Administrator – Associate our certification.",
+  cheading: "AWS Certified SysOps Administrator – Associate",
+  courseoverview: [
+    "Do you want to learn AWS operations and system administration? BITA Academy provides hands-on training for the AWS Certified SysOps Administrator - Associate course, which is aimed for IT professionals who deploy, manage, and operate systems on the AWS platform. This certification focuses on monitoring, automation, security, and optimization, making it perfect for people seeking cloud operations positions.",
+    "Our expert-led seminars mix real-world scenarios with best practices, ensuring that students not only understand AWS products but also know how to use them effectively in production contexts."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified SysOps Administrator – Associate Course?",
+  wtcintro: "BITA's AWS Certified SysOps Administrator - Associate training program provides obvious advantages for individuals who desire to specialize in cloud operations",
+  wtcoursecontent: [
+    "Operational Expertise: Learn how to manage EC2 instances, monitor performance, and automate systems with tools such as CloudWatch, Auto Scaling, and CloudFormation.",
+    "Security and Governance: Learn how to limit access with IAM and set up secure networking with VPC and security groups.",
+    "Cost Optimization: Learn how to measure consumption, identify cost drivers, and implement cost-effective solutions.",
+    "Job Market Value: The AWS Certified SysOps Administrator - Associate certification is highly regarded and increases exposure with recruiters.",
+    "Foundational Cloud Management Roles: It's a necessary step for anyone aspiring to be a cloud infrastructure engineer or system administrator."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified SysOps Administrator – Associate?",
+  wclcontent: "The AWS Certified SysOps Administrator - Associate course is ideal for",
+  wclpoints: [
+    "System administrators and operations engineers manage AWS infrastructure.",
+    "Cloud support engineers want to grow into infrastructure positions",
+    "DevOps practitioners wanting to expand their AWS infrastructure expertise",
+    "IT personnel are transitioning from on-premises to cloud-based systems.",
+    "Candidates have achieved AWS Cloud Practitioner or Developer certifications and want to specialize in operations.",
+    "A basic understanding of AWS and familiarity with system management is beneficial."
+  ],
+  courseprerequestheading: "Prerequisites for SysOps Administrator – Associate",
+  prerequestintro: "While there are no essential prerequisites, it is suggested that you have",
+  courseprerequcontent: [
+    "1 year of practical experience managing AWS workloads.",
+    "Experience with system administration (Linux/Windows), networking, and monitoring.",
+    "Basic understanding of scripting and automation tools.",
+    "BITA's trainers use beginner-friendly courses and actual infrastructure laboratories to assist students understand complicated concepts."
+  ],
+  howtoapplyheading: "How to Apply for the SysOps Administrator – Associate Exam?",
+  htaintro: "Here's how to sign up for the AWS Certified SysOps Administrator - Associate exam",
+  howtoapplycontent: [
+    "Create an AWS account or login on the official AWS website.",
+    'Go to the AWS Certification Portal and click "Schedule a New Exam."',
+    "Select the AWS Certified SysOps Administrator - Associate (Exam Code: SOA-C02).",
+    "Choose an exam format: online proctored or at a testing center.",
+    "Pay the $150 exam cost through the official exam partner (Pearson VUE or PSI).",
+    "Prepare for exam day with a reliable internet connection and a valid photo ID.",
+    "After passing, you’ll receive a digital badge and your official AWS certificate."
+  ],
+  obtaincourseheading: "How to Get SysOps Administrator – Associate Certification?",
+  obtainintro: "To obtain the AWS Certified SysOps Administrator - Associate certification",
+  obtaincoursecontent: [
+    "Complete the BITA course with live projects and system simulations.",
+    "Register for the SOA-C02 test, which has multiple-choice questions and performance-based scenarios.",
+    "Score at least 720 out of 1000.",
+    "Download your certificate and share the digital badge online.",
+    "This certification confirms your ability to manage real-time AWS system operations and performance."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "The AWS Certified SysOps Administrator – Associate certification opens doors to several cloud operations roles, including",
+  careeroppotunities: [
+    "AWS SysOps Administrator",
+    "Cloud Operations Engineer",
+    "Infrastructure Support Specialist",
+    "Site Reliability Engineer (SRE)",
+    "Cloud Monitoring Analyst",
+    "DevOps Engineer – Operations Focus",
+    "Technical Support Engineer – AWS",
+    "It also sets the foundation for professional-level certifications such as AWS DevOps Engineer – Professional."
+  ],
+  examblueprint: "Not yet published",
+  finally: "Businesses are migrating and scaling their infrastructure to the cloud, increasing the demand for qualified AWS administrators. BITA Academy offers AWS Certified SysOps Administrator – Associate training to help you become a vital actor in modern cloud operations!"
+};
+
+const awscertifieddevOpsengineerprofessional =  {
+  slug: "awscertifieddevOpsengineerprofessional",
+  code: "DOP-C02",
+  title: "AWS Certified DevOps Engineer – Professional",
+  description: "Become a AWS Certified DevOps Engineer – Professional our certification",
+  cheading: "AWS Certified DevOps Engineer – Professional",
+  courseoverview: [
+    "Are you ready to grasp the combination of development and operations on the AWS cloud? BITA Academy provides hands-on, expert-led training for the AWS Certified DevOps Engineer - Professional certification. This course is great for anybody looking to automate infrastructure, streamline deployments, and assure continuous integration and delivery (CI/CD) in AWS environments. Whether you're a system administrator, developer, or DevOps expert, this certification demonstrates your ability to effectively manage scalable and robust cloud systems.",
+    "BITA's curriculum combines real-world DevOps projects, AWS service training, and exam-focused practice exams to prepare you for success."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified DevOps Engineer – Professional Course?",
+  wtcintro: "Enrolling in BITA's AWS Certified DevOps Engineer - Professional course provides you with a substantial competitive advantage in cloud-based businesses. Here is what you will gain",
+  wtcoursecontent: [
+    "Automation expertise: Learn how to use tools such as CloudFormation, CodePipeline, and OpsWorks to automate provisioning, deployment, and monitoring tasks.",
+    "Career Advancement: The AWS Certified DevOps Engineer - Professional certification is in high demand among cloud-first enterprises seeking CI/CD professionals.",
+    "Real-World Simulations: Train with practical DevOps workflows, fault-tolerant architecture, and operational best practices.",
+    "Security and Governance Mastery: Understand how to implement compliance, governance, and secure operations at scale.",
+    "Foundation for Leadership Roles: Step into roles such as DevOps Consultant, Cloud Operations Lead, or Automation Architect."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified DevOps Engineer – Professional?",
+  wclcontent: "The AWS Certified DevOps Engineer - Professional course is targeted for experienced individuals, including",
+  wclpoints: [
+    "DevOps engineers and site reliability engineers (SRE)",
+    "System administrators or developers with a solid AWS background",
+    "Cloud engineers want to specialize in automation and deployment.",
+    "Technical leaders manage CI/CD pipelines and release cycles.",
+    "Candidates who already have an Associate-level AWS certification",
+    "It is recommended that learners have previously obtained the AWS Certified Developer - Associate or AWS Certified SysOps Administrator - Associate certifications."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified DevOps Engineer – Professional",
+  prerequestintro: "While there are no specific criteria, successful candidates usually have",
+  courseprerequcontent: [
+    "2+ years of hands-on experience in AWS environments.",
+    "A thorough understanding of automation tools and DevOps principles",
+    "Experience in scripting (Bash, Python) and Linux system administration.",
+    "Experience using continuous delivery technologies, monitoring, and infrastructure as code.",
+    "BITA's skilled trainers will walk you through all of the tools and concepts you'll need to bridge any skill gaps, including practice labs, assignments, and mentorship."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified DevOps Engineer – Professional Exam?",
+  htaintro: "How to Register for the AWS Certified DevOps Engineer - Professional Exam",
+  howtoapplycontent: [
+    "The official AWS Certification Portal allows you to create or connect into your AWS account.",
+    'Click "Schedule New Exam" and then choose AWS Certified DevOps Engineer - Professional (DOP-C02).',
+    "Select your exam language, delivery method (test center or online proctored), and date.",
+    "Pay the USD 300 exam fee through AWS's approved partners (Pearson VUE or PSI).",
+    "If you are taking the test online, prepare your test environment as follows: Ensure a solid internet connection, a webcam, and a valid ID.",
+    "After passing, AWS will provide you with a digital badge and certificate validating your expertise."
+  ],
+  obtaincourseheading: "How to Get AWS Certified DevOps Engineer – Professional Certification?",
+  obtainintro: "To get the AWS Certified DevOps Engineer - Professional certification",
+  obtaincoursecontent: [
+    "Complete BITA's in-depth training, which includes theory, real-time projects, mock tests, and automation labs.",
+    "Register for the DOP-C02 exam, a 180-minute multiple-choice test.",
+    "Passing the certification requires a score of at least 750 out of 1000.",
+    "Download your certificate and digital badge from the AWS Certification Portal.",
+    "This credential confirms your ability to scale DevOps methods in the AWS cloud environment."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "The AWS Certified DevOps Engineer – Professional certification opens doors to specialized, high-paying roles in top tech companies. Career paths include",
+  careeroppotunities: [
+    "DevOps Engineer (AWS Cloud)",
+    "Site Reliability Engineer (SRE)",
+    "Cloud Automation Architect",
+    "CI/CD Pipeline Engineer",
+    "AWS Cloud Consultant",
+    "Infrastructure as Code (IaC) Specialist",
+    "With DevOps becoming a core function in cloud strategy, certified professionals are highly sought after across industries."
+  ],
+  examblueprint: "Not yet published",
+  finally: "With cloud transformation growing across industries, the AWS Certified DevOps Engineer - Professional certification is your ticket to leading DevOps initiatives in multinational corporations. Join BITA Academy's intensive, expert-led curriculum and become the DevOps professional that every cloud team requires!"
+};
+
+const awscertifiedsolutionsarchitectprofessional =  {
+  slug: "awscertifiedsolutionsarchitectprofessional",
+  code: "SAP-C02",
+  title: "AWS Certified Solutions Architect – Professional",
+  description: "Become a AWS Certified Solutions Architect – Professional our certification",
+  cheading: "AWS Certified Solutions Architect – Professional",
+  courseoverview: [
+    "Are you ready to demonstrate your advanced expertise in creating distributed apps on AWS? BITA Academy provides a rigorous training curriculum for the AWS Certified Solutions create - Professional certification, designed specifically for experienced professionals seeking to create complex cloud solutions. This course goes deeply into creating multi-tiered applications, selecting the appropriate AWS services, adopting cost-cutting measures, and assuring enterprise-grade security.",
+    "BITA's program combines technical knowledge, scenario-based practice, and instructor-led labs to prepare you for the most prestigious certification in AWS architecture."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Solutions Architect – Professional Course?",
+  wtcintro: "BITA's AWS Certified Solutions Architect - Professional training prepares cloud professionals for challenging architectural problems on AWS. Here's why this course is game-changing",
+  wtcoursecontent: [
+    "Deep architectural expertise: Learn how to create scalable, fault-tolerant, and resilient cloud infrastructures for challenging applications.",
+    "Strategic Career Advancement: The AWS Certified Solutions Architect - Professional certification is widely recognized and suitable for cloud architecture leadership positions.",
+    "Real-World Readiness: Practice with scenario-based questions and enterprise-grade use cases that mirror actual client needs.",
+    "Bridge to Specialization: Serves as the foundation for specialty AWS certifications such as Security Specialty, Advanced Networking, and SAP on AWS.",
+    "Salary Increase: Certified professionals at the professional level earn much greater salaries due to their architectural and decision-making abilities.",
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Solutions Architect – Professional?",
+  wclcontent: "This course is best suited for experienced AWS users looking to advance into cloud architecture leadership positions. Ideal prospects include",
+  wclpoints: [
+    "Solutions Architects with AWS Associate Certification",
+    "Senior System Engineers and Infrastructure Architect",
+    "Cloud Consultants and Freelancers",
+    "DevOps Engineers seek architectural mastery.",
+    "Professionals looking for CTO, Enterprise Architect, or Cloud Strategist positions.",
+    "Prior to enrolling, you need to have the AWS Certified Solutions Architect - Associate certification."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Solutions Architect – Professional",
+  prerequestintro: "Although there are no official prerequisites, successful candidates usually have",
+  courseprerequcontent: [
+    "At least two years of practical expertise building and deploying cloud architecture on AWS.",
+    "A deep understanding of AWS core services, security, networking, and automation.",
+    "Experience with CI/CD pipelines, disaster recovery plans, and compliance standards.",
+    "BITA guarantees that learners are completely prepared with mock tests, laboratories, architecture diagrams, and advanced trainer advice."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Solutions Architect – Professional Exam?",
+  htaintro: "To register for the AWS Certified Solutions Architect - Professional exam, follow the steps below",
+  howtoapplycontent: [
+    "Sign in to your AWS account using the AWS Certification Portal.",
+    'Click "Schedule New Exam" and then choose AWS Certified Solutions Architect - Professional (SAP-C02).',
+    "Select the exam format (online proctored or test center), language, and date.",
+    "Pay the USD 300 cost through Pearson VUE or PSI, AWS' testing partners.",
+    "Prepare with practice questions, whitepapers, and architectural case studies.",
+    "If taking the exam online, make sure to have a valid ID and a quiet environment.",
+    "Once cleared, AWS will send you an email with your certificate and digital badge."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Solutions Architect – Professional Certification?",
+  obtainintro: "To earn the AWS Certified Solutions Architect – Professional credential",
+  obtaincoursecontent: [
+    "Complete BITA’s comprehensive course, which includes advanced architecture labs, design reviews, and expert mentoring.",
+    "Take the SAP-C02 exam, which includes multiple-choice and scenario-based questions, over 180 minutes.",
+    "Score at least 750 out of 1000 to pass.",
+    "Access and share your certificate through your AWS Certification account.",
+    "This certification affirms your capabilities in architecting mission-critical applications in enterprise cloud environments."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals with the AWS Certified Solutions Architect - Professional credential are in great demand for high-level architecture and consulting roles, including",
+  careeroppotunities: [
+    "Lead Solutions Architect",
+    "Cloud Consultant (Enterprise-Grade)",
+    "AWS Cloud Strategist",
+    "Cloud Infrastructure Director",
+    "Cloud Transformation Advisor",
+    "Enterprise Architect (Cloud-First)",
+    "Cloud Governance Specialist",
+    "It also serves as a stepping stone toward becoming a certified AWS Subject Matter Expert or Trainer."
+  ],
+  examblueprint: "Not yet published",
+  finally: "With enterprise cloud adoption at an all-time high, the AWS Certified Solutions Architect - Professional certification establishes you as a trusted leader in cloud architecture. Enroll now in BITA Academy's expert-led training program and confidently plan the future of cloud innovation!"
+};
+
 
 // const awscertifieddeveloperassociate =  {
 //   slug: "",
@@ -3589,9 +3914,13 @@ export const allCertifications = {
   pcadcertificationsyllabus : pcadcertificationsyllabus,
   awscertifiedcloudpractitionerlearncloudbasics : awscertifiedcloudpractitionerlearncloudbasics,
   awscertifiedaipractitionerfoundational : awscertifiedaipractitionerfoundational,
+  awscertifiedMachineLearningengineerassociate : awscertifiedMachineLearningengineerassociate,
   awscertifiedsolutionsarchitectassociate : awscertifiedsolutionsarchitectassociate,
   awscertifieddeveloperassociate : awscertifieddeveloperassociate,
+  awscertifieddataengineerassociate : awscertifieddataengineerassociate,
   awscertifiedsysopsadministratorassociate : awscertifiedsysopsadministratorassociate,
+  awscertifieddevOpsengineerprofessional : awscertifieddevOpsengineerprofessional,
+  awscertifiedsolutionsarchitectprofessional : awscertifiedsolutionsarchitectprofessional,
   microsoftsecurityoperationsanalystcertification : microsoftsecurityoperationsanalystcertification,
   microsoftidentitymanagertraining : microsoftidentitymanagertraining,
   microsoftazureadministratortrainingcourse : microsoftazureadministratortrainingcourse,

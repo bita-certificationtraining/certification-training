@@ -124,6 +124,19 @@ export const examdetails = [
       price: "USD 100"
     }
   },
+    {
+    code: "MLA-C01",
+    slug: "awscertifiedMachineLearningengineerassociate",
+    examdetails: {
+      examname: "AWS Certified Machine Learning Engineer – Associate",
+      examlevel: "Associate",
+      examcode: "MLA-C01",
+      prereq: "Basic ML and Python knowledge recommended",
+      examlength: "130 minutes",
+      passingscore: "720 out of 1000",
+      price: "USD 150"
+    }
+  },
   {
     code: "SAA-C03",
     slug: "awscertifiedsolutionsarchitectassociate",
@@ -151,6 +164,19 @@ export const examdetails = [
     }
   },
   {
+    code: "DEA-C01",
+    slug: "awscertifieddataengineerassociate",
+    examdetails: {
+      examname: "AWS Certified Data Engineer – Associate",
+      examlevel: "Associate",
+      examcode: "DEA-C01",
+      prereq: " Basic knowledge of data engineering and AWS fundamentals recommended",
+      examlength: "130 minutes",
+      passingscore: "720 out of 1000",
+      price: "USD 150"
+    }
+  },
+  {
     code: "SOA-C02",
     slug: "awscertifiedsysopsadministratorassociate",
     examdetails: {
@@ -163,7 +189,33 @@ export const examdetails = [
       price: "USD 150"
     }
   },
-      //   {
+    {
+    code: "DOP-C02",
+    slug: "awscertifieddevOpsengineerprofessional",
+    examdetails: {
+      examname: "AWS Certified DevOps Engineer – Professional",
+      examlevel: "Professional",
+      examcode: "DOP-C02",
+      prereq: "Recommended 2+ years of AWS experience and Associate-level certification",
+      examlength: "180 minutes",
+      passingscore: "750 out of 1000",
+      price: "USD 300"
+    }
+  },
+  {
+    code: "SAP-C02",
+    slug: "awscertifiedsolutionsarchitectprofessional",
+    examdetails: {
+      examname: "AWS Certified Solutions Architect – Professional",
+      examlevel: "Professional",
+      examcode: "SAP-C02",
+      prereq: "Recommended 2+ years of AWS architecture experience",
+      examlength: "180 minutes",
+      passingscore: "750 out of 1000",
+      price: " USD 300"
+    }
+  },
+   //   {
   //   code: "",
   //   slug: "",
   //   examdetails: {
