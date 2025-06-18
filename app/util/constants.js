@@ -1042,6 +1042,153 @@ const awscertifiedsolutionsarchitectprofessional =  {
 };
 
 
+const awscertifiedmachinelearningspecialty =  {
+  slug: "awscertifiedmachinelearningspecialty",
+  code: "MLS-C01",
+  title: "AWS Certified Machine Learning – Specialty",
+  description: "Become a AWS Certified Machine Learning – Specialty our certification",
+  cheading: "AWS Certified Machine Learning – Specialty",
+  courseoverview: [
+    "Do you wish to specialize in artificial intelligence and data science using AWS? BITA Academy provides a thorough AWS Certified Machine Learning - Specialty training course for professionals who wish to create, train, tweak, and deploy machine learning models on the AWS Cloud.",
+    "This certification validates your ability to use AWS services to develop scalable and reliable machine learning solutions. Whether you're a data scientist, developer, or AI enthusiast, this course will provide you with the practical knowledge and real-world experience required to obtain the AWS Certified Machine Learning - Specialty certificate."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Machine Learning – Specialty Course?",
+  wtcoursecontent: [
+    "Master the ML Workflow: Learn how to use AWS products such as SageMaker, Lambda, and S3 to collect and analyze data, train models, and deploy them.",
+    "Industry Recognition: The AWS Certified Machine Learning - Specialty credential is internationally recognized and lends credibility to your ML abilities.",
+    "Hands-On Labs: BITA offers project-based learning environments that model real-world AWS ML use cases, making concepts easier to comprehend and apply.",
+    "Boost Your Career: This certification is an important differentiator for positions such as ML Engineer, Data Scientist, and AI Developer.",
+    "Stay Ahead of the Curve: Machine learning is driving the future of technology, and AWS is spearheading the cloud revolution. Become certified and stay future-ready."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Machine Learning – Specialty?",
+  wclcontent: "The AWS Certified Machine Learning - Specialty course is suitable for",
+  wclpoints: [
+    "Data Scientists and Machine Learning Engineers",
+    "Developers creating AI-powered applications",
+    "Cloud professionals that wish to integrate machine learning into their AWS projects",
+    "Business Analysts and Data Engineers seeking to move into ML jobs.",
+    "Anyone preparing for an advanced AWS certification in AI and machine learning",
+    "Prior experience in ML or data science is helpful, but BITA’s trainers are well-equipped to guide you from the basics to advanced topics."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Machine Learning – Specialty",
+  prerequestintro: "To successfully complete this course and certification, the following background is recommended",
+  courseprerequcontent: [
+    "1-2 years of experience in machine learning or deep learning.",
+    "Experience with AWS services like SageMaker, S3, IAM, and Lambda.",
+    "Basic understanding of statistics, data modeling, and Python programming.",
+    "Understanding model evaluation and tuning procedures.",
+    "BITA ensures that all learners receive guided support, from foundational theory to advanced ML workflows, according to their level."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Machine Learning – Specialty Exam?",
+  howtoapplycontent: [
+    "Log in to the AWS Certification Portal with your AWS account.",
+    'Click "Schedule New Exam" and select the AWS Certified Machine Learning - Specialty (MLS-C01) exam.',
+    "Choose your desired exam delivery method—either at a testing facility or online proctored.",
+    "Choose the date and time, and pay the USD 300 charge.",
+    "On exam day, make sure your ID is legitimate, your system is ready (for online exams), and you're in a peaceful environment.",
+    "After passing the exam, your official AWS badge and certificate will be issued through your AWS Certification dashboard."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Machine Learning – Specialty Certification?",
+  obtainintro: "To get AWS Certified Machine Learning - Specialty, take these steps",
+  obtaincoursecontent: [
+    "Join BITA's organized training, which includes expert-led workshops, case studies, and practice examinations.",
+    "Master areas include data engineering, exploratory data analysis, modeling, and machine learning implementation.",
+    "Take the MLS-C01 exam, which includes multiple-choice and multiple-response questions.",
+    "Complete the 180-minute exam with a score of at least 750 out of 1000.",
+    "Download your certificate and include your confirmed AWS ML skills on your CV and LinkedIn profile.",
+    "This certification demonstrates your ability to implement machine learning models at scale with AWS tools and frameworks."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Holding the AWS Certified Machine Learning – Specialty certification opens up a range of high-paying roles, including",
+  careeroppotunities: [
+    "Machine Learning Engineer",
+    "AI/ML Solutions Architect",
+    "Data Scientist",
+    "AWS ML Specialist",
+    "AI Research Engineer",
+    "Cloud AI Consultant",
+    "Applied Scientist in Cloud Environments",
+    "It also acts as a stepping stone toward advanced careers in AI, big data, and cloud-based intelligent applications."
+  ],
+  examblueprint: "Not yet published",
+  finally: "The AWS Certified Machine Learning - Specialty course from BITA Academy will help you become a cloud-based AI specialist. Join now and obtain the credentials and confidence needed to create, scale, and lead in the field of machine learning on AWS."
+};
+
+const awscertifiedadvancednetworkingspecialty =  {
+  slug: "awscertifiedadvancednetworkingspecialty",
+  code: "ANS-C01",
+  title: "AWS Certified Advanced Networking – Specialty",
+  description: "Become a AWS Certified Advanced Networking – Specialty our Certification",
+  cheading: "AWS Certified Advanced Networking – Specialty",
+  courseoverview: [
+    "Do you want to learn complicated networking on AWS and create highly available, scalable, and secure network architectures? BITA Academy provides an expert-led course for the AWS Certified Advanced Networking - Specialty certification, which will provide you with extensive knowledge of hybrid IT network architecture, routing, security, and data flow optimization on AWS. This course is perfect for networking professionals who want to confirm their advanced cloud networking skills.",
+    "Our training blends real-time scenarios, lab activities, and case studies to provide learners with hands-on experience tackling real-world network difficulties using AWS."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Advanced Networking – Specialty Course?",
+  wtcintro: "The AWS Certified Advanced Networking – Specialty course from BITA is designed to prepare professionals for high-level networking roles in cloud environments. Here's why this certification is a must-have",
+  wtcoursecontent: [
+    "In-Depth Networking Mastery: Learn to design and implement advanced AWS and hybrid network architectures.",
+    "Specialist Recognition: Stand out in the cloud networking domain with a credential that proves your technical excellence.",
+    "Security and Compliance Expertise: Get trained to manage network security, encryption, and compliance policies at scale.",
+    "Career Growth: The AWS Certified Advanced Networking – Specialty certification opens up roles in cloud infrastructure, enterprise networking, and network security.",
+    "Preparation for Leadership Roles: Become an asset to your organization by mastering network operations, monitoring, and troubleshooting strategies."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Advanced Networking – Specialty?",
+  wclcontent: "The AWS Certified Advanced Networking – Specialty course is tailored for",
+  wclpoints: [
+    "Network engineers and cloud architects",
+    "System administrators with strong networking knowledge",
+    "Security professionals managing cloud infrastructure",
+    "DevOps engineers who handle networking and monitoring",
+    "Professionals holding Associate-level AWS certifications looking to specialize",
+    "Experience with AWS networking tools and general networking concepts (such as TCP/IP, BGP, DNS, etc.) is highly recommended."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Advanced Networking – Specialty",
+  prerequestintro: "To get the most from the course, candidates should preferably have",
+  courseprerequcontent: [
+    "5+ years of networking experience.",
+    "2+ years of hands-on experience using AWS.",
+    "A thorough understanding of fundamental networking principles and protocols",
+    "Completion of AWS Certified Solutions Architect Associate or similar expertise",
+    "BITA's professional trainers provide extensive explanations, graphics, and project-based labs to assure your readiness, even if you have limited experience with AWS-native networking technologies."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Advanced Networking – Specialty Exam?",
+  htaintro: "To enroll in the AWS Certified Advanced Networking - Specialty test, complete these steps",
+  howtoapplycontent: [
+    "Log in to your AWS Certification account on the official AWS website.",
+    'Select "Schedule New Exam" and then select the AWS Certified Advanced Networking - Specialty certification (ANS-C01).',
+    "Choose your language, testing method (online or in a testing center), and date.",
+    "Pay the $300 exam cost through the AWS exam partner portal (Pearson VUE or PSI).",
+    "On exam day, bring a valid government-issued ID and complete the environmental conditions if taking the exam online.",
+    "Upon passing, you'll receive your digital badge and certificate from AWS."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Advanced Networking – Specialty Certification?",
+  obtainintro: "Here is how you may get your AWS Certified Advanced Networking - Specialty credential",
+  obtaincoursecontent: [
+    "Enroll in BITA's in-depth course to increase your knowledge and confidence.",
+    "Complete all lab assignments and practice examinations to ensure real-world readiness.",
+    "Schedule and pass the ANS-C01, a 170-minute multiple-choice exam.",
+    "Passing requires a minimum score of 750 out of 1000.",
+    "Download your badge and certificate from the AWS Certification portal.",
+    "This specialist certification demonstrates your competence to develop and manage complex AWS network solutions."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "The AWS Certified Advanced Networking – Specialty certification opens doors to senior-level and niche technical roles, including",
+  careeroppotunities: [
+    "Cloud Network Engineer",
+    "AWS Network Security Specialist",
+    "Enterprise Network Architect",
+    "Cloud Infrastructure Consultant",
+    "Network Automation Engineer"
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "With companies increasingly relying on hybrid and cloud-native architectures, certified professionals are in high demand across all major industries.",
+    "With cloud networks getting increasingly complicated, the AWS Certified Advanced Networking - Specialty certification validates your ability to create robust, secure, and scalable infrastructure. Join BITA Academy and learn advanced networking skills that will help you stand out in today's cloud-first job market! "
+  ]
+};
+
+
 // const awscertifieddeveloperassociate =  {
 //   slug: "",
 //   code: "",
@@ -1079,6 +1226,7 @@ const awscertifiedsolutionsarchitectprofessional =  {
 //   examblueprint: "Not yet published",
 //   finally: ""
 // };
+
 
 
 const microsoftsecurityoperationsanalystcertification =       {
@@ -3921,6 +4069,8 @@ export const allCertifications = {
   awscertifiedsysopsadministratorassociate : awscertifiedsysopsadministratorassociate,
   awscertifieddevOpsengineerprofessional : awscertifieddevOpsengineerprofessional,
   awscertifiedsolutionsarchitectprofessional : awscertifiedsolutionsarchitectprofessional,
+  awscertifiedmachinelearningspecialty : awscertifiedmachinelearningspecialty,
+  awscertifiedadvancednetworkingspecialty : awscertifiedadvancednetworkingspecialty,
   microsoftsecurityoperationsanalystcertification : microsoftsecurityoperationsanalystcertification,
   microsoftidentitymanagertraining : microsoftidentitymanagertraining,
   microsoftazureadministratortrainingcourse : microsoftazureadministratortrainingcourse,

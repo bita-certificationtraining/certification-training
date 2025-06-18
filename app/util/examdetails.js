@@ -215,7 +215,33 @@ export const examdetails = [
       price: " USD 300"
     }
   },
-   //   {
+  {
+    code: "MLS-C01",
+    slug: "awscertifiedmachinelearningspecialty",
+    examdetails: {
+      examname: "AWS Certified Machine Learning – Specialty",
+      examlevel: "Specialty",
+      examcode: "MLS-C01",
+      prereq: "1–2 years of ML experience recommended",
+      examlength: "180 minutes",
+      passingscore: "750 out of 1000",
+      price: "USD 300"
+    }
+  },
+  {
+    code: "ANS-C01",
+    slug: "awscertifiedadvancednetworkingspecialty",
+    examdetails: {
+      examname: "AWS Certified Advanced Networking – Specialty",
+      examlevel: "Specialty",
+      examcode: "ANS-C01",
+      prereq: "Recommended 5+ years in networking and 2+ years AWS experience",
+      examlength: "170 minutes",
+      passingscore: "750 out of 1000",
+      price: "USD 300"
+    }
+  },
+       //   {
   //   code: "",
   //   slug: "",
   //   examdetails: {
