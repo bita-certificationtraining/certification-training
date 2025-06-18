@@ -7,7 +7,7 @@ export default function MobileviewSlider() {
     <div className="p-4 space-y-12">
       {CertificationList.map((cat, i) => (
         <div key={i}>
-          <h2 className="text-xl font-bold text-themelightblack mb-4">{cat.category}</h2>
+          <h2 className="text-xl font-bold text-themelightblack text-center mb-4">{cat.category}</h2>
           {cat.subcategories.map((sub, j) => (
             sub.items?.length > 0 && (
               <div key={j}>
