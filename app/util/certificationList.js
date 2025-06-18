@@ -100,7 +100,7 @@ export const CertificationList = [
             code: "DVA-C02",
             slug: "awscertifieddeveloperassociate",
             title: "AWS Certified Developer – Associate",
-            c_image: "/certification_img/aws_logo/aws_ds.webp",
+            c_image: "/certification_img/aws_logo/aws_da.webp",
           },
           {
             code: "DEA-C01",
