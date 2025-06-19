@@ -241,7 +241,20 @@ export const examdetails = [
       price: "USD 300"
     }
   },
-       //   {
+  {
+    code: "SCS-C02",
+    slug: "awscertifiedsecurityspecialty",
+    examdetails: {
+      examname: "AWS Certified Security – Specialty",
+      examlevel: "Specialty",
+      examcode: "SCS-C02",
+      prereq: "Recommended 2+ years in AWS security roles",
+      examlength: "180 minutes",
+      passingscore: "750 out of 1000",
+      price: "USD 300"
+    }
+  },
+         //   {
   //   code: "",
   //   slug: "",
   //   examdetails: {

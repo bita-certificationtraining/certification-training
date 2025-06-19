@@ -1188,6 +1188,82 @@ const awscertifiedadvancednetworkingspecialty =  {
   ]
 };
 
+const awscertifiedsecurityspecialty =  {
+  slug: "awscertifiedsecurityspecialty",
+  code: "SCS-C02",
+  title: "AWS Certified Security – Specialty",
+  description: "Become a AWS Certified Security – Specialty our Certification",
+  cheading: "AWS Certified Security – Specialty",
+  courseoverview: [
+    "Are you ready to hone your cloud security skills and become a trusted guardian of enterprise cloud environments? BITA Academy offers the AWS Certified Security - Specialty training course, which is targeted for IT professionals looking to learn advanced security techniques inside the AWS ecosystem.",
+    "This course covers in-depth security issues like identity and access management, encryption, incident response, logging, and monitoring, all in accordance with AWS best practices. Whether you're a seasoned security expert or a cloud practitioner wishing to specialize, the AWS Certified Security - Specialty certification will help you stand out in today's cybersecurity-focused employment market."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Security – Specialty Course?",
+  wtcintro: "BITA's AWS Certified Security - Specialty curriculum provides practical knowledge and abilities for protecting cloud infrastructures. Here's why this course is essential",
+  wtcoursecontent: [
+    "Advanced Security Concepts: Discover how to establish security controls, manage identity and access, and leverage AWS services to monitor and safeguard cloud data.",
+    "Credential That Matters: The AWS Certified Security  Specialty certification is widely recognized as a standard for cloud security competence.",
+    "Hands-on Training: Participate in practical laboratories and scenario-based exercises that model real-world cloud threats and defense solutions.",
+    "Career Boost: Advance your career by joining cloud security teams, conducting audits, ensuring compliance, and designing secure architectures.",
+    "Bridge to Leadership Roles: This certification prepares you for security architect, compliance manager, and risk management roles in cloud-based organizations."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Security – Specialty?",
+  wclcontent: "The AWS Certified Security - Specialty course is ideal for",
+  wclpoints: [
+    "Security specialists and analysts in charge of securing AWS environments.",
+    "Cloud administrators and architects focus on compliance and threat prevention.",
+    "DevOps engineers and sysadmins incorporate security measures into workflows.",
+    "Penetration testers and auditors deal with AWS security safeguards.",
+    "Anyone looking to advance into high-demand cybersecurity professions within cloud ecosystems.",
+    "Prior understanding of AWS foundations and experience with security-related duties are beneficial, but not required. Our trainers ensure that all learners are supported throughout the program."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Security – Specialty",
+  prerequestintro: "To get the most out of the AWS Certified Security - Specialty course, students should have",
+  courseprerequcontent: [
+    "Two or more years of practical experience in protecting AWS workloads.",
+    "A thorough understanding of AWS services, networking, and access management.",
+    "Understanding concepts like encryption, threat detection, and compliance",
+    "Understanding of logging, monitoring, and incident response procedures.",
+    "Regardless of your starting place, BITA's expert teachers will guide you step by step through hands-on laboratories, quizzes, and study materials."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Security – Specialty Exam?",
+  htaintro: "Here’s how to register for the AWS Certified Security – Specialty exam",
+  howtoapplycontent: [
+    "Sign in to the AWS Certification Portal with your AWS account.",
+    'Select "Schedule New Exam" and choose AWS Certified Security – Specialty (Exam Code: SCS-C02).',
+    "Choose your preferred language, test format (online proctored or in-person), and schedule.",
+    "Pay the exam fee of USD 300 via AWS's testing partners—Pearson VUE or PSI.",
+    "On exam day, ensure you have valid ID and a distraction-free test environment (for online exams).",
+    "After passing the exam, you’ll receive your official certification and digital badge from AWS."
+  ],
+  obtaincourseheading: "How Do I Get AWS Certified Security - Specialty Certification?",
+  obtainintro: "To obtain your AWS Certified Security - Specialty certification",
+  obtaincoursecontent: [
+    "Complete BITA's expert-led training program focused on the AWS security domains.",
+    "Review test objectives, practice exams, and participate in scenario-based labs.",
+    "Prepare for the 180-minute multiple-choice and multiple-response exam.",
+    "Passing requires a minimum score of 750 out of 1000.",
+    "Download your certificate from the AWS Certification Portal and demonstrate your achievement.",
+    "This certification recognizes your competence to secure AWS workloads with cutting-edge tools and best practices."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Holding the AWS Certified Security – Specialty certification qualifies you for high-impact security roles, such as",
+  careeroppotunities: [
+    "Cloud Security Engineer",
+    "AWS Security Consultant",
+    "Security Operations Center (SOC) Analyst",
+    "Security Solutions Architect",
+    "Compliance and Risk Analyst",
+    "DevSecOps Engineer",
+    "Cloud Compliance Manager"
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "This certification is also ideal for those pursuing advanced roles in cybersecurity, governance, and secure cloud architecture.",
+    "With rising data breaches and legal requirements, businesses are increasingly looking for experts with the AWS Certified Security - Specialty certification to safeguard their cloud infrastructure. Join BITA Academy's advanced training today and take the next step towards cloud security expertise."
+  ]
+};
+
 
 // const awscertifieddeveloperassociate =  {
 //   slug: "",
@@ -4070,6 +4146,7 @@ export const allCertifications = {
   awscertifieddevOpsengineerprofessional : awscertifieddevOpsengineerprofessional,
   awscertifiedsolutionsarchitectprofessional : awscertifiedsolutionsarchitectprofessional,
   awscertifiedmachinelearningspecialty : awscertifiedmachinelearningspecialty,
+  awscertifiedsecurityspecialty : awscertifiedsecurityspecialty,
   awscertifiedadvancednetworkingspecialty : awscertifiedadvancednetworkingspecialty,
   microsoftsecurityoperationsanalystcertification : microsoftsecurityoperationsanalystcertification,
   microsoftidentitymanagertraining : microsoftidentitymanagertraining,
