@@ -804,6 +804,80 @@ export const coursesyllabus = [
         }
       ]
     },
+
+    {
+      code: "awscertifiedcloudpractitionerlearncloudbasics",
+      slug: "CLF-C02",
+      syllabustopic: [
+        {
+          module: "Domain 1: Cloud Concepts (24%)",
+          moduledes: [
+            {
+              topicdes: [
+                "Define benefits of cloud computing: global infrastructure, elasticity, agility, cost savings",
+                "Understand AWS Well‑Architected Framework and its pillars",
+                "Understand AWS Cloud Adoption Framework (CAF) and related migration strategies",
+                "Grasp cloud economics: fixed vs. variable costs, BYOL vs. included licensing"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Security & Compliance (30%)",
+          moduledes: [
+            {
+              topicdes: [
+                "Understand AWS Shared Responsibility Model",
+                "Know AWS security, governance, and compliance concepts",
+                "Identify IAM features (policies, roles, MFA, temp credentials)",
+                "Recognize key security services and components"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Cloud Technology & Services (34%)",
+          moduledes: [
+            {
+              topicdes: [
+                "Understand AWS global infrastructure (Regions, AZs, Edge)",
+                "Identify compute, database, network, storage services, including AI/ML/analytics",
+                "Describe deployment and operation methods in AWS environment"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Billing, Pricing & Support (12%)",
+          moduledes: [
+            {
+              topicdes: [
+                "Compare AWS pricing models (On‑Demand, Reserved, Spot)",
+                "Understand billing, budgeting, cost management tools",
+                "Identify support options (Basic, Developer, Business, Enterprise) and technical resources"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    // {
+    //   code: "",
+    //   slug: "",
+    //   syllabustopic: [
+    //     {
+    //       module: "",
+    //       moduledes: [
+    //         {
+    //           topicdes: [
+    //           ]
+    //         }
+    //       ]
+    //     }
+    //   ]
+    // },
+
     {
       code: "SC-200",
       slug: "microsoftsecurityoperationsanalystcertification",

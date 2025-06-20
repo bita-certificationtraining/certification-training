@@ -452,7 +452,12 @@ const awscertifiedcloudpractitionerlearncloudbasics =  {
     "Business Analyst for Cloud Teams",
     "Pre-sales Consultant (Cloud Solutions)"
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Cloud Concepts - 24%",
+    "Security & Compliance - 30%",
+    "Cloud Technology & Services - 34%",
+    "Billing, Pricing & Support - 12%"
+  ],
   finally: [
     "This certification is also a good starting point for further AWS certifications such as AWS Solutions Architect Associate, AWS Developer Associate, and others.",
     "With the rapid adoption of cloud technology across industries, organizations are increasingly seeking professionals with the AWS Certified Cloud Practitioner – Learn Cloud Basics certification to strengthen their cloud strategy. Enroll in BITA's expert-led training program today and take your first step toward a successful career in cloud computing!"
