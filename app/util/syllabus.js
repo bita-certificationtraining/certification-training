@@ -806,13 +806,14 @@ export const coursesyllabus = [
     },
 
     {
-      code: "awscertifiedcloudpractitionerlearncloudbasics",
-      slug: "CLF-C02",
+      code: "CLF-C02",
+      slug: "awscertifiedcloudpractitionerlearncloudbasics",
       syllabustopic: [
         {
           module: "Domain 1: Cloud Concepts (24%)",
           moduledes: [
             {
+              topicheding:"Cloud Concepts",
               topicdes: [
                 "Define benefits of cloud computing: global infrastructure, elasticity, agility, cost savings",
                 "Understand AWS Well‑Architected Framework and its pillars",
@@ -826,6 +827,7 @@ export const coursesyllabus = [
           module: "Domain 2: Security & Compliance (30%)",
           moduledes: [
             {
+              topicheding:"Security & Compliance",
               topicdes: [
                 "Understand AWS Shared Responsibility Model",
                 "Know AWS security, governance, and compliance concepts",
@@ -839,6 +841,7 @@ export const coursesyllabus = [
           module: "Domain 3: Cloud Technology & Services (34%)",
           moduledes: [
             {
+              topicheding:"Cloud Technology & Services",
               topicdes: [
                 "Understand AWS global infrastructure (Regions, AZs, Edge)",
                 "Identify compute, database, network, storage services, including AI/ML/analytics",
@@ -851,6 +854,7 @@ export const coursesyllabus = [
           module: "Domain 4: Billing, Pricing & Support (12%)",
           moduledes: [
             {
+              topicheding:"Billing, Pricing & Support",
               topicdes: [
                 "Compare AWS pricing models (On‑Demand, Reserved, Spot)",
                 "Understand billing, budgeting, cost management tools",
@@ -861,6 +865,74 @@ export const coursesyllabus = [
         }
       ]
     },
+
+    {
+      code: "AIF-C01",
+      slug: "awscertifiedaipractitionerfoundational",
+      syllabustopic: [
+        {
+          module: "Domain 1: Fundamentals of AI & ML - 20%",
+          moduledes: [
+            {
+              topicheding : "Fundamentals of AI & ML",
+              topicdes: [
+                "Define key terms: AI, ML, deep learning, neural networks, NLP, LLMs, etc.",
+                "Understand types of inference (batch vs real-time) and data types (labeled, unstructured).",
+                "Explain supervised, unsupervised, and reinforcement learning; identify ML use cases and when AI/ML isn’t suitable."
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Fundamentals of Generative  - 24%",
+          moduledes: [
+            {
+              topicheding : "Fundamentals of Generative",
+              topicdes: [
+                "Grasp foundational concepts like tokens, embeddings, transformers, diffusion.",
+                "Identify generative AI use cases (text, image, code generation).",
+                "Explain the model lifecycle: data selection, pre-training, deployment.",
+                "Understand benefits and challenges such as hallucinations, interpretability."
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Applications of Foundation Models - 28%",
+          moduledes: [
+            {
+              topicheding : "Applications of Foundation Models",
+              topicdes: [
+                "(Details truncated in official doc excerpt, but this covers use and customization of foundation models in real-world scenarios.)"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Guidelines for Responsible AI - 14%",
+          moduledes: [
+            {
+              topicheding : "Guidelines for Responsible AI",
+              topicdes: [
+                "Understand ethical AI principles: fairness, transparency, bias mitigation, monitoring."
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 5: Security, Compliance & Governance - 14%",
+          moduledes: [
+            {
+              topicheding : "Security, Compliance & Governance",
+              topicdes: [
+                "Understand shared responsibility, access control (IAM), data privacy, regulatory compliance in AI solutions. "
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
 
     // {
     //   code: "",

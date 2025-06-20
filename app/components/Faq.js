@@ -42,8 +42,8 @@ const getsyllabus = coursesyllabus.find((item) => item.slug.toLowerCase() === sl
                                <>
                                { topics.moduledes.map((getsylb, index) => (
                                <div key={index}>
-                                  { getsylb.topicheding && ( <h2 className="text-md text-themeblue font-medium m-3" >{getsylb.topicheding}</h2> )}
-                                   {/* <h2 className="text-md text-themeblue font-medium m-3" >{getsylb.topicheding}</h2> */}
+                                  {/* { getsylb.topicheding && ( <h2 className="text-md text-themeblue font-medium m-3" >{getsylb.topicheding}</h2> )} */}
+                                   <h2 className="text-md text-themeblue font-medium m-3" >{getsylb.topicheding}</h2>
                                    <ul className=" list-disc ms-10">
                                             {getsylb.topicdes.map((item, index) => (
                                                 <li key={index} className="mb-1 texd-md">{item}</li>

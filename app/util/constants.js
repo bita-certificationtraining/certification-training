@@ -532,7 +532,13 @@ const awscertifiedaipractitionerfoundational =  {
     "Pre-sales Consultant – AI Tools",
     "It also serves as a gateway to advanced certifications such as AWS Certified Machine Learning – Specialty or other AI/ML tracks."
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Fundamentals of AI & ML - 20%",
+    "Fundamentals of Generative AI - 24%",
+    "Applications of Foundation Models - 28%",
+    "Guidelines for Responsible AI - 14%",
+    "Security, Compliance & Governance - 14%"
+  ],
   finally: "With AI becoming increasingly important in digital transformation, the AWS Certified AI Practitioner - Foundational certification guarantees that you are prepared to make a meaningful contribution in the age of intelligent technology. Enroll in BITA Academy's skillfully tailored courses today and begin your journey into the exciting realm of Artificial Intelligence."
 };
 
