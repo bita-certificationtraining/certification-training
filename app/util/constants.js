@@ -608,7 +608,12 @@ const awscertifiedMachineLearningengineerassociate =  {
     "AI Solution Consultant",
     "NLP Engineer"
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Domain 1: Data Preparation for Machine Learning (ML) - 28%",
+    "Domain 2: ML Model Development - 26%",
+    "Domain 3: Deployment and Orchestration of ML Workflows - 22%",
+    "Domain 4: ML Solution Monitoring, Maintenance, and Security - 24%"
+  ],
   finally: [
     "This certification also sets you on the path for AWS specialty certifications or career progression into research or leadership roles in AI-driven companies.",
     "The demand for machine learning expertise is fast increasing in all industries. BITA Academy's AWS Certified Machine Learning Engineer - Associate certification will provide you with cutting-edge abilities to help you advance in your career. Enroll today to begin your journey into the future of intelligent systems and cloud innovation!"
@@ -682,7 +687,12 @@ const awscertifiedsolutionsarchitectassociate =  {
     "Solutions Architect in Managed Service Providers (MSPs)",
     "It also prepares the route for advanced AWS certifications and specializations in fields like security, data analytics, and machine learning."
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Design Secure Architectures - 30%",
+    "Design Resilient Architectures - 26%",
+    "Design High‑Performing Architectures - 24%",
+    "Design Cost‑Optimized Architectures - 20%"
+  ],
   finally: "With usage of clouds growing across industries, the AWS Certified Solutions Architect - Associate certification is more valuable than ever. Enroll at BITA Academy today and let our expert-led curriculum prepare you for success on your AWS journey!"
 };
 
@@ -756,7 +766,12 @@ const awscertifieddeveloperassociate =  {
     "Technical Consultant for Cloud Projects",
     "Freelance AWS Developer"
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Development with AWS Services - 32%",
+    "Security - 26%",
+    "Deployment - 24%",
+    "Troubleshooting & Optimization - 18%"
+  ],
   finally: [
     "This certification also serves as a prerequisite for more advanced credentials such as AWS DevOps Engineer - Professional and AWS Solutions Architect - Associate.",
     "The demand for certified cloud developers grows across industries. With the AWS Certified Developer - Associate credential, you'll acquire reputation and confidence when developing apps on the AWS platform. Enroll at BITA Academy today and take the next step in your cloud development career!"
@@ -829,7 +844,12 @@ const awscertifieddataengineerassociate =  {
     "Cloud BI Engineer",
     "It also prepares you for higher-level AWS certifications in analytics, machine learning, and database specializations."
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Domain 1: Data Ingestion and Transformation - 34%",
+    "Domain 2: Data Store Management - 26%",
+    "Domain 3: Data Operations and Support - 22%",
+    "Domain 4: Data Security and Governance - 18%"
+  ],
   finally: "The AWS Certified Data Engineer - Associate certification is an important step toward a successful career in cloud-based data engineering. Enroll in BITA Academy's industry-aligned training today and prepare to transform raw data into business value using AWS."
 };
 
@@ -903,7 +923,14 @@ const awscertifiedsysopsadministratorassociate =  {
     "Technical Support Engineer – AWS",
     "It also sets the foundation for professional-level certifications such as AWS DevOps Engineer – Professional."
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Domain 1: Monitoring, Logging & Remediation - 20%",
+    "Domain 2: Reliability & Business Continuity - 16%",
+    "Domain 3: Deployment, Provisioning & Automation - 18%",
+    "Domain 4: Security & Compliance (16%)",
+    "Domain 5: Networking & Content Delivery - 18%",
+    "Domain 6: Cost & Performance Optimization - 12%"
+  ],
   finally: "Businesses are migrating and scaling their infrastructure to the cloud, increasing the demand for qualified AWS administrators. BITA Academy offers AWS Certified SysOps Administrator – Associate training to help you become a vital actor in modern cloud operations!"
 };
 
@@ -975,7 +1002,14 @@ const awscertifieddevOpsengineerprofessional =  {
     "Infrastructure as Code (IaC) Specialist",
     "With DevOps becoming a core function in cloud strategy, certified professionals are highly sought after across industries."
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Domain 1: SDLC Automation - 22%",
+    "Domain 2: Configuration Management & IaC - 17%",
+    "Domain 3: Resilient Cloud Solutions - 15%",
+    "Domain 4: Monitoring & Logging - 15%",
+    "Domain 5: Incident & Event Response - 14%",
+    "Domain 6: Security & Compliance - 17%"
+  ],
   finally: "With cloud transformation growing across industries, the AWS Certified DevOps Engineer - Professional certification is your ticket to leading DevOps initiatives in multinational corporations. Join BITA Academy's intensive, expert-led curriculum and become the DevOps professional that every cloud team requires!"
 };
 
@@ -1048,7 +1082,12 @@ const awscertifiedsolutionsarchitectprofessional =  {
     "Cloud Governance Specialist",
     "It also serves as a stepping stone toward becoming a certified AWS Subject Matter Expert or Trainer."
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Domain 1: Design for Organizational Complexity - 26%",
+    "Domain 2: Design for New Solutions - 29%",
+    "Domain 3: Continuous Improvement for Existing Solutions - 25%",
+    "Domain 4: Accelerate Workload Migration & Modernization - 20%"
+  ],
   finally: "With enterprise cloud adoption at an all-time high, the AWS Certified Solutions Architect - Professional certification establishes you as a trusted leader in cloud architecture. Enroll now in BITA Academy's expert-led training program and confidently plan the future of cloud innovation!"
 };
 

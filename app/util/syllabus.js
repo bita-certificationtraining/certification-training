@@ -933,6 +933,473 @@ export const coursesyllabus = [
       ]
     },
 
+    {
+      code: "MLA-C01",
+      slug: "awscertifiedMachineLearningengineerassociate",
+      syllabustopic: [
+        {
+          module: "Domain 1: Data Preparation for Machine Learning (ML) - 28%",
+          moduledes: [
+            {
+              topicheding : "Data Preparation for Machine Learning",
+              topicdes: [
+                "Ingest & store data: Cleaning, merging, deduplication, class balancing (e.g., with Data Wrangler, AWS Glue, Kinesis) ",
+                "Feature engineering: Encoding techniques (one‑hot, label), normalization, binning, dataset splitting/shuffling, use of SageMaker Feature Store.",
+                "Data validation & labeling: Identify bias, use SageMaker Ground Truth, Clarify tools."
+              ]
+            },
+          ]
+        },
+        {
+          module: "Domain 2: ML Model Development - 26%",
+          moduledes: [
+            {
+              topicheding : "ML Model Development",
+              topicdes: [
+                "Model selection: Choose appropriate algorithms and approaches, tune hyperparameters, and manage model versions.",
+                "Model training and evaluation: Train models using SageMaker and other tools; evaluate metrics (e.g., accuracy, precision/recall, RMSE, AUC), handle model comparison and cross-validation."
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Deployment and Orchestration of ML Workflows - 22%",
+          moduledes: [
+            {
+              topicheding : "Deployment and Orchestration of ML Workflows",
+              topicdes: [
+                "Endpoint provisioning: Deploy models via real-time, asynchronous, batch, or serverless endpoints using SageMaker",
+                "Workflow automation: Configure CI/CD pipelines, employ IaC tools, and automate SageMaker jobs."
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: ML Solution Monitoring, Maintenance, and Security - 24%",
+          moduledes: [
+            {
+              topicheding : "Monitoring, Maintenance & Security",
+              topicdes: [
+                "Model and infrastructure monitoring: Track performance, logging, and detection of drifts or anomalies .",
+                "Security and compliance: Implement IAM, encryption, and access controls, align with AWS security best practices."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      code: "SAA-C03",
+      slug: "awscertifiedsolutionsarchitectassociate",
+      syllabustopic: [
+        {
+          module: "Design Secure Architectures - 30%",
+          moduledes: [
+            {
+              topicheding : "Design Secure Architectures",
+              topicdes: [
+                "Secure access (IAM, Identity Center, STS, SCPs, cross-account roles)",
+                "Secure workloads/applications (VPC SGs/NACLs, Shield, WAF, VPN, etc.)",
+                "Data security (encryption at rest/in transit, backups, KMS, ACM)"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Design Resilient Architectures (26%)",
+          moduledes: [
+            {
+              topicheding : "Design Resilient Architectures",
+              topicdes: [
+                "Scalable, loosely-coupled systems (API Gateway, SQS, serverless, containers, load balancing)",
+                "High availability & fault tolerance across AZs/Regions",
+                "Data streaming, ingestion, and analytics architectures (Kinesis, DataSync, Glue)"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Design High‑Performing Architectures (24%)",
+          moduledes: [
+            {
+              topicheding : "Design High‑Performing Architectures",
+              topicdes: [
+                "Storage: choose between S3, EFS, EBS—capacity, performance, hybrids",
+                "Compute: EC2, Lambda, containers—provisioning, scaling, proxies",
+                "Databases: capacity, replication, engine selection (RDS, Aurora, DynamoDB)",
+                "Networking: CloudFront, Global Accelerator, VPN/Direct Connect, subnet design",
+                "Data ingestion & transformation: Kinesis, Glue, EMR, Athena, QuickSight"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Design Cost‑Optimized Architectures (20%)",
+          moduledes: [
+            {
+              topicheding : "Design Cost‑Optimized Architectures",
+              topicdes: [
+                "Storage cost optimization (tiering, lifecycle policies, transfer options)",
+                "Compute cost strategies (Spot/Reserved/On‑Demand, auto scaling, serverless)",
+                "Database cost efficiency (read replicas, serverless, capacity planning)",
+                "Network cost management (data transfer, NAT, VPC Endpoints, CDNs)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      code: "DVA-C02",
+      slug: "awscertifieddeveloperassociate",
+      syllabustopic: [
+        {
+          module: "Domain 1: Development with AWS Services (32%)",
+          moduledes: [
+            {
+              topicheding : "Development with AWS Services",
+              topicdes: [
+                "Architect applications: event-driven, microservices, idempotency, stateless vs. stateful, fault tolerance (e.g., retries, DLQs), sync vs. async",
+                "Code with AWS SDKs and messaging services",
+                "Write Lambda functions: VPC integration, caching, error handling",
+                "Extend APIs: transformations, validation, status code overrides",
+                "Unit testing with frameworks like AWS SAM"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Security - 26%",
+          moduledes: [
+            {
+              topicheding : "Security",
+              topicdes: [
+                "Apply IAM authentication and access controls",
+                "Implement encryption via KMS, Secrets Manager, Parameter Store",
+                "Manage sensitive application data securely"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Deployment - 24%",
+          moduledes: [
+            {
+              topicheding : "Deployment",
+              topicdes: [
+                "Prepare artifacts and test environments",
+                "Automate deployments using CI/CD: CodeCommit, CodeBuild, CodeDeploy, CodePipeline",
+                "Use deployment tools: CloudFormation, SAM, CDK"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Troubleshooting & Optimization - 18%",
+          moduledes: [
+            {
+              topicheding : "Troubleshooting & Optimization",
+              topicdes: [
+                "Monitor and debug: CloudWatch, X-Ray",
+                "Conduct root cause analysis and code instrumentation",
+                "Optimize performance, cost, scalability"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+  {
+      code: "DEA-C01",
+      slug: "awscertifieddataengineerassociate",
+      syllabustopic: [
+        {
+          module: "Domain 1: Data Ingestion and Transformation - 34%",
+          moduledes: [
+            {
+              topicheding : "Data Ingestion and Transformation",
+              topicdes: [
+                "ETL pipelines (Glue, EMR, Kinesis, etc.)",
+                "Batch vs streaming, programming concepts"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Data Store Management - 26%",
+          moduledes: [
+            {
+              topicheding : "Data Store Management",
+              topicdes: [
+                "Selecting between S3, Redshift, DynamoDB, etc.",
+                "Data modeling, cataloging, lifecycle policies"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Data Operations and Support - 22%",
+          moduledes: [
+            {
+              topicheding : "Data Operations & Support",
+              topicdes: [
+                "Monitoring pipelines, troubleshooting, optimizing cost/performance",
+                "Ensuring data quality and lifecycle management"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Data Security and Governance - 18%",
+          moduledes: [
+            {
+              topicheding : "Data Security & Governance",
+              topicdes: [
+                "IAM, encryption (KMS), privacy, compliance, logging, auditing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+    {
+      code: "SOA-C02",
+      slug: "awscertifiedsysopsadministratorassociate",
+      syllabustopic: [
+        {
+          module: "Domain 1: Monitoring, Logging & Remediation (20%)",
+          moduledes: [
+            {
+              topicheding : "Monitoring, Logging & Remediation",
+              topicdes: [
+                "Implement metrics, filters, alarms, and dashboards (CloudWatch, CloudTrail)",
+                "Collect and analyze logs, integrating SNS notifications",
+                "Automate remediation actions using EventBridge and SSM Automation runbooks"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Reliability & Business Continuity (16%)",
+          moduledes: [
+            {
+              topicheding : "Reliability & Business Continuity",
+              topicdes: [
+                "Configure Auto Scaling, caching, RDS/Aurora replicas",
+                "Design resiliency across AZs using ELB, EFS, EIP",
+                "Use Route 53 health checks and routing policies",
+                "Plan and execute backup/restore (snapshots, AWS Backup, S3 CRR)"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Deployment, Provisioning & Automation (18%)",
+          moduledes: [
+            {
+              topicheding : "Deployment, Provisioning & Automation",
+              topicdes: [
+                "Build and maintain AMIs, EC2, Image Builder",
+                "Use CloudFormation, StackSets, RAM, and cross-account roles",
+                "Implement deployment strategies (blue/green, canary, rolling)",
+                "Automate tasks with Systems Manager and CloudFormation"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Security & Compliance (16%)",
+          moduledes: [
+            {
+              topicheding : "Security & Compliance",
+              topicdes: [
+                "Apply IAM, Access Analyzer, policy simulator",
+                "Configure encryption with KMS, Secrets Manager",
+                "Use CloudTrail, Trusted Advisor, WAF, Shield",
+                "Implement multi-account security via Organizations and SCPs"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 5: Networking & Content Delivery (18%)",
+          moduledes: [
+            {
+              topicheding : "Networking & Content Delivery",
+              topicdes: [
+               "Configure VPC, subnets, NACLs, security groups, peering, VPN, Direct Connect, Transit Gateway",
+               "Setup Route 53 hosted zones, resolver, record types, and routing policies",
+               "Implement CloudFront with S3 origin access control and static website hosting"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 6: Cost & Performance Optimization (12%)",
+          moduledes: [
+            {
+              topicheding : "Cost & Performance Optimization",
+              topicdes: [
+               "Use Cost Explorer, Cost and Usage Reports, Savings Plans",
+               "Leverage Compute Optimizer for cost efficiency",
+               "Optimize performance and cost across compute, storage, and networking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      code: "DOP-C02",
+      slug: "awscertifieddevOpsengineerprofessional",
+      syllabustopic: [
+        {
+          module: "Domain 1: SDLC Automation (22%)",
+          moduledes: [
+            {
+              topicheding : "SDLC Automation",
+              topicdes: [
+                "Implement CI/CD pipelines (CodeCommit, CodeBuild, CodeDeploy, CodePipeline)",
+                "Manage version control and artifact repositories",
+                "Integrate automated testing (unit, integration, acceptance, security scans)",
+                "Manage secrets (Secrets Manager, SSM Parameter Store)",
+                "Apply deployment strategies: rolling, canary, blue/green"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Configuration Management & IaC (17%)",
+          moduledes: [
+            {
+              topicheding : "Configuration Management & IaC",
+              topicdes: [
+                "Automate infrastructure provisioning via CloudFormation, CDK",
+                "Use configuration management tools",
+                "Implement tagging and metadata strategies "
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Resilient Cloud Solutions (15%)",
+          moduledes: [
+            {
+              topicheding : "Resilient Cloud Solutions",
+              topicdes: [
+                "Build highly available, fault-tolerant architectures",
+                "Plan backups, disaster recovery",
+                "Ensure multi-AZ/region resilience"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Monitoring & Logging (15%)",
+          moduledes: [
+            {
+              topicheding : "Monitoring & Logging",
+              topicdes: [
+                "Implement metrics, logs, dashboards via CloudWatch & CloudTrail",
+                "Automate anomaly detection and response"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 5: Incident & Event Response (14%)",
+          moduledes: [
+            {
+              topicheding : "Incident & Event Response",
+              topicdes: [
+                "Detect incidents and events using EventBridge",
+                "Perform root cause analysis and troubleshooting",
+                "Automate event-driven responses"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 6: Security & Compliance (17%)",
+          moduledes: [
+            {
+              topicheding : "Security & Compliance",
+              topicdes: [
+                "Implement IAM and identity at scale",
+                "Automate security controls (encryption, audits)",
+                "Apply monitoring and governance (GuardDuty, Config)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      code: "SAP-C02",
+      slug: "awscertifiedsolutionsarchitectprofessional",
+      syllabustopic: [
+        {
+          module: "Domain 1: Design for Organizational Complexity - 26%",
+          moduledes: [
+            {
+              topicheding : "Design for Organizational Complexity",
+              topicdes: [
+                "Network architecture: VPC, subnets, Direct Connect, VPN, hybrid DNS",
+                "Multi-account setup: AWS Organizations, SCPs, IAM",
+                "Enterprise-level governance and control across teams"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Design for New Solutions - 29%",
+          moduledes: [
+            {
+              topicheding : "Design for New Solutions",
+              topicdes: [
+                "Architect for availability, performance, scalability, cost-efficiency",
+                "Use modern AWS services: containers, serverless, data analytics, AI/ML",
+                "Leverage Well-Architected Framework best practices for new workloads"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Continuous Improvement for Existing Solutions - 25%",
+          moduledes: [
+            {
+              topicheding : "Continuous Improvement for Existing Solutions",
+              topicdes: [
+                "Evolve architectures through operational excellence: monitoring, automation, CI/CD",
+                "Implement cost and performance optimizations",
+                "Phased upgrades and refactoring strategies "
+              ]
+            }
+          ]
+        },
+        {
+          module: " Domain 4: Accelerate Workload Migration & Modernization - 20%",
+          moduledes: [
+            {
+              topicheding : "Accelerate Workload Migration & Modernization",
+              topicdes: [
+                "Lift-and-shift and re-platform migrations",
+                "Modernizing legacy apps with AWS services",
+                "Data and infrastructure migration methods and tools"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
 
     // {
     //   code: "",
@@ -942,6 +1409,37 @@ export const coursesyllabus = [
     //       module: "",
     //       moduledes: [
     //         {
+    //           topicheding : "",
+    //           topicdes: [
+    //           ]
+    //         }
+    //       ]
+    //     },
+    //     {
+    //       module: "",
+    //       moduledes: [
+    //         {
+    //           topicheding : "",
+    //           topicdes: [
+    //           ]
+    //         }
+    //       ]
+    //     },
+    //     {
+    //       module: "",
+    //       moduledes: [
+    //         {
+    //           topicheding : "",
+    //           topicdes: [
+    //           ]
+    //         }
+    //       ]
+    //     },
+    //     {
+    //       module: "",
+    //       moduledes: [
+    //         {
+    //           topicheding : "",
     //           topicdes: [
     //           ]
     //         }
@@ -949,6 +1447,7 @@ export const coursesyllabus = [
     //     }
     //   ]
     // },
+
 
     {
       code: "SC-200",
