@@ -1160,7 +1160,12 @@ const awscertifiedmachinelearningspecialty =  {
     "Applied Scientist in Cloud Environments",
     "It also acts as a stepping stone toward advanced careers in AI, big data, and cloud-based intelligent applications."
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Domain 1: Data Engineering - 20%",
+    "Domain 2: Exploratory Data Analysis - 24%",
+    "Domain 3: Modeling - 36%",
+    "Domain 4: ML Implementation & Operations - 20%"
+  ],
   finally: "The AWS Certified Machine Learning - Specialty course from BITA Academy will help you become a cloud-based AI specialist. Join now and obtain the credentials and confidence needed to create, scale, and lead in the field of machine learning on AWS."
 };
 
@@ -1231,7 +1236,12 @@ const awscertifiedadvancednetworkingspecialty =  {
     "Cloud Infrastructure Consultant",
     "Network Automation Engineer"
   ],
-  examblueprint: "Not yet published",
+  examblueprint: [
+    "Domain 1: Network Design - 30%",
+    "Domain 2: Network Implementation - 26%",
+    "Domain 3: Network Management & Operation - 20%",
+    "Domain 4: Network Security, Compliance & Governance - 24%"
+  ],
   finally: [
     "With companies increasingly relying on hybrid and cloud-native architectures, certified professionals are in high demand across all major industries.",
     "With cloud networks getting increasingly complicated, the AWS Certified Advanced Networking - Specialty certification validates your ability to create robust, secure, and scalable infrastructure. Join BITA Academy and learn advanced networking skills that will help you stand out in today's cloud-first job market! "
@@ -1307,7 +1317,14 @@ const awscertifiedsecurityspecialty =  {
     "DevSecOps Engineer",
     "Cloud Compliance Manager"
   ],
-  examblueprint: "Not yet published",
+  examblueprint:[
+    "Domain 1: Threat Detection & Incident Response - 14%",
+    "Domain 2: Security Logging & Monitoring - 18%",
+    "Domain 3: Infrastructure Security - 20%",
+    "Domain 4: Identity & Access Management - 16%",
+    "Domain 5: Data Protection - 18%",
+    "Domain 6: Management & Security Governance - 14%"
+  ],
   finally: [
     "This certification is also ideal for those pursuing advanced roles in cybersecurity, governance, and secure cloud architecture.",
     "With rising data breaches and legal requirements, businesses are increasingly looking for experts with the AWS Certified Security - Specialty certification to safeguard their cloud infrastructure. Join BITA Academy's advanced training today and take the next step towards cloud security expertise."

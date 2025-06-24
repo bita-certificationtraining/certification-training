@@ -1400,6 +1400,205 @@ export const coursesyllabus = [
       ]
     },
 
+    {
+      code: "awscertifiedmachinelearningspecialty",
+      slug: "MLS-C01",
+      syllabustopic: [
+        {
+          module: "Domain 1: Data Engineering - 20%",
+          moduledes: [
+            {
+              topicheding : "Data Engineering",
+              topicdes: [
+                "Create data repositories (S3, EFS, EBS, databases)",
+                "Build ingestion pipelines (batch/streaming) using Kinesis, Data Firehose, EMR, Glue, Flink",
+                "Transform data using ETL tools (Glue, EMR, Batch) and frameworks (Spark, Hadoop, Hive)"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Exploratory Data Analysis - 24%",
+          moduledes: [
+            {
+              topicheding : "Exploratory Data Analysis",
+              topicdes: [
+                "Sanitize/prep data for modeling (missing/corrupt data, normalization, augmentation)",
+                "Feature engineering techniques: encoding, binning, scaling",
+                "Analyze & visualize data (correlations, distributions)"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Modeling - 36%",
+          moduledes: [
+            {
+              topicheding : "Modeling",
+              topicdes: [
+                "Frame business problems as ML tasks",
+                "Select appropriate models (e.g., regression, classification, clustering, deep learning, LLMs)",
+                "Train and tune models (hyperparameter optimization, cross-validation, resource selection)",
+                "Evaluate model performance (metrics: accuracy, AUC, RMSE, confusion matrix) "
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: ML Implementation & Operations (20%)",
+          moduledes: [
+            {
+              topicheding : "ML Implementation & Operations",
+              topicdes: [
+                "Architect ML solutions for performance, scalability, resiliency, availability",
+                "Deploy models (real-time/batch inference, containers, endpoints)",
+                "Security in ML (IAM, encryption, network, policies)",
+                "Operationalize ML with monitoring, retraining, CI/CD pipelines, logging, A/B testing "
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+     {
+      code: "ANS-C01",
+      slug: "awscertifiedadvancednetworkingspecialty",
+      syllabustopic: [
+        {
+          module: "Domain 1: Network Design - 30%",
+          moduledes: [
+            {
+              topicheding : "Network Design",
+              topicdes: [
+                "Design edge network services (CDNs, Global Accelerator, ELB, API Gateway)",
+                "DNS solutions: Route 53 (public/private zones, Resolver, health checks, DNSSEC, delegation)",
+                "Load-balancing architecture across OSI layers (L3/L4/L7) with security and scaling considerations",
+                "Plan logging and monitoring: flow logs, CloudWatch, Traffic Mirroring, Transit Gateway Network Manager"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Network Implementation - 26%",
+          moduledes: [
+            {
+              topicheding : "Network Implementation",
+              topicdes: [
+                "Deploy VPCs: subnets, routing, peering, endpoints",
+                "Implement hybrid connectivity: VPN, Direct Connect, Transit Gateway configurations",
+                "Support containerized networking (EKS/ECS) and advanced IP/DNS techniques"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Network Management & Operation - 20%",
+          moduledes: [
+            {
+              topicheding : "Network Management & Operation",
+              topicdes: [
+                "Establish monitoring and troubleshooting using CloudWatch, flow logs, Reachability Analyzer",
+                "Manage network automation and configuration using Infrastructure as Code tools",
+                "Optimize performance and enhance operational efficiency"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Network Security, Compliance & Governance - 24%",
+          moduledes: [
+            {
+              topicheding : "Network Security, Compliance & Governance",
+              topicdes: [
+                "Enforce traffic protection: WAF, Shield, Network Firewall, TLS settings",
+                "Implement IDS/IPS with GuardDuty, Inspector; use Firewall Manager and ACM",
+                "Ensure governance with logging, policies, compliance frameworks"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+   {
+      code: "SCS-C02",
+      slug: "awscertifiedsecurityspecialty",
+      syllabustopic: [
+        {
+          module: "Domain 1: Threat Detection & Incident Response - 14%",
+          moduledes: [
+            {
+              topicheding : "Threat Detection & Incident Response",
+              topicdes: [
+                "Knowledge: AWS incident response best practices, ASFF, roles/responsibilities",
+                "Skills: Designing playbooks, isolating compromised resources, automating remediation with Lambda, EventBridge, SSM, using GuardDuty, Security Hub, Inspector, Detective"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 2: Security Logging & Monitoring - 18%",
+          moduledes: [
+            {
+              topicheding : "Security Logging & Monitoring",
+              topicdes: [
+                "Knowledge: CloudWatch/CloudTrail, EventBridge, metric filters, dashboards",
+                "Skills: Designing alerting/logging solutions, troubleshooting monitoring setups"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 3: Infrastructure Security - 20%",
+          moduledes: [
+            {
+              topicheding : "Infrastructure Security",
+              topicdes: [
+                "Knowledge: Edge protections including WAF, Shield; OSI-layer load balancing; network security controls",
+                "Skills: Securing VPCs, compute workloads, troubleshooting network security issues"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 4: Identity & Access Management - 16%",
+          moduledes: [
+            {
+              topicheding : "Identity & Access Management",
+              topicdes: [
+                "Knowledge: Authentication mechanisms, authorization, IAM roles/policies, SCPs",
+                "Skills: Designing, implementing, troubleshooting identity and access control solutions"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 5: Data Protection - 18%",
+          moduledes: [
+            {
+              topicheding : "Data Protection",
+              topicdes: [
+                "Knowledge: Data encryption (in transit & at rest), key management lifecycle, credential protection",
+                "Skills: Designing and implementing controls with KMS, Secrets Manager, S3 encryption/lifecycle policies"
+              ]
+            }
+          ]
+        },
+        {
+          module: "Domain 6: Management & Security Governance - 14%",
+          moduledes: [
+            {
+              topicheding : "Management & Security Governance",
+              topicdes: [
+                "Knowledge: AWS audit and governance services (Audit Manager, Security Hub, Config, Macie)",
+                "Skills: Centralizing governance, ensuring compliance, auditing environments, identifying security gaps"
+              ]
+            }
+          ]
+        }
+      ]
+    },
 
     // {
     //   code: "",
