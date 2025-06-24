@@ -810,7 +810,7 @@ export const coursesyllabus = [
       slug: "awscertifiedcloudpractitionerlearncloudbasics",
       syllabustopic: [
         {
-          module: "Domain 1: Cloud Concepts (24%)",
+          module: "Module 1: Cloud Concepts (24%)",
           moduledes: [
             {
               topicheding:"Cloud Concepts",
@@ -824,7 +824,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Security & Compliance (30%)",
+          module: "Module 2: Security & Compliance (30%)",
           moduledes: [
             {
               topicheding:"Security & Compliance",
@@ -838,7 +838,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Cloud Technology & Services (34%)",
+          module: "Module 3: Cloud Technology & Services (34%)",
           moduledes: [
             {
               topicheding:"Cloud Technology & Services",
@@ -851,7 +851,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Billing, Pricing & Support (12%)",
+          module: "Module 4: Billing, Pricing & Support (12%)",
           moduledes: [
             {
               topicheding:"Billing, Pricing & Support",
@@ -871,7 +871,7 @@ export const coursesyllabus = [
       slug: "awscertifiedaipractitionerfoundational",
       syllabustopic: [
         {
-          module: "Domain 1: Fundamentals of AI & ML - 20%",
+          module: "Module 1: Fundamentals of AI & ML - 20%",
           moduledes: [
             {
               topicheding : "Fundamentals of AI & ML",
@@ -884,7 +884,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Fundamentals of Generative  - 24%",
+          module: "Module 2: Fundamentals of Generative  - 24%",
           moduledes: [
             {
               topicheding : "Fundamentals of Generative",
@@ -898,7 +898,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Applications of Foundation Models - 28%",
+          module: "Module 3: Applications of Foundation Models - 28%",
           moduledes: [
             {
               topicheding : "Applications of Foundation Models",
@@ -909,7 +909,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Guidelines for Responsible AI - 14%",
+          module: "Module 4: Guidelines for Responsible AI - 14%",
           moduledes: [
             {
               topicheding : "Guidelines for Responsible AI",
@@ -920,7 +920,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 5: Security, Compliance & Governance - 14%",
+          module: "Module 5: Security, Compliance & Governance - 14%",
           moduledes: [
             {
               topicheding : "Security, Compliance & Governance",
@@ -938,7 +938,7 @@ export const coursesyllabus = [
       slug: "awscertifiedMachineLearningengineerassociate",
       syllabustopic: [
         {
-          module: "Domain 1: Data Preparation for Machine Learning (ML) - 28%",
+          module: "Module 1: Data Preparation for Machine Learning (ML) - 28%",
           moduledes: [
             {
               topicheding : "Data Preparation for Machine Learning",
@@ -951,7 +951,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: ML Model Development - 26%",
+          module: "Module 2: ML Model Development - 26%",
           moduledes: [
             {
               topicheding : "ML Model Development",
@@ -963,7 +963,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Deployment and Orchestration of ML Workflows - 22%",
+          module: "Module 3: Deployment and Orchestration of ML Workflows - 22%",
           moduledes: [
             {
               topicheding : "Deployment and Orchestration of ML Workflows",
@@ -975,7 +975,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: ML Solution Monitoring, Maintenance, and Security - 24%",
+          module: "Module 4: ML Solution Monitoring, Maintenance, and Security - 24%",
           moduledes: [
             {
               topicheding : "Monitoring, Maintenance & Security",
@@ -994,7 +994,7 @@ export const coursesyllabus = [
       slug: "awscertifiedsolutionsarchitectassociate",
       syllabustopic: [
         {
-          module: "Design Secure Architectures - 30%",
+          module: "Module 1: Design Secure Architectures - 30%",
           moduledes: [
             {
               topicheding : "Design Secure Architectures",
@@ -1007,7 +1007,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Design Resilient Architectures (26%)",
+          module: "Module 2: Design Resilient Architectures (26%)",
           moduledes: [
             {
               topicheding : "Design Resilient Architectures",
@@ -1020,7 +1020,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Design High‑Performing Architectures (24%)",
+          module: "Module 3: Design High‑Performing Architectures (24%)",
           moduledes: [
             {
               topicheding : "Design High‑Performing Architectures",
@@ -1035,7 +1035,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Design Cost‑Optimized Architectures (20%)",
+          module: "Module 4: Design Cost‑Optimized Architectures (20%)",
           moduledes: [
             {
               topicheding : "Design Cost‑Optimized Architectures",
@@ -1056,7 +1056,7 @@ export const coursesyllabus = [
       slug: "awscertifieddeveloperassociate",
       syllabustopic: [
         {
-          module: "Domain 1: Development with AWS Services (32%)",
+          module: "Module 1: Development with AWS Services (32%)",
           moduledes: [
             {
               topicheding : "Development with AWS Services",
@@ -1071,7 +1071,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Security - 26%",
+          module: "Module 2: Security - 26%",
           moduledes: [
             {
               topicheding : "Security",
@@ -1084,7 +1084,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Deployment - 24%",
+          module: "Module 3: Deployment - 24%",
           moduledes: [
             {
               topicheding : "Deployment",
@@ -1097,7 +1097,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Troubleshooting & Optimization - 18%",
+          module: "Module 4: Troubleshooting & Optimization - 18%",
           moduledes: [
             {
               topicheding : "Troubleshooting & Optimization",
@@ -1117,7 +1117,7 @@ export const coursesyllabus = [
       slug: "awscertifieddataengineerassociate",
       syllabustopic: [
         {
-          module: "Domain 1: Data Ingestion and Transformation - 34%",
+          module: "Module 1: Data Ingestion and Transformation - 34%",
           moduledes: [
             {
               topicheding : "Data Ingestion and Transformation",
@@ -1129,7 +1129,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Data Store Management - 26%",
+          module: "Module 2: Data Store Management - 26%",
           moduledes: [
             {
               topicheding : "Data Store Management",
@@ -1141,7 +1141,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Data Operations and Support - 22%",
+          module: "Module 3: Data Operations and Support - 22%",
           moduledes: [
             {
               topicheding : "Data Operations & Support",
@@ -1153,7 +1153,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Data Security and Governance - 18%",
+          module: "Module 4: Data Security and Governance - 18%",
           moduledes: [
             {
               topicheding : "Data Security & Governance",
@@ -1172,7 +1172,7 @@ export const coursesyllabus = [
       slug: "awscertifiedsysopsadministratorassociate",
       syllabustopic: [
         {
-          module: "Domain 1: Monitoring, Logging & Remediation (20%)",
+          module: "Module 1: Monitoring, Logging & Remediation (20%)",
           moduledes: [
             {
               topicheding : "Monitoring, Logging & Remediation",
@@ -1185,7 +1185,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Reliability & Business Continuity (16%)",
+          module: "Module 2: Reliability & Business Continuity (16%)",
           moduledes: [
             {
               topicheding : "Reliability & Business Continuity",
@@ -1199,7 +1199,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Deployment, Provisioning & Automation (18%)",
+          module: "Module 3: Deployment, Provisioning & Automation (18%)",
           moduledes: [
             {
               topicheding : "Deployment, Provisioning & Automation",
@@ -1213,7 +1213,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Security & Compliance (16%)",
+          module: "Module 4: Security & Compliance (16%)",
           moduledes: [
             {
               topicheding : "Security & Compliance",
@@ -1227,7 +1227,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 5: Networking & Content Delivery (18%)",
+          module: "Module 5: Networking & Content Delivery (18%)",
           moduledes: [
             {
               topicheding : "Networking & Content Delivery",
@@ -1240,7 +1240,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 6: Cost & Performance Optimization (12%)",
+          module: "Module 6: Cost & Performance Optimization (12%)",
           moduledes: [
             {
               topicheding : "Cost & Performance Optimization",
@@ -1260,7 +1260,7 @@ export const coursesyllabus = [
       slug: "awscertifieddevOpsengineerprofessional",
       syllabustopic: [
         {
-          module: "Domain 1: SDLC Automation (22%)",
+          module: "Module 1: SDLC Automation (22%)",
           moduledes: [
             {
               topicheding : "SDLC Automation",
@@ -1275,7 +1275,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Configuration Management & IaC (17%)",
+          module: "Module 2: Configuration Management & IaC (17%)",
           moduledes: [
             {
               topicheding : "Configuration Management & IaC",
@@ -1288,7 +1288,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Resilient Cloud Solutions (15%)",
+          module: "Module 3: Resilient Cloud Solutions (15%)",
           moduledes: [
             {
               topicheding : "Resilient Cloud Solutions",
@@ -1301,7 +1301,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Monitoring & Logging (15%)",
+          module: "Module 4: Monitoring & Logging (15%)",
           moduledes: [
             {
               topicheding : "Monitoring & Logging",
@@ -1313,7 +1313,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 5: Incident & Event Response (14%)",
+          module: "Module 5: Incident & Event Response (14%)",
           moduledes: [
             {
               topicheding : "Incident & Event Response",
@@ -1326,7 +1326,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 6: Security & Compliance (17%)",
+          module: "Module 6: Security & Compliance (17%)",
           moduledes: [
             {
               topicheding : "Security & Compliance",
@@ -1346,7 +1346,7 @@ export const coursesyllabus = [
       slug: "awscertifiedsolutionsarchitectprofessional",
       syllabustopic: [
         {
-          module: "Domain 1: Design for Organizational Complexity - 26%",
+          module: "Module 1: Design for Organizational Complexity - 26%",
           moduledes: [
             {
               topicheding : "Design for Organizational Complexity",
@@ -1359,7 +1359,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Design for New Solutions - 29%",
+          module: "Module 2: Design for New Solutions - 29%",
           moduledes: [
             {
               topicheding : "Design for New Solutions",
@@ -1372,7 +1372,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Continuous Improvement for Existing Solutions - 25%",
+          module: "Module 3: Continuous Improvement for Existing Solutions - 25%",
           moduledes: [
             {
               topicheding : "Continuous Improvement for Existing Solutions",
@@ -1385,7 +1385,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: " Domain 4: Accelerate Workload Migration & Modernization - 20%",
+          module: "Module 4: Accelerate Workload Migration & Modernization - 20%",
           moduledes: [
             {
               topicheding : "Accelerate Workload Migration & Modernization",
@@ -1405,7 +1405,7 @@ export const coursesyllabus = [
       slug: "MLS-C01",
       syllabustopic: [
         {
-          module: "Domain 1: Data Engineering - 20%",
+          module: "Module 1: Data Engineering - 20%",
           moduledes: [
             {
               topicheding : "Data Engineering",
@@ -1418,7 +1418,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Exploratory Data Analysis - 24%",
+          module: "Module 2: Exploratory Data Analysis - 24%",
           moduledes: [
             {
               topicheding : "Exploratory Data Analysis",
@@ -1431,7 +1431,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Modeling - 36%",
+          module: "Module 3: Modeling - 36%",
           moduledes: [
             {
               topicheding : "Modeling",
@@ -1445,7 +1445,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: ML Implementation & Operations (20%)",
+          module: "Module 4: ML Implementation & Operations (20%)",
           moduledes: [
             {
               topicheding : "ML Implementation & Operations",
@@ -1466,7 +1466,7 @@ export const coursesyllabus = [
       slug: "awscertifiedadvancednetworkingspecialty",
       syllabustopic: [
         {
-          module: "Domain 1: Network Design - 30%",
+          module: "Module 1: Network Design - 30%",
           moduledes: [
             {
               topicheding : "Network Design",
@@ -1480,7 +1480,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Network Implementation - 26%",
+          module: "Module 2: Network Implementation - 26%",
           moduledes: [
             {
               topicheding : "Network Implementation",
@@ -1493,7 +1493,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Network Management & Operation - 20%",
+          module: "Module 3: Network Management & Operation - 20%",
           moduledes: [
             {
               topicheding : "Network Management & Operation",
@@ -1506,7 +1506,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Network Security, Compliance & Governance - 24%",
+          module: "Module 4: Network Security, Compliance & Governance - 24%",
           moduledes: [
             {
               topicheding : "Network Security, Compliance & Governance",
@@ -1526,7 +1526,7 @@ export const coursesyllabus = [
       slug: "awscertifiedsecurityspecialty",
       syllabustopic: [
         {
-          module: "Domain 1: Threat Detection & Incident Response - 14%",
+          module: "Module 1: Threat Detection & Incident Response - 14%",
           moduledes: [
             {
               topicheding : "Threat Detection & Incident Response",
@@ -1538,7 +1538,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 2: Security Logging & Monitoring - 18%",
+          module: "Module 2: Security Logging & Monitoring - 18%",
           moduledes: [
             {
               topicheding : "Security Logging & Monitoring",
@@ -1550,7 +1550,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 3: Infrastructure Security - 20%",
+          module: "Module 3: Infrastructure Security - 20%",
           moduledes: [
             {
               topicheding : "Infrastructure Security",
@@ -1562,7 +1562,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 4: Identity & Access Management - 16%",
+          module: "Module 4: Identity & Access Management - 16%",
           moduledes: [
             {
               topicheding : "Identity & Access Management",
@@ -1574,7 +1574,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 5: Data Protection - 18%",
+          module: "Module 5: Data Protection - 18%",
           moduledes: [
             {
               topicheding : "Data Protection",
@@ -1586,7 +1586,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Domain 6: Management & Security Governance - 14%",
+          module: "Module 6: Management & Security Governance - 14%",
           moduledes: [
             {
               topicheding : "Management & Security Governance",

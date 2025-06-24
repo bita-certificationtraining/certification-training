@@ -845,10 +845,10 @@ const awscertifieddataengineerassociate =  {
     "It also prepares you for higher-level AWS certifications in analytics, machine learning, and database specializations."
   ],
   examblueprint: [
-    "Domain 1: Data Ingestion and Transformation - 34%",
-    "Domain 2: Data Store Management - 26%",
-    "Domain 3: Data Operations and Support - 22%",
-    "Domain 4: Data Security and Governance - 18%"
+    "Data Ingestion and Transformation - 34%",
+    "Data Store Management - 26%",
+    "Data Operations and Support - 22%",
+    "Data Security and Governance - 18%"
   ],
   finally: "The AWS Certified Data Engineer - Associate certification is an important step toward a successful career in cloud-based data engineering. Enroll in BITA Academy's industry-aligned training today and prepare to transform raw data into business value using AWS."
 };
@@ -924,12 +924,12 @@ const awscertifiedsysopsadministratorassociate =  {
     "It also sets the foundation for professional-level certifications such as AWS DevOps Engineer – Professional."
   ],
   examblueprint: [
-    "Domain 1: Monitoring, Logging & Remediation - 20%",
-    "Domain 2: Reliability & Business Continuity - 16%",
-    "Domain 3: Deployment, Provisioning & Automation - 18%",
-    "Domain 4: Security & Compliance (16%)",
-    "Domain 5: Networking & Content Delivery - 18%",
-    "Domain 6: Cost & Performance Optimization - 12%"
+    "Monitoring, Logging & Remediation - 20%",
+    "Reliability & Business Continuity - 16%",
+    "Deployment, Provisioning & Automation - 18%",
+    "Security & Compliance (16%)",
+    "Networking & Content Delivery - 18%",
+    "Cost & Performance Optimization - 12%"
   ],
   finally: "Businesses are migrating and scaling their infrastructure to the cloud, increasing the demand for qualified AWS administrators. BITA Academy offers AWS Certified SysOps Administrator – Associate training to help you become a vital actor in modern cloud operations!"
 };
@@ -1003,12 +1003,12 @@ const awscertifieddevOpsengineerprofessional =  {
     "With DevOps becoming a core function in cloud strategy, certified professionals are highly sought after across industries."
   ],
   examblueprint: [
-    "Domain 1: SDLC Automation - 22%",
-    "Domain 2: Configuration Management & IaC - 17%",
-    "Domain 3: Resilient Cloud Solutions - 15%",
-    "Domain 4: Monitoring & Logging - 15%",
-    "Domain 5: Incident & Event Response - 14%",
-    "Domain 6: Security & Compliance - 17%"
+    "SDLC Automation - 22%",
+    "Configuration Management & IaC - 17%",
+    "Resilient Cloud Solutions - 15%",
+    "Monitoring & Logging - 15%",
+    "Incident & Event Response - 14%",
+    "Security & Compliance - 17%"
   ],
   finally: "With cloud transformation growing across industries, the AWS Certified DevOps Engineer - Professional certification is your ticket to leading DevOps initiatives in multinational corporations. Join BITA Academy's intensive, expert-led curriculum and become the DevOps professional that every cloud team requires!"
 };
@@ -1083,10 +1083,10 @@ const awscertifiedsolutionsarchitectprofessional =  {
     "It also serves as a stepping stone toward becoming a certified AWS Subject Matter Expert or Trainer."
   ],
   examblueprint: [
-    "Domain 1: Design for Organizational Complexity - 26%",
-    "Domain 2: Design for New Solutions - 29%",
-    "Domain 3: Continuous Improvement for Existing Solutions - 25%",
-    "Domain 4: Accelerate Workload Migration & Modernization - 20%"
+    "Design for Organizational Complexity - 26%",
+    "Design for New Solutions - 29%",
+    "Continuous Improvement for Existing Solutions - 25%",
+    "Accelerate Workload Migration & Modernization - 20%"
   ],
   finally: "With enterprise cloud adoption at an all-time high, the AWS Certified Solutions Architect - Professional certification establishes you as a trusted leader in cloud architecture. Enroll now in BITA Academy's expert-led training program and confidently plan the future of cloud innovation!"
 };
@@ -1161,10 +1161,10 @@ const awscertifiedmachinelearningspecialty =  {
     "It also acts as a stepping stone toward advanced careers in AI, big data, and cloud-based intelligent applications."
   ],
   examblueprint: [
-    "Domain 1: Data Engineering - 20%",
-    "Domain 2: Exploratory Data Analysis - 24%",
-    "Domain 3: Modeling - 36%",
-    "Domain 4: ML Implementation & Operations - 20%"
+    "Data Engineering - 20%",
+    "Exploratory Data Analysis - 24%",
+    "Modeling - 36%",
+    "ML Implementation & Operations - 20%"
   ],
   finally: "The AWS Certified Machine Learning - Specialty course from BITA Academy will help you become a cloud-based AI specialist. Join now and obtain the credentials and confidence needed to create, scale, and lead in the field of machine learning on AWS."
 };
@@ -1237,10 +1237,10 @@ const awscertifiedadvancednetworkingspecialty =  {
     "Network Automation Engineer"
   ],
   examblueprint: [
-    "Domain 1: Network Design - 30%",
-    "Domain 2: Network Implementation - 26%",
-    "Domain 3: Network Management & Operation - 20%",
-    "Domain 4: Network Security, Compliance & Governance - 24%"
+    "Network Design - 30%",
+    "Network Implementation - 26%",
+    "Network Management & Operation - 20%",
+    "Network Security, Compliance & Governance - 24%"
   ],
   finally: [
     "With companies increasingly relying on hybrid and cloud-native architectures, certified professionals are in high demand across all major industries.",
@@ -1318,12 +1318,12 @@ const awscertifiedsecurityspecialty =  {
     "Cloud Compliance Manager"
   ],
   examblueprint:[
-    "Domain 1: Threat Detection & Incident Response - 14%",
-    "Domain 2: Security Logging & Monitoring - 18%",
-    "Domain 3: Infrastructure Security - 20%",
-    "Domain 4: Identity & Access Management - 16%",
-    "Domain 5: Data Protection - 18%",
-    "Domain 6: Management & Security Governance - 14%"
+    "Security Logging & Monitoring - 18%",
+    "Infrastructure Security - 20%",
+    "Threat Detection & Incident Response - 14%",
+    "Identity & Access Management - 16%",
+    "Data Protection - 18%",
+    "Management & Security Governance - 14%"
   ],
   finally: [
     "This certification is also ideal for those pursuing advanced roles in cybersecurity, governance, and secure cloud architecture.",
