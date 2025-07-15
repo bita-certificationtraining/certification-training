@@ -5,14 +5,33 @@ import Faq from "@/app//components/Faq";
 import { useParams } from "next/navigation";
 import { allCertifications } from "../util/constants";
 import MobileviewForm from "@/app/components/MobileviewForm"
+import Head from 'next/head';
 
 
 export default function DynamicPage() {
   const { slug } = useParams();
   const certification = allCertifications[slug];
-
+ 
   return (
     <>
+     <Head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Course",
+              "name": `${certification.cheading}`,
+              "description": `${certification.description}` ,
+              "provider": {
+                "@type": "Organization",
+                "name": "BITA Academy",
+                "url": "https://certificationtraining.in"
+              }
+            }),
+          }}
+        />
+      </Head>
       {certification ? (
         <div>
           <section className="flex ">

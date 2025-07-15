@@ -1,7 +1,7 @@
 export const coursesyllabus = [
     {
       code: "PCEP",
-      slug: "pceptrainingcourse",
+      slug: "pcep-training-course",
       syllabustopic: [
         {
           module: "Module 1: Computer Programming and Python Fundamentals (18%)",
@@ -186,7 +186,7 @@ export const coursesyllabus = [
     },
     {
       code: "PCAP",
-      slug: "pcappreparationcourse",
+      slug: "pcap-preparation-course",
       syllabustopic: [
         {
           module: "Module 1: Modules and Packages (12%)",
@@ -382,7 +382,7 @@ export const coursesyllabus = [
     },
     {
       code: "PCPP1",
-      slug: "pcpp1training",
+      slug: "pcpp1-training",
       syllabustopic: [
         {
           module: "Module 1: Advanced Object Oriented Programming (25%)",
@@ -665,7 +665,7 @@ export const coursesyllabus = [
     },
     {
       code: "PCED",
-      slug: "pcedcertificationpreparation",
+      slug: "pced-certification-preparation",
       syllabustopic: [
         {
           module: "Module 1: Data Acquisition and Pre- Processing - 33%",
@@ -807,7 +807,7 @@ export const coursesyllabus = [
 
     {
       code: "CLF-C02",
-      slug: "awscertifiedcloudpractitionerlearncloudbasics",
+      slug: "aws-certified-cloud-practitioner-learn-cloud-basics",
       syllabustopic: [
         {
           module: "Module 1: Cloud Concepts (24%)",
@@ -868,7 +868,7 @@ export const coursesyllabus = [
 
     {
       code: "AIF-C01",
-      slug: "awscertifiedaipractitionerfoundational",
+      slug: "aws-certified-ai-practitioner-foundational",
       syllabustopic: [
         {
           module: "Module 1: Fundamentals of AI & ML - 20%",
@@ -935,7 +935,7 @@ export const coursesyllabus = [
 
     {
       code: "MLA-C01",
-      slug: "awscertifiedMachineLearningengineerassociate",
+      slug: "aws-certified-machine-learning-engineer-associate",
       syllabustopic: [
         {
           module: "Module 1: Data Preparation for Machine Learning (ML) - 28%",
@@ -991,7 +991,7 @@ export const coursesyllabus = [
 
     {
       code: "SAA-C03",
-      slug: "awscertifiedsolutionsarchitectassociate",
+      slug: "aws-certified-solutions-architect-associate",
       syllabustopic: [
         {
           module: "Module 1: Design Secure Architectures - 30%",
@@ -1053,7 +1053,7 @@ export const coursesyllabus = [
 
     {
       code: "DVA-C02",
-      slug: "awscertifieddeveloperassociate",
+      slug: "aws-certified-developer-associate",
       syllabustopic: [
         {
           module: "Module 1: Development with AWS Services (32%)",
@@ -1114,7 +1114,7 @@ export const coursesyllabus = [
 
   {
       code: "DEA-C01",
-      slug: "awscertifieddataengineerassociate",
+      slug: "aws-certified-data-engineer-associate",
       syllabustopic: [
         {
           module: "Module 1: Data Ingestion and Transformation - 34%",
@@ -1169,7 +1169,7 @@ export const coursesyllabus = [
 
     {
       code: "SOA-C02",
-      slug: "awscertifiedsysopsadministratorassociate",
+      slug: "aws-certified-sysops-administrator-associate",
       syllabustopic: [
         {
           module: "Module 1: Monitoring, Logging & Remediation (20%)",
@@ -1257,7 +1257,7 @@ export const coursesyllabus = [
 
     {
       code: "DOP-C02",
-      slug: "awscertifieddevOpsengineerprofessional",
+      slug: "aws-certified-devops-engineer-professional",
       syllabustopic: [
         {
           module: "Module 1: SDLC Automation (22%)",
@@ -1343,7 +1343,7 @@ export const coursesyllabus = [
 
     {
       code: "SAP-C02",
-      slug: "awscertifiedsolutionsarchitectprofessional",
+      slug: "aws-certified-solutions-architect-professional",
       syllabustopic: [
         {
           module: "Module 1: Design for Organizational Complexity - 26%",
@@ -1401,7 +1401,7 @@ export const coursesyllabus = [
     },
 
     {
-      code: "awscertifiedmachinelearningspecialty",
+      code: "aws-certified-machine-learning-specialty",
       slug: "MLS-C01",
       syllabustopic: [
         {
@@ -1463,7 +1463,7 @@ export const coursesyllabus = [
 
      {
       code: "ANS-C01",
-      slug: "awscertifiedadvancednetworkingspecialty",
+      slug: "aws-certified-advanced-networking-specialty",
       syllabustopic: [
         {
           module: "Module 1: Network Design - 30%",
@@ -1523,7 +1523,7 @@ export const coursesyllabus = [
 
    {
       code: "SCS-C02",
-      slug: "awscertifiedsecurityspecialty",
+      slug: "aws-certified-security-specialty",
       syllabustopic: [
         {
           module: "Module 1: Threat Detection & Incident Response - 14%",
@@ -1826,8 +1826,8 @@ export const coursesyllabus = [
       ]
     },
     {
-      code: "SC-200",
-      slug: "microsoftsecurityoperationsanalystcertification",
+      code: "SC-300",
+      slug: "microsoft-identity-manager-training",
       syllabustopic: [
         {
           module: "Module 1: Implement and manage user identities (20–25%)",
@@ -2034,7 +2034,7 @@ export const coursesyllabus = [
     },
     {
       code: "AZ-104",
-      slug: "microsoftazureadministratortrainingcourse",
+      slug: "microsoft-azure-administrator-training-course",
       syllabustopic: [
         {
           module: "Module 1: Manage Azure identities and governance (20–25%)",
@@ -2212,7 +2212,7 @@ export const coursesyllabus = [
     },
     {
       code: "AZ-204",
-      slug: "az204trainingcourses",
+      slug: "az204-training-courses",
       syllabustopic: [
         {
           module: "Module 1: Develop Azure compute solutions (25–30%)",
@@ -2338,7 +2338,7 @@ export const coursesyllabus = [
     },
     {
       code: "AZ-500",
-      slug: "microsoftazuresecuritytechnologiescourse",
+      slug: "microsoft-azure-security-technologies-course",
       syllabustopic: [
         {
           module: "Module 1: Manage identity and access (25–30%)",
@@ -2524,7 +2524,7 @@ export const coursesyllabus = [
     },
     {
       code: "AZ-305",
-      slug: "az305trainingcourse",
+      slug: "az305-training-course",
       syllabustopic: [
         {
           module: "Module 1: Design identity, governance, and monitoring solutions (25–30%)",
@@ -2650,7 +2650,7 @@ export const coursesyllabus = [
     },
     {
       code: "AZ-400",
-      slug: "az400trainingonline",
+      slug: "az400-training-online",
       syllabustopic: [
         {
           module: "Module 1: Design and implement processes and communications (10–15%)",
@@ -2836,7 +2836,7 @@ export const coursesyllabus = [
     }, 
     {
       code: "SC-100",
-      slug: "microsoftcybersecuritycourseforbeginners",
+      slug: "microsoft-cyber-security-course-for-beginners",
       syllabustopic: [
         {
           module: "Module 1: Design solutions that align with security best practices and priorities (20–25%)",
@@ -2989,7 +2989,7 @@ export const coursesyllabus = [
     }, 
     {
       code: "MB-910",
-      slug: "microsoftdynamics365traininginchennai",
+      slug: "microsoft-dynamics365-training-in-chennai",
       syllabustopic: [
         {
           module: "Module 1: Describe Dynamics 365 Customer Insights (15–20%)",
@@ -3119,7 +3119,7 @@ export const coursesyllabus = [
     },
     {
       code: "MB-920",
-      slug: "microsoftdynamics365trainingcourses",
+      slug: "microsoft-dynamics365-training-courses",
       syllabustopic: [
         {
           module: "Module 1: Describe Dynamics 365 Supply Chain Management (20–25%)",
@@ -3285,7 +3285,7 @@ export const coursesyllabus = [
     },
     {
       code: "MB-102",
-      slug: "microsoft365administratortraining",
+      slug: "microsoft-365administrator-training",
       syllabustopic: [
         {
           module: "Module 1: Deploy and manage a Microsoft 365 tenant (25–30%)",
@@ -3407,7 +3407,7 @@ export const coursesyllabus = [
     },
     {
       code: "MB-700",
-      slug: "microsoftfinanceandoperationstraining",
+      slug: "microsoft-finance-and-operations-training",
       syllabustopic: [
         {
           module: "Module 1: Architect solutions (20–25%)",
@@ -3564,50 +3564,50 @@ export const coursesyllabus = [
         }
       ]
     },  
-    {
-      code: "",
-      slug: "",
-      syllabustopic: [
-        {
-          module: "Module 1: ",
-          moduledes: [
-            {
-              topicheding: "",
-              topicdes: []
-            },
-            {
-              topicheding: "",
-              topicdes: []
-            }
-          ]
-        },
-        {
-          module: "Module 2: ",
-          moduledes: [
-            {
-              topicheding: "",
-              topicdes: []
-            }
-          ]
-        },
-        {
-          module: "Module 3: ",
-          moduledes: [
-            {
-              topicheding: "",
-              topicdes: []
-            }
-          ]
-        },
-        {
-          module: "Module 4: ",
-          moduledes: [
-            {
-              topicheding: "",
-              topicdes: []
-            }
-          ]
-        }
-      ]
-    }
+    // {
+    //   code: "",
+    //   slug: "",
+    //   syllabustopic: [
+    //     {
+    //       module: "Module 1: ",
+    //       moduledes: [
+    //         {
+    //           topicheding: "",
+    //           topicdes: []
+    //         },
+    //         {
+    //           topicheding: "",
+    //           topicdes: []
+    //         }
+    //       ]
+    //     },
+    //     {
+    //       module: "Module 2: ",
+    //       moduledes: [
+    //         {
+    //           topicheding: "",
+    //           topicdes: []
+    //         }
+    //       ]
+    //     },
+    //     {
+    //       module: "Module 3: ",
+    //       moduledes: [
+    //         {
+    //           topicheding: "",
+    //           topicdes: []
+    //         }
+    //       ]
+    //     },
+    //     {
+    //       module: "Module 4: ",
+    //       moduledes: [
+    //         {
+    //           topicheding: "",
+    //           topicdes: []
+    //         }
+    //       ]
+    //     }
+    //   ]
+    // }
   ];

@@ -7,6 +7,7 @@ const nextConfig = {
   modularizeImports: {}, // Keep clean and modern
   // Optional: Enable React strict mode
   reactStrictMode: true,
+  
 };
 
 export default nextConfig;

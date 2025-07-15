@@ -7,25 +7,25 @@ export const CertificationList = [
         items: [
           {
             code: "PCEP",
-            slug: "pceptrainingcourse",
+            slug: "pcep-training-course",
             title: "Python Institute Certified Entry-Level Python Programmer",
             c_image: "/certification_img/python_logo/PCEP.webp",
           },
           {
             code: "PCAP",
-            slug: "pcappreparationcourse",
+            slug: "pcap-preparation-course",
             title: "Python Institute Certified Associate in Python Programming",
             c_image: "/certification_img/python_logo/PCAP.webp",
           },
           {
             code: "PCPP1",
-            slug: "pcpp1training",
+            slug: "pcpp1-training",
             title: "Certified Professional Python Programmer Level 1",
             c_image: "/certification_img/python_logo/PCPPL1.webp",
           },
           {
             code: "PCPP2",
-            slug: "pcpp2course",
+            slug: "pcpp2-course",
             title: "Certified Professional Python Programmer Level 2",
             c_image: "/certification_img/python_logo/PCPPL2.webp",
           },
@@ -36,7 +36,7 @@ export const CertificationList = [
         items: [
           {
             code: "PCAT",
-            slug: "pcatonlinecourse",
+            slug: "pcat-online-course",
             title: "Certified Associate Tester with Python",
             c_image: "/certification_img/python_logo/PCAT.webp",
           },
@@ -47,13 +47,13 @@ export const CertificationList = [
         items: [
           {
             code: "PCED",
-            slug: "pcedcertificationpreparation",
+            slug: "pced-certification-preparation",
             title: "Certified Entry-Level Data Analyst with Python",
             c_image: "/certification_img/python_logo/PCED.webp",
           },
           {
             code: "PCAD",
-            slug: "pcadcertificationsyllabus",
+            slug: "pcad-certification-syllabus",
             title: "Certified Associate Data Analyst with Python",
             c_image: "/certification_img/python_logo/PCAD.webp",
           },
@@ -69,13 +69,13 @@ export const CertificationList = [
         items: [
           {
             code: "CLF-C02",
-            slug: "awscertifiedcloudpractitionerlearncloudbasics",
+            slug: "aws-certified-cloud-practitioner-learn-cloud-basics",
             title: "AWS Certified Cloud Practitioner",
             c_image: "/certification_img/aws_logo/aws_cp.webp",
           },
           {
             code: "AIF-C01",
-            slug: "awscertifiedaipractitionerfoundational",
+            slug: "aws-certified-ai-practitioner-foundational",
             title: "AWS Certified AI Practitioner - Foundational",
             c_image: "/certification_img/aws_logo/aws_ai.webp",
           }
@@ -86,31 +86,31 @@ export const CertificationList = [
         items: [
           {
             code: "MLA-C01",
-            slug: "awscertifiedMachineLearningengineerassociate",
+            slug: "aws-certified-machine-learning-engineer-associate",
             title: "AWS Certified Machine Learning Engineer - Associate",
             c_image: "/certification_img/aws_logo/aws_mle.webp",
           },
           {
             code: "SAA-C03",
-            slug: "awscertifiedsolutionsarchitectassociate",
+            slug: "aws-certified-solutions-architect-associate",
             title: "AWS Certified Solutions Architect – Associate",
             c_image: "/certification_img/aws_logo/aws_saa.webp",
           },
           {
             code: "DVA-C02",
-            slug: "awscertifieddeveloperassociate",
+            slug: "aws-certified-developer-associate",
             title: "AWS Certified Developer – Associate",
             c_image: "/certification_img/aws_logo/aws_da.webp",
           },
           {
             code: "DEA-C01",
-            slug: "awscertifieddataengineerassociate",
+            slug: "aws-certified-data-engineer-associate",
             title: "AWS Certified Data Engineer - Associate",
             c_image: "/certification_img/aws_logo/aws_dea.webp",
           },
            {
             code: "SOA-C02",
-            slug: "awscertifiedsysopsadministratorassociate",
+            slug: "aws-certified-sysops-administrator-associate",
             title: "AWS Certified SysOps Administrator – Associate",
             c_image: "/certification_img/aws_logo/aws_soaa.webp",
           },
@@ -121,13 +121,13 @@ export const CertificationList = [
         items: [
           {
             code: "DOP-C02",
-            slug: "awscertifieddevOpsengineerprofessional",
+            slug: "aws-certified-devops-engineer-professional",
             title: "AWS Certified DevOps Engineer – Professional",
             c_image: "/certification_img/aws_logo/aws_dep.webp",
           },
           {
             code: "SAP-C02",
-            slug: "awscertifiedsolutionsarchitectprofessional",
+            slug: "aws-certified-solutions-architect-professional",
             title: "AWS Certified Solutions Architect – Professional",
             c_image: "/certification_img/aws_logo/aws_sap.webp",
           }
@@ -138,19 +138,19 @@ export const CertificationList = [
         items: [
           {
             code: "MLS-C01",
-            slug: "awscertifiedmachinelearningspecialty",
+            slug: "aws-certified-machine-learning-specialty",
             title: "AWS Certified Machine Learning – Specialty",
             c_image: "/certification_img/aws_logo/aws_mls.webp",
           },
           {
             code: "ANS-C01",
-            slug: "awscertifiedadvancednetworkingspecialty",
+            slug: "aws-certified-advanced-networking-specialty",
             title: "AWS Certified Advanced Networking – Specialty",
             c_image: "/certification_img/aws_logo/aws_ans.webp",
           },
           {
             code: "SCS-C02",
-            slug: "awscertifiedsecurityspecialty",
+            slug: "aws-certified-security-specialty",
             title: "AWS Certified Security – Specialty",
             c_image: "/certification_img/aws_logo/aws_ss.webp",
           }
@@ -166,31 +166,31 @@ export const CertificationList = [
         items: [
           {
             code: "SC-200",
-            slug: "microsoftsecurityoperationsanalystcertification",
+            slug: "microsoft-security-operations-analyst-certification",
             title: "Microsoft Security Operations Analyst",
             c_image: "/certification_img/microsoft_logo/SC200.webp",
           },
           {
             code: "SC-300",
-            slug: "microsoftidentitymanagertraining",
+            slug: "microsoft-identity-manager-training",
             title: "Microsoft Identity and Access Administrator",
             c_image: "/certification_img/microsoft_logo/SC300.webp",
           },
           {
             code: "AZ-104",
-            slug: "microsoftazureadministratortrainingcourse",
+            slug: "microsoft-azure-administrator-training-course",
             title: "Microsoft Azure Administrator",
             c_image: "/certification_img/microsoft_logo/AZ104.webp",
           },
           {
             code: "AZ-204",
-            slug: "az204trainingcourses",
+            slug: "az204-training-courses",
             title: "Developing Solutions for Microsoft Azure",
             c_image: "/certification_img/microsoft_logo/AZ204.webp",
           },
           {
             code: "AZ-500",
-            slug: "microsoftazuresecuritytechnologiescourse",
+            slug: "microsoft-azure-security-technologies-course",
             title: "Microsoft Azure Security Technologies",
             c_image: "/certification_img/microsoft_logo/AZ500.webp",
           },
@@ -201,19 +201,19 @@ export const CertificationList = [
         items: [
           {
             code: "AZ-305",
-            slug: "az305trainingcourse",
+            slug: "az305-training-course",
             title: "Designing Microsoft Azure Infrastructure Solutions",
             c_image: "/certification_img/microsoft_logo/AZ305.webp",
           },
           {
             code: "AZ-400",
-            slug: "az400trainingonline",
+            slug: "az400-training-online",
             title: "Designing and Implementing Microsoft DevOps Solutions",
             c_image: "/certification_img/microsoft_logo/AZ400.webp",
           },
           {
             code: "SC-100",
-            slug: "microsoftcybersecuritycourseforbeginners",
+            slug: "microsoft-cyber-security-course-for-beginners",
             title: "Microsoft Cybersecurity Architect",
             c_image: "/certification_img/microsoft_logo/SC100.webp",
           },
@@ -224,13 +224,13 @@ export const CertificationList = [
         items: [
           {
             code: "MB-910",
-            slug: "microsoftdynamics365traininginchennai",
+            slug: "microsoft-dynamics365-training-in-chennai",
             title: "Microsoft Dynamics 365 Fundamentals (CRM)",
             c_image: "/certification_img/microsoft_logo/MB910.webp",
           },
           {
             code: "MB-920",
-            slug: "microsoftdynamics365trainingcourses",
+            slug: "microsoft-dynamics365-training-courses",
             title: "Microsoft Dynamics 365 Fundamentals (ERP)",
             c_image: "/certification_img/microsoft_logo/MB920.webp",
           },
@@ -241,13 +241,13 @@ export const CertificationList = [
         items: [
           {
             code: "MB-102",
-            slug: "microsoft365administratortraining",
+            slug: "microsoft-365administrator-training",
             title: "Microsoft 365 Administrator",
             c_image: "/certification_img/microsoft_logo/MB335.webp",
           },
           {
             code: "MB-700",
-            slug: "microsoftfinanceandoperationstraining",
+            slug: "microsoft-finance-and-operations-training",
             title:
               "Microsoft Dynamics 365 Finance and Operations Apps Solution Architect",
             c_image: "/certification_img/microsoft_logo/MB700.webp",
@@ -264,19 +264,19 @@ export const CertificationList = [
         items: [
           {
             code: "220-1101",
-            slug: "comptiaacourseinchennai",
+            slug: "comptia-a-course-in-chennai",
             title: "CompTIA A+",
             c_image: "/certification_img/comptia_logo/com220.webp",
           },
           {
             code: "N10-008",
-            slug: "comptianetworkcertification",
+            slug: "comptia-network-certification",
             title: "CompTIA Network+",
             c_image: "/certification_img/comptia_logo/comn10.webp",
           },
           {
             code: "SY0-601 & SY0-701",
-            slug: "comptiasecuritycourseinchennai",
+            slug: "comptia-security-course-in-chennai",
             title: "CompTIA Security+",
             c_image: "/certification_img/comptia_logo/comsy0701.webp",
           },
@@ -287,13 +287,13 @@ export const CertificationList = [
         items: [
           {
             code: "CV0-003",
-            slug: "comptiacloudtrainingcenters",
+            slug: "comptia-cloud-training-centers",
             title: "CompTIA Cloud+",
             c_image: "/certification_img/comptia_logo/comcv0.webp",
           },
           {
             code: "XK0-005",
-            slug: "comptialinuxtraining",
+            slug: "comptia-linux-training",
             title: "CompTIA Linux+",
             c_image: "/certification_img/comptia_logo/comxk0.webp",
           },
@@ -304,19 +304,19 @@ export const CertificationList = [
         items: [
           {
             code: "CA0-003",
-            slug: "comptiacybersecurityanalystcertification",
+            slug: "comptia-cyber-security-analyst-certification",
             title: "CompTIA Cybersecurity Analyst (CySA+)",
             c_image: "/certification_img/comptia_logo/comca0.webp",
           },
           {
             code: "CAS-004",
-            slug: "comptiaadvancedsecuritypractitionertraining",
+            slug: "comptia-advanced-security-practitioner-training",
             title: "CompTIA Advanced Security Practitioner (CASP+)",
             c_image: "/certification_img/comptia_logo/comcas.webp",
           },
           {
             code: "PT0-002",
-            slug: "comptiapentestcourse",
+            slug: "comptia-pen-test-course",
             title: "CompTIA PenTest+",
             c_image: "/certification_img/comptia_logo/compt0.webp",
           },
@@ -327,13 +327,13 @@ export const CertificationList = [
         items: [
           {
             code: "DA0-001",
-            slug: "comptiadatatraining",
+            slug: "comptia-data-training",
             title: "CompTIA Data+",
             c_image: "/certification_img/comptia_logo/comda0.webp",
           },
           {
             code: "DS0-001",
-            slug: "comptiadatasystraining",
+            slug: "comptia-datasys-training",
             title: "CompTIA DataSys+",
             c_image: "/certification_img/comptia_logo/comds0.webp",
           },
@@ -349,25 +349,25 @@ export const CertificationList = [
         items: [
           {
             code: "GMLE",
-            slug: "giaccertificationexamcost",
+            slug: "giac-certification-exam-cost",
             title: "GIAC Machine Learning Engineer",
             c_image: "/certification_img/giac_logo/gmle.webp",
           },
           {
             code: "GSOC",
-            slug: "giacsecurityoperationscertifiedtraining",
+            slug: "giac-security-operations-certified-training",
             title: "GIAC Security Operations Certified",
             c_image: "/certification_img/giac_logo/gsoc.webp",
           },
           {
             code: "GISF",
-            slug: "giacinformationsecurityfundamentalscertification",
+            slug: "giac-information-security-fundamentals-certification",
             title: "GIAC Information Security Fundamentals",
             c_image: "/certification_img/giac_logo/gisf.webp",
           },
           {
             code: "GDSA",
-            slug: "giacdefensiblesecurityarchitectcertification",
+            slug: "giac-defensible-security-architect-certification",
             title: "GIAC Defensible Security Architect",
             c_image: "/certification_img/giac_logo/gdsa.webp",
           },
@@ -378,13 +378,13 @@ export const CertificationList = [
         items: [
           {
             code: "GISP",
-            slug: "giacinformationsecurityProfessionalcertification",
+            slug: "giac-information-security-professional-certification",
             title: "GIAC Information Security Professional",
             c_image: "/certification_img/giac_logo/gisp.webp",
           },
           {
             code: "GSOM",
-            slug: "giacsecurityoperationsmanagercertification",
+            slug: "giac-security-operations-manager-certification",
             title: "GIAC Security Operations Manager",
             c_image: "/certification_img/giac_logo/gsom.webp",
           },
@@ -395,19 +395,19 @@ export const CertificationList = [
         items: [
           {
             code: "GCIH",
-            slug: "giaccertifiedincidenthandlercourse",
+            slug: "giac-certified-incident-handler-course",
             title: "GIAC Certified Incident Handler",
             c_image: "/certification_img/giac_logo/gcih.webp",
           },
           {
             code: "GPEN",
-            slug: "giacpenetrationtestertraining",
+            slug: "giac-penetration-tester-training",
             title: "GIAC Penetration Tester",
             c_image: "/certification_img/giac_logo/gpen.webp",
           },
           {
             code: "GPYC",
-            slug: "giacpythoncodertraining",
+            slug: "giac-python-coder-training",
             title: "GIAC Python Coder",
             c_image: "/certification_img/giac_logo/gpyc.webp",
           },
@@ -418,7 +418,7 @@ export const CertificationList = [
         items: [
           {
             code: "GCSA",
-            slug: "giaccloudsecurityautomationtraining",
+            slug: "giac-cloud-security-automation-training",
             title: "GIAC Cloud Security Automation",
             c_image: "/certification_img/giac_logo/gcsa.webp",
           },
@@ -434,37 +434,37 @@ export const CertificationList = [
         items: [
           {
             code: "CISM",
-            slug: "isacacybersecuritycertification",
+            slug: "isaca-cyber-security-certification",
             title: "ISACA Certified Information Security Manager",
             c_image: "/certification_img/isaca_logo/cism.webp",
           },
           {
             code: "CISA",
-            slug: "informationsecuritygovernancecertification",
+            slug: "information-security-governance-certification",
             title: "ISACA Certified Information Systems Auditor",
             c_image: "/certification_img/isaca_logo/cisa.webp",
           },
           {
             code: "CDPSE",
-            slug: "isacadataprivacycertification",
+            slug: "isaca-data-privacy-certification",
             title: "ISACA Data Privacy Solutions Engineer",
             c_image: "/certification_img/isaca_logo/cdpse.webp",
           },
           {
             code: "CCA",
-            slug: "isacacybersecurityauditcertificate",
+            slug: "isaca-cyber-security-audit-certificate",
             title: "ISACA Certified Cybersecurity Audit",
             c_image: "/certification_img/isaca_logo/cca.webp",
           },
           {
             code: "CDSF",
-            slug: "isacadatasciencefundamentals",
+            slug: "isaca-data-science-fundamentals",
             title: "ISACA Certified Data Science Fundamentals",
             c_image: "/certification_img/isaca_logo/cdsf.webp",
           },
           {
             code: "CSDF",
-            slug: "isacacertificationcourses",
+            slug: "isaca-certification-courses",
             title: "ISACA Certified Software Development Fundamentals",
             c_image: "/certification_img/isaca_logo/csdf.webp",
           },

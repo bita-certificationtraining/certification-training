@@ -1,5 +1,5 @@
 const pcepTrainingCourse =     {
-  slug: "pceptrainingcourse",
+  slug: "pcep-training-course",
   code: "PCEP",
   title: "pcep training course",
   description: "Become a Python expert with our advanced certification.",
@@ -42,7 +42,7 @@ const pcepTrainingCourse =     {
 };
 
 const pcappreparationcourse =     {
-  slug: "pcappreparationcourse",
+  slug: "pcap-preparation-course",
   code: "PCAP",
   title: "pcap preparation course",
   description: "Become a Python expert with our advanced certification.",
@@ -83,7 +83,7 @@ const pcappreparationcourse =     {
 };
 
 const pcpp1training =     {
-  slug: "pcpp1training",
+  slug: "pcpp1-training",
   code: "PCPP1",
   title: "pcpp1 training ",
   description: "Become a Python expert with our advanced certification.",
@@ -156,7 +156,7 @@ const pcpp1training =     {
 };
 
 const pcpp2course =      {
-  slug: "pcpp2course",
+  slug: "pcpp2-course",
   code: "PCPP2",
   title: "pcpp2 course ",
   description: "Become a Python expert with our advanced certification.",
@@ -218,7 +218,7 @@ const pcpp2course =      {
 };
 
 const pcatonlinecourse =       {
-  slug: "pcatonlinecourse",
+  slug: "pcat-online-course",
   code: "PCAT",
   title: "pcat online course",
   description: "Become a Python expert with our advanced certification.",
@@ -275,7 +275,7 @@ const pcatonlinecourse =       {
 };
 
 const pcedcertificationpreparation =       {
-  slug: "pcedcertificationpreparation",
+  slug: "pced-certification-preparation",
   code: "PCED",
   title: "pced certification preparation",
   description: "Become a Python expert with our advanced certification.",
@@ -338,7 +338,7 @@ const pcedcertificationpreparation =       {
 };
 
 const pcadcertificationsyllabus =      {
-  slug: "pcadcertificationsyllabus",
+  slug: "pcad-certification-syllabus",
   code: "PCAD",
   title: "pcad certification syllabus",
   description: "Become a Python expert with our advanced certification.",
@@ -392,7 +392,7 @@ const pcadcertificationsyllabus =      {
 };
 
 const awscertifiedcloudpractitionerlearncloudbasics =  {
-  slug: "awscertifiedcloudpractitionerlearncloudbasics",
+  slug: "aws-certified-cloud-practitioner-learn-cloud-basics",
   code: "CLF-C02",
   title: "AWS Certified Cloud Practitioner - Learn Cloud Basics",
   description: "Become a AWS expert with our certification.",
@@ -465,7 +465,7 @@ const awscertifiedcloudpractitionerlearncloudbasics =  {
 };
 
 const awscertifiedaipractitionerfoundational =  {
-  slug: "awscertifiedaipractitionerfoundational",
+  slug: "aws-certified-ai-practitioner-foundational",
   code: "AIF-C01",
   title: "AWS Certified AI Practitioner - Foundational",
   description: "Become a AWS Certified AI Practitioner - Foundational our certification",
@@ -543,7 +543,7 @@ const awscertifiedaipractitionerfoundational =  {
 };
 
 const awscertifiedMachineLearningengineerassociate =  {
-  slug: "awscertifiedMachineLearningengineerassociate",
+  slug: "aws-certified-machine-learning-engineer-associate",
   code: "MLA-C01",
   title: "AWS Certified Machine Learning Engineer - Associate",
   description: "Become a AWS Certified Machine Learning Engineer - Associate our certification",
@@ -622,7 +622,7 @@ const awscertifiedMachineLearningengineerassociate =  {
 
 
 const awscertifiedsolutionsarchitectassociate =  {
-  slug: "awscertifiedsolutionsarchitectassociate",
+  slug: "aws-certified-solutions-architect-associate",
   code: "SAA-C03",
   title: "AWS Certified Solutions Architect – Associate",
   description: "Become a AWS Certified Solutions Architect – Associate our certification",
@@ -699,7 +699,7 @@ const awscertifiedsolutionsarchitectassociate =  {
 
 
 const awscertifieddeveloperassociate =  {
-  slug: "awscertifieddeveloperassociate",
+  slug: "aws-certified-developer-associate",
   code: "DVA-C02",
   title: "AWS Certified Developer – Associate",
   description: "Become a AWS Certified Developer – Associate our certification ",
@@ -779,7 +779,7 @@ const awscertifieddeveloperassociate =  {
 };
 
 const awscertifieddataengineerassociate =  {
-  slug: "awscertifieddataengineerassociate",
+  slug: "aws-certified-data-engineer-associate",
   code: "DEA-C01",
   title: "AWS Certified Data Engineer – Associate",
   description: "Become a AWS Certified Data Engineer – Associate our certification",
@@ -855,7 +855,7 @@ const awscertifieddataengineerassociate =  {
 
 
 const awscertifiedsysopsadministratorassociate =  {
-  slug: "awscertifiedsysopsadministratorassociate",
+  slug: "aws-certified-sysops-administrator-associate",
   code: "SOA-C02",
   title: "AWS Certified SysOps Administrator – Associate",
   description: "Become a AWS Certified SysOps Administrator – Associate our certification.",
@@ -935,7 +935,7 @@ const awscertifiedsysopsadministratorassociate =  {
 };
 
 const awscertifieddevOpsengineerprofessional =  {
-  slug: "awscertifieddevOpsengineerprofessional",
+  slug: "aws-certified-devops-engineer-professional",
   code: "DOP-C02",
   title: "AWS Certified DevOps Engineer – Professional",
   description: "Become a AWS Certified DevOps Engineer – Professional our certification",
@@ -1014,7 +1014,7 @@ const awscertifieddevOpsengineerprofessional =  {
 };
 
 const awscertifiedsolutionsarchitectprofessional =  {
-  slug: "awscertifiedsolutionsarchitectprofessional",
+  slug: "aws-certified-solutions-architect-professional",
   code: "SAP-C02",
   title: "AWS Certified Solutions Architect – Professional",
   description: "Become a AWS Certified Solutions Architect – Professional our certification",
@@ -1093,7 +1093,7 @@ const awscertifiedsolutionsarchitectprofessional =  {
 
 
 const awscertifiedmachinelearningspecialty =  {
-  slug: "awscertifiedmachinelearningspecialty",
+  slug: "aws-certified-machine-learning-specialty",
   code: "MLS-C01",
   title: "AWS Certified Machine Learning – Specialty",
   description: "Become a AWS Certified Machine Learning – Specialty our certification",
@@ -1170,7 +1170,7 @@ const awscertifiedmachinelearningspecialty =  {
 };
 
 const awscertifiedadvancednetworkingspecialty =  {
-  slug: "awscertifiedadvancednetworkingspecialty",
+  slug: "aws-certified-advanced-networking-specialty",
   code: "ANS-C01",
   title: "AWS Certified Advanced Networking – Specialty",
   description: "Become a AWS Certified Advanced Networking – Specialty our Certification",
@@ -1249,7 +1249,7 @@ const awscertifiedadvancednetworkingspecialty =  {
 };
 
 const awscertifiedsecurityspecialty =  {
-  slug: "awscertifiedsecurityspecialty",
+  slug: "aws-certified-security-specialty",
   code: "SCS-C02",
   title: "AWS Certified Security – Specialty",
   description: "Become a AWS Certified Security – Specialty our Certification",
@@ -1373,7 +1373,7 @@ const awscertifiedsecurityspecialty =  {
 
 
 const microsoftsecurityoperationsanalystcertification =       {
-  slug: "microsoftsecurityoperationsanalystcertification",
+  slug: "microsoft-security-operations-analyst-certification",
   code: "SC-200",
   title: "microsoft security operations analyst certification ",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1437,7 +1437,7 @@ const microsoftsecurityoperationsanalystcertification =       {
 };
 
 const microsoftidentitymanagertraining =       {
-  slug: "microsoftidentitymanagertraining",
+  slug: "microsoft-identity-manager-training",
   code: "SC-300",
   title: "microsoft identity manager training",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1509,7 +1509,7 @@ const microsoftidentitymanagertraining =       {
 };
 
 const microsoftazureadministratortrainingcourse =       {
-  slug: "microsoftazureadministratortrainingcourse",
+  slug: "microsoft-azure-administrator-training-course",
   code: "AZ-104",
   title: "microsoft azure administrator training course",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1583,7 +1583,7 @@ const microsoftazureadministratortrainingcourse =       {
 };
 
 const az204trainingcourses =       {
-  slug: "az204trainingcourses",
+  slug: "az204-training-courses",
   code: "AZ-204",
   title: "az-204 training courses",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1653,7 +1653,7 @@ const az204trainingcourses =       {
 };
 
 const microsoftazuresecuritytechnologiescourse =       {
-  slug: "microsoftazuresecuritytechnologiescourse",
+  slug: "microsoft-azure-security-technologies-course",
   code: "AZ-500",
   title: "microsoft azure security technologies course",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1723,7 +1723,7 @@ const microsoftazuresecuritytechnologiescourse =       {
 };
 
 const az305trainingcourse =       {
-  slug: "az305trainingcourse",
+  slug: "az305-training-course",
   code: "AZ-305",
   title: "az 305 training course ",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1784,7 +1784,7 @@ const az305trainingcourse =       {
 };
 
 const az400trainingonline =       {
-  slug: "az400trainingonline",
+  slug: "az400-training-online",
   code: "AZ-400",
   title: "az-400 training online",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1845,7 +1845,7 @@ const az400trainingonline =       {
 };
 
 const microsoftcybersecuritycourseforbeginners =       {
-  slug: "microsoftcybersecuritycourseforbeginners",
+  slug: "microsoft-cyber-security-course-for-beginners",
   code: "SC-100",
   title: "microsoft cyber security course for beginners",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1913,7 +1913,7 @@ const microsoftcybersecuritycourseforbeginners =       {
 };
 
 const microsoftdynamics365traininginchennai =       {
-  slug: "microsoftdynamics365traininginchennai",
+  slug: "microsoft-dynamics365-training-in-chennai",
   code: "MB-910",
   title: "microsoft dynamics 365 training in chennai",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -1971,7 +1971,7 @@ const microsoftdynamics365traininginchennai =       {
 };
 
 const microsoftdynamics365trainingcourses = {
-  slug: "microsoftdynamics365trainingcourses",
+  slug: "microsoft-dynamics365-training-courses",
   code: "MB-920",
   title: "microsoft dynamics 365 training courses",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -2029,7 +2029,7 @@ const microsoftdynamics365trainingcourses = {
   finally: "Choosing BITA Certification Training Institute for your Microsoft Dynamics 365 Training Courses means investing in a brighter future with limitless professional options. Join us today and take the first step toward becoming a certified Dynamics 365 ERP specialist."
 }
 const microsoft365administratortraining =       {
-  slug: "microsoft365administratortraining",
+  slug: "microsoft-365administrator-training",
   code: "MB-102",
   title: "microsoft 365 administrator training",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -2096,7 +2096,7 @@ const microsoft365administratortraining =       {
 };
 
 const microsoftfinanceandoperationstraining = {
-  slug: "microsoftfinanceandoperationstraining",
+  slug: "microsoft-finance-and-operations-training",
   code: "MB-700",
   title: "microsoft finance and operations training",
   description: "Become a Microsoft expert with our advanced certification.",
@@ -2159,7 +2159,7 @@ const microsoftfinanceandoperationstraining = {
 };
 
 const comptiaacourseinchennai = {
-  slug: "comptiaacourseinchennai",
+  slug: "comptia-a-course-in-chennai",
   code: "CompTIA A+",
   title: "comptia a+ course in chennai",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2244,7 +2244,7 @@ const comptiaacourseinchennai = {
 };
 
 const comptianetworkcertification = {
-  slug: "comptianetworkcertification",
+  slug: "comptia-network-certification",
   code: "CompTIA Network+",
   title: "comptia network+ certification",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2329,7 +2329,7 @@ const comptianetworkcertification = {
 };
 
 const comptiasecuritycourseinchennai =  {
-  slug: "comptiasecuritycourseinchennai",
+  slug: "comptia-security-course-in-chennai",
   code: "CompTIA Security+",
   title: "comptia security+ course in chennai",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2416,7 +2416,7 @@ const comptiasecuritycourseinchennai =  {
 }
 
 const comptiacloudtrainingcenters =       {
-  slug: "comptiacloudtrainingcenters",
+  slug: "comptia-cloud-training-centers",
   code: "CompTIA Cloud+",
   title: "comptia cloud+ training centers",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2479,7 +2479,7 @@ const comptiacloudtrainingcenters =       {
 };
 
 const comptialinuxtraining = {
-  slug: "comptialinuxtraining",
+  slug: "comptia-linux-training",
   code: "CompTIA Linux+",
   title: "comptia linux+ training ",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2542,7 +2542,7 @@ const comptialinuxtraining = {
 };
 
 const comptiacybersecurityanalystcertification = {
-  slug: "comptiacybersecurityanalystcertification",
+  slug: "comptia-cyber-security-analyst-certification",
   code: "Comptia CySA+",
   title: "comptia cybersecurity analyst (cysa+) certification ",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2628,7 +2628,7 @@ const comptiacybersecurityanalystcertification = {
 };
 
 const comptiaadvancedsecuritypractitionertraining = {
-  slug: "comptiaadvancedsecuritypractitionertraining",
+  slug: "comptia-advanced-security-practitioner-training",
   code: "CompTIA CASP+",
   title: "comptia advanced security practitioner (casp+) training",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2723,7 +2723,7 @@ const comptiaadvancedsecuritypractitionertraining = {
 };
 
 const comptiapentestcourse = {
-  slug: "comptiapentestcourse",
+  slug: "comptia-pen-test-course",
   code: "CompTIA PenTest+",
   title: "comptia pentest+ course",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2817,7 +2817,7 @@ const comptiapentestcourse = {
 };
 
 const comptiadatatraining =  {
-  slug: "comptiadatatraining",
+  slug: "comptia-data-training",
   code: "CompTIA Data+",
   title: "comptia data+ training ",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2903,7 +2903,7 @@ const comptiadatatraining =  {
 };
 
 const comptiadatasystraining = {
-  slug: "comptiadatasystraining",
+  slug: "comptia-datasys-training",
   code: "CompTIA DataSys+",
   title: "comptia datasys+ training",
   description: "Become a Comptia expert with our advanced certification.",
@@ -2990,7 +2990,7 @@ const comptiadatasystraining = {
 };
 
 const giaccertificationexamcost = {
-  slug: "giaccertificationexamcost",
+  slug: "giac-certification-exam-cost",
   code: "GMLE",
   title: "giac certification exam cost",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3095,7 +3095,7 @@ const giaccertificationexamcost = {
 };
 
 const giacsecurityoperationscertifiedtraining =  {
-  slug: "giacsecurityoperationscertifiedtraining",
+  slug: "giac-security-operations-certified-training",
   code: "GSOC",
   title: "giac security operations certified training",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3184,7 +3184,7 @@ const giacsecurityoperationscertifiedtraining =  {
 };
 
 const giacinformationsecurityfundamentalscertification =      {
-  slug: "giacinformationsecurityfundamentalscertification",
+  slug: "giac-information-security-fundamentals-certification",
   code: "GISF",
   title: "giac information security fundamentals certification ",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3306,7 +3306,7 @@ const giacinformationsecurityfundamentalscertification =      {
 };
 
 const giacdefensiblesecurityarchitectcertification =    {
-  slug: "giacdefensiblesecurityarchitectcertification",
+  slug: "giac-defensible-security-architect-certification",
   code: "GDSA",
   title: "giac defensible security architect certification",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3387,7 +3387,7 @@ const giacdefensiblesecurityarchitectcertification =    {
 };
 
 const giacinformationsecurityProfessionalcertification = {
-  slug: "giacinformationsecurityProfessionalcertification",
+  slug: "giac-information-security-professional-certification",
   code: "GISP",
   title: "giac information security fundamentals certification",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3449,7 +3449,7 @@ const giacinformationsecurityProfessionalcertification = {
 };
 
 const giacsecurityoperationsmanagercertification = {
-  slug: "giacsecurityoperationsmanagercertification",
+  slug: "giac-security-operations-manager-certification",
   code: "GSOM",
   title: "giac security operations manager certification",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3511,7 +3511,7 @@ const giacsecurityoperationsmanagercertification = {
 };
 
 const giaccertifiedincidenthandlercourse =  {
-  slug: "giaccertifiedincidenthandlercourse",
+  slug: "giac-certified-incident-handler-course",
   code: "GCIH",
   title: "giac certified incident handler course",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3573,7 +3573,7 @@ const giaccertifiedincidenthandlercourse =  {
 };
 
 const giacpenetrationtestertraining = {
-  slug: "giacpenetrationtestertraining",
+  slug: "giac-penetration-tester-training",
   code: "GPEN",
   title: "giac penetration tester training",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3646,7 +3646,7 @@ const giacpenetrationtestertraining = {
 };
 
 const giacpythoncodertraining = {
-  slug: "giacpythoncodertraining",
+  slug: "giac-python-coder-training",
   code: "GPYC",
   title: "giac python coder training ",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3711,7 +3711,7 @@ const giacpythoncodertraining = {
 };
 
 const giaccloudsecurityautomationtraining = {
-  slug: "giaccloudsecurityautomationtraining",
+  slug: "giac-cloud-security-automation-training",
   code: "GCSA",
   title: "giac cloud security automation training",
   description: "Become a GIAC expert with our advanced certification.",
@@ -3769,7 +3769,7 @@ const giaccloudsecurityautomationtraining = {
 };
 
 const isacacybersecuritycertification = {
-  slug: "isacacybersecuritycertification",
+  slug: "isaca-cyber-security-certification",
   code: "CISM",
   title: "isaca cyber security certification",
   description: "Become a ISACA expert with our advanced certification.",
@@ -3842,7 +3842,7 @@ const isacacybersecuritycertification = {
 };
 
 const informationsecuritygovernancecertification = {
-  slug: "informationsecuritygovernancecertification",
+  slug: "information-security-governance-certification",
   code: "CISA",
   title: "information security governance certification",
   description: "Become a ISACA expert with our advanced certification.",
@@ -3916,7 +3916,7 @@ const informationsecuritygovernancecertification = {
 };
 
 const isacadataprivacycertification = {
-  slug: "isacadataprivacycertification",
+  slug: "isaca-data-privacy-certification",
   code: "CDPSE",
   title: "isaca data privacy certification",
   description: "Become a ISACA expert with our advanced certification.",
@@ -3991,7 +3991,7 @@ const isacadataprivacycertification = {
 }
 
 const isacacybersecurityauditcertificate = {
-  slug: "isacacybersecurityauditcertificate",
+  slug: "isaca-cyber-security-audit-certificate",
   code: "CCA",
   title: "isaca cybersecurity audit certificate",
   description: "Become a ISACA expert with our advanced certification.",
@@ -4065,7 +4065,7 @@ const isacacybersecurityauditcertificate = {
 };
 
 const isacadatasciencefundamentals = {
-  slug: "isacadatasciencefundamentals",
+  slug: "isaca-data-science-fundamentals",
   code: "CDSF",
   title: "isaca data science fundamentals",
   description: "Become a ISACA expert with our advanced certification.",
@@ -4130,7 +4130,7 @@ const isacadatasciencefundamentals = {
 };
 
 const isacacertificationcourses =  {
-  slug: "isacacertificationcourses",
+  slug: "isaca-certification-courses",
   code: "CSDF",
   title: "isaca certification courses ",
   description: "Become a ISACA expert with our advanced certification.",
@@ -4196,62 +4196,62 @@ const isacacertificationcourses =  {
 };
 
 export const allCertifications = {
-  pceptrainingcourse: pcepTrainingCourse,
-  pcappreparationcourse: pcappreparationcourse,
-  pcpp1training : pcpp1training,
-  pcpp2course : pcpp2course,
-  pcatonlinecourse : pcatonlinecourse,
-  pcedcertificationpreparation : pcedcertificationpreparation,
-  pcadcertificationsyllabus : pcadcertificationsyllabus,
-  awscertifiedcloudpractitionerlearncloudbasics : awscertifiedcloudpractitionerlearncloudbasics,
-  awscertifiedaipractitionerfoundational : awscertifiedaipractitionerfoundational,
-  awscertifiedMachineLearningengineerassociate : awscertifiedMachineLearningengineerassociate,
-  awscertifiedsolutionsarchitectassociate : awscertifiedsolutionsarchitectassociate,
-  awscertifieddeveloperassociate : awscertifieddeveloperassociate,
-  awscertifieddataengineerassociate : awscertifieddataengineerassociate,
-  awscertifiedsysopsadministratorassociate : awscertifiedsysopsadministratorassociate,
-  awscertifieddevOpsengineerprofessional : awscertifieddevOpsengineerprofessional,
-  awscertifiedsolutionsarchitectprofessional : awscertifiedsolutionsarchitectprofessional,
-  awscertifiedmachinelearningspecialty : awscertifiedmachinelearningspecialty,
-  awscertifiedsecurityspecialty : awscertifiedsecurityspecialty,
-  awscertifiedadvancednetworkingspecialty : awscertifiedadvancednetworkingspecialty,
-  microsoftsecurityoperationsanalystcertification : microsoftsecurityoperationsanalystcertification,
-  microsoftidentitymanagertraining : microsoftidentitymanagertraining,
-  microsoftazureadministratortrainingcourse : microsoftazureadministratortrainingcourse,
-  az204trainingcourses : az204trainingcourses,
-  microsoftazuresecuritytechnologiescourse : microsoftazuresecuritytechnologiescourse,
-  az305trainingcourse : az305trainingcourse,
-  az400trainingonline : az400trainingonline,
-  microsoftcybersecuritycourseforbeginners : microsoftcybersecuritycourseforbeginners,
-  microsoftdynamics365traininginchennai : microsoftdynamics365traininginchennai,
-  microsoftdynamics365trainingcourses : microsoftdynamics365trainingcourses,
-  microsoft365administratortraining : microsoft365administratortraining,
-  microsoftfinanceandoperationstraining : microsoftfinanceandoperationstraining,
-  comptiaacourseinchennai : comptiaacourseinchennai,
-  comptianetworkcertification : comptianetworkcertification,
-  comptiasecuritycourseinchennai : comptiasecuritycourseinchennai,
-  comptiacloudtrainingcenters : comptiacloudtrainingcenters,
-  comptialinuxtraining : comptialinuxtraining,
-  comptiacybersecurityanalystcertification : comptiacybersecurityanalystcertification,
-  comptiaadvancedsecuritypractitionertraining : comptiaadvancedsecuritypractitionertraining,
-  comptiapentestcourse : comptiapentestcourse,
-  comptiadatatraining : comptiadatatraining,
-  comptiadatasystraining : comptiadatasystraining,
-  giaccertificationexamcost : giaccertificationexamcost,
-  giacsecurityoperationscertifiedtraining : giacsecurityoperationscertifiedtraining,
-  giacinformationsecurityfundamentalscertification : giacinformationsecurityfundamentalscertification,
-  giacdefensiblesecurityarchitectcertification : giacdefensiblesecurityarchitectcertification,
-  giacinformationsecurityProfessionalcertification : giacinformationsecurityProfessionalcertification,
-  giacsecurityoperationsmanagercertification : giacsecurityoperationsmanagercertification,
-  giaccertifiedincidenthandlercourse : giaccertifiedincidenthandlercourse,
-  giacpenetrationtestertraining : giacpenetrationtestertraining,
-  giacpythoncodertraining : giacpythoncodertraining,
-  giaccloudsecurityautomationtraining : giaccloudsecurityautomationtraining,
-  isacacybersecuritycertification : isacacybersecuritycertification,
-  informationsecuritygovernancecertification : informationsecuritygovernancecertification,
-  isacadataprivacycertification : isacadataprivacycertification,
-  isacacybersecurityauditcertificate : isacacybersecurityauditcertificate,
-  isacadatasciencefundamentals : isacadatasciencefundamentals,
-  isacacertificationcourses : isacacertificationcourses
+  "pcep-training-course": pcepTrainingCourse,
+  "pcap-preparation-course": pcappreparationcourse,
+  "pcpp1-training" : pcpp1training,
+  "pcpp2-course" : pcpp2course,
+  "pcat-online-course" : pcatonlinecourse,
+  "pced-certification-preparation" : pcedcertificationpreparation,
+  "pcad-certification-syllabus" : pcadcertificationsyllabus,
+  "aws-certified-cloud-practitioner-learn-cloud-basics" : awscertifiedcloudpractitionerlearncloudbasics,
+  "aws-certified-ai-practitioner-foundational" : awscertifiedaipractitionerfoundational,
+  "aws-certified-machine-learning-engineer-associate" : awscertifiedMachineLearningengineerassociate,
+  "aws-certified-solutions-architect-associate" : awscertifiedsolutionsarchitectassociate,
+  "aws-certified-developer-associate" : awscertifieddeveloperassociate,
+  "aws-certified-data-engineer-associate" : awscertifieddataengineerassociate,
+  "aws-certified-sysops-administrator-associate" : awscertifiedsysopsadministratorassociate,
+  "aws-certified-devops-engineer-professional" : awscertifieddevOpsengineerprofessional,
+  "aws-certified-solutions-architect-professional" : awscertifiedsolutionsarchitectprofessional,
+  "aws-certified-machine-learning-specialty" : awscertifiedmachinelearningspecialty,
+  "aws-certified-advanced-networking-specialty" : awscertifiedsecurityspecialty,
+  "aws-certified-security-specialty" : awscertifiedadvancednetworkingspecialty,
+  "microsoft-security-operations-analyst-certification" : microsoftsecurityoperationsanalystcertification,
+  "microsoft-identity-manager-training" : microsoftidentitymanagertraining,
+  "microsoft-azure-administrator-training-course" : microsoftazureadministratortrainingcourse,
+  "az204-training-courses" : az204trainingcourses,
+  "microsoft-azure-security-technologies-course" : microsoftazuresecuritytechnologiescourse,
+  "az305-training-course" : az305trainingcourse,
+  "az400-training-online" : az400trainingonline,
+  "microsoft-cyber-security-course-for-beginners" : microsoftcybersecuritycourseforbeginners,
+  "microsoft-dynamics365-training-in-chennai" : microsoftdynamics365traininginchennai,
+  "microsoft-dynamics365-training-courses" : microsoftdynamics365trainingcourses,
+  "microsoft-365administrator-training" : microsoft365administratortraining,
+  "microsoft-finance-and-operations-training" : microsoftfinanceandoperationstraining,
+  "comptia-a-course-in-chennai" : comptiaacourseinchennai,
+  "comptia-network-certification" : comptianetworkcertification,
+  "comptia-security-course-in-chennai" : comptiasecuritycourseinchennai,
+  "comptia-cloud-training-centers" : comptiacloudtrainingcenters,
+  "comptia-linux-training" : comptialinuxtraining,
+  "comptia-cyber-security-analyst-certification" : comptiacybersecurityanalystcertification,
+  "comptia-advanced-security-practitioner-training" : comptiaadvancedsecuritypractitionertraining,
+  "comptia-pen-test-course" : comptiapentestcourse,
+  "comptia-data-training" : comptiadatatraining,
+  "comptia-datasys-training" : comptiadatasystraining,
+  "giac-certification-exam-cost" : giaccertificationexamcost,
+  "giac-security-operations-certified-training" : giacsecurityoperationscertifiedtraining,
+  "giac-information-security-fundamentals-certification" : giacinformationsecurityfundamentalscertification,
+  "giac-defensible-security-architect-certification" : giacdefensiblesecurityarchitectcertification,
+  "giac-information-security-professional-certification" : giacinformationsecurityProfessionalcertification,
+  "giac-security-operations-manager-certification" : giacsecurityoperationsmanagercertification,
+  "giac-certified-incident-handler-course" : giaccertifiedincidenthandlercourse,
+  "giac-penetration-tester-training" : giacpenetrationtestertraining,
+  "giac-python-coder-training" : giacpythoncodertraining,
+  "giac-cloud-security-automation-training" : giaccloudsecurityautomationtraining,
+  "isaca-cyber-security-certification" : isacacybersecuritycertification,
+  "information-security-governance-certification" : informationsecuritygovernancecertification,
+  "isaca-data-privacy-certification" : isacadataprivacycertification,
+  "isaca-cyber-security-audit-certificate" : isacacybersecurityauditcertificate,
+  "isaca-data-science-fundamentals" : isacadatasciencefundamentals,
+  "isaca-certification-courses" : isacacertificationcourses
 
 };

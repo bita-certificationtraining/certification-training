@@ -1,7 +1,7 @@
 export const examdetails = [
   {
     code: "PCEP",
-    slug: "pceptrainingcourse",
+    slug: "pcep-training-course",
     examdetails: {
       examname: "Certified Entry Level Python Programmer",
       prereq: "None",
@@ -15,7 +15,7 @@ export const examdetails = [
   },
   {
     code: "PCAP",
-    slug: "pcappreparationcourse",
+    slug: "pcap-preparation-course",
     examdetails: {
       examname: "Python Certified Associate Programmer",
       prereq: "None",
@@ -29,7 +29,7 @@ export const examdetails = [
   },
   {
     code: "PCPP1",
-    slug: "pcpp1training",
+    slug: "pcpp1-training",
     examdetails: {
       examname: " PCPP1 – Certified Professional Python Programmer Level 1",
       prereq: "PCAP – Certified Associate in Python Programming (Exam PCAP-31-0x)",
@@ -43,7 +43,7 @@ export const examdetails = [
   },
   {
     code: "PCPP2",
-    slug: "pcpp2course",
+    slug: "pcpp2-course",
     examdetails: {
       examname: "PCPP2 Certified Professional Python Programmer Level 2",
       prereq: "PCAP Certified Associate Python Programmer (Exam PCAP-31-0x) + PCPP1 – Certified Professional Python Programmer Level 1 (Exam PCPP1-32-10x)",
@@ -57,7 +57,7 @@ export const examdetails = [
   },
   {
     code: "PCAT",
-    slug: "pcatonlinecourse",
+    slug: "pcat-online-course",
     examdetails: {
       examname: " PCAT™ – Certified Associate Tester with Python",
       prereq: "None",
@@ -71,7 +71,7 @@ export const examdetails = [
   },
   {
     code: "PCED",
-    slug: "pcedcertificationpreparation",
+    slug: "pced-certification-preparation",
     examdetails: {
       examname: " PCED: Certified Entry-Level Data Analyst with Python",
       prereq: " Formal: None",
@@ -86,7 +86,7 @@ export const examdetails = [
   },
   {
     code: "PCAD",
-    slug: "pcadcertificationsyllabus",
+    slug: "pcad-certification-syllabus",
     examdetails: {
       examname: "PCAD™ – Certified Associate Data Analyst with Python",
       prereq: "None",
@@ -100,7 +100,7 @@ export const examdetails = [
   },
   {
     code: "CLF-C02",
-    slug: "awscertifiedcloudpractitionerlearncloudbasics",
+    slug: "aws-certified-cloud-practitioner-learn-cloud-basics",
     examdetails: {
       examname: "AWS Certified Cloud Practitioner",
       examlevel: "Foundational",
@@ -113,7 +113,7 @@ export const examdetails = [
   },
     {
     code: "AIF-C01",
-    slug: "awscertifiedaipractitionerfoundational",
+    slug: "aws-certified-ai-practitioner-foundational",
     examdetails: {
       examname: "AWS Certified AI Practitioner – Foundational",
       examlevel: "Foundational",
@@ -126,7 +126,7 @@ export const examdetails = [
   },
     {
     code: "MLA-C01",
-    slug: "awscertifiedMachineLearningengineerassociate",
+    slug: "aws-certified-machine-learning-engineer-associate",
     examdetails: {
       examname: "AWS Certified Machine Learning Engineer – Associate",
       examlevel: "Associate",
@@ -139,7 +139,7 @@ export const examdetails = [
   },
   {
     code: "SAA-C03",
-    slug: "awscertifiedsolutionsarchitectassociate",
+    slug: "aws-certified-solutions-architect-associate",
     examdetails: {
       examname: "AWS Certified Solutions Architect – Associate",
       examlevel: "Associate",
@@ -152,7 +152,7 @@ export const examdetails = [
   },
     {
     code: "DVA-C02",
-    slug: "awscertifieddeveloperassociate",
+    slug: "aws-certified-developer-associate",
     examdetails: {
       examname: "AWS Certified Developer – Associate",
       examlevel: "Associate",
@@ -165,7 +165,7 @@ export const examdetails = [
   },
   {
     code: "DEA-C01",
-    slug: "awscertifieddataengineerassociate",
+    slug: "aws-certified-data-engineer-associate",
     examdetails: {
       examname: "AWS Certified Data Engineer – Associate",
       examlevel: "Associate",
@@ -178,7 +178,7 @@ export const examdetails = [
   },
   {
     code: "SOA-C02",
-    slug: "awscertifiedsysopsadministratorassociate",
+    slug: "aws-certified-sysops-administrator-associate",
     examdetails: {
       examname: "AWS Certified SysOps Administrator – Associate",
       examlevel: "Associate",
@@ -191,7 +191,7 @@ export const examdetails = [
   },
     {
     code: "DOP-C02",
-    slug: "awscertifieddevOpsengineerprofessional",
+    slug: "aws-certified-devops-engineer-professional",
     examdetails: {
       examname: "AWS Certified DevOps Engineer – Professional",
       examlevel: "Professional",
@@ -204,7 +204,7 @@ export const examdetails = [
   },
   {
     code: "SAP-C02",
-    slug: "awscertifiedsolutionsarchitectprofessional",
+    slug: "aws-certified-solutions-architect-professional",
     examdetails: {
       examname: "AWS Certified Solutions Architect – Professional",
       examlevel: "Professional",
@@ -217,7 +217,7 @@ export const examdetails = [
   },
   {
     code: "MLS-C01",
-    slug: "awscertifiedmachinelearningspecialty",
+    slug: "aws-certified-machine-learning-specialty",
     examdetails: {
       examname: "AWS Certified Machine Learning – Specialty",
       examlevel: "Specialty",
@@ -230,7 +230,7 @@ export const examdetails = [
   },
   {
     code: "ANS-C01",
-    slug: "awscertifiedadvancednetworkingspecialty",
+    slug: "aws-certified-advanced-networking-specialty",
     examdetails: {
       examname: "AWS Certified Advanced Networking – Specialty",
       examlevel: "Specialty",
@@ -243,7 +243,7 @@ export const examdetails = [
   },
   {
     code: "SCS-C02",
-    slug: "awscertifiedsecurityspecialty",
+    slug: "aws-certified-security-specialty",
     examdetails: {
       examname: "AWS Certified Security – Specialty",
       examlevel: "Specialty",
@@ -270,7 +270,7 @@ export const examdetails = [
   // },
   {
     code: "SC-200",
-    slug: "microsoftsecurityoperationsanalystcertification",
+    slug: "microsoft-security-operations-analyst-certification",
     examdetails: {
       examname: "SC-200: Microsoft Security Operations Analyst",
       examlevel: "Intermediate Level",
@@ -284,7 +284,7 @@ export const examdetails = [
   },
   {
     code: "SC-300",
-    slug: "microsoftidentitymanagertraining",
+    slug: "microsoft-identity-manager-training",
     examdetails: {
       examname: "SC-300: Microsoft Identity and Access Administrator",
       examlevel: "Intermediate Level",
@@ -298,7 +298,7 @@ export const examdetails = [
   },
   {
     code: "AZ-104",
-    slug: "microsoftazureadministratortrainingcourse",
+    slug: "microsoft-azure-administrator-training-course",
     examdetails: {
       examname: "AZ-104: Microsoft Azure Administrator",
       examlevel: "Intermediate Level",
@@ -312,7 +312,7 @@ export const examdetails = [
   },
   {
     code: "AZ-204",
-    slug: "az204trainingcourses",
+    slug: "az204-training-courses",
     examdetails: {
       examname: "AZ-204: Developing Solutions for Microsoft Azure",
       examlevel: "Intermediate Level",
@@ -326,7 +326,7 @@ export const examdetails = [
   },
   {
     code: "AZ-500",
-    slug: "microsoftazuresecuritytechnologiescourse",
+    slug: "microsoft-azure-security-technologies-course",
     examdetails: {
       examname: "AZ-500: Microsoft Azure Security Technologies",
       examlevel: "Intermediate Level",
@@ -340,7 +340,7 @@ export const examdetails = [
   },
   {
     code: "AZ-305",
-    slug: "az305trainingcourse",
+    slug: "az305-training-course",
     examdetails: {
       examname: "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
       examlevel: "Expert Level",
@@ -354,7 +354,7 @@ export const examdetails = [
   },
   {
     code: "AZ-400",
-    slug: "az400trainingonline",
+    slug: "az400-training-online",
     examdetails: {
       examname: "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
       examlevel: "Expert Level",
@@ -368,7 +368,7 @@ export const examdetails = [
   },
   {
     code: "SC-100",
-    slug: "microsoftcybersecuritycourseforbeginners",
+    slug: "microsoft-cyber-security-course-for-beginners",
     examdetails: {
       examname: "SC-100: Microsoft Cybersecurity Architect",
       examlevel: "Expert Level",
@@ -382,7 +382,7 @@ export const examdetails = [
   },
   {
     code: "MB-910",
-    slug: "microsoftdynamics365traininginchennai",
+    slug: "microsoft-dynamics365-training-in-chennai",
     examdetails: {
       examname: "MB-910: Microsoft Dynamics 365 Fundamentals (CRM)",
       examlevel: "Beginner Level",
@@ -396,7 +396,7 @@ export const examdetails = [
   },
   {
     code: "MB-920",
-    slug: "microsoftdynamics365trainingcourses",
+    slug: "microsoft-dynamics365-training-courses",
     examdetails: {
       examname: "MB-920: Microsoft Dynamics 365 Fundamentals (ERP)",
       examlevel: "Beginner Level",
@@ -410,7 +410,7 @@ export const examdetails = [
   },
   {
     code: "MS-102",
-    slug: "microsoft365administratortraining",
+    slug: "microsoft-365administrator-training",
     examdetails: {
       examname: "MS-102: Microsoft 365 Administrator",
       examlevel: "Expert Level",
@@ -424,7 +424,7 @@ export const examdetails = [
   },
   {
     code: "MB-700",
-    slug: "microsoftfinanceandoperationstraining",
+    slug: "microsoft-finance-and-operations-training",
     examdetails: {
       examname: "MB-700: Microsoft Dynamics 365 Finance and Operations Apps Solution Architect",
       examlevel: "Expert Level",
@@ -438,7 +438,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA A+",
-    slug: "comptiaacourseinchennai",
+    slug: "comptia-a-course-in-chennai",
     examdetails: {
       examname: "220-1101: CompTIA A+",
       examlevel: "Entry Level",
@@ -452,7 +452,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA Network+",
-    slug: "comptianetworkcertification",
+    slug: "comptia-network-certification",
     examdetails: {
       examname: "CompTIA Network+",
       examlevel: "Entry Level",
@@ -466,7 +466,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA Security+",
-    slug: "comptiasecuritycourseinchennai",
+    slug: "comptia-security-course-in-chennai",
     examdetails: {
       examname: "CompTIA Security+",
       examlevel: "Entry Level",
@@ -480,7 +480,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA Cloud+",
-    slug: "comptiacloudtrainingcenters",
+    slug: "comptia-cloud-training-centers",
     examdetails: {
       examname: "CompTIA Cloud+",
       examlevel: "Entry Level",
@@ -494,7 +494,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA Linux+",
-    slug: "comptialinuxtraining",
+    slug: "comptia-linux-training",
     examdetails: {
       examname: "CompTIA Linux+",
       examlevel: "Entry Level",
@@ -508,7 +508,7 @@ export const examdetails = [
   },
   {
     code: "CS0-003",
-    slug: "comptiacybersecurityanalystcertification",
+    slug: "comptia-cyber-security-analyst-certification",
     examdetails: {
       examname: "CompTIA Cybersecurity Analyst (CySA+)",
       examlevel: "Intermediate",
@@ -522,7 +522,7 @@ export const examdetails = [
   },
   {
     code: "CS0-004",
-    slug: "comptiaadvancedsecuritypractitionertraining",
+    slug: "comptia-advanced-security-practitioner-training",
     examdetails: {
       examname: "CompTIA Advanced Security Practitioner (CASP+)",
       examlevel: "Advanced Level",
@@ -536,7 +536,7 @@ export const examdetails = [
   },
   {
     code: "PT0-002",
-    slug: "comptiapentestcourse",
+    slug: "comptia-pen-test-course",
     examdetails: {
       examname: "CompTIA PenTest+",
       examlevel: "Intermediate",
@@ -550,7 +550,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA Data+",
-    slug: "comptiadatatraining",
+    slug: "comptia-data-training",
     examdetails: {
       examname: "CompTIA Data+",
       examlevel: "Beginner",
@@ -564,7 +564,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA DataSys+",
-    slug: "comptiadatasystraining",
+    slug: "comptia-datasys-training",
     examdetails: {
       examname: "CompTIA DataSys+",
       examlevel: "Foundational ",
@@ -578,7 +578,7 @@ export const examdetails = [
   },
   {
     code: "GMLE",
-    slug: "giaccertificationexamcost",
+    slug: "giac-certification-exam-cost",
     examdetails: {
       examname: "GIAC Machine Learning Engineer (GMLE)",
       examlevel: "Advanced",
@@ -592,7 +592,7 @@ export const examdetails = [
   },
   {
     code: "GSOC",
-    slug: "giacsecurityoperationscertifiedtraining",
+    slug: "giac-security-operations-certified-training",
     examdetails: {
       examname: "GIAC Security Operations Certified (GSOC)",
       examlevel: "Advanced",
@@ -606,7 +606,7 @@ export const examdetails = [
   },
   {
     code: "GISF",
-    slug: "giacinformationsecurityfundamentalscertification",
+    slug: "giac-information-security-fundamentals-certification",
     examdetails: {
       examname: "GIAC Information Security Fundamentals (GISF)",
       examlevel: "Fundamental",
@@ -620,7 +620,7 @@ export const examdetails = [
   },
   {
     code: "GDSA",
-    slug: "giacdefensiblesecurityarchitectcertification",
+    slug: "giac-defensible-security-architect-certification",
     examdetails: {
       examname: "GIAC Defensible Security Architect (GDSA)",
       examlevel: "Advanced",
@@ -633,7 +633,7 @@ export const examdetails = [
   },
   {
     code: "GISP",
-    slug: "giacinformationsecurityProfessionalcertification",
+    slug: "giac-information-security-professional-certification",
     examdetails: {
       examname: "GIAC Information Security Professional (GISP)",
       examlevel: "Advanced",
@@ -646,7 +646,7 @@ export const examdetails = [
   },
   {
     code: "GSOM",
-    slug: "giacsecurityoperationsmanagercertification",
+    slug: "giac-security-operations-manager-certification",
     examdetails: {
       examname: "GIAC Security Operations Manager (GSOM)",
       examlevel: "Advanced",
@@ -659,7 +659,7 @@ export const examdetails = [
   },
   {
     code: "GCIH",
-    slug: "giaccertifiedincidenthandlercourse",
+    slug: "giac-certified-incident-handler-course",
     examdetails: {
       examname: "GIAC Certified Incident Handler (GCIH)",
       examlevel: "Intermediate",
@@ -672,7 +672,7 @@ export const examdetails = [
   },
   {
     code: "GPEN",
-    slug: "giacpenetrationtestertraining",
+    slug: "giac-penetration-tester-training",
     examdetails: {
       examname: "GIAC Penetration Tester (GPEN)",
       examlevel: "Intermediate to Advanced",
@@ -685,7 +685,7 @@ export const examdetails = [
   },
   {
     code: "GPYC",
-    slug: "giacpythoncodertraining",
+    slug: "giac-python-coder-training",
     examdetails: {
       examname: "GIAC Python Coder (GPYC)",
       examlevel: "Intermediate to Advanced",
@@ -698,7 +698,7 @@ export const examdetails = [
   },
   {
     code: "GCSA",
-    slug: "giaccloudsecurityautomationtraining",
+    slug: "giac-cloud-security-automation-training",
     examdetails: {
       examname: "GIAC Cloud Security Automation (GCSA)",
       examlevel: "Intermediate",
@@ -711,7 +711,7 @@ export const examdetails = [
   },
   {
     code: "CISM",
-    slug: "isacacybersecuritycertification",
+    slug: "isaca-cyber-security-certification",
     examdetails: {
       examname: " CISM: ISACA Certified Information Security Manager",
       examlevel: "Professional",
@@ -724,7 +724,7 @@ export const examdetails = [
   },
   {
     code: "CISA",
-    slug: "informationsecuritygovernancecertification",
+    slug: "information-security-governance-certification",
     examdetails: {
       examname: "CISA: ISACA Certified Information Systems Auditor",
       examlevel: "Professional",
@@ -737,7 +737,7 @@ export const examdetails = [
   },
   {
     code: "CDPSE",
-    slug: "isacadataprivacycertification",
+    slug: "isaca-data-privacy-certification",
     examdetails: {
       examname: "Certified Data Privacy Solutions Engineer (CDPSE)",
       examlevel: "Professional",
@@ -750,7 +750,7 @@ export const examdetails = [
   },
   {
     code: "CCA",
-    slug: "isacacybersecurityauditcertificate",
+    slug: "isaca-cyber-security-audit-certificate",
     examdetails: {
       examname: "ISACA Certified Cybersecurity Audit",
       examlevel: "Professional",
@@ -763,7 +763,7 @@ export const examdetails = [
   },
   {
     code: "CDSF",
-    slug: "isacadatasciencefundamentals",
+    slug: "isaca-data-science-fundamentals",
     examdetails: {
       examname: "ISACA Certified Data Science Fundamentals",
       examlevel: "Entry-Level",
@@ -776,7 +776,7 @@ export const examdetails = [
   },
   {
     code: "CSDF",
-    slug: "isacacertificationcourses",
+    slug: "isaca-certification-courses",
     examdetails: {
       examname: "ISACA Certified Software Development Fundamentals",
       examlevel: "Entry-Level",
