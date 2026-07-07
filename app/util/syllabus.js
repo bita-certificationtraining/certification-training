@@ -1399,7 +1399,7 @@ export const coursesyllabus = [
         }
       ]
     },
-
+// aws Specialty
     {
       code: "aws-certified-machine-learning-specialty",
       slug: "MLS-C01",
@@ -3563,7 +3563,57 @@ export const coursesyllabus = [
           ]
         }
       ]
-    },  
+    },
+
+    
+    {
+      code: "DAO-002",
+      slug: "comptia-datasys-training",
+      syllabustopic: [
+        {
+          module: "Module 1: Mathematics and statistics (17%) ",
+          moduledes: [
+            {
+              topicheding: "Statistical methods:",
+              topicdes: ["applying t-tests, chi-squared tests, analysis of variance (ANOVA), hypothesis testing, regression metrics, gini index, entropy, p-value, receiver operating characteristic/area under the curve (ROC/AUC), akaike information criterion/bayesian information criterion (AIC/BIC), and confusion matrix"]
+            },
+            {
+              topicheding: "Probability and modeling:",
+              topicdes: [" explaining distributions, skewness, kurtosis, heteroskedasticity, probability density function (PDF), probability mass function (PMF), cumulative distribution function (CDF), missingness, oversampling, and stratification."]
+            }
+          ]
+        },
+        {
+          module: "Module 2: ",
+          moduledes: [
+            {
+              topicheding: "",
+              topicdes: []
+            }
+          ]
+        },
+        {
+          module: "Module 3: ",
+          moduledes: [
+            {
+              topicheding: "",
+              topicdes: []
+            }
+          ]
+        },
+        {
+          module: "Module 4: ",
+          moduledes: [
+            {
+              topicheding: "",
+              topicdes: []
+            }
+          ]
+        }
+      ]
+    },
+    
+    
     // {
     //   code: "",
     //   slug: "",
@@ -3610,4 +3660,5 @@ export const coursesyllabus = [
     //     }
     //   ]
     // }
+
   ];

@@ -1168,7 +1168,7 @@ const awscertifiedmachinelearningspecialty =  {
   ],
   finally: "The AWS Certified Machine Learning - Specialty course from BITA Academy will help you become a cloud-based AI specialist. Join now and obtain the credentials and confidence needed to create, scale, and lead in the field of machine learning on AWS."
 };
-
+// Specialty Level
 const awscertifiedadvancednetworkingspecialty =  {
   slug: "aws-certified-advanced-networking-specialty",
   code: "ANS-C01",
@@ -1178,6 +1178,86 @@ const awscertifiedadvancednetworkingspecialty =  {
   courseoverview: [
     "Do you want to learn complicated networking on AWS and create highly available, scalable, and secure network architectures? BITA Academy provides an expert-led course for the AWS Certified Advanced Networking - Specialty certification, which will provide you with extensive knowledge of hybrid IT network architecture, routing, security, and data flow optimization on AWS. This course is perfect for networking professionals who want to confirm their advanced cloud networking skills.",
     "Our training blends real-time scenarios, lab activities, and case studies to provide learners with hands-on experience tackling real-world network difficulties using AWS."
+  ],
+  whytakecourseheading: "Why Take the AWS Certified Advanced Networking – Specialty Course?",
+  wtcintro: "The AWS Certified Advanced Networking – Specialty course from BITA is designed to prepare professionals for high-level networking roles in cloud environments. Here's why this certification is a must-have",
+  wtcoursecontent: [
+    "In-Depth Networking Mastery: Learn to design and implement advanced AWS and hybrid network architectures.",
+    "Specialist Recognition: Stand out in the cloud networking domain with a credential that proves your technical excellence.",
+    "Security and Compliance Expertise: Get trained to manage network security, encryption, and compliance policies at scale.",
+    "Career Growth: The AWS Certified Advanced Networking – Specialty certification opens up roles in cloud infrastructure, enterprise networking, and network security.",
+    "Preparation for Leadership Roles: Become an asset to your organization by mastering network operations, monitoring, and troubleshooting strategies."
+  ],
+  whocanlearnheading: "Who Can Learn AWS Certified Advanced Networking – Specialty?",
+  wclcontent: "The AWS Certified Advanced Networking – Specialty course is tailored for",
+  wclpoints: [
+    "Network engineers and cloud architects",
+    "System administrators with strong networking knowledge",
+    "Security professionals managing cloud infrastructure",
+    "DevOps engineers who handle networking and monitoring",
+    "Professionals holding Associate-level AWS certifications looking to specialize",
+    "Experience with AWS networking tools and general networking concepts (such as TCP/IP, BGP, DNS, etc.) is highly recommended."
+  ],
+  courseprerequestheading: "Prerequisites for AWS Certified Advanced Networking – Specialty",
+  prerequestintro: "To get the most from the course, candidates should preferably have",
+  courseprerequcontent: [
+    "5+ years of networking experience.",
+    "2+ years of hands-on experience using AWS.",
+    "A thorough understanding of fundamental networking principles and protocols",
+    "Completion of AWS Certified Solutions Architect Associate or similar expertise",
+    "BITA's professional trainers provide extensive explanations, graphics, and project-based labs to assure your readiness, even if you have limited experience with AWS-native networking technologies."
+  ],
+  howtoapplyheading: "How to Apply for the AWS Certified Advanced Networking – Specialty Exam?",
+  htaintro: "To enroll in the AWS Certified Advanced Networking - Specialty test, complete these steps",
+  howtoapplycontent: [
+    "Log in to your AWS Certification account on the official AWS website.",
+    'Select "Schedule New Exam" and then select the AWS Certified Advanced Networking - Specialty certification (ANS-C01).',
+    "Choose your language, testing method (online or in a testing center), and date.",
+    "Pay the $300 exam cost through the AWS exam partner portal (Pearson VUE or PSI).",
+    "On exam day, bring a valid government-issued ID and complete the environmental conditions if taking the exam online.",
+    "Upon passing, you'll receive your digital badge and certificate from AWS."
+  ],
+  obtaincourseheading: "How to Get AWS Certified Advanced Networking – Specialty Certification?",
+  obtainintro: "Here is how you may get your AWS Certified Advanced Networking - Specialty credential",
+  obtaincoursecontent: [
+    "Enroll in BITA's in-depth course to increase your knowledge and confidence.",
+    "Complete all lab assignments and practice examinations to ensure real-world readiness.",
+    "Schedule and pass the ANS-C01, a 170-minute multiple-choice exam.",
+    "Passing requires a minimum score of 750 out of 1000.",
+    "Download your badge and certificate from the AWS Certification portal.",
+    "This specialist certification demonstrates your competence to develop and manage complex AWS network solutions."
+  ],
+  coheading: "Career Opportunities",
+  cointro: "The AWS Certified Advanced Networking – Specialty certification opens doors to senior-level and niche technical roles, including",
+  careeroppotunities: [
+    "Cloud Network Engineer",
+    "AWS Network Security Specialist",
+    "Enterprise Network Architect",
+    "Cloud Infrastructure Consultant",
+    "Network Automation Engineer"
+  ],
+  examblueprint: [
+    "Network Design - 30%",
+    "Network Implementation - 26%",
+    "Network Management & Operation - 20%",
+    "Network Security, Compliance & Governance - 24%"
+  ],
+  finally: [
+    "With companies increasingly relying on hybrid and cloud-native architectures, certified professionals are in high demand across all major industries.",
+    "With cloud networks getting increasingly complicated, the AWS Certified Advanced Networking - Specialty certification validates your ability to create robust, secure, and scalable infrastructure. Join BITA Academy and learn advanced networking skills that will help you stand out in today's cloud-first job market! "
+  ]
+};
+
+// AWS Certified Data Analytics – Specialty
+
+const awscertifieddataanalyticsspecialty =  {
+  slug: "aws-certified-data-analytics-specialty",
+  code: "DAS-C01",
+  title: "AWS Certified Data Analytics – Specialty",
+  description: "Become an expert in AWS Data Analytics. Learn big data processing, visualization, and analytics techniques for AWS-powered solutions.",
+  cheading: "AWS Certified Data Analytics – Specialty",
+  courseoverview: [
+    "Are you ready to transform raw data into meaningful insights in the cloud? BITA Academy provides a specialist course for the AWS Certified Data Analytics - Specialty certification, which teaches professionals how to collect, store, process, analyze, and visualize big data with AWS services. This course is ideal for data analysts, data engineers, and IT professionals looking to hone their skills in cloud-based data analytics"
   ],
   whytakecourseheading: "Why Take the AWS Certified Advanced Networking – Specialty Course?",
   wtcintro: "The AWS Certified Advanced Networking – Specialty course from BITA is designed to prepare professionals for high-level networking roles in cloud environments. Here's why this certification is a must-have",
@@ -2989,6 +3069,103 @@ const comptiadatasystraining = {
   finally: "BITA Certification Training Institute is dedicated to providing high-quality CompTIA DataSys+ training that will help you reach your career goals. Our experienced professors, thorough curriculum, and practical approach ensure that you are well-prepared to succeed in data system management. Join us today and take the first step toward getting your CompTIA DataSys+ certification."
 };
 
+
+
+
+const comptiadataxcertificationtraining = {
+  slug: "comptia-datax-certification-training",
+  code: "CompTIA Data",
+  title: "CompTIA  DataX Certification Training",
+  description: "Master data management, analytics, and security with CompTIA DataX Certification Training at BITA Academy. Build job-ready data skills today!",
+  cheading: "Comptia Datasys+ Training",
+  courseoverview: "BITA Certification Training Institute is pleased to offer an in-depth CompTIA DataSys+ training course designed to equip you with the fundamental skills required for data system management. Our CompTIA DataSys+ course includes extensive learning modules, hands-on activities, and real-world applications to guarantee that you are completely equipped for a successful career in data systems.",
+  whytakecourseheading: "Why Get the CompTIA DataSys+ Certification?",
+  wtcintro: "The CompTIA DataSys+ certification is extremely beneficial for a variety of reasons.",
+  wtcoursecontent: [
+    "Industry Recognition: The CompTIA DataSys+ certification is internationally recognized and respected, verifying your knowledge of data systems management and increasing your reputation in the job market.",
+    "Skill Development: This certification covers a wide range of topics, including data system design, implementation, maintenance, and troubleshooting, resulting in a well-rounded skill set.",
+    "Career Advancement: A CompTIA DataSys+ certification can lead to advanced roles in data system management, which offer better career opportunities and higher pay.",
+    "Practical Experience: Our CompTIA DataSys+ program includes hands-on experience, allowing you to effectively apply your knowledge in real-world circumstances.",
+    "Growing Demand: As organizations become more reliant on data-driven decision-making, the demand for competent data system professionals grows, making the CompTIA DataSys+ certification an invaluable asset."
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA DataSys+?",
+  wclcontent: "CompTIA DataSys+ training is appropriate for a wide range of individuals, including",
+  wclpoints: [
+    "Aspiring Data System Administrators: Individuals seeking to begin a profession in data system management.",
+    "IT Professionals: IT professionals looking to broaden their knowledge and add a relevant certification to their portfolio.",
+    "Data Analysts: Data analysts looking to expand their knowledge of data systems and improve their analytical abilities.",
+    "Recent graduates in computer science, information technology, or similar professions seeking to specialize in data system administration.",
+    "Business Professionals: People in positions that necessitate a solid understanding of data systems and their applications in business processes."
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA Data Systems+",
+  prerequestintro: "While there are no strict prerequisites for enrollment in the CompTIA DataSys+ program, it is advantageous to have",
+  courseprerequcontent: [
+    "Basic IT Knowledge: Understanding IT principles and terminology will help you absorb the course material.",
+    "Basic knowledge of data structures and data management procedures will be useful.",
+    "Analytical Skills: Having an analytical mindset and problem-solving ability can help you understand and apply course content more effectivel"
+  ],
+  howtoapplyheading: "How can I apply for the CompTIA DataSys+ exam?",
+  htaintro: "Applying for the CompTIA DataSys+ exam is simple",
+  howtoapplycontent: [
+    "Create a CompTIA account: Begin by setting up an account on the CompTIA website to register for the exam and follow your certification progress.",
+    "Select the exam: Select the CompTIA DataSys+ test from the list of available exams. Review the exam objectives to ensure you're prepared.",
+    "Schedule the Examination: Choose an exam day and time that works best for your schedule. CompTIA provides online and in-person testing solutions.",
+    "Pay the examination fee: Payment of the exam fee completes the registration process."
+  ],
+  costofcourseheading: "Cost of CompTIA DataSys+ Exam Certification",
+  costofcoursecontent: "The cost of the CompTIA DataSys+ exam certification varies according to location and currency. Typically, the exam costs roughly $207 USD. Prices may fluctuate, so check the CompTIA website for the most up-to-date pricing information.",
+  obtaincourseheading: "How Can I Obtain CompTIA DataSys+ Certification?",
+  obtainintro: "To get the CompTIA DataSys+ certification, take these steps",
+  obtaincoursecontent: [
+    "Enroll in and complete our CompTIA DataSys+ training course to acquire the necessary knowledge and abilities.",
+    "Study and prepare: Use the study tools offered during training, such as practice exams and study guides, to fully prepare for the exam.",
+    "Pass the Exam: Schedule and complete the CompTIA DataSys+ examination. The exam consists of multiple-choice and performance-based questions designed to assess your comprehension of data systems administration.",
+    "Receive your certification: After completing the exam, you will obtain your CompTIA DataSys+ certification, which validates your knowledge of data systems."
+  ],
+  coheading: "Career Opportunities",
+  careeroppotunities: [
+    {
+      coptitle: "Data Systems Administrator",
+      cocontent: [
+        " You'll manage and maintain an organization's data systems. You can contribute to any IT team with the CompTIA DataSys+ certification, which teaches you how to operate, secure, and maintain these systems."
+      ]
+    },
+    {
+      coptitle: "Database Manager",
+      cocontent: [
+        "Database managers create, maintain, and manage databases. You learn to manage database performance, data integrity, and data-driven applications with CompTIA DataSys+ training, improving corporate operations."
+      ]
+    },
+    {
+      coptitle: "Systems Analyst",
+      cocontent: [
+        "Systems Analysts design organizational data solutions. The CompTIA DataSys+ certification equips you to evaluate systems, suggest improvements, and implement effective data solutions to bridge IT and business goals."
+      ]
+    },
+    {
+      coptitle: "IT Project Manager",
+      cocontent: [
+        " IT Project Managers implement and improve data systems. CompTIA DataSys+ training helps you manage these projects on schedule, within budget, and to corporate goals."
+      ]
+    },
+    {
+      coptitle: "Data Systems Consultants",
+      cocontent: [
+        "They advise companies on data system implementation and management best practices. You can help businesses use data for strategic advantage by providing expert advice on system architecture, data integration, and optimization with CompTIA DataSys+ certification."
+      ]
+    }
+  ],
+  examblueprint: "Not published yet",
+  finally: "BITA Certification Training Institute is dedicated to providing high-quality CompTIA DataSys+ training that will help you reach your career goals. Our experienced professors, thorough curriculum, and practical approach ensure that you are well-prepared to succeed in data system management. Join us today and take the first step toward getting your CompTIA DataSys+ certification."
+};
+
+
+
+
+
+
+
+
 const giaccertificationexamcost = {
   slug: "giac-certification-exam-cost",
   code: "GMLE",
@@ -4212,9 +4389,11 @@ export const allCertifications = {
   "aws-certified-sysops-administrator-associate" : awscertifiedsysopsadministratorassociate,
   "aws-certified-devops-engineer-professional" : awscertifieddevOpsengineerprofessional,
   "aws-certified-solutions-architect-professional" : awscertifiedsolutionsarchitectprofessional,
+  // aws - specialty
   "aws-certified-machine-learning-specialty" : awscertifiedmachinelearningspecialty,
   "aws-certified-advanced-networking-specialty" : awscertifiedsecurityspecialty,
   "aws-certified-security-specialty" : awscertifiedadvancednetworkingspecialty,
+  "aws-certified-data-analytics-specialty" : awscertifieddataanalyticsspecialty,
   "microsoft-security-operations-analyst-certification" : microsoftsecurityoperationsanalystcertification,
   "microsoft-identity-manager-training" : microsoftidentitymanagertraining,
   "microsoft-azure-administrator-training-course" : microsoftazureadministratortrainingcourse,
@@ -4237,6 +4416,7 @@ export const allCertifications = {
   "comptia-pen-test-course" : comptiapentestcourse,
   "comptia-data-training" : comptiadatatraining,
   "comptia-datasys-training" : comptiadatasystraining,
+  "comptia-datax-certification-training" : comptiadataxcertificationtraining,
   "giac-certification-exam-cost" : giaccertificationexamcost,
   "giac-security-operations-certified-training" : giacsecurityoperationscertifiedtraining,
   "giac-information-security-fundamentals-certification" : giacinformationsecurityfundamentalscertification,

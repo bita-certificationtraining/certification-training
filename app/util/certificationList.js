@@ -93,13 +93,13 @@ export const CertificationList = [
           {
             code: "SAA-C03",
             slug: "aws-certified-solutions-architect-associate",
-            title: "AWS Certified Solutions Architect – Associate",
+            title: "AWS Certified Solutions Architect - Associate",
             c_image: "/certification_img/aws_logo/aws_saa.webp",
           },
           {
             code: "DVA-C02",
             slug: "aws-certified-developer-associate",
-            title: "AWS Certified Developer – Associate",
+            title: "AWS Certified Developer - Associate",
             c_image: "/certification_img/aws_logo/aws_da.webp",
           },
           {
@@ -111,7 +111,7 @@ export const CertificationList = [
            {
             code: "SOA-C02",
             slug: "aws-certified-sysops-administrator-associate",
-            title: "AWS Certified SysOps Administrator – Associate",
+            title: "AWS Certified SysOps Administrator - Associate",
             c_image: "/certification_img/aws_logo/aws_soaa.webp",
           },
         ],
@@ -122,13 +122,13 @@ export const CertificationList = [
           {
             code: "DOP-C02",
             slug: "aws-certified-devops-engineer-professional",
-            title: "AWS Certified DevOps Engineer – Professional",
+            title: "AWS Certified DevOps Engineer - Professional",
             c_image: "/certification_img/aws_logo/aws_dep.webp",
           },
           {
             code: "SAP-C02",
             slug: "aws-certified-solutions-architect-professional",
-            title: "AWS Certified Solutions Architect – Professional",
+            title: "AWS Certified Solutions Architect - Professional",
             c_image: "/certification_img/aws_logo/aws_sap.webp",
           }
         ],
@@ -139,19 +139,19 @@ export const CertificationList = [
           {
             code: "MLS-C01",
             slug: "aws-certified-machine-learning-specialty",
-            title: "AWS Certified Machine Learning – Specialty",
+            title: "AWS Certified Machine Learning - Specialty",
             c_image: "/certification_img/aws_logo/aws_mls.webp",
           },
           {
             code: "ANS-C01",
             slug: "aws-certified-advanced-networking-specialty",
-            title: "AWS Certified Advanced Networking – Specialty",
+            title: "AWS Certified Advanced Networking - Specialty",
             c_image: "/certification_img/aws_logo/aws_ans.webp",
           },
           {
             code: "SCS-C02",
             slug: "aws-certified-security-specialty",
-            title: "AWS Certified Security – Specialty",
+            title: "AWS Certified Security - Specialty",
             c_image: "/certification_img/aws_logo/aws_ss.webp",
           }
         ],
@@ -338,6 +338,17 @@ export const CertificationList = [
             c_image: "/certification_img/comptia_logo/comds0.webp",
           },
         ],
+      },
+      {
+        name: "CompTIA Data",
+        items: [
+           {
+            code: " DA0-002",
+            slug: "comptia-datax-certification-training",
+            title: "CompTIA  DataX Certification Training",
+            c_image: "/certification_img/comptia_logo/CompTIADataXCertificationTraining.png",
+          },
+        ]
       },
     ],
   },

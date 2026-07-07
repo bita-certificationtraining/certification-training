@@ -246,6 +246,12 @@ export const searchnavbar = [
     c_image: "/certification_img/comptia_logo/comds0.webp",
   },
   {
+    code: "DY0-002",
+    slug: "comptia-datax-certification-training",
+    title: "CompTIA DataX",
+    c_image: "/certification_img/comptia_logo/CompTIADataXCertificationTraining.png",
+  },
+  {
     code: "GMLE",
     slug: "giac-certification-exam-cost",
     title: "GIAC Machine Learning Engineer",

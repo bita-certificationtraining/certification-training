@@ -31,8 +31,8 @@ export const examdetails = [
     code: "PCPP1",
     slug: "pcpp1-training",
     examdetails: {
-      examname: " PCPP1 – Certified Professional Python Programmer Level 1",
-      prereq: "PCAP – Certified Associate in Python Programming (Exam PCAP-31-0x)",
+      examname: " PCPP1 - Certified Professional Python Programmer Level 1",
+      prereq: "PCAP - Certified Associate in Python Programming (Exam PCAP-31-0x)",
       examlevel: "Programmer Level",
       examcode: "PCPP-32-10x",
       examlength: "Exam - 65 minutes, NDA/Tutorial- 10 minutes",
@@ -46,7 +46,7 @@ export const examdetails = [
     slug: "pcpp2-course",
     examdetails: {
       examname: "PCPP2 Certified Professional Python Programmer Level 2",
-      prereq: "PCAP Certified Associate Python Programmer (Exam PCAP-31-0x) + PCPP1 – Certified Professional Python Programmer Level 1 (Exam PCPP1-32-10x)",
+      prereq: "PCAP Certified Associate Python Programmer (Exam PCAP-31-0x) + PCPP1 - Certified Professional Python Programmer Level 1 (Exam PCPP1-32-10x)",
       examlevel: "Programmer Level",
       examcode: " PCPP-32-20x",
       examlength: "Exam - 65 minutes, NDA/Tutorial- 10 minutes",
@@ -59,7 +59,7 @@ export const examdetails = [
     code: "PCAT",
     slug: "pcat-online-course",
     examdetails: {
-      examname: " PCAT™ – Certified Associate Tester with Python",
+      examname: " PCAT™ - Certified Associate Tester with Python",
       prereq: "None",
       examlevel: "Associate Level",
       examcode: "PCAT-31-0x (Status: Coming Q1/Q2 2024)",
@@ -88,7 +88,7 @@ export const examdetails = [
     code: "PCAD",
     slug: "pcad-certification-syllabus",
     examdetails: {
-      examname: "PCAD™ – Certified Associate Data Analyst with Python",
+      examname: "PCAD™ - Certified Associate Data Analyst with Python",
       prereq: "None",
       examlevel: " Associate Level",
       examcode: "PCAD-31-0x (Status: Coming: ETA Q2 2024)",
@@ -115,9 +115,9 @@ export const examdetails = [
     code: "AIF-C01",
     slug: "aws-certified-ai-practitioner-foundational",
     examdetails: {
-      examname: "AWS Certified AI Practitioner – Foundational",
+      examname: "AWS Certified AI Practitioner - Foundational",
       examlevel: "Foundational",
-      examcode: "AIF-C01 (placeholder – actual code may vary)",
+      examcode: "AIF-C01 (placeholder - actual code may vary)",
       prereq: "None",
       examlength: "90 minutes",
       passingscore: "700 out of 1000",
@@ -128,7 +128,7 @@ export const examdetails = [
     code: "MLA-C01",
     slug: "aws-certified-machine-learning-engineer-associate",
     examdetails: {
-      examname: "AWS Certified Machine Learning Engineer – Associate",
+      examname: "AWS Certified Machine Learning Engineer - Associate",
       examlevel: "Associate",
       examcode: "MLA-C01",
       prereq: "Basic ML and Python knowledge recommended",
@@ -141,7 +141,7 @@ export const examdetails = [
     code: "SAA-C03",
     slug: "aws-certified-solutions-architect-associate",
     examdetails: {
-      examname: "AWS Certified Solutions Architect – Associate",
+      examname: "AWS Certified Solutions Architect - Associate",
       examlevel: "Associate",
       examcode: "SAA-C03",
       prereq: "Recommended 1 year of AWS experience",
@@ -154,7 +154,7 @@ export const examdetails = [
     code: "DVA-C02",
     slug: "aws-certified-developer-associate",
     examdetails: {
-      examname: "AWS Certified Developer – Associate",
+      examname: "AWS Certified Developer - Associate",
       examlevel: "Associate",
       examcode: "DVA-C02",
       prereq: "None",
@@ -167,7 +167,7 @@ export const examdetails = [
     code: "DEA-C01",
     slug: "aws-certified-data-engineer-associate",
     examdetails: {
-      examname: "AWS Certified Data Engineer – Associate",
+      examname: "AWS Certified Data Engineer - Associate",
       examlevel: "Associate",
       examcode: "DEA-C01",
       prereq: " Basic knowledge of data engineering and AWS fundamentals recommended",
@@ -180,7 +180,7 @@ export const examdetails = [
     code: "SOA-C02",
     slug: "aws-certified-sysops-administrator-associate",
     examdetails: {
-      examname: "AWS Certified SysOps Administrator – Associate",
+      examname: "AWS Certified SysOps Administrator - Associate",
       examlevel: "Associate",
       examcode: "SOA-C02",
       prereq: "Recommended 1 year of AWS system admin experience",
@@ -193,7 +193,7 @@ export const examdetails = [
     code: "DOP-C02",
     slug: "aws-certified-devops-engineer-professional",
     examdetails: {
-      examname: "AWS Certified DevOps Engineer – Professional",
+      examname: "AWS Certified DevOps Engineer - Professional",
       examlevel: "Professional",
       examcode: "DOP-C02",
       prereq: "Recommended 2+ years of AWS experience and Associate-level certification",
@@ -206,7 +206,7 @@ export const examdetails = [
     code: "SAP-C02",
     slug: "aws-certified-solutions-architect-professional",
     examdetails: {
-      examname: "AWS Certified Solutions Architect – Professional",
+      examname: "AWS Certified Solutions Architect - Professional",
       examlevel: "Professional",
       examcode: "SAP-C02",
       prereq: "Recommended 2+ years of AWS architecture experience",
@@ -219,10 +219,10 @@ export const examdetails = [
     code: "MLS-C01",
     slug: "aws-certified-machine-learning-specialty",
     examdetails: {
-      examname: "AWS Certified Machine Learning – Specialty",
+      examname: "AWS Certified Machine Learning - Specialty",
       examlevel: "Specialty",
       examcode: "MLS-C01",
-      prereq: "1–2 years of ML experience recommended",
+      prereq: "1-2 years of ML experience recommended",
       examlength: "180 minutes",
       passingscore: "750 out of 1000",
       price: "USD 300"
@@ -232,7 +232,7 @@ export const examdetails = [
     code: "ANS-C01",
     slug: "aws-certified-advanced-networking-specialty",
     examdetails: {
-      examname: "AWS Certified Advanced Networking – Specialty",
+      examname: "AWS Certified Advanced Networking - Specialty",
       examlevel: "Specialty",
       examcode: "ANS-C01",
       prereq: "Recommended 5+ years in networking and 2+ years AWS experience",
@@ -245,7 +245,20 @@ export const examdetails = [
     code: "SCS-C02",
     slug: "aws-certified-security-specialty",
     examdetails: {
-      examname: "AWS Certified Security – Specialty",
+      examname: "AWS Certified Security - Specialty",
+      examlevel: "Specialty",
+      examcode: "SCS-C02",
+      prereq: "Recommended 2+ years in AWS security roles",
+      examlength: "180 minutes",
+      passingscore: "750 out of 1000",
+      price: "USD 300"
+    }
+  },
+  {
+    code: "DAS-C01",
+    slug: "aws-certified-data-analytics-specialty",
+    examdetails: {
+      examname: "AWS Certified Data Analytics - Specialty",
       examlevel: "Specialty",
       examcode: "SCS-C02",
       prereq: "Recommended 2+ years in AWS security roles",
@@ -574,6 +587,20 @@ export const examdetails = [
       nofq: "90 questions ",
       passingscore: "700 (on a scale of 100-900)",
       price: "USD 207"
+    }
+  },
+  {
+    code: "CompTIA DataX",
+    slug: "comptia-datax-certification-training",
+    examdetails: {
+      examname: "CompTIA DataX",
+      examlevel: "Expert Series",
+      examcode: "DS0-002",
+      prereq: "5+ years in data science",
+      examlength: "165 minutes",
+      nofq: "90 questions ",
+      passingscore: "pass/fail only",
+      price: "As per CompTIA Exam Pricing"
     }
   },
   {
