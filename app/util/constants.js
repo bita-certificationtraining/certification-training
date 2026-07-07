@@ -3077,86 +3077,109 @@ const comptiadataxcertificationtraining = {
   code: "CompTIA Data",
   title: "CompTIA  DataX Certification Training",
   description: "Master data management, analytics, and security with CompTIA DataX Certification Training at BITA Academy. Build job-ready data skills today!",
+
   cheading: "Comptia Datasys+ Training",
-  courseoverview: "BITA Certification Training Institute is pleased to offer an in-depth CompTIA DataSys+ training course designed to equip you with the fundamental skills required for data system management. Our CompTIA DataSys+ course includes extensive learning modules, hands-on activities, and real-world applications to guarantee that you are completely equipped for a successful career in data systems.",
-  whytakecourseheading: "Why Get the CompTIA DataSys+ Certification?",
-  wtcintro: "The CompTIA DataSys+ certification is extremely beneficial for a variety of reasons.",
+  courseoverview: "Are you ready to improve your data analytics abilities and advance your technology career? BITA Academy proudly offers an immersive CompTIA DataX Certification course that will provide learners with the practical skills needed to collect, analyze, interpret, and visualize data. This certification is ideal for professionals who want to make data-driven decisions and get a competitive edge in the business. Students will discover the tools and strategies required for success in the analytics world through hands-on labs, use-case-based learning, and professional coaching.",
+
+  whytakecourseheading: "Why Take the CompTIA DataX Certification Course?",
+  wtcintro: "CompTIA DataX Certification is a stepping stone to specializing in data science and business analytics.",
   wtcoursecontent: [
-    "Industry Recognition: The CompTIA DataSys+ certification is internationally recognized and respected, verifying your knowledge of data systems management and increasing your reputation in the job market.",
-    "Skill Development: This certification covers a wide range of topics, including data system design, implementation, maintenance, and troubleshooting, resulting in a well-rounded skill set.",
-    "Career Advancement: A CompTIA DataSys+ certification can lead to advanced roles in data system management, which offer better career opportunities and higher pay.",
+    "Business Insights: Understand how to use data to address real-world challenges.",
+    "Professional Development: CompTIA DataX certification is well recognized and in high demand among top organizations.",
+    "Technical Mastery: It includes knowledge of core analytics technologies like Python, SQL, Excel, Tableau, and Power BI.",
     "Practical Experience: Our CompTIA DataSys+ program includes hands-on experience, allowing you to effectively apply your knowledge in real-world circumstances.",
-    "Growing Demand: As organizations become more reliant on data-driven decision-making, the demand for competent data system professionals grows, making the CompTIA DataSys+ certification an invaluable asset."
+    "Actionable Data Skills: Learn how to transform raw data into attractive dashboards and reports."
   ],
-  whocanlearnheading: "Who Can Learn CompTIA DataSys+?",
-  wclcontent: "CompTIA DataSys+ training is appropriate for a wide range of individuals, including",
+
+  whocanlearnheading: "Who Can Learn CompTIA DataX Certification?",
+  wclcontent: "The CompTIA DataX Certification course is suitable for:",
   wclpoints: [
-    "Aspiring Data System Administrators: Individuals seeking to begin a profession in data system management.",
-    "IT Professionals: IT professionals looking to broaden their knowledge and add a relevant certification to their portfolio.",
-    "Data Analysts: Data analysts looking to expand their knowledge of data systems and improve their analytical abilities.",
-    "Recent graduates in computer science, information technology, or similar professions seeking to specialize in data system administration.",
-    "Business Professionals: People in positions that necessitate a solid understanding of data systems and their applications in business processes."
+    "Analysts looking to formalize their data skills.",
+    "IT professionals enter the analytics field.",
+    "Business professionals looking for data-driven positions.",
+    "Graduates seeking a job in data and analytics.",
+    "Individuals preparing for entry-level data certifications.",
+    "A basic familiarity of Excel and statistics is useful, but not required."
   ],
-  courseprerequestheading: "Prerequisites for CompTIA Data Systems+",
-  prerequestintro: "While there are no strict prerequisites for enrollment in the CompTIA DataSys+ program, it is advantageous to have",
+
+
+  courseprerequestheading: "Prerequisites for CompTIA DataX Certification",
+  prerequestintro: "Though there are no specific prerequisites, learners should have:",
   courseprerequcontent: [
-    "Basic IT Knowledge: Understanding IT principles and terminology will help you absorb the course material.",
-    "Basic knowledge of data structures and data management procedures will be useful.",
-    "Analytical Skills: Having an analytical mindset and problem-solving ability can help you understand and apply course content more effectivel"
+    "Strong desire to deal with statistics and data.",
+    "Fundamental understanding of spreadsheets.",
+    "Experience with business measurements and reporting."
   ],
-  howtoapplyheading: "How can I apply for the CompTIA DataSys+ exam?",
-  htaintro: "Applying for the CompTIA DataSys+ exam is simple",
+
+
+  howtoapplyheading: "How to Apply for the CompTIA DataX Certification Exam?",
+  htaintro: "To sign up for the CompTIA DataX certification exam:",
   howtoapplycontent: [
-    "Create a CompTIA account: Begin by setting up an account on the CompTIA website to register for the exam and follow your certification progress.",
-    "Select the exam: Select the CompTIA DataSys+ test from the list of available exams. Review the exam objectives to ensure you're prepared.",
-    "Schedule the Examination: Choose an exam day and time that works best for your schedule. CompTIA provides online and in-person testing solutions.",
-    "Pay the examination fee: Payment of the exam fee completes the registration process."
+    "Open an account on the CompTIA Certification website.",
+    "Select CompTIA DataX Certification from the certification list.",
+    "Choose between online and in-person testing.",
+    "Schedule the exam date and time, then pay the examination money.",
+    "On exam day, make sure your ID is valid and the test environment is stable."
   ],
-  costofcourseheading: "Cost of CompTIA DataSys+ Exam Certification",
-  costofcoursecontent: "The cost of the CompTIA DataSys+ exam certification varies according to location and currency. Typically, the exam costs roughly $207 USD. Prices may fluctuate, so check the CompTIA website for the most up-to-date pricing information.",
-  obtaincourseheading: "How Can I Obtain CompTIA DataSys+ Certification?",
-  obtainintro: "To get the CompTIA DataSys+ certification, take these steps",
+
+
+  costofcourseheading: "How to Get CompTIA DataX Certification?",
+  // costofcoursecontent: "To get your CompTIA DataX certification:",
+  
+  // obtaincourseheading: "How Can I Obtain CompTIA DataSys+ Certification?",
+  obtainintro: "To get your CompTIA DataX certification:",
   obtaincoursecontent: [
-    "Enroll in and complete our CompTIA DataSys+ training course to acquire the necessary knowledge and abilities.",
-    "Study and prepare: Use the study tools offered during training, such as practice exams and study guides, to fully prepare for the exam.",
-    "Pass the Exam: Schedule and complete the CompTIA DataSys+ examination. The exam consists of multiple-choice and performance-based questions designed to assess your comprehension of data systems administration.",
-    "Receive your certification: After completing the exam, you will obtain your CompTIA DataSys+ certification, which validates your knowledge of data systems."
+    "Complete BITA's instructor-led training, including laboratories and mock tests.",
+    "Take the authentic CompTIA DataX certification exam.",
+    "Achieve the passing score required by CompTIA.",
+    "You can download your certification and badge from your CompTIA account."
   ],
+  costofcoursecontent: "This prestigious credential proves your ability to analyze and interpret data using leading tools and methodologies.",
+
+
   coheading: "Career Opportunities",
+  cointro: "Make your mark in the job market! Professionals with a CompTIA DataX Certification can explore roles such as:",
   careeroppotunities: [
     {
-      coptitle: "Data Systems Administrator",
+      coptitle: "",
       cocontent: [
-        " You'll manage and maintain an organization's data systems. You can contribute to any IT team with the CompTIA DataSys+ certification, which teaches you how to operate, secure, and maintain these systems."
+        " Junior Data Analyst"
       ]
     },
     {
-      coptitle: "Database Manager",
+      coptitle: "",
       cocontent: [
-        "Database managers create, maintain, and manage databases. You learn to manage database performance, data integrity, and data-driven applications with CompTIA DataSys+ training, improving corporate operations."
+        "Business Intelligence Analyst"
       ]
     },
     {
-      coptitle: "Systems Analyst",
+      coptitle: "",
       cocontent: [
-        "Systems Analysts design organizational data solutions. The CompTIA DataSys+ certification equips you to evaluate systems, suggest improvements, and implement effective data solutions to bridge IT and business goals."
+        "Reporting Analyst"
       ]
     },
     {
-      coptitle: "IT Project Manager",
+      coptitle: "",
       cocontent: [
-        " IT Project Managers implement and improve data systems. CompTIA DataSys+ training helps you manage these projects on schedule, within budget, and to corporate goals."
+        " Data Operations Specialist"
       ]
     },
     {
-      coptitle: "Data Systems Consultants",
+      coptitle: "",
       cocontent: [
-        "They advise companies on data system implementation and management best practices. You can help businesses use data for strategic advantage by providing expert advice on system architecture, data integration, and optimization with CompTIA DataSys+ certification."
+        " Analytics Consultant"
       ]
-    }
+    },
+    {
+      coptitle: "",
+      cocontent: [
+        " Dashboard Developer"
+      ]
+    },
   ],
+
   examblueprint: "Not published yet",
-  finally: "BITA Certification Training Institute is dedicated to providing high-quality CompTIA DataSys+ training that will help you reach your career goals. Our experienced professors, thorough curriculum, and practical approach ensure that you are well-prepared to succeed in data system management. Join us today and take the first step toward getting your CompTIA DataSys+ certification."
+  finally: "With firms investing extensively in analytics, the CompTIA DataX Certification is an excellent choice for anyone looking to gain relevance in the data-driven economy. Enroll in BITA Academy today and let our organized training program help you get your CompTIA DataX Certification with confidence!"
 };
 
 
