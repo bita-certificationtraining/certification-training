@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 /**
- * AWS Certification Comparison — single page
+ * AWS Certification Comparison - single page
  * Next.js (App Router) page component. Tailwind CSS required in the project.
  * Drop this in app/page.tsx (or import as a component wherever you need it).
  */
@@ -18,7 +18,7 @@ const stats = [
 
 const keyTakeaways = [
   "CLF-C02 has 4 domains, weighted differently, with Cloud Concepts and Security/Compliance carrying the most marks.",
-  "You don't need programming skills — this exam tests conceptual and business understanding of AWS.",
+  "You don't need programming skills - this exam tests conceptual and business understanding of AWS.",
   "Passing score is 700/1000, and unused/incorrect answers aren't penalized (no negative marking).",
   "The certification is valid for 3 years and must be renewed through recertification.",
   "It's the single best ROI certification for IT professionals wanting a structured entry into cloud roles.",
@@ -41,11 +41,11 @@ const skillsCompared = [
 ];
 
 const popularCerts = [
-  "AWS Certified Cloud Practitioner (CLF-C02) — Foundational — 4-6 weeks",
-  "AWS Certified Solutions Architect - Associate — Associate — 8-10 weeks",
-  "AWS Certified Developer - Associate — Associate — 8-10 weeks",
-  "AWS Certified SysOps Administrator - Associate — Associate — 8-10 weeks",
-  "AWS Certified Solutions Architect - Professional — Professional — 12-16 weeks",
+  "AWS Certified Cloud Practitioner (CLF-C02) - Foundational - 4-6 weeks",
+  "AWS Certified Solutions Architect - Associate - Associate - 8-10 weeks",
+  "AWS Certified Developer - Associate - Associate - 8-10 weeks",
+  "AWS Certified SysOps Administrator - Associate - Associate - 8-10 weeks",
+  "AWS Certified Solutions Architect - Professional - Professional - 12-16 weeks",
 ];
 
 const comparisonTable = [
@@ -75,7 +75,7 @@ const faqs = [
     a: " It's considered foundational-level and manageable for beginners, provided you follow a structured study plan rather than random self-study.",
   },
   {
-    q: "Self-study or instructor-led training — which is better?",
+    q: "Self-study or instructor-led training - which is better?",
     a: "Self-study works if you're highly disciplined; instructor-led training helps working professionals stay accountable and clears doubts faster, especially on weekends.",
   },
   {
@@ -87,7 +87,7 @@ const faqs = [
     a: "Three years, after which you need to recertify through AWS's recertification process.",
   },
   {
-    q: " I only have weekends — is that enough time to prepare?",
+    q: " I only have weekends - is that enough time to prepare?",
     a: "Yes. Most working professionals complete preparation in 4-6 weekends when following a structured, domain-wise study plan.",
   },
 ];
@@ -137,7 +137,7 @@ export default function Page() {
           </div>
 
           <p className="mt-8 max-w-3xl text-white/90 leading-relaxed">
-            Stuck in a non-cloud IT role while your peers move into higher-paying cloud jobs? The AWS Certified Cloud Practitioner (CLF-C02) is the fastest, most affordable way to break in — no coding background required, and most working professionals clear it in 4-6 weeks of weekend study.
+            Stuck in a non-cloud IT role while your peers move into higher-paying cloud jobs? The AWS Certified Cloud Practitioner (CLF-C02) is the fastest, most affordable way to break in - no coding background required, and most working professionals clear it in 4-6 weeks of weekend study.
           </p>
         </div>
       </section>
@@ -173,7 +173,7 @@ export default function Page() {
         <div>
           <SectionHeading>Exam Structure and Domains</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           The CLF-C02 exam consists of 65 questions (50 scored, 15 unscored for AWS research) delivered as multiple-choice and multiple-response formats, to be completed in 90 minutes. It is available online or at a testing center in multiple languages. The exam is divided into four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%), and Billing, Pricing, and Support (12%). This weighting tells you exactly where to focus — Security and Technology together make up nearly two-thirds of the exam, so candidates worried about "where do I even start studying" should prioritize IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda), and AWS pricing models before anything else.
+           The CLF-C02 exam consists of 65 questions (50 scored, 15 unscored for AWS research) delivered as multiple-choice and multiple-response formats, to be completed in 90 minutes. It is available online or at a testing center in multiple languages. The exam is divided into four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%), and Billing, Pricing, and Support (12%). This weighting tells you exactly where to focus - Security and Technology together make up nearly two-thirds of the exam, so candidates worried about "where do I even start studying" should prioritize IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda), and AWS pricing models before anything else.
           </p>
         </div>
 
@@ -298,7 +298,7 @@ export default function Page() {
         <blockquote className="rounded-2xl bg-white p-6 sm:p-8 shadow-sm">
           <span className="text-3xl text-yellow-400">&ldquo;</span>
           <p className="-mt-4 italic leading-relaxed text-slate-700">
-           Industry mentors consistently note that candidates who combine structured, instructor-led learning with hands-on AWS Free Tier practice pass on their first attempt far more often than those relying solely on self-study. The biggest differentiator isn't intelligence — it's consistency and having someone to clarify doubts before they turn into exam-day panic.
+           Industry mentors consistently note that candidates who combine structured, instructor-led learning with hands-on AWS Free Tier practice pass on their first attempt far more often than those relying solely on self-study. The biggest differentiator isn't intelligence - it's consistency and having someone to clarify doubts before they turn into exam-day panic.
           </p>
         </blockquote>
       </section>

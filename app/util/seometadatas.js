@@ -426,7 +426,7 @@ export const seometadatas = [
     {
     slug:"certified-penetration-testing-professional",
     metatitle:"Certified Penetration Testing Professional",
-    metadescription:"Master ethical hacking and penetration testing with BITA Academy’s Certified Penetration Testing Professional course. Gain hands-on skills to secure networks and systems.",
+    metadescription:"Master ethical hacking and penetration testing with BITA Academy's Certified Penetration Testing Professional course. Gain hands-on skills to secure networks and systems.",
     metaimage:"/certification_img/ec-council/Certified Penetration Testing Professional.png",
     },
 
@@ -435,7 +435,7 @@ export const seometadatas = [
     {
     slug:"incident-handler-certification-training",
     metatitle:"Incident Handler Certification Training",
-    metadescription:"Master cyber incident response with BITA Academy’s  Incident Handler Certification training. Learn to detect, analyze, and respond to real-world security threats.",
+    metadescription:"Master cyber incident response with BITA Academy's  Incident Handler Certification training. Learn to detect, analyze, and respond to real-world security threats.",
     metaimage:"/certification_img/ec-council/Incident Handler Certification Training.png",
     },
 
@@ -444,7 +444,7 @@ export const seometadatas = [
     {
     slug:"certified-soc-analyst-certification-training",
     metatitle:"Certified SOC Analyst Certification Training",
-    metadescription:"Boost your cybersecurity career with BITA Academy’s Certified SOC Analyst Certification Training. Learn real-time threat monitoring, SIEM tools, and incident response skills to become a certified SOC professional.",
+    metadescription:"Boost your cybersecurity career with BITA Academy's Certified SOC Analyst Certification Training. Learn real-time threat monitoring, SIEM tools, and incident response skills to become a certified SOC professional.",
     metaimage:"/certification_img/ec-council/Certified SOC Analyst Certification Training.png",
     },
 
@@ -452,7 +452,7 @@ export const seometadatas = [
     {
     slug:"certified-threat-intelligence-analyst-certification",
     metatitle:"Certified Threat Intelligence Analyst Certification",
-    metadescription:"Join BITA Academy’s Certified Threat Intelligence Analyst Certification training to master cyber threat detection, intelligence analysis, and proactive defense. Learn to identify and prevent attacks using real-world tools and techniques.",
+    metadescription:"Join BITA Academy's Certified Threat Intelligence Analyst Certification training to master cyber threat detection, intelligence analysis, and proactive defense. Learn to identify and prevent attacks using real-world tools and techniques.",
     metaimage:"/certification_img/ec-council/Certified Threat Intelligence Analyst Certification.png",
     },
 
@@ -460,7 +460,7 @@ export const seometadatas = [
     {
     slug:"certified-network-defender-certification-training",
     metatitle:"Certified Network Defender Certification Training",
-    metadescription:"Join BITA Academy’s Certified Network Defender Certification training and master network security, threat detection, and defense strategies. Learn from experts and boost your cybersecurity career.",
+    metadescription:"Join BITA Academy's Certified Network Defender Certification training and master network security, threat detection, and defense strategies. Learn from experts and boost your cybersecurity career.",
     metaimage:"/certification_img/ec-council/Certified Network Defender Certification Training.png",
     },
 
@@ -468,21 +468,21 @@ export const seometadatas = [
     {
     slug:"cloud-security-certification",
     metatitle:"Cloud Security Certification",
-    metadescription:"Master cloud protection with BITA’s Certified Cloud Security Engineer (C|CSE) course. Get hands-on training and earn your Cloud Security Certification today.",
+    metadescription:"Master cloud protection with BITA's Certified Cloud Security Engineer (C|CSE) course. Get hands-on training and earn your Cloud Security Certification today.",
     metaimage:"/certification_img/ec-council/Cloud Security Certification.png",
     },
 
     {
     slug:"devSecOps-engineer-certification",
     metatitle:"DevSecOps Engineer Certification",
-    metadescription:"Master DevSecOps practices with BITA Academy’s DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
+    metadescription:"Master DevSecOps practices with BITA Academy's DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
     metaimage:"/certification_img/ec-council/DevSecOps Engineer Certification.png",
     },
 
     {
     slug:"cybersecurity-technician-certification",
     metatitle:"Cybersecurity Technician Certification",
-    metadescription:"Master DevSecOps practices with BITA Academy’s DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
+    metadescription:"Master DevSecOps practices with BITA Academy's DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
     metaimage:"/certification_img/ec-council/Cybersecurity Technician Certification.png",
     },
 
@@ -509,13 +509,13 @@ export const seometadatas = [
     {
         slug: "isaca-cyber-security-audit-certificate",
         metatitle: "ISACA Cybersecurity Audit Certificate | Online Training",
-        metadescription : "Get certified in cybersecurity auditing with ISACA’s Cybersecurity Audit Certificate. Learn risk assessment, controls, and audit techniques",
+        metadescription : "Get certified in cybersecurity auditing with ISACA's Cybersecurity Audit Certificate. Learn risk assessment, controls, and audit techniques",
         metaimage: "/certification_img/isaca_logo/cca.webp",
     },
     {
         slug: "isaca-data-science-fundamentals",
         metatitle: "ISACA Data Science Fundamentals | Analytics Certification",
-        metadescription : "Learn data analytics with ISACA’s Data Science Fundamentals. Ideal for beginners looking to understand data-driven decision-making",
+        metadescription : "Learn data analytics with ISACA's Data Science Fundamentals. Ideal for beginners looking to understand data-driven decision-making",
         metaimage: "/certification_img/isaca_logo/cdsf.webp",
     },
     {

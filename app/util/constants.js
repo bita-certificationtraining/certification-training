@@ -150,7 +150,7 @@ const pcpp1training =     {
     "Coding conversion and standardization  - 12%",
     "GUI Programming - 20%",
     "Network Programming - 18%",
-    "File Processing and communication with program’s environment - 15%"
+    "File Processing and communication with program's environment - 15%"
   ],
   finally: "By enrolling in BITA's PCPP1 training, you will be well on your way to attaining a credential that is widely recognized and will greatly benefit your Python programming career. Become a certified professional with PCPP1 training that is tailored to your success by enrolling with us today."
 };
@@ -460,7 +460,7 @@ const awscertifiedcloudpractitionerlearncloudbasics =  {
   ],
   finally: [
     "This certification is also a good starting point for further AWS certifications such as AWS Solutions Architect Associate, AWS Developer Associate, and others.",
-    "With the rapid adoption of cloud technology across industries, organizations are increasingly seeking professionals with the AWS Certified Cloud Practitioner – Learn Cloud Basics certification to strengthen their cloud strategy. Enroll in BITA's expert-led training program today and take your first step toward a successful career in cloud computing!"
+    "With the rapid adoption of cloud technology across industries, organizations are increasingly seeking professionals with the AWS Certified Cloud Practitioner - Learn Cloud Basics certification to strengthen their cloud strategy. Enroll in BITA's expert-led training program today and take your first step toward a successful career in cloud computing!"
   ]
 };
 
@@ -474,7 +474,7 @@ const awscertifiedaipractitionerfoundational =  {
     "Are you prepared to explore the world of artificial intelligence with a solid foundation in cloud-based AI? BITA Academy proudly presents the AWS Certified AI Practitioner - Foundational course, which is intended for individuals who wish to gain a thorough understanding of AI foundations and the AWS services that power intelligent solutions. This entry-level course will prepare you for a career in the rapidly expanding fields of AI, machine learning, and data-driven innovation.",
     "BITA's organized curriculum, hands-on labs, and real-world case studies ensure that you receive both academic knowledge and practical experience to thrive in the AI sector."
   ],
-  whytakecourseheading: "Why Take the AWS Certified AI Practitioner – Foundational Course?",
+  whytakecourseheading: "Why Take the AWS Certified AI Practitioner - Foundational Course?",
   wtcoursecontent: [
     "Foundation in AI Concepts: Learn fundamental AI concepts such as machine learning, natural language processing, computer vision, and recommendation engines.",
     "AWS AI Services Proficiency: Gain hands-on experience with AWS AI/ML technologies including Amazon SageMaker, Comprehend, Rekognition, and Lex.",
@@ -482,7 +482,7 @@ const awscertifiedaipractitionerfoundational =  {
     "Beginner Friendly: No previous coding or cloud experience? Not an issue. This course breaks down difficult AI principles into understandable units.",
     "Wide Applicability: Individuals in a variety of areas, including marketing, finance, healthcare, and education, will benefit from incorporating AI into their job."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified AI Practitioner – Foundational?",
+  whocanlearnheading: "Who Can Learn AWS Certified AI Practitioner - Foundational?",
   wclcontent: "The AWS Certified AI Practitioner - Foundational course is appropriate for a broad audience, including",
   wclpoints: [
     "Students and recent graduates are interested in AI and cloud computing.",
@@ -492,7 +492,7 @@ const awscertifiedaipractitionerfoundational =  {
     "Marketing and operational departments are integrating AI into digital workflows.",
     "There is no programming knowledge required—only curiosity and a desire to learn about the potential of AI in modern technologies."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified AI Practitioner – Foundational",
+  courseprerequestheading: "Prerequisites for AWS Certified AI Practitioner - Foundational",
   prerequestintro :"This course has no formal prerequisites. However, a fundamental grasp of" ,
   courseprerequcontent: [
     "General IT or business topics.",
@@ -500,18 +500,18 @@ const awscertifiedaipractitionerfoundational =  {
     "Analytical thinking, curiosity in data, and automation",
     "BITA's skilled instructors provide all of the foundational assistance you need to grasp the course content, including visual learning aids and hands-on laboratories that reinforce theoretical concepts."
   ] ,
-  howtoapplyheading: "How to Apply for the AWS Certified AI Practitioner – Foundational Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified AI Practitioner - Foundational Exam?",
   htaintro: "To apply for the AWS Certified AI Practitioner - Foundational exam, take the following steps",
   howtoapplycontent: [
     "Create an AWS account via the official AWS Certification Portal.",
     'Navigate to "Schedule New Exam" and choose AWS Certified AI Practitioner - Foundational.',
     "Select your preferred language and delivery method (online proctored or test center).",
     "Pick a date and time slot that suits you.",
-    "Pay the exam fee of USD 100 through AWS’s official testing partner (Pearson VUE or PSI).",
+    "Pay the exam fee of USD 100 through AWS's official testing partner (Pearson VUE or PSI).",
     "Be prepared on exam day with a valid ID, a quiet room, and stable internet (if taking it online).",
-    "Upon passing, you’ll receive a digital badge and certification directly from AWS."
+    "Upon passing, you'll receive a digital badge and certification directly from AWS."
   ],
-  obtaincourseheading: "How to Get AWS Certified AI Practitioner – Foundational Certification?",
+  obtaincourseheading: "How to Get AWS Certified AI Practitioner - Foundational Certification?",
   obtainintro: "To obtain the AWS Certified AI Practitioner - Foundational certification",
   obtaincoursecontent: [
     "Complete BITA's organized training program.",
@@ -522,15 +522,15 @@ const awscertifiedaipractitionerfoundational =  {
     "This certification helps you gain credibility and a deeper understanding of how AI is transforming industries across the globe."
   ],
   coheading: "Career Opportunities",
-  cointro: "With the AWS Certified AI Practitioner – Foundational credential, you can unlock entry-level roles such as",
+  cointro: "With the AWS Certified AI Practitioner - Foundational credential, you can unlock entry-level roles such as",
   careeroppotunities: [
     "AI Solutions Assistant",
     "Junior AI/ML Analyst",
     "Data and AI Associate",
     "Cloud Support (AI Focused)",
-    "Business Analyst – AI Projects",
-    "Pre-sales Consultant – AI Tools",
-    "It also serves as a gateway to advanced certifications such as AWS Certified Machine Learning – Specialty or other AI/ML tracks."
+    "Business Analyst - AI Projects",
+    "Pre-sales Consultant - AI Tools",
+    "It also serves as a gateway to advanced certifications such as AWS Certified Machine Learning - Specialty or other AI/ML tracks."
   ],
   examblueprint: [
     "Fundamentals of AI & ML - 20%",
@@ -552,7 +552,7 @@ const awscertifiedMachineLearningengineerassociate =  {
     "Do you want to use your data talents to create effective, real-world machine learning solutions? BITA Academy announces the AWS Certified Machine Learning Engineer - Associate course, a hands-on training for people interested in mastering the AWS machine learning project lifecycle. This certification enables professionals to easily create, train, tune, and deploy Machine Learning models in the cloud.",
     "Our expert-led seminars, practical laboratories, and real-world applications will provide students with the technical knowledge and confidence needed to function as machine learning engineers in fast-paced organizations."
   ],
-  whytakecourseheading: "Why Take the AWS Certified Machine Learning Engineer – Associate Course?",
+  whytakecourseheading: "Why Take the AWS Certified Machine Learning Engineer - Associate Course?",
   wtcoursecontent: [
     "End-to-End ML Knowledge: Discover how to design, construct, and deploy scalable ML models with AWS services such as SageMaker, Glue, and Lambda.",
     "Industry-Recognized Credential: Set yourself apart in your job with a globally recognized certification that demonstrates your applicable machine learning expertise.",
@@ -560,8 +560,8 @@ const awscertifiedMachineLearningengineerassociate =  {
     "Career Advancement: Discover new prospects in data science, machine learning, AI development, and cloud architecture.",
     "Foundation for Specialization: It serves as a solid stepping stone to more senior positions in AI/ML or data engineering."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Machine Learning Engineer – Associate?",
-  wclcontent: "The AWS Certified Machine Learning Engineer – Associate course is ideal for",
+  whocanlearnheading: "Who Can Learn AWS Certified Machine Learning Engineer - Associate?",
+  wclcontent: "The AWS Certified Machine Learning Engineer - Associate course is ideal for",
   wclpoints: [
     "Data scientists and ML engineers looking to validate their abilities on AWS",
     "Software developers seeking to grow into machine learning.",
@@ -570,7 +570,7 @@ const awscertifiedMachineLearningengineerassociate =  {
     "IT graduates and hobbyists who are passionate about machine learning.",
     "A basic understanding of machine learning concepts and Python experience is recommended, however BITA provides the necessary support to bridge gaps."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Machine Learning Engineer – Associate",
+  courseprerequestheading: "Prerequisites for AWS Certified Machine Learning Engineer - Associate",
   courseprerequcontent: [
     "At least 6 months to one year of expertise in machine learning or data-related work.",
     "Basic understanding of Python programming.",
@@ -578,7 +578,7 @@ const awscertifiedMachineLearningengineerassociate =  {
     "Understanding core ML concepts such as supervised/unsupervised learning, overfitting, and model evaluation metrics.",
     "Don't worry if you're new to AWS; our course includes core refreshers and beginner-friendly labs to help you get caught up."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Machine Learning Engineer – Associate Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified Machine Learning Engineer - Associate Exam?",
   howtoapplycontent: [
     "Sign into your AWS Certification account.",
     'Click "Schedule New Exam."',
@@ -588,7 +588,7 @@ const awscertifiedMachineLearningengineerassociate =  {
     "If taking the test online, make sure you have a solid internet connection and are in a calm environment.",
     "After passing, AWS will send you a formal certificate and a digital badge."
   ],
-  obtaincourseheading: "How to Get AWS Certified Machine Learning Engineer – Associate Certification?",
+  obtaincourseheading: "How to Get AWS Certified Machine Learning Engineer - Associate Certification?",
   obtaincoursecontent: [
     "Complete the BITA complete training course.",
     "Practice with laboratories, case studies, and practice examinations.",
@@ -624,11 +624,11 @@ const awscertifiedMachineLearningengineerassociate =  {
 const awscertifiedsolutionsarchitectassociate =  {
   slug: "aws-certified-solutions-architect-associate",
   code: "SAA-C03",
-  title: "AWS Certified Solutions Architect – Associate",
-  description: "Become a AWS Certified Solutions Architect – Associate our certification",
-  cheading: "AWS Certified Solutions Architect – Associate",
+  title: "AWS Certified Solutions Architect - Associate",
+  description: "Become a AWS Certified Solutions Architect - Associate our certification",
+  cheading: "AWS Certified Solutions Architect - Associate",
   courseoverview: "Are you ready to boost your cloud career with advanced architectural skills? BITA Academy offers an intense AWS Certified Solutions Architect - Associate course for those who wish to create scalable, secure, and cost-effective solutions on AWS. This certification is appropriate for people who have hands-on experience with AWS and a basic understanding of cloud principles. Our real-world scenarios, in-depth labs, and expert-led workshops will teach students how to design and deploy dependable apps on the AWS platform.",
-  whytakecourseheading: "Why Take the AWS Certified Solutions Architect – Associate Course?",
+  whytakecourseheading: "Why Take the AWS Certified Solutions Architect - Associate Course?",
   wtcintro: "Enrolling in BITA's AWS Certified Solutions Architect - Associate training will provide you a competitive advantage in the IT market. Here's why this qualification is really valuable",
   wtcoursecontent: [
     "Real-World Application: Learn how to create well-architected solutions based on customer requirements.",
@@ -637,8 +637,8 @@ const awscertifiedsolutionsarchitectassociate =  {
     "Cost Optimization and Security: Learn how to create systems that are not just efficient, but also cost-effective and secure.",
     "Step Toward Specialization: Provides a foundation for advanced certifications such as AWS Solutions Architect - Professional and DevOps Engineer."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Solutions Architect – Associate?",
-  wclcontent: "The AWS Certified Solutions Architect – Associate course is ideal for",
+  whocanlearnheading: "Who Can Learn AWS Certified Solutions Architect - Associate?",
+  wclcontent: "The AWS Certified Solutions Architect - Associate course is ideal for",
   wclpoints: [
     "Cloud engineers and developers looking to advance into architecture roles.",
     "System administrators with AWS experience.",
@@ -647,7 +647,7 @@ const awscertifiedsolutionsarchitectassociate =  {
     "Anyone who has completed the AWS Cloud Practitioner certification and is prepared for the next level.",
     "A background in cloud computing, or completion of the Cloud Practitioner course, is suggested but not required."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Solutions Architect – Associate",
+  courseprerequestheading: "Prerequisites for AWS Certified Solutions Architect - Associate",
   prerequestintro: "While there are no official prerequisites to attend this course, learners should have",
   courseprerequcontent: [
     "At least one year of experience with AWS services.",
@@ -655,14 +655,14 @@ const awscertifiedsolutionsarchitectassociate =  {
     "Experience with CLI and AWS Management Console.",
     "Don't worry—BITA's professional educators will help you fill any knowledge gaps with organized courses and hands-on labs designed for all learners."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Solutions Architect – Associate Exam?",
-  htaintro: "Follow these steps to register for the AWS Certified Solutions Architect – Associate exam",
+  howtoapplyheading: "How to Apply for the AWS Certified Solutions Architect - Associate Exam?",
+  htaintro: "Follow these steps to register for the AWS Certified Solutions Architect - Associate exam",
   howtoapplycontent: [
     "Create or log into your AWS Account at the official AWS website.",
     'Visit the AWS Certification Portal and navigate to “Schedule New Exam.”',
-    "Choose the AWS Certified Solutions Architect – Associate exam (SAA-C03).",
+    "Choose the AWS Certified Solutions Architect - Associate exam (SAA-C03).",
     "Pick your preferred language, test format (online or at a test center), and exam date.",
-    "Pay the exam fee of USD 150 using AWS’s testing partners (Pearson VUE or PSI).",
+    "Pay the exam fee of USD 150 using AWS's testing partners (Pearson VUE or PSI).",
     "On the exam day, ensure you have a valid ID, a quiet space (for online exams), and a stable internet connection.",
     "After you pass, you'll receive your digital badge and official certification."
   ],
@@ -701,14 +701,14 @@ const awscertifiedsolutionsarchitectassociate =  {
 const awscertifieddeveloperassociate =  {
   slug: "aws-certified-developer-associate",
   code: "DVA-C02",
-  title: "AWS Certified Developer – Associate",
-  description: "Become a AWS Certified Developer – Associate our certification ",
-  cheading: "AWS Certified Developer – Associate",
+  title: "AWS Certified Developer - Associate",
+  description: "Become a AWS Certified Developer - Associate our certification ",
+  cheading: "AWS Certified Developer - Associate",
   courseoverview: [
     "Do you want to specialize in cloud application development utilizing Amazon Web Services? BITA Academy provides hands-on training for the AWS Certified Developer - Associate certification, which allows you to build, launch, and debug cloud-based applications with AWS tools and services. This course is appropriate for professionals with programming experience who want to prove their skills in cloud-native application development.",
     "Whether you want to advance your development career or build serverless apps, our training is designed to provide you real-world experience and a practical grasp of AWS development methods."
   ],
-  whytakecourseheading: "Why Take the AWS Certified Developer – Associate Course?",
+  whytakecourseheading: "Why Take the AWS Certified Developer - Associate Course?",
   wtcintro: "The AWS Certified Developer - Associate course at BITA Academy provides various career benefits",
   wtcoursecontent: [
     "Application-Focused Skills: Learn how to create and manage AWS-based applications, such as microservices and serverless operations.",
@@ -717,7 +717,7 @@ const awscertifieddeveloperassociate =  {
     "Career Boost: Developers with AWS certification are in high demand across IT and cloud-based businesses.",
     "Certification Readiness: BITA's course includes mock tests, real-world laboratories, and project-based training to guarantee you are fully prepared."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Developer – Associate?",
+  whocanlearnheading: "Who Can Learn AWS Certified Developer - Associate?",
   wclcontent: "This AWS Certified Developer - Associate course is intended for",
   wclpoints: [
     "Software developers want to shift to cloud-native development.",
@@ -727,7 +727,7 @@ const awscertifieddeveloperassociate =  {
     "Anyone preparing for a career that includes AWS SDKs, APIs, and CI/CD workflows.",
     "Basic programming skills (particularly Python, JavaScript, or Java) are recommended."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Developer – Associate",
+  courseprerequestheading: "Prerequisites for AWS Certified Developer - Associate",
   prerequestintro: "There are no official prerequisites for enrolling in the AWS Certified Developer - Associate course. However, you will gain the following benefits",
   courseprerequcontent: [
     "At least one year of experience with AWS services.",
@@ -735,7 +735,7 @@ const awscertifieddeveloperassociate =  {
     "An understanding of basic cloud principles and DevOps methods.",
     "Don't worry if you're not there yet; our experts will walk you through the foundations before going into advanced ideas."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Developer – Associate Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified Developer - Associate Exam?",
   htaintro: "Follow these easy steps to register for the AWS Certified Developer - Associate exam",
   howtoapplycontent: [
     "Log in to your AWS account or create one from the official website.",
@@ -746,7 +746,7 @@ const awscertifieddeveloperassociate =  {
     "Prepare your exam area (for online examinations) and have a valid ID available on test day.",
     "After passing, AWS will send you a certificate and a digital badge."
   ],
-  obtaincourseheading: "How to Get AWS Certified Developer – Associate Certification?",
+  obtaincourseheading: "How to Get AWS Certified Developer - Associate Certification?",
   obtainintro: "To obtain the AWS Certified Developer - Associate certification",
   obtaincoursecontent: [
     "Complete the BITA training course, which includes laboratories and project assignments.",
@@ -762,7 +762,7 @@ const awscertifieddeveloperassociate =  {
     "AWS Software Engineer",
     "Serverless Developer",
     "DevOps Automation Engineer",
-    "Backend Developer – Cloud Applications",
+    "Backend Developer - Cloud Applications",
     "Technical Consultant for Cloud Projects",
     "Freelance AWS Developer"
   ],
@@ -781,14 +781,14 @@ const awscertifieddeveloperassociate =  {
 const awscertifieddataengineerassociate =  {
   slug: "aws-certified-data-engineer-associate",
   code: "DEA-C01",
-  title: "AWS Certified Data Engineer – Associate",
-  description: "Become a AWS Certified Data Engineer – Associate our certification",
-  cheading: "AWS Certified Data Engineer – Associate",
+  title: "AWS Certified Data Engineer - Associate",
+  description: "Become a AWS Certified Data Engineer - Associate our certification",
+  cheading: "AWS Certified Data Engineer - Associate",
   courseoverview: [
     "Are you ready to learn about managing, manipulating, and optimizing data pipelines on the AWS platform? BITA Academy provides a thorough AWS Certified Data Engineer - Associate course that teaches professionals how to master core data engineering skills and certify their ability to create scalable, secure, and high-performing data solutions in the cloud.",
     "This course provides practical knowledge of AWS analytics services, data lakes, real-time processing, and performance optimization. Whether you want to become a cloud data specialist or develop your data career, this certification will help you enter the ever-changing world of cloud data engineering."
   ],
-  whytakecourseheading: "Why Take the AWS Certified Data Engineer – Associate Course?",
+  whytakecourseheading: "Why Take the AWS Certified Data Engineer - Associate Course?",
   wtcoursecontent: [
     "End-to-End Data Pipeline Skills: Discover how to design, build, and optimize data pipelines with tools such as AWS Glue, Amazon Redshift, Kinesis, and Lake Formation.",
     "Industry Recognition: This AWS certification confirms your expertise in cloud-based data engineering, boosting your resume.",
@@ -796,16 +796,16 @@ const awscertifieddataengineerassociate =  {
     "Career advancement opportunities include high-paying employment in analytics, big data, and cloud infrastructure teams.",
     "Preparation for Higher professions: This course provides a solid basis for advanced professions such as Data Architect or Machine Learning Engineer."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Data Engineer – Associate?",
+  whocanlearnheading: "Who Can Learn AWS Certified Data Engineer - Associate?",
   wclpoints: [
     "Data Engineers and Data Analysts Transitioning to the AWS Cloud",
     "Software Developers and BI Professionals looking to improve their data pipeline understanding.",
     "Database administrators and cloud engineers manage data workflows.",
     "Professionals seeking AWS data certifications or employment in analytics.",
     "Anyone interested in working with big data and cloud infrastructure.",
-    "While previous experience in data processing and AWS is beneficial, BITA’s training is structured to help even those new to the cloud gain strong command over course content."
+    "While previous experience in data processing and AWS is beneficial, BITA's training is structured to help even those new to the cloud gain strong command over course content."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Data Engineer – Associate",
+  courseprerequestheading: "Prerequisites for AWS Certified Data Engineer - Associate",
   prerequestintro: "There are no required prerequisites for taking the AWS Certified Data Engineer - Associate course; nevertheless, the following background will help",
   courseprerequcontent: [
     "Basic understanding of SQL, databases, and ETL operations.",
@@ -814,18 +814,18 @@ const awscertifieddataengineerassociate =  {
     "Experience working with data formats such as JSON, Parquet, and CSV.",
     "At BITA, our skilled trainers clarify complex concepts and provide step-by-step advice to help learners of all levels succeed."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Data Engineer – Associate Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified Data Engineer - Associate Exam?",
   howtoapplycontent: [
     "Sign into the official AWS Certification portal using your AWS account.",
     'Select "Schedule New Exam" and then the AWS Certified Data Engineer - Associate exam (DEA-C01).',
     "Select your preferred delivery mode (test center or online proctoring) and language.",
     "Choose a convenient date and time, and then pay the $150 exam fee.",
     "Ensure you have a government-issued ID and a quiet test environment if taking the exam online.",
-    "Once you pass, you’ll receive your official certification and a digital badge from AWS."
+    "Once you pass, you'll receive your official certification and a digital badge from AWS."
   ],
-  obtaincourseheading: "How to Get AWS Certified Machine Learning Engineer – Associate Certification?",
+  obtaincourseheading: "How to Get AWS Certified Machine Learning Engineer - Associate Certification?",
   obtaincoursecontent: [
-    "Enroll in BITA’s expert-led training program with real-time projects and mock assessments.",
+    "Enroll in BITA's expert-led training program with real-time projects and mock assessments.",
     "Study the official exam domains including data ingestion, transformation, orchestration, and security.",
     "Take and pass the 130-minute multiple-choice exam.",
     "Score a minimum of 720 out of 1000 to qualify.",
@@ -833,7 +833,7 @@ const awscertifieddataengineerassociate =  {
     "This certification confirms your ability to design and implement scalable, secure data workflows on AWS."
   ],
   coheading: "Career Opportunities",
-  cointro: "After earning the AWS Certified Data Engineer – Associate certification, you can pursue in-demand roles such as",
+  cointro: "After earning the AWS Certified Data Engineer - Associate certification, you can pursue in-demand roles such as",
   careeroppotunities: [
     "AWS Data Engineer",
     "Cloud Data Developer",
@@ -857,14 +857,14 @@ const awscertifieddataengineerassociate =  {
 const awscertifiedsysopsadministratorassociate =  {
   slug: "aws-certified-sysops-administrator-associate",
   code: "SOA-C02",
-  title: "AWS Certified SysOps Administrator – Associate",
-  description: "Become a AWS Certified SysOps Administrator – Associate our certification.",
-  cheading: "AWS Certified SysOps Administrator – Associate",
+  title: "AWS Certified SysOps Administrator - Associate",
+  description: "Become a AWS Certified SysOps Administrator - Associate our certification.",
+  cheading: "AWS Certified SysOps Administrator - Associate",
   courseoverview: [
     "Do you want to learn AWS operations and system administration? BITA Academy provides hands-on training for the AWS Certified SysOps Administrator - Associate course, which is aimed for IT professionals who deploy, manage, and operate systems on the AWS platform. This certification focuses on monitoring, automation, security, and optimization, making it perfect for people seeking cloud operations positions.",
     "Our expert-led seminars mix real-world scenarios with best practices, ensuring that students not only understand AWS products but also know how to use them effectively in production contexts."
   ],
-  whytakecourseheading: "Why Take the AWS Certified SysOps Administrator – Associate Course?",
+  whytakecourseheading: "Why Take the AWS Certified SysOps Administrator - Associate Course?",
   wtcintro: "BITA's AWS Certified SysOps Administrator - Associate training program provides obvious advantages for individuals who desire to specialize in cloud operations",
   wtcoursecontent: [
     "Operational Expertise: Learn how to manage EC2 instances, monitor performance, and automate systems with tools such as CloudWatch, Auto Scaling, and CloudFormation.",
@@ -873,7 +873,7 @@ const awscertifiedsysopsadministratorassociate =  {
     "Job Market Value: The AWS Certified SysOps Administrator - Associate certification is highly regarded and increases exposure with recruiters.",
     "Foundational Cloud Management Roles: It's a necessary step for anyone aspiring to be a cloud infrastructure engineer or system administrator."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified SysOps Administrator – Associate?",
+  whocanlearnheading: "Who Can Learn AWS Certified SysOps Administrator - Associate?",
   wclcontent: "The AWS Certified SysOps Administrator - Associate course is ideal for",
   wclpoints: [
     "System administrators and operations engineers manage AWS infrastructure.",
@@ -883,7 +883,7 @@ const awscertifiedsysopsadministratorassociate =  {
     "Candidates have achieved AWS Cloud Practitioner or Developer certifications and want to specialize in operations.",
     "A basic understanding of AWS and familiarity with system management is beneficial."
   ],
-  courseprerequestheading: "Prerequisites for SysOps Administrator – Associate",
+  courseprerequestheading: "Prerequisites for SysOps Administrator - Associate",
   prerequestintro: "While there are no essential prerequisites, it is suggested that you have",
   courseprerequcontent: [
     "1 year of practical experience managing AWS workloads.",
@@ -891,7 +891,7 @@ const awscertifiedsysopsadministratorassociate =  {
     "Basic understanding of scripting and automation tools.",
     "BITA's trainers use beginner-friendly courses and actual infrastructure laboratories to assist students understand complicated concepts."
   ],
-  howtoapplyheading: "How to Apply for the SysOps Administrator – Associate Exam?",
+  howtoapplyheading: "How to Apply for the SysOps Administrator - Associate Exam?",
   htaintro: "Here's how to sign up for the AWS Certified SysOps Administrator - Associate exam",
   howtoapplycontent: [
     "Create an AWS account or login on the official AWS website.",
@@ -900,9 +900,9 @@ const awscertifiedsysopsadministratorassociate =  {
     "Choose an exam format: online proctored or at a testing center.",
     "Pay the $150 exam cost through the official exam partner (Pearson VUE or PSI).",
     "Prepare for exam day with a reliable internet connection and a valid photo ID.",
-    "After passing, you’ll receive a digital badge and your official AWS certificate."
+    "After passing, you'll receive a digital badge and your official AWS certificate."
   ],
-  obtaincourseheading: "How to Get SysOps Administrator – Associate Certification?",
+  obtaincourseheading: "How to Get SysOps Administrator - Associate Certification?",
   obtainintro: "To obtain the AWS Certified SysOps Administrator - Associate certification",
   obtaincoursecontent: [
     "Complete the BITA course with live projects and system simulations.",
@@ -912,16 +912,16 @@ const awscertifiedsysopsadministratorassociate =  {
     "This certification confirms your ability to manage real-time AWS system operations and performance."
   ],
   coheading: "Career Opportunities",
-  cointro: "The AWS Certified SysOps Administrator – Associate certification opens doors to several cloud operations roles, including",
+  cointro: "The AWS Certified SysOps Administrator - Associate certification opens doors to several cloud operations roles, including",
   careeroppotunities: [
     "AWS SysOps Administrator",
     "Cloud Operations Engineer",
     "Infrastructure Support Specialist",
     "Site Reliability Engineer (SRE)",
     "Cloud Monitoring Analyst",
-    "DevOps Engineer – Operations Focus",
-    "Technical Support Engineer – AWS",
-    "It also sets the foundation for professional-level certifications such as AWS DevOps Engineer – Professional."
+    "DevOps Engineer - Operations Focus",
+    "Technical Support Engineer - AWS",
+    "It also sets the foundation for professional-level certifications such as AWS DevOps Engineer - Professional."
   ],
   examblueprint: [
     "Monitoring, Logging & Remediation - 20%",
@@ -931,20 +931,20 @@ const awscertifiedsysopsadministratorassociate =  {
     "Networking & Content Delivery - 18%",
     "Cost & Performance Optimization - 12%"
   ],
-  finally: "Businesses are migrating and scaling their infrastructure to the cloud, increasing the demand for qualified AWS administrators. BITA Academy offers AWS Certified SysOps Administrator – Associate training to help you become a vital actor in modern cloud operations!"
+  finally: "Businesses are migrating and scaling their infrastructure to the cloud, increasing the demand for qualified AWS administrators. BITA Academy offers AWS Certified SysOps Administrator - Associate training to help you become a vital actor in modern cloud operations!"
 };
 
 const awscertifieddevOpsengineerprofessional =  {
   slug: "aws-certified-devops-engineer-professional",
   code: "DOP-C02",
-  title: "AWS Certified DevOps Engineer – Professional",
-  description: "Become a AWS Certified DevOps Engineer – Professional our certification",
-  cheading: "AWS Certified DevOps Engineer – Professional",
+  title: "AWS Certified DevOps Engineer - Professional",
+  description: "Become a AWS Certified DevOps Engineer - Professional our certification",
+  cheading: "AWS Certified DevOps Engineer - Professional",
   courseoverview: [
     "Are you ready to grasp the combination of development and operations on the AWS cloud? BITA Academy provides hands-on, expert-led training for the AWS Certified DevOps Engineer - Professional certification. This course is great for anybody looking to automate infrastructure, streamline deployments, and assure continuous integration and delivery (CI/CD) in AWS environments. Whether you're a system administrator, developer, or DevOps expert, this certification demonstrates your ability to effectively manage scalable and robust cloud systems.",
     "BITA's curriculum combines real-world DevOps projects, AWS service training, and exam-focused practice exams to prepare you for success."
   ],
-  whytakecourseheading: "Why Take the AWS Certified DevOps Engineer – Professional Course?",
+  whytakecourseheading: "Why Take the AWS Certified DevOps Engineer - Professional Course?",
   wtcintro: "Enrolling in BITA's AWS Certified DevOps Engineer - Professional course provides you with a substantial competitive advantage in cloud-based businesses. Here is what you will gain",
   wtcoursecontent: [
     "Automation expertise: Learn how to use tools such as CloudFormation, CodePipeline, and OpsWorks to automate provisioning, deployment, and monitoring tasks.",
@@ -953,7 +953,7 @@ const awscertifieddevOpsengineerprofessional =  {
     "Security and Governance Mastery: Understand how to implement compliance, governance, and secure operations at scale.",
     "Foundation for Leadership Roles: Step into roles such as DevOps Consultant, Cloud Operations Lead, or Automation Architect."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified DevOps Engineer – Professional?",
+  whocanlearnheading: "Who Can Learn AWS Certified DevOps Engineer - Professional?",
   wclcontent: "The AWS Certified DevOps Engineer - Professional course is targeted for experienced individuals, including",
   wclpoints: [
     "DevOps engineers and site reliability engineers (SRE)",
@@ -963,7 +963,7 @@ const awscertifieddevOpsengineerprofessional =  {
     "Candidates who already have an Associate-level AWS certification",
     "It is recommended that learners have previously obtained the AWS Certified Developer - Associate or AWS Certified SysOps Administrator - Associate certifications."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified DevOps Engineer – Professional",
+  courseprerequestheading: "Prerequisites for AWS Certified DevOps Engineer - Professional",
   prerequestintro: "While there are no specific criteria, successful candidates usually have",
   courseprerequcontent: [
     "2+ years of hands-on experience in AWS environments.",
@@ -972,7 +972,7 @@ const awscertifieddevOpsengineerprofessional =  {
     "Experience using continuous delivery technologies, monitoring, and infrastructure as code.",
     "BITA's skilled trainers will walk you through all of the tools and concepts you'll need to bridge any skill gaps, including practice labs, assignments, and mentorship."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified DevOps Engineer – Professional Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified DevOps Engineer - Professional Exam?",
   htaintro: "How to Register for the AWS Certified DevOps Engineer - Professional Exam",
   howtoapplycontent: [
     "The official AWS Certification Portal allows you to create or connect into your AWS account.",
@@ -982,7 +982,7 @@ const awscertifieddevOpsengineerprofessional =  {
     "If you are taking the test online, prepare your test environment as follows: Ensure a solid internet connection, a webcam, and a valid ID.",
     "After passing, AWS will provide you with a digital badge and certificate validating your expertise."
   ],
-  obtaincourseheading: "How to Get AWS Certified DevOps Engineer – Professional Certification?",
+  obtaincourseheading: "How to Get AWS Certified DevOps Engineer - Professional Certification?",
   obtainintro: "To get the AWS Certified DevOps Engineer - Professional certification",
   obtaincoursecontent: [
     "Complete BITA's in-depth training, which includes theory, real-time projects, mock tests, and automation labs.",
@@ -992,7 +992,7 @@ const awscertifieddevOpsengineerprofessional =  {
     "This credential confirms your ability to scale DevOps methods in the AWS cloud environment."
   ],
   coheading: "Career Opportunities",
-  cointro: "The AWS Certified DevOps Engineer – Professional certification opens doors to specialized, high-paying roles in top tech companies. Career paths include",
+  cointro: "The AWS Certified DevOps Engineer - Professional certification opens doors to specialized, high-paying roles in top tech companies. Career paths include",
   careeroppotunities: [
     "DevOps Engineer (AWS Cloud)",
     "Site Reliability Engineer (SRE)",
@@ -1016,14 +1016,14 @@ const awscertifieddevOpsengineerprofessional =  {
 const awscertifiedsolutionsarchitectprofessional =  {
   slug: "aws-certified-solutions-architect-professional",
   code: "SAP-C02",
-  title: "AWS Certified Solutions Architect – Professional",
-  description: "Become a AWS Certified Solutions Architect – Professional our certification",
-  cheading: "AWS Certified Solutions Architect – Professional",
+  title: "AWS Certified Solutions Architect - Professional",
+  description: "Become a AWS Certified Solutions Architect - Professional our certification",
+  cheading: "AWS Certified Solutions Architect - Professional",
   courseoverview: [
     "Are you ready to demonstrate your advanced expertise in creating distributed apps on AWS? BITA Academy provides a rigorous training curriculum for the AWS Certified Solutions create - Professional certification, designed specifically for experienced professionals seeking to create complex cloud solutions. This course goes deeply into creating multi-tiered applications, selecting the appropriate AWS services, adopting cost-cutting measures, and assuring enterprise-grade security.",
     "BITA's program combines technical knowledge, scenario-based practice, and instructor-led labs to prepare you for the most prestigious certification in AWS architecture."
   ],
-  whytakecourseheading: "Why Take the AWS Certified Solutions Architect – Professional Course?",
+  whytakecourseheading: "Why Take the AWS Certified Solutions Architect - Professional Course?",
   wtcintro: "BITA's AWS Certified Solutions Architect - Professional training prepares cloud professionals for challenging architectural problems on AWS. Here's why this course is game-changing",
   wtcoursecontent: [
     "Deep architectural expertise: Learn how to create scalable, fault-tolerant, and resilient cloud infrastructures for challenging applications.",
@@ -1032,7 +1032,7 @@ const awscertifiedsolutionsarchitectprofessional =  {
     "Bridge to Specialization: Serves as the foundation for specialty AWS certifications such as Security Specialty, Advanced Networking, and SAP on AWS.",
     "Salary Increase: Certified professionals at the professional level earn much greater salaries due to their architectural and decision-making abilities.",
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Solutions Architect – Professional?",
+  whocanlearnheading: "Who Can Learn AWS Certified Solutions Architect - Professional?",
   wclcontent: "This course is best suited for experienced AWS users looking to advance into cloud architecture leadership positions. Ideal prospects include",
   wclpoints: [
     "Solutions Architects with AWS Associate Certification",
@@ -1042,7 +1042,7 @@ const awscertifiedsolutionsarchitectprofessional =  {
     "Professionals looking for CTO, Enterprise Architect, or Cloud Strategist positions.",
     "Prior to enrolling, you need to have the AWS Certified Solutions Architect - Associate certification."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Solutions Architect – Professional",
+  courseprerequestheading: "Prerequisites for AWS Certified Solutions Architect - Professional",
   prerequestintro: "Although there are no official prerequisites, successful candidates usually have",
   courseprerequcontent: [
     "At least two years of practical expertise building and deploying cloud architecture on AWS.",
@@ -1050,7 +1050,7 @@ const awscertifiedsolutionsarchitectprofessional =  {
     "Experience with CI/CD pipelines, disaster recovery plans, and compliance standards.",
     "BITA guarantees that learners are completely prepared with mock tests, laboratories, architecture diagrams, and advanced trainer advice."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Solutions Architect – Professional Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified Solutions Architect - Professional Exam?",
   htaintro: "To register for the AWS Certified Solutions Architect - Professional exam, follow the steps below",
   howtoapplycontent: [
     "Sign in to your AWS account using the AWS Certification Portal.",
@@ -1061,10 +1061,10 @@ const awscertifiedsolutionsarchitectprofessional =  {
     "If taking the exam online, make sure to have a valid ID and a quiet environment.",
     "Once cleared, AWS will send you an email with your certificate and digital badge."
   ],
-  obtaincourseheading: "How to Get AWS Certified Solutions Architect – Professional Certification?",
-  obtainintro: "To earn the AWS Certified Solutions Architect – Professional credential",
+  obtaincourseheading: "How to Get AWS Certified Solutions Architect - Professional Certification?",
+  obtainintro: "To earn the AWS Certified Solutions Architect - Professional credential",
   obtaincoursecontent: [
-    "Complete BITA’s comprehensive course, which includes advanced architecture labs, design reviews, and expert mentoring.",
+    "Complete BITA's comprehensive course, which includes advanced architecture labs, design reviews, and expert mentoring.",
     "Take the SAP-C02 exam, which includes multiple-choice and scenario-based questions, over 180 minutes.",
     "Score at least 750 out of 1000 to pass.",
     "Access and share your certificate through your AWS Certification account.",
@@ -1095,14 +1095,14 @@ const awscertifiedsolutionsarchitectprofessional =  {
 const awscertifiedmachinelearningspecialty =  {
   slug: "aws-certified-machine-learning-specialty",
   code: "MLS-C01",
-  title: "AWS Certified Machine Learning – Specialty",
-  description: "Become a AWS Certified Machine Learning – Specialty our certification",
-  cheading: "AWS Certified Machine Learning – Specialty",
+  title: "AWS Certified Machine Learning - Specialty",
+  description: "Become a AWS Certified Machine Learning - Specialty our certification",
+  cheading: "AWS Certified Machine Learning - Specialty",
   courseoverview: [
     "Do you wish to specialize in artificial intelligence and data science using AWS? BITA Academy provides a thorough AWS Certified Machine Learning - Specialty training course for professionals who wish to create, train, tweak, and deploy machine learning models on the AWS Cloud.",
     "This certification validates your ability to use AWS services to develop scalable and reliable machine learning solutions. Whether you're a data scientist, developer, or AI enthusiast, this course will provide you with the practical knowledge and real-world experience required to obtain the AWS Certified Machine Learning - Specialty certificate."
   ],
-  whytakecourseheading: "Why Take the AWS Certified Machine Learning – Specialty Course?",
+  whytakecourseheading: "Why Take the AWS Certified Machine Learning - Specialty Course?",
   wtcoursecontent: [
     "Master the ML Workflow: Learn how to use AWS products such as SageMaker, Lambda, and S3 to collect and analyze data, train models, and deploy them.",
     "Industry Recognition: The AWS Certified Machine Learning - Specialty credential is internationally recognized and lends credibility to your ML abilities.",
@@ -1110,7 +1110,7 @@ const awscertifiedmachinelearningspecialty =  {
     "Boost Your Career: This certification is an important differentiator for positions such as ML Engineer, Data Scientist, and AI Developer.",
     "Stay Ahead of the Curve: Machine learning is driving the future of technology, and AWS is spearheading the cloud revolution. Become certified and stay future-ready."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Machine Learning – Specialty?",
+  whocanlearnheading: "Who Can Learn AWS Certified Machine Learning - Specialty?",
   wclcontent: "The AWS Certified Machine Learning - Specialty course is suitable for",
   wclpoints: [
     "Data Scientists and Machine Learning Engineers",
@@ -1118,9 +1118,9 @@ const awscertifiedmachinelearningspecialty =  {
     "Cloud professionals that wish to integrate machine learning into their AWS projects",
     "Business Analysts and Data Engineers seeking to move into ML jobs.",
     "Anyone preparing for an advanced AWS certification in AI and machine learning",
-    "Prior experience in ML or data science is helpful, but BITA’s trainers are well-equipped to guide you from the basics to advanced topics."
+    "Prior experience in ML or data science is helpful, but BITA's trainers are well-equipped to guide you from the basics to advanced topics."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Machine Learning – Specialty",
+  courseprerequestheading: "Prerequisites for AWS Certified Machine Learning - Specialty",
   prerequestintro: "To successfully complete this course and certification, the following background is recommended",
   courseprerequcontent: [
     "1-2 years of experience in machine learning or deep learning.",
@@ -1129,7 +1129,7 @@ const awscertifiedmachinelearningspecialty =  {
     "Understanding model evaluation and tuning procedures.",
     "BITA ensures that all learners receive guided support, from foundational theory to advanced ML workflows, according to their level."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Machine Learning – Specialty Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified Machine Learning - Specialty Exam?",
   howtoapplycontent: [
     "Log in to the AWS Certification Portal with your AWS account.",
     'Click "Schedule New Exam" and select the AWS Certified Machine Learning - Specialty (MLS-C01) exam.',
@@ -1138,7 +1138,7 @@ const awscertifiedmachinelearningspecialty =  {
     "On exam day, make sure your ID is legitimate, your system is ready (for online exams), and you're in a peaceful environment.",
     "After passing the exam, your official AWS badge and certificate will be issued through your AWS Certification dashboard."
   ],
-  obtaincourseheading: "How to Get AWS Certified Machine Learning – Specialty Certification?",
+  obtaincourseheading: "How to Get AWS Certified Machine Learning - Specialty Certification?",
   obtainintro: "To get AWS Certified Machine Learning - Specialty, take these steps",
   obtaincoursecontent: [
     "Join BITA's organized training, which includes expert-led workshops, case studies, and practice examinations.",
@@ -1149,7 +1149,7 @@ const awscertifiedmachinelearningspecialty =  {
     "This certification demonstrates your ability to implement machine learning models at scale with AWS tools and frameworks."
   ],
   coheading: "Career Opportunities",
-  cointro: "Holding the AWS Certified Machine Learning – Specialty certification opens up a range of high-paying roles, including",
+  cointro: "Holding the AWS Certified Machine Learning - Specialty certification opens up a range of high-paying roles, including",
   careeroppotunities: [
     "Machine Learning Engineer",
     "AI/ML Solutions Architect",
@@ -1172,24 +1172,24 @@ const awscertifiedmachinelearningspecialty =  {
 const awscertifiedadvancednetworkingspecialty =  {
   slug: "aws-certified-advanced-networking-specialty",
   code: "ANS-C01",
-  title: "AWS Certified Advanced Networking – Specialty",
-  description: "Become a AWS Certified Advanced Networking – Specialty our Certification",
-  cheading: "AWS Certified Advanced Networking – Specialty",
+  title: "AWS Certified Advanced Networking - Specialty",
+  description: "Become a AWS Certified Advanced Networking - Specialty our Certification",
+  cheading: "AWS Certified Advanced Networking - Specialty",
   courseoverview: [
     "Do you want to learn complicated networking on AWS and create highly available, scalable, and secure network architectures? BITA Academy provides an expert-led course for the AWS Certified Advanced Networking - Specialty certification, which will provide you with extensive knowledge of hybrid IT network architecture, routing, security, and data flow optimization on AWS. This course is perfect for networking professionals who want to confirm their advanced cloud networking skills.",
     "Our training blends real-time scenarios, lab activities, and case studies to provide learners with hands-on experience tackling real-world network difficulties using AWS."
   ],
-  whytakecourseheading: "Why Take the AWS Certified Advanced Networking – Specialty Course?",
-  wtcintro: "The AWS Certified Advanced Networking – Specialty course from BITA is designed to prepare professionals for high-level networking roles in cloud environments. Here's why this certification is a must-have",
+  whytakecourseheading: "Why Take the AWS Certified Advanced Networking - Specialty Course?",
+  wtcintro: "The AWS Certified Advanced Networking - Specialty course from BITA is designed to prepare professionals for high-level networking roles in cloud environments. Here's why this certification is a must-have",
   wtcoursecontent: [
     "In-Depth Networking Mastery: Learn to design and implement advanced AWS and hybrid network architectures.",
     "Specialist Recognition: Stand out in the cloud networking domain with a credential that proves your technical excellence.",
     "Security and Compliance Expertise: Get trained to manage network security, encryption, and compliance policies at scale.",
-    "Career Growth: The AWS Certified Advanced Networking – Specialty certification opens up roles in cloud infrastructure, enterprise networking, and network security.",
+    "Career Growth: The AWS Certified Advanced Networking - Specialty certification opens up roles in cloud infrastructure, enterprise networking, and network security.",
     "Preparation for Leadership Roles: Become an asset to your organization by mastering network operations, monitoring, and troubleshooting strategies."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Advanced Networking – Specialty?",
-  wclcontent: "The AWS Certified Advanced Networking – Specialty course is tailored for",
+  whocanlearnheading: "Who Can Learn AWS Certified Advanced Networking - Specialty?",
+  wclcontent: "The AWS Certified Advanced Networking - Specialty course is tailored for",
   wclpoints: [
     "Network engineers and cloud architects",
     "System administrators with strong networking knowledge",
@@ -1198,7 +1198,7 @@ const awscertifiedadvancednetworkingspecialty =  {
     "Professionals holding Associate-level AWS certifications looking to specialize",
     "Experience with AWS networking tools and general networking concepts (such as TCP/IP, BGP, DNS, etc.) is highly recommended."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Advanced Networking – Specialty",
+  courseprerequestheading: "Prerequisites for AWS Certified Advanced Networking - Specialty",
   prerequestintro: "To get the most from the course, candidates should preferably have",
   courseprerequcontent: [
     "5+ years of networking experience.",
@@ -1207,7 +1207,7 @@ const awscertifiedadvancednetworkingspecialty =  {
     "Completion of AWS Certified Solutions Architect Associate or similar expertise",
     "BITA's professional trainers provide extensive explanations, graphics, and project-based labs to assure your readiness, even if you have limited experience with AWS-native networking technologies."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Advanced Networking – Specialty Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified Advanced Networking - Specialty Exam?",
   htaintro: "To enroll in the AWS Certified Advanced Networking - Specialty test, complete these steps",
   howtoapplycontent: [
     "Log in to your AWS Certification account on the official AWS website.",
@@ -1217,7 +1217,7 @@ const awscertifiedadvancednetworkingspecialty =  {
     "On exam day, bring a valid government-issued ID and complete the environmental conditions if taking the exam online.",
     "Upon passing, you'll receive your digital badge and certificate from AWS."
   ],
-  obtaincourseheading: "How to Get AWS Certified Advanced Networking – Specialty Certification?",
+  obtaincourseheading: "How to Get AWS Certified Advanced Networking - Specialty Certification?",
   obtainintro: "Here is how you may get your AWS Certified Advanced Networking - Specialty credential",
   obtaincoursecontent: [
     "Enroll in BITA's in-depth course to increase your knowledge and confidence.",
@@ -1228,7 +1228,7 @@ const awscertifiedadvancednetworkingspecialty =  {
     "This specialist certification demonstrates your competence to develop and manage complex AWS network solutions."
   ],
   coheading: "Career Opportunities",
-  cointro: "The AWS Certified Advanced Networking – Specialty certification opens doors to senior-level and niche technical roles, including",
+  cointro: "The AWS Certified Advanced Networking - Specialty certification opens doors to senior-level and niche technical roles, including",
   careeroppotunities: [
     "Cloud Network Engineer",
     "AWS Network Security Specialist",
@@ -1248,28 +1248,28 @@ const awscertifiedadvancednetworkingspecialty =  {
   ]
 };
 
-// AWS Certified Data Analytics – Specialty
+// AWS Certified Data Analytics - Specialty
 
 const awscertifieddataanalyticsspecialty =  {
   slug: "aws-certified-data-analytics-specialty",
   code: "DAS-C01",
-  title: "AWS Certified Data Analytics – Specialty",
+  title: "AWS Certified Data Analytics - Specialty",
   description: "Become an expert in AWS Data Analytics. Learn big data processing, visualization, and analytics techniques for AWS-powered solutions.",
-  cheading: "AWS Certified Data Analytics – Specialty",
+  cheading: "AWS Certified Data Analytics - Specialty",
   courseoverview: [
     "Are you ready to transform raw data into meaningful insights in the cloud? BITA Academy provides a specialist course for the AWS Certified Data Analytics - Specialty certification, which teaches professionals how to collect, store, process, analyze, and visualize big data with AWS services. This course is ideal for data analysts, data engineers, and IT professionals looking to hone their skills in cloud-based data analytics"
   ],
-  whytakecourseheading: "Why Take the AWS Certified Advanced Networking – Specialty Course?",
-  wtcintro: "The AWS Certified Advanced Networking – Specialty course from BITA is designed to prepare professionals for high-level networking roles in cloud environments. Here's why this certification is a must-have",
+  whytakecourseheading: "Why Take the AWS Certified Advanced Networking - Specialty Course?",
+  wtcintro: "The AWS Certified Advanced Networking - Specialty course from BITA is designed to prepare professionals for high-level networking roles in cloud environments. Here's why this certification is a must-have",
   wtcoursecontent: [
     "In-Depth Networking Mastery: Learn to design and implement advanced AWS and hybrid network architectures.",
     "Specialist Recognition: Stand out in the cloud networking domain with a credential that proves your technical excellence.",
     "Security and Compliance Expertise: Get trained to manage network security, encryption, and compliance policies at scale.",
-    "Career Growth: The AWS Certified Advanced Networking – Specialty certification opens up roles in cloud infrastructure, enterprise networking, and network security.",
+    "Career Growth: The AWS Certified Advanced Networking - Specialty certification opens up roles in cloud infrastructure, enterprise networking, and network security.",
     "Preparation for Leadership Roles: Become an asset to your organization by mastering network operations, monitoring, and troubleshooting strategies."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Advanced Networking – Specialty?",
-  wclcontent: "The AWS Certified Advanced Networking – Specialty course is tailored for",
+  whocanlearnheading: "Who Can Learn AWS Certified Advanced Networking - Specialty?",
+  wclcontent: "The AWS Certified Advanced Networking - Specialty course is tailored for",
   wclpoints: [
     "Network engineers and cloud architects",
     "System administrators with strong networking knowledge",
@@ -1278,7 +1278,7 @@ const awscertifieddataanalyticsspecialty =  {
     "Professionals holding Associate-level AWS certifications looking to specialize",
     "Experience with AWS networking tools and general networking concepts (such as TCP/IP, BGP, DNS, etc.) is highly recommended."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Advanced Networking – Specialty",
+  courseprerequestheading: "Prerequisites for AWS Certified Advanced Networking - Specialty",
   prerequestintro: "To get the most from the course, candidates should preferably have",
   courseprerequcontent: [
     "5+ years of networking experience.",
@@ -1287,7 +1287,7 @@ const awscertifieddataanalyticsspecialty =  {
     "Completion of AWS Certified Solutions Architect Associate or similar expertise",
     "BITA's professional trainers provide extensive explanations, graphics, and project-based labs to assure your readiness, even if you have limited experience with AWS-native networking technologies."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Advanced Networking – Specialty Exam?",
+  howtoapplyheading: "How to Apply for the AWS Certified Advanced Networking - Specialty Exam?",
   htaintro: "To enroll in the AWS Certified Advanced Networking - Specialty test, complete these steps",
   howtoapplycontent: [
     "Log in to your AWS Certification account on the official AWS website.",
@@ -1297,7 +1297,7 @@ const awscertifieddataanalyticsspecialty =  {
     "On exam day, bring a valid government-issued ID and complete the environmental conditions if taking the exam online.",
     "Upon passing, you'll receive your digital badge and certificate from AWS."
   ],
-  obtaincourseheading: "How to Get AWS Certified Advanced Networking – Specialty Certification?",
+  obtaincourseheading: "How to Get AWS Certified Advanced Networking - Specialty Certification?",
   obtainintro: "Here is how you may get your AWS Certified Advanced Networking - Specialty credential",
   obtaincoursecontent: [
     "Enroll in BITA's in-depth course to increase your knowledge and confidence.",
@@ -1308,7 +1308,7 @@ const awscertifieddataanalyticsspecialty =  {
     "This specialist certification demonstrates your competence to develop and manage complex AWS network solutions."
   ],
   coheading: "Career Opportunities",
-  cointro: "The AWS Certified Advanced Networking – Specialty certification opens doors to senior-level and niche technical roles, including",
+  cointro: "The AWS Certified Advanced Networking - Specialty certification opens doors to senior-level and niche technical roles, including",
   careeroppotunities: [
     "Cloud Network Engineer",
     "AWS Network Security Specialist",
@@ -1331,14 +1331,14 @@ const awscertifieddataanalyticsspecialty =  {
 const awscertifiedsecurityspecialty =  {
   slug: "aws-certified-security-specialty",
   code: "SCS-C02",
-  title: "AWS Certified Security – Specialty",
-  description: "Become a AWS Certified Security – Specialty our Certification",
-  cheading: "AWS Certified Security – Specialty",
+  title: "AWS Certified Security - Specialty",
+  description: "Become a AWS Certified Security - Specialty our Certification",
+  cheading: "AWS Certified Security - Specialty",
   courseoverview: [
     "Are you ready to hone your cloud security skills and become a trusted guardian of enterprise cloud environments? BITA Academy offers the AWS Certified Security - Specialty training course, which is targeted for IT professionals looking to learn advanced security techniques inside the AWS ecosystem.",
     "This course covers in-depth security issues like identity and access management, encryption, incident response, logging, and monitoring, all in accordance with AWS best practices. Whether you're a seasoned security expert or a cloud practitioner wishing to specialize, the AWS Certified Security - Specialty certification will help you stand out in today's cybersecurity-focused employment market."
   ],
-  whytakecourseheading: "Why Take the AWS Certified Security – Specialty Course?",
+  whytakecourseheading: "Why Take the AWS Certified Security - Specialty Course?",
   wtcintro: "BITA's AWS Certified Security - Specialty curriculum provides practical knowledge and abilities for protecting cloud infrastructures. Here's why this course is essential",
   wtcoursecontent: [
     "Advanced Security Concepts: Discover how to establish security controls, manage identity and access, and leverage AWS services to monitor and safeguard cloud data.",
@@ -1347,7 +1347,7 @@ const awscertifiedsecurityspecialty =  {
     "Career Boost: Advance your career by joining cloud security teams, conducting audits, ensuring compliance, and designing secure architectures.",
     "Bridge to Leadership Roles: This certification prepares you for security architect, compliance manager, and risk management roles in cloud-based organizations."
   ],
-  whocanlearnheading: "Who Can Learn AWS Certified Security – Specialty?",
+  whocanlearnheading: "Who Can Learn AWS Certified Security - Specialty?",
   wclcontent: "The AWS Certified Security - Specialty course is ideal for",
   wclpoints: [
     "Security specialists and analysts in charge of securing AWS environments.",
@@ -1357,7 +1357,7 @@ const awscertifiedsecurityspecialty =  {
     "Anyone looking to advance into high-demand cybersecurity professions within cloud ecosystems.",
     "Prior understanding of AWS foundations and experience with security-related duties are beneficial, but not required. Our trainers ensure that all learners are supported throughout the program."
   ],
-  courseprerequestheading: "Prerequisites for AWS Certified Security – Specialty",
+  courseprerequestheading: "Prerequisites for AWS Certified Security - Specialty",
   prerequestintro: "To get the most out of the AWS Certified Security - Specialty course, students should have",
   courseprerequcontent: [
     "Two or more years of practical experience in protecting AWS workloads.",
@@ -1366,15 +1366,15 @@ const awscertifiedsecurityspecialty =  {
     "Understanding of logging, monitoring, and incident response procedures.",
     "Regardless of your starting place, BITA's expert teachers will guide you step by step through hands-on laboratories, quizzes, and study materials."
   ],
-  howtoapplyheading: "How to Apply for the AWS Certified Security – Specialty Exam?",
-  htaintro: "Here’s how to register for the AWS Certified Security – Specialty exam",
+  howtoapplyheading: "How to Apply for the AWS Certified Security - Specialty Exam?",
+  htaintro: "Here's how to register for the AWS Certified Security - Specialty exam",
   howtoapplycontent: [
     "Sign in to the AWS Certification Portal with your AWS account.",
-    'Select "Schedule New Exam" and choose AWS Certified Security – Specialty (Exam Code: SCS-C02).',
+    'Select "Schedule New Exam" and choose AWS Certified Security - Specialty (Exam Code: SCS-C02).',
     "Choose your preferred language, test format (online proctored or in-person), and schedule.",
     "Pay the exam fee of USD 300 via AWS's testing partners—Pearson VUE or PSI.",
     "On exam day, ensure you have valid ID and a distraction-free test environment (for online exams).",
-    "After passing the exam, you’ll receive your official certification and digital badge from AWS."
+    "After passing the exam, you'll receive your official certification and digital badge from AWS."
   ],
   obtaincourseheading: "How Do I Get AWS Certified Security - Specialty Certification?",
   obtainintro: "To obtain your AWS Certified Security - Specialty certification",
@@ -1387,7 +1387,7 @@ const awscertifiedsecurityspecialty =  {
     "This certification recognizes your competence to secure AWS workloads with cutting-edge tools and best practices."
   ],
   coheading: "Career Opportunities",
-  cointro: "Holding the AWS Certified Security – Specialty certification qualifies you for high-impact security roles, such as",
+  cointro: "Holding the AWS Certified Security - Specialty certification qualifies you for high-impact security roles, such as",
   careeroppotunities: [
     "Cloud Security Engineer",
     "AWS Security Consultant",
@@ -1509,9 +1509,9 @@ const microsoftsecurityoperationsanalystcertification =       {
   ],
   examblueprint: [
     "Manage a security operations environment (25-30%)",
-    "Configure protections and detections (15–20%)",
-    "Manage incident response (35–40%)",
-    "Perform threat hunting (15–20%)"
+    "Configure protections and detections (15-20%)",
+    "Manage incident response (35-40%)",
+    "Perform threat hunting (15-20%)"
   ],
   finally: "Enroll immediately in our SC-200: Microsoft Security Operations Analyst certification training to initiate the process of developing into an accomplished security operations analyst. By receiving our proficient instruction and thorough course materials, you will possess the necessary skills to succeed on the examination and thrive in your field of cybersecurity."
 };
@@ -1580,10 +1580,10 @@ const microsoftidentitymanagertraining =       {
     "Recognition and Credibility: Your professional reputation improves with a globally recognized SC-300 certification. You stand out from industry peers by committing to continuous learning and cloud identity and access management."
   ],
   examblueprint: [
-    "Implement and manage user identities (20–25%)",
-    "Implement authentication and access management (25–30%)",
-    "Plan and implement workload identities (20–25%)",
-    "Plan and implement identity governance (20–25%)"
+    "Implement and manage user identities (20-25%)",
+    "Implement authentication and access management (25-30%)",
+    "Plan and implement workload identities (20-25%)",
+    "Plan and implement identity governance (20-25%)"
   ],
   finally: "The SC-300: Microsoft Identity and Access Administrator course is the focus of BITA Certification Training Institute's dedication to delivering exceptional training. Our program is meticulously crafted to be in accordance with the Microsoft Identity Manager training, guaranteeing that you will acquire the necessary skills to excel in identity and access management. Enroll today to advance your career in cybersecurity and improve your knowledge."
 };
@@ -1653,11 +1653,11 @@ const microsoftazureadministratortrainingcourse =       {
     "Industry Standards Alignment: AZ-104 certification follows best practices and standards. Maintaining regulatory and corporate compliance requires proficiency in Microsoft Azure tools and technologies. This alignment helps you build safe, scalable, and efficient cloud solutions."
   ],
   examblueprint: [
-    "Manage Azure identities and governance (20–25%)",
-    "Implement and manage storage (15–20%)",
-    "Deploy and manage Azure compute resources (20–25%)",
-    "Implement and manage virtual networking (15–20%)",
-    "Monitor and maintain Azure resources (10–15%)"
+    "Manage Azure identities and governance (20-25%)",
+    "Implement and manage storage (15-20%)",
+    "Deploy and manage Azure compute resources (20-25%)",
+    "Implement and manage virtual networking (15-20%)",
+    "Monitor and maintain Azure resources (10-15%)"
   ],
   finally: "BITA Certification instruction Institute is committed to offering exceptional instruction for the AZ-104: Microsoft Azure Administrator course. Our program is rigorously crafted to correspond with the objectives of the Microsoft Azure Administrator training course, ensuring that you learn the skills required to excel at managing Azure systems. Enroll today to take an important step toward expanding your knowledge and developing your career in cloud computing."
 };
@@ -1723,11 +1723,11 @@ const az204trainingcourses =       {
     "Professional Development and Confidence: You feel accomplished and confident after AZ-204 certification. In the fast-changing technology industry, it shows your dedication to professional development and learning. This credential lets you handle more complicated tasks and further your profession."
   ],
   examblueprint: [
-    "Develop Azure compute solutions (25–30%)",
-    "Develop for Azure storage (15–20%)",
-    "Implement Azure security (20–25%)",
-    "Monitor, troubleshoot, and optimize Azure solutions (15–20%)",
-    "Connect to and consume Azure services and third-party services (15–20%)"
+    "Develop Azure compute solutions (25-30%)",
+    "Develop for Azure storage (15-20%)",
+    "Implement Azure security (20-25%)",
+    "Monitor, troubleshoot, and optimize Azure solutions (15-20%)",
+    "Connect to and consume Azure services and third-party services (15-20%)"
   ],
   finally: "At BITA Certification Training Institute, we are dedicated to your success. Enroll in our az-204 training classes today and take the first step toward becoming a certified Azure developer."
 };
@@ -1794,10 +1794,10 @@ const microsoftazuresecuritytechnologiescourse =       {
     "Comprehensive Skill Development: AZ-500 certification ensures you know the latest security methods and technologies. For security, Azure users need identity management, threat prevention, and data security. Cloud security changes frequently, so learning and improving are key."
   ],
   examblueprint: [
-    "Manage identity and access (25–30%)",
-    "Secure networking (20–25%)",
-    "Secure compute, storage, and databases (20–25%)",
-    "Manage security operations (25–30%)"
+    "Manage identity and access (25-30%)",
+    "Secure networking (20-25%)",
+    "Secure compute, storage, and databases (20-25%)",
+    "Manage security operations (25-30%)"
   ],
   finally: "At BITA Certification Training Institute, we are committed to your success. Enroll in our Microsoft Azure Security Technologies course today and start your journey to being a certified Azure security professional!"
 };
@@ -1855,10 +1855,10 @@ const az305trainingcourse =       {
     "Business Success Contribution: With the AZ-305 accreditation, you can build business-focused solutions. Your ability to transform business needs into Azure solutions can greatly impact your organization's productivity, scalability, and cloud success."
   ],
   examblueprint: [
-    "Design identity, governance, and monitoring solutions (25–30%)",
-    "Design data storage solutions (20–25%)",
-    "Design business continuity solutions (15–20%)",
-    "Design infrastructure solutions (30–35%)"
+    "Design identity, governance, and monitoring solutions (25-30%)",
+    "Design data storage solutions (20-25%)",
+    "Design business continuity solutions (15-20%)",
+    "Design infrastructure solutions (30-35%)"
   ],
   finally: "Securing the AZ-305 certification signifies one's aptitude for developing and executing efficient Azure solutions, thereby elevating one's status as a highly regarded expert in the field. BITA Certification Training Institute's AZ-305 training course offers comprehensive resources and assistance to ensure your success. Take the next step in your cloud computing vocation by enrolling with us today."
 };
@@ -1915,11 +1915,11 @@ const az400trainingonline =       {
     "Current Knowledge: The certification keeps you up to date on DevOps and Azure services. Learning about new technology and industry trends keeps your skills updated and in demand."
   ],
   examblueprint: [
-    "Design and implement processes and communications (10–15%)",
-    "Design and implement a source control strategy (10–15%)",
-    "Design and implement build and release pipelines (50–55%)",
-    "Develop a security and compliance plan (10–15%)",
-    "Implement an instrumentation strategy (5–10%)"
+    "Design and implement processes and communications (10-15%)",
+    "Design and implement a source control strategy (10-15%)",
+    "Design and implement build and release pipelines (50-55%)",
+    "Develop a security and compliance plan (10-15%)",
+    "Implement an instrumentation strategy (5-10%)"
   ],
   finally: "Our mission at BITA Certification Training Institute is to ensure your success. The objective of our AZ-400 training online  is to furnish you with the knowledge and skills necessary to thrive in the domain of DevOps. Attend this event to initiate the process of obtaining Microsoft DevOps Engineer Expert certification. To enroll or obtain additional details, please visit our website or reach out to our customer service department. Commence your professional transformation with BITA's AZ-400 training online."
 };
@@ -1984,10 +1984,10 @@ const microsoftcybersecuritycourseforbeginners =       {
     "Constant Learning and Flexibility: SC-100 certification necessitates keeping up with cybersecurity trends, technology, and best practices. This dedication to ongoing learning keeps you versatile and ready to face new cybersecurity risks and difficulties."
   ],
   examblueprint: [
-    "Design solutions that align with security best practices and priorities (20–25%)",
-    "Design security operations, identity, and compliance capabilities (30–35%)",
-    "Design security solutions for infrastructure (20–25%)",
-    "Design security solutions for applications and data (20–25%)"
+    "Design solutions that align with security best practices and priorities (20-25%)",
+    "Design security operations, identity, and compliance capabilities (30-35%)",
+    "Design security solutions for infrastructure (20-25%)",
+    "Design security solutions for applications and data (20-25%)"
   ],
   finally: "Our mission at BITA Certification Training Institute is to ensure your success. The objective of our Microsoft Cyber Security course for beginners is to furnish you with the knowledge and skills necessary to thrive in the realm of cybersecurity. Participate in our program today and initiate the process of obtaining the Microsoft Cybersecurity Architect certification. To enroll or obtain additional details, please visit our website or reach out to our customer service department. Commence your professional development with BITA and revolutionize your field with our Microsoft Cyber Security course for beginners."
 };
@@ -2041,11 +2041,11 @@ const microsoftdynamics365traininginchennai =       {
     "Our comprehensive Microsoft Dynamics 365 training in Chennai assures that you are fully prepared to obtain certification and enhance your career in the dynamic sector of CRM solutions."
   ],
   examblueprint: [
-    "Describe Dynamics 365 Customer Insights (15–20%)",
-    "Describe Dynamics 365 Sales (20–25%)",
-    "Describe Dynamics 365 Customer Service (20–25%)",
-    "Describe Dynamics 365 Field Service (15–20%)",
-    "Explore the core capabilities of customer engagement apps in Dynamics 365 (15–20%)"
+    "Describe Dynamics 365 Customer Insights (15-20%)",
+    "Describe Dynamics 365 Sales (20-25%)",
+    "Describe Dynamics 365 Customer Service (20-25%)",
+    "Describe Dynamics 365 Field Service (15-20%)",
+    "Explore the core capabilities of customer engagement apps in Dynamics 365 (15-20%)"
   ],
   finally: "Choosing BITA Certification Training Institute for your Microsoft Dynamics 365 training in Chennai means investing in a brighter future with limitless professional options. Join us today and take the first step toward becoming a certified Dynamics 365 professional."
 };
@@ -2099,12 +2099,12 @@ const microsoftdynamics365trainingcourses = {
     "Our thorough Microsoft Dynamics 365 Training Courses will equip you to gain certification and enhance your career in the dynamic sector of ERP systems."
   ],
   examblueprint: [
-    "Describe Dynamics 365 Supply Chain Management (20–25%)",
-    "Describe Dynamics 365 Finance (20–25%)",
-    "Describe Dynamics 365 Commerce (10–15%)",
-    "Describe Dynamics 365 Human Resources (10–15%)",
-    "Describe Dynamics 365 Project Operations (10–15%)",
-    "Describe the finance and operations core functionality (15–20%)"
+    "Describe Dynamics 365 Supply Chain Management (20-25%)",
+    "Describe Dynamics 365 Finance (20-25%)",
+    "Describe Dynamics 365 Commerce (10-15%)",
+    "Describe Dynamics 365 Human Resources (10-15%)",
+    "Describe Dynamics 365 Project Operations (10-15%)",
+    "Describe the finance and operations core functionality (15-20%)"
   ],
   finally: "Choosing BITA Certification Training Institute for your Microsoft Dynamics 365 Training Courses means investing in a brighter future with limitless professional options. Join us today and take the first step toward becoming a certified Dynamics 365 ERP specialist."
 }
@@ -2167,10 +2167,10 @@ const microsoft365administratortraining =       {
     "Organizational Benefits: Certified individuals may make major contributions to their organizations by optimizing Microsoft 365 deployments, increasing productivity, and maintaining strong security measures."
   ],
   examblueprint: [
-    "Deploy and manage a Microsoft 365 tenant (25–30%)",
-    "Implement and manage Microsoft Entra identity and access (25–30%)",
-    "Manage security and threats by using Microsoft Defender XDR (25–30%)",
-    "Manage compliance by using Microsoft Purview (15–20%)"
+    "Deploy and manage a Microsoft 365 tenant (25-30%)",
+    "Implement and manage Microsoft Entra identity and access (25-30%)",
+    "Manage security and threats by using Microsoft Defender XDR (25-30%)",
+    "Manage compliance by using Microsoft Purview (15-20%)"
   ],
   finally: "The MS-102: Microsoft 365 Administrator Training at BITA Certification Training Institute will prepare you to become an expert Microsoft 365 administrator. With our planned training program, professional teachers, and thorough course materials, you will be fully prepared to face the challenges of Microsoft 365 administration. Join us today to take the next step in your professional development with Microsoft 365 administrator training."
 };
@@ -2230,10 +2230,10 @@ const microsoftfinanceandoperationstraining = {
     "Our thorough Microsoft finance and operations training prepares you to gain certification and develop your career as a solution architect."
   ],
   examblueprint: [
-    "Architect solutions (20–25%)",
-    "Define solution strategies (35–40%)",
-    "Manage implementations (20–25%)",
-    "Manage testing (10–15%)"
+    "Architect solutions (20-25%)",
+    "Define solution strategies (35-40%)",
+    "Manage implementations (20-25%)",
+    "Manage testing (10-15%)"
   ],
   finally: "Choosing BITA Certification Training Institute for your Microsoft finance and operations training means investing in a brighter future with limitless employment options. Join us today to take the first step toward becoming a certified Dynamics 365 Finance and Operations Apps Solution Architect!"
 };
@@ -2507,7 +2507,7 @@ const comptiacloudtrainingcenters =       {
   whocanlearnheading: "Who Can Learn CompTIA Cloud+?",
   wclpoints: "The CompTIA Cloud+ course is ideal for IT professionals looking to improve their cloud computing skills. Ideal candidates include system administrators, network engineers, cloud specialists, and IT managers. Whether you want to enhance your career or transition into a new role, our training at BITA, one of the top-rated CompTIA Cloud+ Training Centers, will equip you with the certifications you need to stand out in the competitive job market. This certification benefits both seasoned professionals and those new to cloud technology.",
   courseprerequestheading: "Prerequisites for CompTIA Cloud Plus",
-  courseprerequcontent: "Before enrolling in the CompTIA Cloud+ course, candidates should have at least 24–36 months of work experience in IT networking, storage, or data center technology. Familiarity with main hypervisor technologies for server virtualization, as well as basic knowledge of network and storage administration, is advantageous. As a premier CompTIA Cloud+ Training Center, BITA ensures that our program builds on your prior knowledge to take your skills to the next level.",
+  courseprerequcontent: "Before enrolling in the CompTIA Cloud+ course, candidates should have at least 24-36 months of work experience in IT networking, storage, or data center technology. Familiarity with main hypervisor technologies for server virtualization, as well as basic knowledge of network and storage administration, is advantageous. As a premier CompTIA Cloud+ Training Center, BITA ensures that our program builds on your prior knowledge to take your skills to the next level.",
   howtoapplyheading: "How can I apply for the CompTIA Cloud+ exam?",
   htaintro: "The application process for the CompTIA Cloud+ test is uncomplicated.",
   howtoapplycontent: [
@@ -3242,7 +3242,7 @@ courseprerequcontent: [
   costofcourseheading: "How to Get CompTIA A+ Cyber Certification?",
   costofcoursecontent: [
     "In order to obtain your CompTIA A+ Cyber Certification, adhere to this pathway:",
-    "Sign up for BITA’s specialized training that includes theory, labs, and practice tests.",
+    "Sign up for BITA's specialized training that includes theory, labs, and practice tests.",
     "Pass the Core 1 and Core 2 exams for CompTIA A+.",
     "Achieve a minimum score of 675 on Core 1 and 700 on Core 2.",
     "Get your official certificate and digital badge from CompTIA.",
@@ -3289,14 +3289,14 @@ const comptiacyberDefenseprocertificationtraining =  {
   wtcoursecontent: [
     "Practical Security Expertise: Acquire practical skills in penetration testing, vulnerability management, threat detection, and incident response.",
     "Worldwide Acknowledgment: This certification is regarded by employers across the globe as evidence of advanced security expertise.",
-    "Ensure Your Career’s Future Viability: Positions in cybersecurity are multiplying across various sectors, resulting in a high demand for certified experts.",
+    "Ensure Your Career's Future Viability: Positions in cybersecurity are multiplying across various sectors, resulting in a high demand for certified experts.",
     "Holistic Training: Acquire the knowledge to protect cloud platforms, networks, and hybrid infrastructures from attacks.",
     "Steppingstone to Specializations: Serves as a route to advanced security certifications and leadership positions.",
   ],
 
 
   whocanlearnheading: "Who Can Learn CompTIA CyberDefense Pro Certification?",
-  wclcontent: "This certification suits: This training will equip you for advanced defense roles if you’ve already finished a beginner-level security course or possess basic IT experience.",
+  wclcontent: "This certification suits: This training will equip you for advanced defense roles if you've already finished a beginner-level security course or possess basic IT experience.",
   wclpoints: [
     "IT experts aiming to focus on cybersecurity",
     "System administrators moving into security positions",
@@ -3323,14 +3323,14 @@ const comptiacyberDefenseprocertificationtraining =  {
     "Choose your preferred testing method: online (with remote proctoring) or at a test center.",
     "Select the date and time of your exam.",
     "Settle the examination fee (CompTIA charges differ according to region).",
-    "On the day of the exam, bring along a valid form of identification and make sure your internet connection is stable (if it’s an online exam).",
+    "On the day of the exam, bring along a valid form of identification and make sure your internet connection is stable (if it's an online exam).",
     "After you pass, you will be given your official certification and a digital badge.",
   ],
 
 
   costofcourseheading: "How to Get CompTIA CyberDefense Pro Certification?",
   costofcoursecontent: [
-    "Finish BITA’s thorough training regimen that includes live projects, labs, and practice tests.",
+    "Finish BITA's thorough training regimen that includes live projects, labs, and practice tests.",
     "Sign up for and successfully complete the certification exam within the designated timeframe.",
     "Fulfill the minimum passing score criteria established by CompTIA.",
     "Get your official certificate and badge from your CompTIA account.",
@@ -3503,7 +3503,7 @@ const comptiasecurityprocertificationtraining =  {
     "Select the CompTIA Security Pro Certification exam from the list of exams.",
     "Choose your exam format (either online or face-to-face).",
     "Choose a date and time that suits you best.",
-    "Use CompTIA’s testing partners to pay the exam fee.",
+    "Use CompTIA's testing partners to pay the exam fee.",
     "Show up for the exam with a legitimate ID and the necessary setup (for online tests).",
   ],
 
@@ -3516,7 +3516,7 @@ const comptiasecurityprocertificationtraining =  {
   obtaincourseheading: "How to Get CompTIA Security Pro Certification?",
   obtainintro: "In order to obtain your CompTIA Security Pro Certification, you need to:",
   obtaincoursecontent: [
-    "Finish BITA’s practical training involving real-world labs and practice exams.",
+    "Finish BITA's practical training involving real-world labs and practice exams.",
     "Sign up for and successfully complete the certification exam.",
     "Achieve the minimum passing score established by CompTIA.",
     "Retrieve your official certificate and digital badge after success",
@@ -3593,7 +3593,7 @@ const comptiasecurityxcertificationtraining =  {
     "Choose the CompTIA SecurityX Certification exam from the catalog.",
     "Select your favored delivery method: online proctored or at a test center.",
     "Select the date and time of your exam.",
-    "Securely pay the exam fee via CompTIA’s testing partners.",
+    "Securely pay the exam fee via CompTIA's testing partners.",
     "Be present at the exam with the necessary identification and setup (for online exams)."
   ],
 
@@ -3606,7 +3606,7 @@ const comptiasecurityxcertificationtraining =  {
   obtaincourseheading: "How to Get CompTIA SecurityX Certification?",
   obtainintro: "To obtain your CompTIA SecurityX Certification, adhere to this route:",
   obtaincoursecontent: [
-    "Sign up for BITA’s practical training program, which encompasses theoretical instruction, laboratory work, and practice exams.",
+    "Sign up for BITA's practical training program, which encompasses theoretical instruction, laboratory work, and practice exams.",
     "Sign up and show up for the test.",
     "Achieve the minimum passing score set by CompTIA.",
     "After you have successfully completed the process, access your official certificate and badge.",
@@ -3793,7 +3793,7 @@ const comptiacloudnetxcertification =  {
   description: "Become a comptia expert with our advanced certification.",
   cheading: "CompTIA CloudNetX Certification",
   courseoverview: [
-    "Are you ready to boost your cloud networking career with a globally respected credential? BITA Academy proudly offers a comprehensive CompTIA CloudNetX Certification training program designed for IT professionals aiming to master hybrid cloud networking. This certification is ideal for individuals looking to validate their skills in managing cloud-based and on-premises networks effectively. Through hands-on labs, real-time use cases, and expert mentorship, you’ll be prepared to build, manage, and secure next-gen network architectures.",
+    "Are you ready to boost your cloud networking career with a globally respected credential? BITA Academy proudly offers a comprehensive CompTIA CloudNetX Certification training program designed for IT professionals aiming to master hybrid cloud networking. This certification is ideal for individuals looking to validate their skills in managing cloud-based and on-premises networks effectively. Through hands-on labs, real-time use cases, and expert mentorship, you'll be prepared to build, manage, and secure next-gen network architectures.",
   ],
   whytakecourseheading: "Why Take the CompTIA CloudNetX Certification Course?",
   wtcoursecontent: [
@@ -4311,7 +4311,7 @@ const giaccertificationexamcost = {
     "Python programming fundamentals.",
     "Understanding core machine learning ideas.",
     "Understand cybersecurity principles and threat analysis.",
-    "Even if you lack prior experience, BITA’s structured training approach will help you build the necessary skills to pass the GIAC certification exam cost efficiently."
+    "Even if you lack prior experience, BITA's structured training approach will help you build the necessary skills to pass the GIAC certification exam cost efficiently."
   ],
   howtoapplyheading: "How to Apply for the GMLE Exam?",
   htaintro: "To register for the GMLE exam, take the following steps",
@@ -4769,7 +4769,7 @@ const giacsecurityoperationsmanagercertification = {
     "Select the GIAC Security Operations Manager certification (GSOM) exam from the list of available certifications.",
     "Complete the registration process and pay the exam fee.",
     "Schedule your exam at a Pearson VUE testing center or choose an online proctored exam option.",
-    "Prepare using BITA’s expert-led training sessions and practice exams."
+    "Prepare using BITA's expert-led training sessions and practice exams."
   ],
   costofcourseheading: "Cost of GSOM Exam Certification",
   costofcoursecontent: "The GIAC Security Operations Manager certification exam costs around $2,499 and includes two practice exams. Additional study materials, training sessions, and exam retakes may incur additional expenses. BITA provides cost-effective training packages to guarantee you get the most out of your certification expenditure.",
@@ -4927,7 +4927,7 @@ const giacpenetrationtestertraining = {
     "Organizations throughout the world need certified personnel to secure their networks, making the GIAC Penetration Tester (GPEN) certification an important credential for career progression."
   ],
   examblueprint: "Not published yet",
-  finally: "Enhance your cybersecurity career with BITA’s GIAC Penetration Tester Training (GPEN). Gain hands-on experience, expert guidance, and industry-recognized skills. Enroll today and take the next step toward becoming a certified penetration tester!"
+  finally: "Enhance your cybersecurity career with BITA's GIAC Penetration Tester Training (GPEN). Gain hands-on experience, expert guidance, and industry-recognized skills. Enroll today and take the next step toward becoming a certified penetration tester!"
 };
 
 const giacpythoncodertraining = {
@@ -5050,7 +5050,7 @@ const giaccloudsecurityautomationtraining = {
     "Cloud Solutions Architect"
   ],
   examblueprint: "Not published yet",
-  finally: "BITA’s GIAC Cloud Security Automation Training is a well-structured course designed to help professionals enhance their cloud security automation skills. By obtaining the GCSA certification, individuals can boost their careers and contribute to securing cloud environments effectively. Enroll today at BITA and take the next step in your cloud security career!"
+  finally: "BITA's GIAC Cloud Security Automation Training is a well-structured course designed to help professionals enhance their cloud security automation skills. By obtaining the GCSA certification, individuals can boost their careers and contribute to securing cloud environments effectively. Enroll today at BITA and take the next step in your cloud security career!"
 };
 
 const isacacybersecuritycertification = {
@@ -5094,7 +5094,7 @@ const isacacybersecuritycertification = {
     "Visit the ISACA official website and create an account.",
     "Register for the CISM exam by selecting a preferred date and location.",
     "Pay the required exam fee and schedule the exam.",
-    "Prepare using BITA’s comprehensive training program.",
+    "Prepare using BITA's comprehensive training program.",
     "Appear for the exam and pass with a minimum required score."
   ],
   costofcourseheading: "Cost of CISM",
@@ -5193,7 +5193,7 @@ const informationsecuritygovernancecertification = {
     "Information Security Manager: Responsible for security governance and risk management.",
     "Risk and Compliance Analyst: Monitors the organization's adherence to security policies.",
     "Cybersecurity Consultant: Provides advice to organizations on optimum security procedures.",
-    "Chief Information Security Officer (CISO): Leads an organization’s security strategy.",
+    "Chief Information Security Officer (CISO): Leads an organization's security strategy.",
     "IT Governance Specialist: Sets up and oversees IT governance frameworks."
   ],
   examblueprint: "Not published yet",
@@ -5268,8 +5268,8 @@ const isacadataprivacycertification = {
     "Information Security Consultant: Provides advice to businesses on security and privacy threats, as well as assistance in implementing strong data protection policies.",
     "Data Privacy Officer (DPO): Oversees data protection initiatives, ensures regulatory compliance, and serves as the primary point of contact for privacy-related issues.",
     "IT Risk and Governance Analyst: Assesses IT security issues, creates governance frameworks, and guarantees adherence to industry standards.",
-    "Privacy Auditor: Conducts audits to assess an organization’s compliance with data privacy laws and internal policies.",
-    "Chief Information Security Officer (CISO): Leads an organization’s data security and privacy initiatives, setting strategic policies to protect sensitive data."
+    "Privacy Auditor: Conducts audits to assess an organization's compliance with data privacy laws and internal policies.",
+    "Chief Information Security Officer (CISO): Leads an organization's data security and privacy initiatives, setting strategic policies to protect sensitive data."
   ],
   examblueprint: "Not published yet",
   finally: "Join BITA's expert-led ISACA data privacy certification program to learn about data privacy solutions, advance your career, and receive a global reputation in privacy engineering. Enroll now to attain certification achievement!"
@@ -5384,8 +5384,8 @@ const isacadatasciencefundamentals = {
     "Enroll in the Course - Sign up for BITA Academy's training program to get the necessary information.",
     "Create an ISACA account. Go to ISACA's official website and register an account.",
     "Schedule your exam. Choose an appropriate date and time for your certification exam.",
-    "Prepare with Practice Tests – Utilize BITA’s mock tests and study materials to increase your chances of passing.",
-    "Take the Exam – Appear for the exam online or at an authorized testing center."
+    "Prepare with Practice Tests - Utilize BITA's mock tests and study materials to increase your chances of passing.",
+    "Take the Exam - Appear for the exam online or at an authorized testing center."
   ],
   costofcourseheading: "Cost of the ISACA Certified Data Science Fundamentals Exam",
   costofcoursecontent: [
@@ -5685,7 +5685,7 @@ const ccisocertificationtraining =  {
     "Your qualification proves that you can make security decisions at the executive level that support organizational objectives.",
   ],
   coheading: "Career Opportunities",
-  cointro: "After completing CCISO Certification Training, you’ll be equipped for top-tier cybersecurity management positions such as:",
+  cointro: "After completing CCISO Certification Training, you'll be equipped for top-tier cybersecurity management positions such as:",
   careeroppotunities: [
     "Chief Information Security Officer (CISO)",
     "Information Security Director",
@@ -5749,7 +5749,7 @@ const associateccisocertificationtraining =  {
   obtaincourseheading: "How to Get Associate CCISO Certification?",
   obtainintro: "In order to obtain your Associate CCISO Certification Training, you must:",
   obtaincoursecontent: [
-  "Complete BITA’s intensive training program, including theory, labs, and mock tests.",
+  "Complete BITA's intensive training program, including theory, labs, and mock tests.",
   "Take the official CCISO exam and pass it.",
   "Reach the EC-Council minimal passing score.",
   "After you succeed, download your official certificate and digital badge.",
@@ -5968,7 +5968,7 @@ const certifiedsocanalystcertification =  {
   obtaincourseheading: "How to Get Certified SOC Analyst Certification?",
   obtainintro: "To earn your Certified SOC Analyst Certification:",
   obtaincoursecontent: [
-    "Complete BITA’s in-depth training with real-time projects and lab simulations.",
+    "Complete BITA's in-depth training with real-time projects and lab simulations.",
     "Register for and pass the official EC-Council exam.",
     "Score the required passing marks to receive your global certification.",
     "Download your official certificate and digital badge from the EC-Council portal.",
@@ -6065,7 +6065,7 @@ const certifiednetworkdefendercertification =  {
   slug: "certified-network-defender-certification-training",
   code: "C|ND",
   title: "Certified Network Defender Certification Training",
-  description: "Join BITA Academy’s Certified Network Defender Certification training and master network security, threat detection, and defense strategies. Learn from experts and boost your cybersecurity career.",
+  description: "Join BITA Academy's Certified Network Defender Certification training and master network security, threat detection, and defense strategies. Learn from experts and boost your cybersecurity career.",
 
   cheading: "Certified Network Defender Certification",
   courseoverview: [
@@ -6237,7 +6237,7 @@ const devSecOpsengineercertification =  {
    "BITA Academy's industry-expert teachers ensure that each participant receives both theoretical knowledge and hands-on experience in implementing secure automation.",
   ],
   whocanlearnheading: "Who Can Learn Certified DevSecOps Engineer (E|CDE)?",
-  wclcontent: "The Certified DevSecOps Engineer (E|CDE) course is intended for IT professionals who want to include security into the DevOps culture. It’s ideal for:",
+  wclcontent: "The Certified DevSecOps Engineer (E|CDE) course is intended for IT professionals who want to include security into the DevOps culture. It's ideal for:",
   wclpoints: [
     "Software developers and engineers focus on secure code delivery.",
     "DevOps professionals looking to grow into cybersecurity.",
@@ -6356,7 +6356,7 @@ const cybersecuritytechniciancertification =  {
     "When you pass the exam, EC-Council will offer you an authentic Cybersecurity Technician Certification, which validates your practical skills in cybersecurity fundamentals.",
   ],
   coheading: "Career Opportunities",
-  cointro: "With a Cybersecurity Technician Certification, you open doors to some of the most in-demand roles in today’s digital world. Career opportunities include:",
+  cointro: "With a Cybersecurity Technician Certification, you open doors to some of the most in-demand roles in today's digital world. Career opportunities include:",
   careeroppotunities: [
     "Cybersecurity Technician",
     "Network Security Specialist",

@@ -37,7 +37,7 @@ export const coursesyllabus = [
             {
               topicheding: "Choose operators and data types adequate to the problem",
               topicdes: [
-                "numeric operators: ** * / % // + –",
+                "numeric operators: ** * / % // + -",
                 "string operators: * +",
                 "assignment and shortcut operators",
                 "unary and binary operators",
@@ -61,7 +61,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Control Flow – Conditional Blocks and Loops (29%)",
+          module: "Module 2: Control Flow - Conditional Blocks and Loops (29%)",
           moduledes: [
             {
               topicheding: "Make decisions and branch the flow with the if instruction",
@@ -85,7 +85,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Data Collections – Tuples, Dictionaries, Lists, and Strings (25%)",
+          module: "Module 3: Data Collections - Tuples, Dictionaries, Lists, and Strings (25%)",
           moduledes: [
             {
               topicheding: "Collect and process data using lists",
@@ -399,7 +399,7 @@ export const coursesyllabus = [
             {
               topicheding: "Perform Python core syntax operations",
               topicdes: [
-                "Python core syntax expressions – magic methods: comparison methods (e.g. __eq__(self, other)), numeric methods (e.g. __abs__(self)), type conversion methods (e.g. __init__(self)), object intro- and retrospection (e.g. __str__(self), __instancecheck__(self, object)), object attribute access (e.g. __getattr__(self, attribute)), accessing containers (e.g. __getitem__(self, key))",
+                "Python core syntax expressions - magic methods: comparison methods (e.g. __eq__(self, other)), numeric methods (e.g. __abs__(self)), type conversion methods (e.g. __init__(self)), object intro- and retrospection (e.g. __str__(self), __instancecheck__(self, object)), object attribute access (e.g. __getattr__(self, attribute)), accessing containers (e.g. __getitem__(self, key))",
                 "operating with special methods",
                 "extending class implementations to support additional core syntax operations"
               ]
@@ -547,9 +547,9 @@ export const coursesyllabus = [
               topicdes: [
                 "GUI: meaning, rationale, basic terms and definitions",
                 "visual programming: examples, basic features",
-                "widgets/controls – basic terms: windows, title and title bars, buttons, icons, labels, etc.",
+                "widgets/controls - basic terms: windows, title and title bars, buttons, icons, labels, etc.",
                 "classical vs. event-driven programming",
-                "events – basic terms",
+                "events - basic terms",
                 "widget toolkits/GUI toolkits"
               ]
             },
@@ -673,36 +673,36 @@ export const coursesyllabus = [
             {
               topicheding: "Data Collection, Integration, and Storage",
               topicdes: [
-                "Objective 1.1.1 – Understand different data collection methods and their roles in decision-making and research.",
-                "Objective 1.1.2 – Explain the data gathering process and various data sources.",
-                "Objective 1.1.3 – Aggregate data from multiple sources and integrate them into datasets.",
-                "Objective 1.1.4 – Explain various data storage solutions."
+                "Objective 1.1.1 - Understand different data collection methods and their roles in decision-making and research.",
+                "Objective 1.1.2 - Explain the data gathering process and various data sources.",
+                "Objective 1.1.3 - Aggregate data from multiple sources and integrate them into datasets.",
+                "Objective 1.1.4 - Explain various data storage solutions."
               ]
             },
             {
               topicheding: "Data Cleaning and Standardization",
               topicdes: [
-                "Objective 1.2.1 – Understand structured and unstructured data and their implications in data analysis.",
-                "Objective 1.2.2 – Identify, rectify, or remove erroneous data.",
-                "Objective 1.2.3 – Understand data normalization and scaling.",
-                "Objective 1.2.4 – Apply data cleaning and standardization techniques."
+                "Objective 1.2.1 - Understand structured and unstructured data and their implications in data analysis.",
+                "Objective 1.2.2 - Identify, rectify, or remove erroneous data.",
+                "Objective 1.2.3 - Understand data normalization and scaling.",
+                "Objective 1.2.4 - Apply data cleaning and standardization techniques."
               ]
             },
             {
               topicheding: "Data Validation and Integrity",
               topicdes: [
-                "Objective 1.3.1 – Execute and understand basic data validation methods.",
-                "Objective 1.3.2 – Establish and maintain data integrity through clear validation rules."
+                "Objective 1.3.1 - Execute and understand basic data validation methods.",
+                "Objective 1.3.2 - Establish and maintain data integrity through clear validation rules."
               ]
             },
             {
               topicheding: "Data Preparation Techniques",
               topicdes: [
-                "Objective 1.4.1 – Understand File Formats in Data Acquisition.",
-                "Objective 1.4.2 – Access, manage, and effectively utilize datasets.",
-                "Objective 1.4.3 – Extract data from various sources.",
-                "Objective 1.4.4 – Enhance data readability and format in spreadsheets.",
-                "Objective 1.4.5 – Prepare, adapt, and pre-process data for analysis."
+                "Objective 1.4.1 - Understand File Formats in Data Acquisition.",
+                "Objective 1.4.2 - Access, manage, and effectively utilize datasets.",
+                "Objective 1.4.3 - Extract data from various sources.",
+                "Objective 1.4.4 - Enhance data readability and format in spreadsheets.",
+                "Objective 1.4.5 - Prepare, adapt, and pre-process data for analysis."
               ]
             }
           ]
@@ -713,29 +713,29 @@ export const coursesyllabus = [
             {
               topicheding: "Python Proficiency",
               topicdes: [
-                "Objective 2.1.1 – Apply Python syntax and control structures to solve data-related problems.",
-                "Objective 2.1.2 – Analyze and create Python functions.",
-                "Objective 2.1.3 – Evaluate and navigate the Python Data Science ecosystem.",
-                "Objective 2.1.4 – Organize and manipulate data using Python's core data structures.",
-                "Objective 2.1.5 – Explain and implement Python scripting best practices."
+                "Objective 2.1.1 - Apply Python syntax and control structures to solve data-related problems.",
+                "Objective 2.1.2 - Analyze and create Python functions.",
+                "Objective 2.1.3 - Evaluate and navigate the Python Data Science ecosystem.",
+                "Objective 2.1.4 - Organize and manipulate data using Python's core data structures.",
+                "Objective 2.1.5 - Explain and implement Python scripting best practices."
               ]
             },
             {
               topicheding: "Module Management and Exception Handling",
               topicdes: [
-                "Objective 2.2.1 – Import modules and manage Python packages using PIP.",
-                "Objective 2.2.2 – Apply basic exception handling and maintain script robustness."
+                "Objective 2.2.1 - Import modules and manage Python packages using PIP.",
+                "Objective 2.2.2 - Apply basic exception handling and maintain script robustness."
               ]
             },
             {
               topicheding: "SQL for Data Analysts",
               topicdes: [
-                "Objective 2.3.1 – Perform SQL queries to retrieve and manipulate data.",
-                "Objective 2.3.2 – Execute fundamental SQL commands to create, read, update, and delete data in database tables.",
-                "Objective 2.3.3 – Establish connections to databases using Python.",
-                "Objective 2.3.4 – Execute parameterized SQL queries through Python to safely interact with databases.",
-                "Objective 2.3.5 – Understand, manage and convert SQL data types appropriately within Python scripts.",
-                "Objective 2.3.6 – Understand essential database security concepts, including strategies to prevent SQL query injection."
+                "Objective 2.3.1 - Perform SQL queries to retrieve and manipulate data.",
+                "Objective 2.3.2 - Execute fundamental SQL commands to create, read, update, and delete data in database tables.",
+                "Objective 2.3.3 - Establish connections to databases using Python.",
+                "Objective 2.3.4 - Execute parameterized SQL queries through Python to safely interact with databases.",
+                "Objective 2.3.5 - Understand, manage and convert SQL data types appropriately within Python scripts.",
+                "Objective 2.3.6 - Understand essential database security concepts, including strategies to prevent SQL query injection."
               ]
             }
           ]
@@ -746,15 +746,15 @@ export const coursesyllabus = [
             {
               topicheding: "Descriptive Statistics",
               topicdes: [
-                "Objective 3.1.1 – Understand and apply statistical measures in data analysis.",
-                "Objective 3.1.2 – Analyze and evaluate data relationships."
+                "Objective 3.1.1 - Understand and apply statistical measures in data analysis.",
+                "Objective 3.1.2 - Analyze and evaluate data relationships."
               ]
             },
             {
               topicheding: "Inferential Statistics",
               topicdes: [
-                "Objective 3.2.1 – Understand and apply bootstrapping for sampling distributions.",
-                "Objective 3.2.2 – Explain when and how to use linear and logistic regression."
+                "Objective 3.2.1 - Understand and apply bootstrapping for sampling distributions.",
+                "Objective 3.2.2 - Explain when and how to use linear and logistic regression."
               ]
             }
           ]
@@ -765,18 +765,18 @@ export const coursesyllabus = [
             {
               topicheding: "Data Analysis with Pandas and NumPy",
               topicdes: [
-                "Objective 4.1.1 – Manage data effectively with Pandas.",
-                "Objective 4.1.2 – Understand and Utilize the Relationship Between DataFrame and Series in Pandas.",
-                "Objective 4.1.3 – Perform Array Operations and Differentiate Data Structures with NumPy.",
-                "Objective 4.1.4 – Apply and Analyze Data Organization Techniques in Pandas and NumPy."
+                "Objective 4.1.1 - Manage data effectively with Pandas.",
+                "Objective 4.1.2 - Understand and Utilize the Relationship Between DataFrame and Series in Pandas.",
+                "Objective 4.1.3 - Perform Array Operations and Differentiate Data Structures with NumPy.",
+                "Objective 4.1.4 - Apply and Analyze Data Organization Techniques in Pandas and NumPy."
               ]
             },
             {
               topicheding: "Statistical Methods and Machine Learning",
               topicdes: [
-                "Objective 4.2.1 – Apply Python's descriptive statistics for dataset analysis.",
-                "Objective 4.2.2 – Recognize the importance of test datasets in model evaluation.",
-                "Objective 4.2.3 – Analyze and Evaluate Supervised Learning Algorithms and Model Accuracy."
+                "Objective 4.2.1 - Apply Python's descriptive statistics for dataset analysis.",
+                "Objective 4.2.2 - Recognize the importance of test datasets in model evaluation.",
+                "Objective 4.2.3 - Analyze and Evaluate Supervised Learning Algorithms and Model Accuracy."
               ]
             }
           ]
@@ -787,17 +787,17 @@ export const coursesyllabus = [
             {
               topicheding: "Data Visualization Techniques",
               topicdes: [
-                "Objective 5.1.1 – Demonstrate essential proficiency in data visualization with Matplotlib and Seaborn.",
-                "Objective 5.1.2 – Assess the pros and cons of different data representations.",
-                "Objective 5.1.3 – Label, annotate, and test insights from data visualizations.",
-                "Objective 5.1.4 – Improve the clarity and accuracy of data interpretation by managing display features such as colors, labels and legends."
+                "Objective 5.1.1 - Demonstrate essential proficiency in data visualization with Matplotlib and Seaborn.",
+                "Objective 5.1.2 - Assess the pros and cons of different data representations.",
+                "Objective 5.1.3 - Label, annotate, and test insights from data visualizations.",
+                "Objective 5.1.4 - Improve the clarity and accuracy of data interpretation by managing display features such as colors, labels and legends."
               ]
             },
             {
               topicheding: "Effective Communication of Data Insights",
               topicdes: [
-                "Objective 5.2.1 – Tailor communication to different audience needs, and combine visualizations and text for clear data presentation.",
-                "Objective 5.2.2 – Summarize key findings and support claims with evidence and reasoning."
+                "Objective 5.2.1 - Tailor communication to different audience needs, and combine visualizations and text for clear data presentation.",
+                "Objective 5.2.2 - Summarize key findings and support claims with evidence and reasoning."
               ]
             }
           ]
@@ -1653,7 +1653,7 @@ export const coursesyllabus = [
       slug: "microsoftsecurityoperationsanalystcertification",
       syllabustopic: [
         {
-          module: "Module 1: Manage a security operations environment (25–30%)",
+          module: "Module 1: Manage a security operations environment (25-30%)",
           moduledes: [
             {
               topicheding: "Configure settings in Microsoft Defender XDR",
@@ -1703,7 +1703,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Configure protections and detections (15–20%)",
+          module: "Module 2: Configure protections and detections (15-20%)",
           moduledes: [
             {
               topicheding: "Configure protections in Microsoft Defender security technologies",
@@ -1738,7 +1738,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Manage incident response (35–40%)",
+          module: "Module 3: Manage incident response (35-40%)",
           moduledes: [
             {
               topicheding: "Respond to alerts and incidents in Microsoft Defender XDR",
@@ -1792,7 +1792,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Perform threat hunting (15–20%)",
+          module: "Module 4: Perform threat hunting (15-20%)",
           moduledes: [
             {
               topicheding: "Hunt for threats by using KQL",
@@ -1830,7 +1830,7 @@ export const coursesyllabus = [
       slug: "microsoft-identity-manager-training",
       syllabustopic: [
         {
-          module: "Module 1: Implement and manage user identities (20–25%)",
+          module: "Module 1: Implement and manage user identities (20-25%)",
           moduledes: [
             {
               topicheding: "Configure and manage a Microsoft Entra tenant",
@@ -1880,7 +1880,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Implement authentication and access management (25–30%)",
+          module: "Module 2: Implement authentication and access management (25-30%)",
           moduledes: [
             {
               topicheding: "Plan, implement, and manage Microsoft Entra user authentication",
@@ -1930,7 +1930,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Plan and implement workload identities (20–25%)",
+          module: "Module 3: Plan and implement workload identities (20-25%)",
           moduledes: [
             {
               topicheding: "Plan and implement identities for applications and Azure workloads",
@@ -1977,7 +1977,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Plan and implement identity governance (20–25%)",
+          module: "Module 4: Plan and implement identity governance (20-25%)",
           moduledes: [
             {
               topicheding: "Plan and implement entitlement management in Microsoft Entra",
@@ -2037,7 +2037,7 @@ export const coursesyllabus = [
       slug: "microsoft-azure-administrator-training-course",
       syllabustopic: [
         {
-          module: "Module 1: Manage Azure identities and governance (20–25%)",
+          module: "Module 1: Manage Azure identities and governance (20-25%)",
           moduledes: [
             {
               topicheding: "Manage Microsoft Entra users and groups",
@@ -2071,7 +2071,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Implement and manage storage (15–20%)",
+          module: "Module 2: Implement and manage storage (15-20%)",
           moduledes: [
             {
               topicheding: "Configure access to storage",
@@ -2105,7 +2105,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Deploy and manage Azure compute resources (20–25%)",
+          module: "Module 3: Deploy and manage Azure compute resources (20-25%)",
           moduledes: [
             {
               topicheding: "Automate deployment of resources by using Azure Resource Manager (ARM) templates or Bicep files",
@@ -2151,7 +2151,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Implement and manage virtual networking (15–20%)",
+          module: "Module 4: Implement and manage virtual networking (15-20%)",
           moduledes: [
             {
               topicheding: "Configure and manage virtual networks in Azure",
@@ -2182,7 +2182,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 5: Monitor and maintain Azure resources (10–15%)",
+          module: "Module 5: Monitor and maintain Azure resources (10-15%)",
           moduledes: [
             {
               topicheding: "Monitor resources in Azure",
@@ -2215,7 +2215,7 @@ export const coursesyllabus = [
       slug: "az204-training-courses",
       syllabustopic: [
         {
-          module: "Module 1: Develop Azure compute solutions (25–30%)",
+          module: "Module 1: Develop Azure compute solutions (25-30%)",
           moduledes: [
             {
               topicheding: "Implement containerized solutions",
@@ -2246,7 +2246,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Develop for Azure storage (15–20%)",
+          module: "Module 2: Develop for Azure storage (15-20%)",
           moduledes: [
             {
               topicheding: "Develop solutions that use Azure Cosmos DB",
@@ -2267,7 +2267,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Implement Azure security (20–25%)",
+          module: "Module 3: Implement Azure security (20-25%)",
           moduledes: [
             {
               topicheding: "",
@@ -2288,7 +2288,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Monitor, troubleshoot, and optimize Azure solutions (15–20%)",
+          module: "Module 4: Monitor, troubleshoot, and optimize Azure solutions (15-20%)",
           moduledes: [
             {
               topicheding: "Implement caching for solutions",
@@ -2308,7 +2308,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 5: Connect to and consume Azure services and third-party services (15–20%)",
+          module: "Module 5: Connect to and consume Azure services and third-party services (15-20%)",
           moduledes: [
             {
               topicheding: "Implement API Management",
@@ -2341,7 +2341,7 @@ export const coursesyllabus = [
       slug: "microsoft-azure-security-technologies-course",
       syllabustopic: [
         {
-          module: "Module 1: Manage identity and access (25–30%)",
+          module: "Module 1: Manage identity and access (25-30%)",
           moduledes: [
             {
               topicheding: "Manage Microsoft Entra identities",
@@ -2391,7 +2391,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Secure networking (20–25%)",
+          module: "Module 2: Secure networking (20-25%)",
           moduledes: [
             {
               topicheding: "Plan and implement security for virtual networks",
@@ -2429,7 +2429,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Secure compute, storage, and databases (20–25%)",
+          module: "Module 3: Secure compute, storage, and databases (20-25%)",
           moduledes: [
             {
               topicheding: "Plan and implement advanced security for compute",
@@ -2472,7 +2472,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Manage security operations (25–30%)",
+          module: "Module 4: Manage security operations (25-30%)",
           moduledes: [
             {
               topicheding: "Plan, implement, and manage governance for security",
@@ -2527,7 +2527,7 @@ export const coursesyllabus = [
       slug: "az305-training-course",
       syllabustopic: [
         {
-          module: "Module 1: Design identity, governance, and monitoring solutions (25–30%)",
+          module: "Module 1: Design identity, governance, and monitoring solutions (25-30%)",
           moduledes: [
             {
               topicheding: "Design solutions for logging and monitoring",
@@ -2555,7 +2555,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Design data storage solutions (20–25%)",
+          module: "Module 2: Design data storage solutions (20-25%)",
           moduledes: [
             {
               topicheding: "Design data storage solutions for relational data",
@@ -2583,7 +2583,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Design business continuity solutions (15–20%)",
+          module: "Module 3: Design business continuity solutions (15-20%)",
           moduledes: [
             {
               topicheding: "Design solutions for backup and disaster recovery",
@@ -2604,7 +2604,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Design infrastructure solutions (30–35%)",
+          module: "Module 4: Design infrastructure solutions (30-35%)",
           moduledes: [
             {
               topicheding: "Design compute solutions",
@@ -2653,7 +2653,7 @@ export const coursesyllabus = [
       slug: "az400-training-online",
       syllabustopic: [
         {
-          module: "Module 1: Design and implement processes and communications (10–15%)",
+          module: "Module 1: Design and implement processes and communications (10-15%)",
           moduledes: [
             {
               topicheding: "Design and implement traceability and flow of work",
@@ -2688,7 +2688,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Design and implement a source control strategy (10–15%)",
+          module: "Module 2: Design and implement a source control strategy (10-15%)",
           moduledes: [
             {
               topicheding: "Design and implement branching strategies for the source code",
@@ -2711,7 +2711,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Design and implement build and release pipelines (50–55%)",
+          module: "Module 3: Design and implement build and release pipelines (50-55%)",
           moduledes: [
             {
               topicheding: "Design and implement a package management strategy",
@@ -2776,7 +2776,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Develop a security and compliance plan (10–15%)",
+          module: "Module 4: Develop a security and compliance plan (10-15%)",
           moduledes: [
             {
               topicheding: "Design and implement authentication and authorization methods",
@@ -2811,7 +2811,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 5: Implement an instrumentation strategy (5–10%)",
+          module: "Module 5: Implement an instrumentation strategy (5-10%)",
           moduledes: [
             {
               topicheding: "Configure monitoring for a DevOps environment",
@@ -2839,7 +2839,7 @@ export const coursesyllabus = [
       slug: "microsoft-cyber-security-course-for-beginners",
       syllabustopic: [
         {
-          module: "Module 1: Design solutions that align with security best practices and priorities (20–25%)",
+          module: "Module 1: Design solutions that align with security best practices and priorities (20-25%)",
           moduledes: [
             {
               topicheding: "Design a resiliency strategy for ransomware and other attacks based on Microsoft Security Best Practices",
@@ -2869,7 +2869,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Design security operations, identity, and compliance capabilities (30–35%)",
+          module: "Module 2: Design security operations, identity, and compliance capabilities (30-35%)",
           moduledes: [
             {
               topicheding: "Design solutions for security operations",
@@ -2915,7 +2915,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Design security solutions for infrastructure (20–25%)",
+          module: "Module 3: Design security solutions for infrastructure (20-25%)",
           moduledes: [
             {
               topicheding: "Design solutions for security posture management in hybrid and multicloud environments",
@@ -2951,7 +2951,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Design security solutions for applications and data (20–25%)",
+          module: "Module 4: Design security solutions for applications and data (20-25%)",
           moduledes: [
             {
               topicheding: "Design solutions for securing Microsoft 365",
@@ -2992,7 +2992,7 @@ export const coursesyllabus = [
       slug: "microsoft-dynamics365-training-in-chennai",
       syllabustopic: [
         {
-          module: "Module 1: Describe Dynamics 365 Customer Insights (15–20%)",
+          module: "Module 1: Describe Dynamics 365 Customer Insights (15-20%)",
           moduledes: [
             {
               topicheding: "Explore Customer Insights - Journeys",
@@ -3010,7 +3010,7 @@ export const coursesyllabus = [
             {
               topicheding: "Describe Customer Insights - Data",
               topicdes: [
-                "Describe use cases of and capabilities for Customer Insights – Data",
+                "Describe use cases of and capabilities for Customer Insights - Data",
                 "Describe unified customer profiles",
                 "Describe measures, segments, and predictions"
               ]
@@ -3018,7 +3018,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Describe Dynamics 365 Sales (20–25%)",
+          module: "Module 2: Describe Dynamics 365 Sales (20-25%)",
           moduledes: [
             {
               topicheding: "Explore Sales",
@@ -3046,7 +3046,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Describe Dynamics 365 Customer Service (20–25%)",
+          module: "Module 3: Describe Dynamics 365 Customer Service (20-25%)",
           moduledes: [
             {
               topicheding: "Explore Customer Service",
@@ -3068,7 +3068,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Describe Dynamics 365 Field Service (15–20%)",
+          module: "Module 4: Describe Dynamics 365 Field Service (15-20%)",
           moduledes: [
             {
               topicheding: "Explore Field Service",
@@ -3090,7 +3090,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 5: Explore the core capabilities of customer engagement apps in Dynamics 365 (15–20%)",
+          module: "Module 5: Explore the core capabilities of customer engagement apps in Dynamics 365 (15-20%)",
           moduledes: [
             {
               topicheding: "Describe the foundations of customer engagement apps",
@@ -3122,7 +3122,7 @@ export const coursesyllabus = [
       slug: "microsoft-dynamics365-training-courses",
       syllabustopic: [
         {
-          module: "Module 1: Describe Dynamics 365 Supply Chain Management (20–25%)",
+          module: "Module 1: Describe Dynamics 365 Supply Chain Management (20-25%)",
           moduledes: [
             {
               topicheding: "Describe Supply Chain Management core capabilities",
@@ -3157,7 +3157,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Describe Dynamics 365 Finance (20–25%)",
+          module: "Module 2: Describe Dynamics 365 Finance (20-25%)",
           moduledes: [
             {
               topicheding: "Describe Finance core capabilities",
@@ -3194,7 +3194,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Describe Dynamics 365 Commerce (10–15%)",
+          module: "Module 3: Describe Dynamics 365 Commerce (10-15%)",
           moduledes: [
             {
               topicheding: "Describe Commerce core capabilities",
@@ -3216,7 +3216,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Describe Dynamics 365 Human Resources (10–15%)",
+          module: "Module 4: Describe Dynamics 365 Human Resources (10-15%)",
           moduledes: [
             {
               topicheding: "Describe Human Resources core capabilities",
@@ -3238,7 +3238,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 5: Describe Dynamics 365 Project Operations (10–15%)",
+          module: "Module 5: Describe Dynamics 365 Project Operations (10-15%)",
           moduledes: [
             {
               topicheding: "Describe Project Operations capabilities",
@@ -3260,7 +3260,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 6: Describe the finance and operations core functionality (15–20%)",
+          module: "Module 6: Describe the finance and operations core functionality (15-20%)",
           moduledes: [
             {
               topicheding: "Describe the finance and operations apps",
@@ -3288,7 +3288,7 @@ export const coursesyllabus = [
       slug: "microsoft-365administrator-training",
       syllabustopic: [
         {
-          module: "Module 1: Deploy and manage a Microsoft 365 tenant (25–30%)",
+          module: "Module 1: Deploy and manage a Microsoft 365 tenant (25-30%)",
           moduledes: [
             {
               topicheding: "Implement and manage a Microsoft 365 tenant",
@@ -3322,7 +3322,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Implement and manage Microsoft Entra identity and access (25–30%)",
+          module: "Module 2: Implement and manage Microsoft Entra identity and access (25-30%)",
           moduledes: [
             {
               topicheding: "Implement and manage identity synchronization with Microsoft Entra tenant",
@@ -3354,7 +3354,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Manage security and threats by using Microsoft Defender XDR (25–30%)",
+          module: "Module 3: Manage security and threats by using Microsoft Defender XDR (25-30%)",
           moduledes: [
             {
               topicheding: "Manage security reports and alerts by using the Microsoft Defender portal",
@@ -3384,7 +3384,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Manage compliance by using Microsoft Purview (15–20%)",
+          module: "Module 4: Manage compliance by using Microsoft Purview (15-20%)",
           moduledes: [
             {
               topicheding: "Implement Microsoft Purview information protection and data lifecycle management",
@@ -3410,7 +3410,7 @@ export const coursesyllabus = [
       slug: "microsoft-finance-and-operations-training",
       syllabustopic: [
         {
-          module: "Module 1: Architect solutions (20–25%)",
+          module: "Module 1: Architect solutions (20-25%)",
           moduledes: [
             {
               topicheding: "Gather requirements",
@@ -3445,7 +3445,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 2: Define solution strategies (35–40%)",
+          module: "Module 2: Define solution strategies (35-40%)",
           moduledes: [
             {
               topicheding: "Select a deployment strategy",
@@ -3503,7 +3503,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 3: Manage implementations (20–25%)",
+          module: "Module 3: Manage implementations (20-25%)",
           moduledes: [
             {
               topicheding: "Describe Lifecycle Services (LCS) tools",
@@ -3539,7 +3539,7 @@ export const coursesyllabus = [
           ]
         },
         {
-          module: "Module 4: Manage testing (10–15%)",
+          module: "Module 4: Manage testing (10-15%)",
           moduledes: [
             {
               topicheding: "Define a testing strategy",
