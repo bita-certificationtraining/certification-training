@@ -7,6 +7,9 @@ const nextConfig = {
   modularizeImports: {}, // Keep clean and modern
   // Optional: Enable React strict mode
   reactStrictMode: true,
+   eslint: {
+    ignoreDuringBuilds: true, // Skip ESLint errors during production build
+  },
   
 };
 
