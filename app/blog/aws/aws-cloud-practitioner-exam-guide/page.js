@@ -156,7 +156,7 @@ export default function Page() {
             Quick Answers
           </h3>
           <p className="leading-relaxed text-slate-700">
-            The AWS Cloud Practitioner exam (CLF-C02) is a 90-minute, 65-question, foundational-level exam testing your understanding of AWS Cloud concepts, security, technology, and billing. It costs $100 (~₹8,300), requires no prerequisites, and is scored out of 1,000, with 700 needed to pass. It's the recommended starting point before Solutions Architect, Developer, or SysOps certifications, and is widely accepted by recruiters as proof you understand cloud fundamentals.
+            The AWS Cloud Practitioner exam (CLF-C02) is a 90-minute, 65-question, foundational-level exam testing your understanding of AWS Cloud concepts, security, technology, and billing. It costs $100 (~₹8,300), requires no prerequisites, and is scored out of 1,000, with 700 needed to pass. It is the recommended starting point before Solutions Architect, Developer, or SysOps certifications, and is widely accepted by recruiters as proof you understand cloud fundamentals.
           </p>
         </div>
 
@@ -180,14 +180,14 @@ export default function Page() {
         <div>
           <SectionHeading>Exam Structure and Domains</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           The CLF-C02 exam consists of 65 questions (50 scored, 15 unscored for AWS research) delivered as multiple-choice and multiple-response formats, to be completed in 90 minutes. It is available online or at a testing center in multiple languages. The exam is divided into four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%), and Billing, Pricing, and Support (12%). This weighting tells you exactly where to focus - Security and Technology together make up nearly two-thirds of the exam, so candidates worried about "where do I even start studying" should prioritize IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda), and AWS pricing models before anything else.
+           The CLF-C02 exam consists of 65 questions (50 scored, 15 unscored for AWS research) delivered as multiple-choice and multiple-response formats, to be completed in 90 minutes. It is available online or at a testing center in multiple languages. The exam is divided into four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%), and Billing, Pricing, and Support (12%). This weighting tells you exactly where to focus - Security and Technology together make up nearly two-thirds of the exam, so candidates worried about where do I even start studying should prioritize IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda), and AWS pricing models before anything else.
           </p>
         </div>
 
         <div>
           <SectionHeading>Key Concepts Candidates Must Understand</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           Beyond memorizing services, CLF-C02 tests whether you grasp how AWS actually works in the real world. This includes the shared responsibility model (what AWS secures vs. what you secure), core compute/storage/database services, the AWS Well-Architected Framework's six pillars, and pricing/billing tools like AWS Budgets and the Pricing Calculator. Many candidates fail not because the concepts are hard, but because they self-study without structure, jumping between random YouTube videos and outdated PDFs. A guided, instructor-led path with mock tests and doubt-clearing sessions consistently produces higher first-attempt pass rates than unstructured self-study, especially for working professionals with limited weekend hours.
+           Beyond memorizing services, CLF-C02 tests whether you grasp how AWS actually works in the real world. This includes the shared responsibility model (what AWS secures vs. what you secure), core compute/storage/database services, the AWS Well-Architected Framework is six pillars, and pricing/billing tools like AWS Budgets and the Pricing Calculator. Many candidates fail not because the concepts are hard, but because they self-study without structure, jumping between random YouTube videos and outdated PDFs. A guided, instructor-led path with mock tests and doubt-clearing sessions consistently produces higher first-attempt pass rates than unstructured self-study, especially for working professionals with limited weekend hours.
           </p>
         </div>
       </section>
@@ -305,7 +305,7 @@ export default function Page() {
         <blockquote className="rounded-2xl bg-white p-6 sm:p-8 shadow-sm">
           <span className="text-3xl text-yellow-400">&ldquo;</span>
           <p className="-mt-4 italic leading-relaxed text-slate-700">
-           Industry mentors consistently note that candidates who combine structured, instructor-led learning with hands-on AWS Free Tier practice pass on their first attempt far more often than those relying solely on self-study. The biggest differentiator isn't intelligence - it's consistency and having someone to clarify doubts before they turn into exam-day panic.
+           Industry mentors consistently note that candidates who combine structured, instructor-led learning with hands-on AWS Free Tier practice pass on their first attempt far more often than those relying solely on self-study. The biggest differentiator is not intelligence - it's consistency and having someone to clarify doubts before they turn into exam-day panic.
           </p>
         </blockquote>
       </section>
