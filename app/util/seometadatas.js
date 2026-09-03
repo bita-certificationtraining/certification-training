@@ -246,11 +246,38 @@ export const seometadatas = [
         metaimage: "/certification_img/comptia_logo/comds0.webp",
     },
     {
-        slug: "comptia-datasys-training",
+        slug: "comptia-datax-certification-training",
         metatitle: "CompTIA  DataX Certification Training",
         metadescription : "Master data management, analytics, and security with CompTIA DataX Certification Training at BITA Academy. Build job-ready data skills today!",
         metaimage: "/certification_img/comptia_logo/CompTIADataXCertificationTraining.png",
     },
+
+
+    {
+        slug: "compTIA-aplus-cyber-certification-training",
+        metatitle: "CompTIA a+ Cyber Certification Training",
+        metadescription : "Kickstart your IT career with CompTIA A+ Cyber Certification Training. Learn hardware, software, networking, and security fundamentals at BITA Academy.",
+        metaimage: "/certification_img/comptia_logo/CompTIAa+Cyber.png",
+    },
+
+
+
+    {
+        slug: "comptia-cyberDefense-pro-certification-training",
+        metatitle: "CompTIA  CyberDefense Pro Certification Training",
+        metadescription : "Advance your cybersecurity career with CompTIA CyberDefense Pro Certification Training. Gain hands-on skills in threat detection and defense strategies.",
+        metaimage: "/certification_img/comptia_logo/CompTIACyberDefenseProCertification.png",
+    },
+
+
+    {
+        slug: "comptia-ethical-hacker-pro-certification-training",
+        metatitle: "CompTIA  Ethical Hacker Pro Certification Training",
+        metadescription : "Learn ethical hacking, penetration testing, and vulnerability assessment with CompTIA Ethical Hacker Pro Certification Training at BITA Academy.",
+        metaimage: "/certification_img/comptia_logo/CompTIA EthicalHackerPro.png",
+    },
+
+
     {
         slug: "giac-certification-exam-cost",
         metatitle: "GIAC Certification Exam Cost",
@@ -311,6 +338,156 @@ export const seometadatas = [
         metadescription : "GIAC Cloud Security Automation | GCSA Certification",
         metaimage: "/certification_img/giac_logo/gcsa.webp",
     },
+
+
+{
+    slug:"comptia-cloud-essentialsplus-certification",
+    metatitle:"CompTIA Cloud Essentials+ Certification Training ",
+    metadescription:"Gain cloud fundamentals with CompTIA Cloud Essentials+ Certification Training. Learn SaaS, PaaS, IaaS, and cloud management concepts at BITA Academy. ",
+    metaimage:"/certification_img/comptia_logo/CompTIA Cloud Essentials+ Certification.png",
+    },
+    {
+    slug:"comptia-cloud-essentials-certification",
+    metatitle:"CompTIA Cloud Essentials Certification Training",
+    metadescription:"Start your cloud journey with CompTIA Cloud Essentials Certification Training. Learn cloud computing basics and career-ready cloud adoption strategies.",
+    metaimage:"/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
+    },
+    {
+    slug:"comptia-cloudnetx-certification",
+    metatitle:"CompTIA CloudNetX Certification Training",
+    metadescription:"Master cloud networking and hybrid infrastructures with CompTIA CloudNetX Certification Training. Build expertise in cloud security and virtualization. ",
+    metaimage:"/certification_img/comptia_logo/CompTIA CloudNetX Certification.png",
+    },
+    {
+    slug:"comptia-ai-essentials-certification",
+    metatitle:"CompTIA AI Essentials Certification Training",
+    metadescription:"Step into AI with CompTIA AI Essentials Certification Training. Learn machine learning, data models, and ethical AI practices for future-ready careers.",
+    metaimage:"/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
+    },
+    {
+    slug:"comptia-aplus-network-certification",
+    metatitle:"CompTIA a+ Network Certification Training",
+    metadescription:"Start your IT career with CompTIA A+ Network Certification Training. Gain expertise in networking, troubleshooting, operating systems, and hardware support. ",
+    metaimage:"/certification_img/comptia_logo/CompTIA  a+ Network Certification.png",
+    },
+    {
+    slug:"Comptia-cisco-networking-pro-certification",
+    metatitle:"CompTIA Cisco Networking Pro Certification Training",
+    metadescription:"Advance in networking with CompTIA Cisco Networking Pro Certification Training. Learn routing, switching, and Cisco-based infrastructure skills. ",
+    metaimage:"/certification_img/comptia_logo/CompTIA Cisco Networking Pro Certification.png",
+    },
+    {
+    slug:"comptia-linux-pro-certification",
+    metatitle:"CompTIA Linux Pro Certification Training",
+    metadescription:"Become a Linux expert with CompTIA Linux Pro Certification Training. Master server administration, shell scripting, and open-source technologies.",
+    metaimage:"/certification_img/comptia_logo/CompTIA Linux Pro Certification.png",
+    },
+    {
+    slug:"comptia-serverplus-certification",
+    metatitle:"CompTIA Server+ Certification Training ",
+    metadescription:"Boost your IT career with CompTIA Server+ Certification Training. Learn server installation, virtualization, security, and troubleshooting skills. ",
+    metaimage:"/certification_img/comptia_logo/CompTIA Server+ Certification.png",
+    },
+
+    //EC-Council 
+
+    {
+    slug:"certified-ethical-hacker-training",
+    metatitle:"Certified Ethical Hacker Training | CEH Certification Course",
+    metadescription:"Become a cybersecurity expert with BITA Academy's Certified Ethical Hacker training. Learn ethical hacking, penetration testing, and real-world defense techniques.",
+    metaimage:"/certification_img/ec-council/Certified Ethical Hacker Training.png",
+    },
+
+    {
+    slug:"ceh-master-certification-training-in-chennai",
+    metatitle:"CEH Master Certification Training in Chennai",
+    metadescription:"Join BITA Academy's CEH Master Certification training in Chennai to gain hands-on ethical hacking skills and real-world cybersecurity expertise. Prepare for the CEH Master exam with expert-led practical labs and become a certified cybersecurity professional.",
+    metaimage:"/certification_img/ec-council/CEH Master Certification Training.png",
+    },
+
+
+    {
+    slug:"cciso-certification-training-in-chennai",
+    metatitle:"CCISO Certification Training in Chennai",
+    metadescription:"Advance your cybersecurity career with BITA Academy's CCISO Certification Training. Master executive-level security leadership, risk management, and governance to become a Certified Chief Information Security Officer. Join the best CCISO training in Chennai today!",
+    metaimage:"/certification_img/ec-council/CCISO Certification Training in Chennai.png",
+    },
+
+
+    {
+    slug:"associate-cciso-certification-training",
+    metatitle:"Associate CCISO Certification Training",
+    metadescription:"Start your cybersecurity leadership journey with BITA Academy's Associate CCISO Certification Training. Learn information security management, governance, and risk strategies to prepare for executive security roles.",
+    metaimage:"/certification_img/ec-council/Associate CCISO Certification Training.png",
+    },
+
+
+
+    {
+    slug:"certified-penetration-testing-professional",
+    metatitle:"Certified Penetration Testing Professional",
+    metadescription:"Master ethical hacking and penetration testing with BITA Academy’s Certified Penetration Testing Professional course. Gain hands-on skills to secure networks and systems.",
+    metaimage:"/certification_img/ec-council/Certified Penetration Testing Professional.png",
+    },
+
+
+
+    {
+    slug:"incident-handler-certification-training",
+    metatitle:"Incident Handler Certification Training",
+    metadescription:"Master cyber incident response with BITA Academy’s  Incident Handler Certification training. Learn to detect, analyze, and respond to real-world security threats.",
+    metaimage:"/certification_img/ec-council/Incident Handler Certification Training.png",
+    },
+
+
+
+    {
+    slug:"certified-soc-analyst-certification-training",
+    metatitle:"Certified SOC Analyst Certification Training",
+    metadescription:"Boost your cybersecurity career with BITA Academy’s Certified SOC Analyst Certification Training. Learn real-time threat monitoring, SIEM tools, and incident response skills to become a certified SOC professional.",
+    metaimage:"/certification_img/ec-council/Certified SOC Analyst Certification Training.png",
+    },
+
+
+    {
+    slug:"certified-threat-intelligence-analyst-certification",
+    metatitle:"Certified Threat Intelligence Analyst Certification",
+    metadescription:"Join BITA Academy’s Certified Threat Intelligence Analyst Certification training to master cyber threat detection, intelligence analysis, and proactive defense. Learn to identify and prevent attacks using real-world tools and techniques.",
+    metaimage:"/certification_img/ec-council/Certified Threat Intelligence Analyst Certification.png",
+    },
+
+
+    {
+    slug:"certified-network-defender-certification-training",
+    metatitle:"Certified Network Defender Certification Training",
+    metadescription:"Join BITA Academy’s Certified Network Defender Certification training and master network security, threat detection, and defense strategies. Learn from experts and boost your cybersecurity career.",
+    metaimage:"/certification_img/ec-council/Certified Network Defender Certification Training.png",
+    },
+
+
+    {
+    slug:"cloud-security-certification",
+    metatitle:"Cloud Security Certification",
+    metadescription:"Master cloud protection with BITA’s Certified Cloud Security Engineer (C|CSE) course. Get hands-on training and earn your Cloud Security Certification today.",
+    metaimage:"/certification_img/ec-council/Cloud Security Certification.png",
+    },
+
+    {
+    slug:"devSecOps-engineer-certification",
+    metatitle:"DevSecOps Engineer Certification",
+    metadescription:"Master DevSecOps practices with BITA Academy’s DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
+    metaimage:"/certification_img/ec-council/DevSecOps Engineer Certification.png",
+    },
+
+    {
+    slug:"cybersecurity-technician-certification",
+    metatitle:"Cybersecurity Technician Certification",
+    metadescription:"Master DevSecOps practices with BITA Academy’s DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
+    metaimage:"/certification_img/ec-council/Cybersecurity Technician Certification.png",
+    },
+
+
+
     {
         slug: "isaca-cyber-security-certification",
         metatitle: "ISACA Cyber Security Certification | Advance Your Career",
@@ -348,4 +525,9 @@ export const seometadatas = [
         metaimage: "/certification_img/isaca_logo/csdf.webp",
     }
 
+
+
+
+
+    
 ];

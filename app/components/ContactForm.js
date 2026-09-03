@@ -6,6 +6,9 @@ import { toast, ToastContainer } from "react-toastify"
 
 import "react-toastify/dist/ReactToastify.css"
 
+import PhoneInput from 'react-phone-number-input'
+import 'react-phone-number-input/style.css'
+
 export default function ContactForm() {
   const form = useRef()
   const [uiMessage] = useState({ text: "", type: "" })
@@ -102,7 +105,31 @@ export default function ContactForm() {
             onChange={handleInputChange}
             className="input-field"
           />
-          <input
+
+
+<div className="input-field flex w-full items-center bg-white">
+  <PhoneInput
+    international
+    defaultCountry="IN"
+    placeholder="Mobile Number"
+    required
+    name="user_phone"
+    value={formData.user_phone}
+    onChange={(value) => setFormData({ ...formData, user_phone: value || "" })}
+    className="flex w-full items-center bg-transparent"
+    countrySelectProps={{
+      className: "bg-transparent outline-none mr-2 cursor-pointer text-themelightblack",
+    }}
+    numberInputProps={{
+      className:
+        "w-full flex-1 bg-transparent outline-none border-none",
+    }}
+  />
+</div>
+
+
+
+          {/* <input
             type="text"
             placeholder="Mobile Number"
             required
@@ -113,7 +140,7 @@ export default function ContactForm() {
             title="Please enter a valid phone number"
             onChange={handleInputChange}
             className="input-field"
-          />
+          /> */}
           <input
             type="email"
             placeholder="Email"

@@ -7,6 +7,8 @@ import { toast, ToastContainer } from "react-toastify"
 import "react-toastify/dist/ReactToastify.css"
 
 import { LuMail, LuMapPin, LuPhoneCall } from "react-icons/lu"
+import PhoneInput from 'react-phone-number-input'
+import 'react-phone-number-input/style.css'
 
 
 export default function ContactPage() {
@@ -153,7 +155,29 @@ export default function ContactPage() {
               onChange={handleInputChange}
               className="my-4 w-full border-b-[1.5px] border-b-themelightblack bg-white/0 px-1 py-2 placeholder-themelightblack outline-none"
             />
-            <input
+
+<div className="my-4 flex w-full items-center border-b-[1.5px] border-b-themelightblack bg-white/0">
+  <PhoneInput
+    international
+    defaultCountry="IN"
+    required
+    placeholder="Mobile Number"
+    name="user_phone"
+    value={formData.user_phone}
+    onChange={(value) => setFormData({ ...formData, user_phone: value || "" })}
+    className="flex w-full items-center bg-transparent"
+    countrySelectProps={{
+      className: "bg-transparent outline-none mr-2 cursor-pointer text-themelightblack",
+    }}
+    numberInputProps={{
+      className:
+        "w-full flex-1 bg-transparent px-1 py-2 placeholder-themelightblack outline-none border-none",
+    }}
+  />
+</div>
+
+
+            {/* <input
               type="text"
               placeholder="Mobile Number"
               required
@@ -164,7 +188,7 @@ export default function ContactPage() {
               title="Please enter a valid phone number"
               onChange={handleInputChange}
               className="my-4 w-full border-b-[1.5px] border-b-themelightblack bg-white/0 px-1 py-2 placeholder-themelightblack outline-none"
-            />
+            /> */}
             <input
               type="email"
               placeholder="Email"

@@ -9,12 +9,12 @@ export const metadata = {
       nocache: false,
     },
     alternates: {
-      canonical: "https://certificationtraining.in/aboutus",
+      canonical: "https://certificationtraining.in/blog",
     },
     openGraph: {
     title: "Certification Training - Blog",
     description: "Here is our blog which helps to know and get knowledge about latest IT certification programs.",
-    url: "https://certificationtraining.in/aboutus",
+    url: "https://certificationtraining.in/blog",
       siteName: "Certification Training",
       type: "website",
     },

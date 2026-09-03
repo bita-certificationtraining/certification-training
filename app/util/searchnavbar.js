@@ -114,73 +114,73 @@ export const searchnavbar = [
   c_image: "/certification_img/aws_logo/aws_ss.webp",
   },
   {
-    code: "SC200",
+    code: "SC-200",
     slug: "microsoft-security-operations-analyst-certification",
     title: "Microsoft Security Operations Analyst",
     c_image: "/certification_img/microsoft_logo/SC200.webp",
   },
   {
-    code: "SC300",
+    code: "SC-300",
     slug: "microsoft-identity-manager-training",
     title: "Microsoft Identity and Access Administrator",
     c_image: "/certification_img/microsoft_logo/SC300.webp",
   },
   {
-    code: "AZ104",
+    code: "AZ-104",
     slug: "microsoft-azure-administrator-training-course",
     title: "Microsoft Azure Administrator",
     c_image: "/certification_img/microsoft_logo/AZ104.webp",
   },
   {
-    code: "AZ204",
+    code: "AZ-204",
     slug: "az204-training-courses",
     title: "Developing Solutions for Microsoft Azure",
     c_image: "/certification_img/microsoft_logo/AZ204.webp",
   },
   {
-    code: "AZ500",
+    code: "AZ-500",
     slug: "microsoft-azure-security-technologies-course",
     title: "Microsoft Azure Security Technologies",
     c_image: "/certification_img/microsoft_logo/AZ500.webp",
   },
   {
-    code: "AZ305",
+    code: "AZ-305",
     slug: "az305-training-course",
     title: "Designing Microsoft Azure Infrastructure Solutions",
     c_image: "/certification_img/microsoft_logo/AZ305.webp",
   },
   {
-    code: "AZ400",
+    code: "AZ-400",
     slug: "az400-training-online",
     title: "Designing and Implementing Microsoft DevOps Solutions",
     c_image: "/certification_img/microsoft_logo/AZ400.webp",
   },
   {
-    code: "SC100",
+    code: "SC-100",
     slug: "microsoft-cyber-security-course-for-beginners",
     title: "Microsoft Cybersecurity Architect",
     c_image: "/certification_img/microsoft_logo/SC100.webp",
   },
   {
-    code: "MB910",
+    code: "MB-910",
     slug: "microsoft-dynamics365-training-in-chennai",
     title: "Microsoft Dynamics 365 Fundamentals (CRM)",
     c_image: "/certification_img/microsoft_logo/MB910.webp",
   },
   {
-    code: "MB920",
+    code: "MB-920",
     slug: "microsoft-dynamics365-training-courses",
     title: "Microsoft Dynamics 365 Fundamentals (ERP)",
     c_image: "/certification_img/microsoft_logo/MB920.webp",
   },
   {
-    code: "MB102",
+    code: "MB-102",
     slug: "microsoft-365administrator-training",
     title: "Microsoft 365 Administrator",
     c_image: "/certification_img/microsoft_logo/MB335.webp",
   },
   {
-    code: "MB700",
+    code: "MB-700",
     slug: "microsoft-finance-and-operations-training",
     title:"Microsoft Dynamics 365 Finance and Operations Apps Solution Architect",
     c_image: "/certification_img/microsoft_logo/MB700.webp",
@@ -245,12 +245,52 @@ export const searchnavbar = [
     title: "CompTIA DataSys+",
     c_image: "/certification_img/comptia_logo/comds0.webp",
   },
+  
   {
     code: "DY0-002",
     slug: "comptia-datax-certification-training",
     title: "CompTIA DataX",
     c_image: "/certification_img/comptia_logo/CompTIADataXCertificationTraining.png",
   },
+
+  {
+    code: "CompTIA a+ Cyber",
+    slug: "compTIA-aplus-cyber-certification-training",
+    title: "CompTIA A+ Cyber",
+    c_image: "/certification_img/comptia_logo/CompTIAa+Cyber.png",
+  },
+
+  {
+    code: "CompTIA CyberDefense Pro",
+    slug: "comptia-cyberDefense-pro-certification-training",
+    title: "CompTIA CyberDefense Pro",
+    c_image: "/certification_img/comptia_logo/CompTIACyberDefenseProCertification.png",
+  },
+
+  {
+    code: "CompTIA  Ethical Hacker Pro",
+    slug: "comptia-ethical-hacker-pro-certification-training",
+    title: "CompTIA Ethical Hacker Pro",
+    c_image: "/certification_img/comptia_logo/CompTIA EthicalHackerPro.png",
+  },
+
+  {
+    code: "CompTIA Security Pro",
+    slug: "comptia-security-pro-certification-training",
+    title: "CompTIA Security Pro",
+    c_image: "/certification_img/comptia_logo/CompTIASecurityPro.png",
+  },
+
+  
+
+  {
+    code: "CompTIA  SecurityX",
+    slug: "comptia-securityx-certification-training",
+    title: "CompTIA SecurityX",
+    c_image: "/certification_img/comptia_logo/CompTIA SecurityX.png",
+  },
+
+
   {
     code: "GMLE",
     slug: "giac-certification-exam-cost",
@@ -311,6 +351,136 @@ export const searchnavbar = [
     title: "GIAC Cloud Security Automation",
     c_image: "/certification_img/giac_logo/gcsa.webp",
   },
+
+
+{
+            code: "CompTIA Cloud Essentials+",
+            slug: "comptia-cloud-essentialsplus-certification",
+            title: "CompTIA Cloud Essentials+ Certification",
+            c_image: "/certification_img/comptia_logo/CompTIA Cloud Essentials+ Certification.png",
+          },
+           {
+            code: "CompTIA Cloud Essentials",
+            slug: "comptia-cloud-essentials-certification",
+            title: "CompTIA Cloud Essentials Certification",
+            c_image: "/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
+          },
+           {
+            code: "CompTIA CloudNetX",
+            slug: "comptia-cloudnetx-certification",
+            title: "CompTIA CloudNetX Certification",
+            c_image: "/certification_img/comptia_logo/CompTIA CloudNetX Certification.png",
+          },
+           {
+            code: "CompTIA AI Essentials",
+            slug: "comptia-ai-essentials-certification",
+            title: "CompTIA AI Essentials Certification",
+            c_image: "/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
+          },
+          {
+            code: "CompTIA a+ Network Certification",
+            slug: "comptia-aplus-network-certification",
+            title: "CompTIA a+ Network Certification",
+            c_image: "/certification_img/comptia_logo/CompTIA  a+ Network Certification.png",
+          },
+           {
+            code: "CompTIA Cisco Networking Pro",
+            slug: "Comptia-cisco-networking-pro-certification",
+            title: "CompTIA Cisco Networking Pro",
+            c_image: "/certification_img/comptia_logo/CompTIA Cisco Networking Pro Certification.png",
+          },
+           {
+            code: "CompTIA Linux Pro",
+            slug: "comptia-linux-pro-certification",
+            title: " CompTIA Linux Pro Certification",
+            c_image: "/certification_img/comptia_logo/CompTIA Linux Pro Certification.png",
+          },
+           {
+            code: "CompTIA Server+",
+            slug: "comptia-serverplus-certification",
+            title: "CompTIA Server+ Certification",
+            c_image: "/certification_img/comptia_logo/CompTIA Server+ Certification.png"
+          },
+
+
+
+          {
+            code: "C|EH",
+            slug: "certified-ethical-hacker-training",
+            title: "Certified Ethical Hacker Training",
+            c_image: "/certification_img/ec-council/Certified Ethical Hacker Training.png",
+          },
+           {
+            code: "C|EH (Master)",
+            slug: "ceh-master-certification-training-in-chennai",
+            title: "CEH Master Certification Training",
+            c_image: "/certification_img/ec-council/CEH Master Certification Training.png",
+          },
+          {
+            code: "C|CISO",
+            slug: "cciso-certification-training-in-chennai",
+            title: "CCISO Certification Training",
+            c_image: "/certification_img/ec-council/CCISO Certification Training in Chennai.png",
+          },
+
+          {
+            code: "Associate C|CISO",
+            slug: "associate-cciso-certification-training",
+            title: "Associate CCISO Certification Training",
+            c_image: "/certification_img/ec-council/Associate CCISO Certification Training.png",
+          },
+          {
+            code: "C|PENT",
+            slug: "certified-penetration-testing-professional",
+            title: "Certified Penetration Testing Professional C|PENT",
+            c_image: "/certification_img/ec-council/Certified Penetration Testing Professional.png",
+          },
+          {
+            code: "E|CIH",
+            slug: "incident-handler-certification-training",
+            title: "Certified Incident Handler E|CIH",
+            c_image: "/certification_img/ec-council/Incident Handler Certification Training.png",
+          },
+          {
+            code: "C|SA",
+            slug: "certified-soc-analyst-certification-training",
+            title: "Certified SOC Analyst C|SA",
+            c_image: "/certification_img/ec-council/Certified SOC Analyst Certification Training.png",
+          },
+          {
+            code: "C|TIA",
+            slug: "certified-threat-intelligence-analyst-certification",
+            title: "Certified Threat Intelligence Analyst C|TIA",
+            c_image: "/certification_img/ec-council/Certified Threat Intelligence Analyst Certification.png",
+          },
+           {
+            code: "C|ND",
+            slug: "certified-network-defender-certification-training",
+            title: "Certified Network Defender C|ND",
+            c_image: "/certification_img/ec-council/Certified Network Defender Certification Training.png",
+          },
+          {
+            code: "C|CSE",
+            slug: "cloud-security-certification",
+            title: "Certified Cloud Security Engineer C|CSE",
+            c_image: "/certification_img/ec-council/Cloud Security Certification.png",
+          },
+           {
+            code: "E|CDE",
+            slug: "devSecOps-engineer-certification",
+            title: "Certified DevSecOps Engineer E|CDE",
+            c_image: "/certification_img/ec-council/DevSecOps Engineer Certification.png",
+          },
+           
+           {
+            code: "C|CT",
+            slug: "cybersecurity-technician-certification",
+            title: "Certified Cybersecurity Technician C|CT",
+            c_image: "/certification_img/ec-council/Cybersecurity Technician Certification.png",
+          },
+
+
+
   {
     code: "CISM",
     slug: "isaca-cyber-security-certification",

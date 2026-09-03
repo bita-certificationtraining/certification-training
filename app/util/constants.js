@@ -3183,6 +3183,1091 @@ const comptiadataxcertificationtraining = {
 };
 
 
+const compTIAapluscybercertificationtraining =  {
+  slug: "compTIA-aplus-cyber-certification-training",
+  code: "220-1101 (Core 1), 220-1102 (Core 2)",
+  title: "CompTIA a+ Cyber Certification Training",
+  description: "Kickstart your IT career with CompTIA A+ Cyber Certification Training. Learn hardware, software, networking, and security fundamentals at BITA Academy.",
+
+  cheading: "CompTIA a+ Cyber Certification",
+  courseoverview: [
+    "Do you want to launch your career in IT security on the right foot? BITA Academy offers an intensive training program for the CompTIA A+ Cyber Certification, aimed at providing learners with vital skills in computer hardware, operating systems, networking, and the basics of cybersecurity. This certification, which is recognized worldwide, is ideal for novices aiming to establish a career in IT support with an emphasis on cyber defense. You will acquire the knowledge necessary to secure and support contemporary IT infrastructures through interactive labs, real-world case studies, and sessions led by experts."
+  ],
+
+  whytakecourseheading: "Why Take the CompTIA A+ Cyber Certification Course?",
+  wtcintro: "",
+  wtcoursecontent: [
+    "Cybersecurity Foundation: Understand how to identify, avert, and resolve typical security problems.",
+    "Industry Acknowledgment: Recognized worldwide as the benchmark certification for entry-level IT and cybersecurity professionals.",
+    "Experiential Learning: Acquire practical skills through labs that mimic actual security challenges.",
+    "Career Progression: Provides access to positions in IT support and entry-level cybersecurity.",
+    "Step Toward Specialization: Acts as a foundation for advanced certifications such as CompTIA Security+, Cybersecurity Analyst (CySA+), and PenTest+."
+  ],
+  
+  whocanlearnheading: "Who Can Learn CompTIA A+ Cyber Certification?",
+  
+  wclpoints: [
+"People new to the IT and cybersecurity sectors",
+"Recent graduates looking for junior IT security positions",
+"Support technicians and help desk staff who want to improve their skills",
+"Freelance consultants engaged in IT support projects",
+"Individuals getting ready for advanced security certifications",
+  ],
+  wclcontent: "With our organized CompTIA A+ Cyber Certification program, individuals with little to no IT experience can still pursue a career in cybersecurity with confidence.",
+
+
+  courseprerequestheading: "Prerequisites for CompTIA A+ Cyber Certification",
+  prerequestintro: "No prerequisites are mandatory, but it is advised that learners possess the following:",
+  courseprerequcontent: [
+    "Fundamental computer literacy and acquaintance with operating systems",
+    "A curiosity about cybersecurity ideas such as malware, firewalls, and authentication",
+    "Ability to address problems and enthusiasm for acquiring basic knowledge of IT security",
+  ],
+courseprerequcontent: [
+    "At BITA, our trainers provide step-by-step modules and hands-on practice to make the CompTIA A+ Cyber Certification accessible to all learners."
+  ],
+
+  howtoapplyheading: "How to Apply for the CompTIA A+ Cyber Certification Exam?",
+  
+  howtoapplycontent: [
+  "Create an account on the official CompTIA website.",
+  "Select the CompTIA A+ exam (Core 1: 220-1101, Core 2: 220-1102).",
+  "Choose your testing format (online or at a test center).",
+  "Schedule your exam date and pay the exam fee (USD 246 per exam).",
+  "Attend the exam with a valid ID and required setup."
+  ],
+  htaintro: "Upon passing both Core exams, you will officially earn your CompTIA A+ Cyber Certification.",
+
+
+  costofcourseheading: "How to Get CompTIA A+ Cyber Certification?",
+  costofcoursecontent: [
+    "In order to obtain your CompTIA A+ Cyber Certification, adhere to this pathway:",
+    "Sign up for BITA’s specialized training that includes theory, labs, and practice tests.",
+    "Pass the Core 1 and Core 2 exams for CompTIA A+.",
+    "Achieve a minimum score of 675 on Core 1 and 700 on Core 2.",
+    "Get your official certificate and digital badge from CompTIA.",
+  ],
+htaintro: "This confirms your ability to uphold and safeguard IT environments using best practices in cybersecurity.",
+
+
+  // obtaincourseheading: "Career Opportunities",
+  // obtainintro: "With the CompTIA A+ Cyber Certification, you can pursue a range of IT and security-related roles, including:",
+  // obtaincoursecontent: [
+  
+  // ],
+
+  coheading: "Career Opportunities",
+  cointro: "With the CompTIA A+ Cyber Certification, you can pursue a range of IT and security-related roles, including:",
+  careeroppotunities: [
+      "IT Support Specialist",
+    "Cybersecurity Support Technician",
+    "Desktop Support Engineer",
+    "Junior Security Analyst",
+    "Service Desk Technician",
+    "Endpoint Security Specialist",
+  ],
+
+
+  examblueprint: "Not yet published",
+  finally: "This certification also acts as a stepping stone toward advanced roles in cybersecurity after gaining work experience. As cyber threats are on the rise worldwide, obtaining a CompTIA A+ Cyber Certification is an ideal initial move for anyone aspiring to work in IT and cybersecurity. Sign up at BITA Academy today and launch your secure IT career with assurance!"
+};
+
+
+
+const comptiacyberDefenseprocertificationtraining =  {
+  slug: "comptia-cyberDefense-pro-certification-training",
+  code: "CompTIA CyberDefense Pro",
+  title: "CompTIA CyberDefense Pro Certification Training",
+  description: "Advance your cybersecurity career with CompTIA CyberDefense Pro Certification Training. Gain hands-on skills in threat detection and defense strategies.",
+  cheading: "CompTIA CyberDefense Pro Certification",
+  courseoverview: [
+    "Are you interested in establishing a robust career in cybersecurity and defense strategies? BITA Academy provides a specialized training program for the advanced CompTIA CyberDefense Pro Certification, tailored to IT professionals dedicated to safeguarding systems, networks, and applications against emerging cyber threats. This program provides learners with the expertise to design, implement, and oversee robust security infrastructures while mastering cutting-edge tools and techniques in cyber defense."
+  ],
+
+  whytakecourseheading: "Why Take the CompTIA CyberDefense Pro Certification Course?",
+  wtcintro: "",
+  wtcoursecontent: [
+    "Practical Security Expertise: Acquire practical skills in penetration testing, vulnerability management, threat detection, and incident response.",
+    "Worldwide Acknowledgment: This certification is regarded by employers across the globe as evidence of advanced security expertise.",
+    "Ensure Your Career’s Future Viability: Positions in cybersecurity are multiplying across various sectors, resulting in a high demand for certified experts.",
+    "Holistic Training: Acquire the knowledge to protect cloud platforms, networks, and hybrid infrastructures from attacks.",
+    "Steppingstone to Specializations: Serves as a route to advanced security certifications and leadership positions.",
+  ],
+
+
+  whocanlearnheading: "Who Can Learn CompTIA CyberDefense Pro Certification?",
+  wclcontent: "This certification suits: This training will equip you for advanced defense roles if you’ve already finished a beginner-level security course or possess basic IT experience.",
+  wclpoints: [
+    "IT experts aiming to focus on cybersecurity",
+    "System administrators moving into security positions",
+    "Members of the SOC team and security analysts",
+    "Freelancers and consultants specializing in cyber defense projects",
+    "Anyone who aims to work in penetration testing or incident response",
+  ],
+
+
+  courseprerequestheading: "Prerequisites for CompTIA CyberDefense Pro Certification",
+  prerequestintro: "While there are no strict prerequisites, learners will find it advantageous to have:",
+  courseprerequcontent: [
+    "Fundamental understanding of networking and operating systems",
+    "Acquaintance with basic security principles (such as CompTIA Security+)",
+    "Experience with firewalls, IDS/IPS, and endpoint security solutions",
+  ],
+
+
+  howtoapplyheading: "How to Apply for the CompTIA CyberDefense Pro Certification Exam?",
+  htaintro: "",
+  howtoapplycontent: [
+    "Go to the official CompTIA site and set up an account.",
+    "Select the CompTIA CyberDefense Pro Certification exam from the catalog of exams.",
+    "Choose your preferred testing method: online (with remote proctoring) or at a test center.",
+    "Select the date and time of your exam.",
+    "Settle the examination fee (CompTIA charges differ according to region).",
+    "On the day of the exam, bring along a valid form of identification and make sure your internet connection is stable (if it’s an online exam).",
+    "After you pass, you will be given your official certification and a digital badge.",
+  ],
+
+
+  costofcourseheading: "How to Get CompTIA CyberDefense Pro Certification?",
+  costofcoursecontent: [
+    "Finish BITA’s thorough training regimen that includes live projects, labs, and practice tests.",
+    "Sign up for and successfully complete the certification exam within the designated timeframe.",
+    "Fulfill the minimum passing score criteria established by CompTIA.",
+    "Get your official certificate and badge from your CompTIA account.",
+  ],
+
+
+  obtaincourseheading: "",
+  obtainintro: "",
+  obtaincoursecontent: [
+  ],
+
+  coheading: "Career Opportunities",
+  cointro: "The CompTIA CyberDefense Pro Certification unlocks a wide range of high-demand cybersecurity roles, including:",
+
+  careeroppotunities: [
+    "Cyber Defense Analyst",
+    "Security Operations Center (SOC) Specialist",
+    "Penetration Tester",
+    "Threat Intelligence Analyst",
+    "Cloud Security Specialist",
+    "Information Security Consultant",
+    "Incident Response Engineer",
+  ],
+  examblueprint: "Not yet published",
+
+  finally: "As cyber threats become increasingly complex, obtaining a CompTIA CyberDefense Pro Certification is one of the most effective means to demonstrate your expertise and further your career in cybersecurity. Become part of BITA Academy today and receive training from specialists who will steer you on the path to becoming a cyber defender prepared for the industry."
+};
+
+
+
+
+
+
+const comptiaethicalhackerprocertificationtraining =  {
+  slug: "comptia-ethical-hacker-pro-certification-training",
+  code: "CompTIA Ethical Hacker Pro",
+  title: "CompTIA  Ethical Hacker Pro Certification Training",
+  description: "Learn ethical hacking, penetration testing, and vulnerability assessment with CompTIA Ethical Hacker Pro Certification Training at BITA Academy.",
+  
+  cheading: "CompTIA Ethical Hacker Pro Certification",
+  courseoverview: [
+    "Are you prepared to enter the realm of ethical hacking and cyber defense? BITA Academy offers an advanced training program for the CompTIA Ethical Hacker Pro Certification, aimed at enhancing your skills in penetration testing, vulnerability assessment, and ethical hacking methodologies. This course equips you to recognize, assess, and avert cyber threats using cutting-edge tools and frameworks employed by security experts globally."
+  ],
+
+  whytakecourseheading: "Why Take the CompTIA Ethical Hacker Pro Certification Course?",
+  wtcintro: "",
+  wtcoursecontent: [
+    "Hands-On Hacking Labs: Learn practical penetration testing using real-world attack and defense simulations.",
+    "Global Recognition: Trusted by leading organizations as proof of ethical hacking expertise.",
+    "Comprehensive Skillset: Master scanning, exploitation, malware analysis, social engineering, and more.",
+    "Career Growth: Opens doors to in-demand cybersecurity roles across industries.",
+    "Steppingstone to Advanced Security Paths: Builds a strong foundation for certifications in penetration testing, red teaming, and cyber forensics.",
+  ],
+
+
+  whocanlearnheading: "Who Can Learn CompTIA Ethical Hacker Pro Certification?",
+  wclcontent: "",
+  wclpoints: [
+    "Cybersecurity experts looking to focus on ethical hacking",
+    "network engineers and IT administrators who want to enhance their skills",
+    "Analysts in the SOC and penetration testers",
+    "Freelance and consultancy professionals engaged in security assignments",
+    "Anyone who is enthusiastic about hacking and defensive tactics",
+  ],
+
+
+  courseprerequestheading: "Prerequisites for CompTIA Ethical Hacker Pro Certification",
+  prerequestintro: "No strict prerequisites are required, but learners will benefit from having:",
+  courseprerequcontent: [
+    "Fundamental comprehension of networking and operating systems",
+    "Existing knowledge of basic cybersecurity principles (for instance, CompTIA Security+)",
+    "Experience with command-line tools or scripting",  
+  ],
+
+  howtoapplyheading: "How to Apply for the CompTIA Ethical Hacker Pro Certification Exam?",
+  htaintro: "",
+  howtoapplycontent: [
+    "Check out the official portal for CompTIA certifications.",
+    "Set up an account and choose the exam for the CompTIA Ethical Hacker Pro Certification.",
+    "Select your exam mode: online remote testing or at a test center.",
+    "Choose a date that works for you and pay the exam fee (which varies by region).",
+    "Make sure you have a valid identification document and a stable connection (for online mode) on the day of the exam.",
+    "After passing, you will receive a globally recognized certification and a digital badge.",
+  ],
+
+
+  costofcourseheading: "",
+  costofcoursecontent: [
+  ],
+
+  obtaincourseheading: "How to Get CompTIA Ethical Hacker Pro Certification?",
+  obtainintro: "In order to achieve success in obtaining your CompTIA Ethical Hacker Pro Certification:",
+  obtaincoursecontent: [
+    "Finish BITA comprehensive training course using real-life simulations.",
+    "Engage in penetration testing labs and practice exams to prepare for the test.",
+    "Sign up and complete the sanctioned test in the designated period.",
+    "Fulfill the passing score requirement established by CompTIA.",
+    "After you finish, download your digital badge and certificate.",
+    "This confirms your competence in ethically testing and securing IT systems.",
+  ],
+
+  coheading: "Career Opportunities",
+  cointro: "With a CompTIA Ethical Hacker Pro Certification, you can pursue exciting cybersecurity roles such as:",
+  careeroppotunities: [
+    "Ethical Hacker / Penetration Tester",
+    "Cybersecurity Analyst",
+    "Security Operations Specialist",
+    "Red Team Specialist",
+    "Threat Intelligence Analyst",
+    "Incident Response Engineer",
+    "Security Consultant",
+    "This certification is your gateway to advanced roles in cyber defense, offensive security, and consulting.",
+  ],
+
+  examblueprint: "Not yet published",
+
+  finally: "Due to the daily evolution of cyber threats, individuals holding a CompTIA Ethical Hacker Pro Certification are in high demand across various industries. Join BITA Academy today and allow our training program, led by experts, to equip you with job-ready skills as you prepare to become an ethical hacker."
+};
+
+
+
+const comptiasecurityprocertificationtraining =  {
+  slug: "comptia-security-pro-certification-training",
+  code: "CompTIA Security Pro",
+  title: "CompTIA Security Pro Certification Training",
+  description: "Get job-ready cybersecurity expertise with CompTIA Security Pro Certification Training. Learn to secure systems, networks, and data with hands-on labs.",
+
+  cheading: "CompTIA Security Pro Certification",
+  courseoverview: [
+    "Are you prepared to turn into a sought-after cybersecurity expert? BITA Academy provides a rigorous training program for the CompTIA Security Pro Certification, aimed at helping learners develop proficiency in safeguarding networks, devices, and data against cyberattacks. This certification is globally acknowledged as a standard for verifying security skills and is ideal for IT professionals looking to enhance their career in cybersecurity."
+  ],
+
+  whytakecourseheading: "Why Take the CompTIA Security Pro Certification Course?",
+  wtcintro: "",
+  wtcoursecontent: [
+    "Industry Acknowledgment: Reliably endorsed by employers worldwide as proof of fundamental security competencies.",
+    "Practical Training: Acquire hands-on experience in identity management, risk management, threat detection, and cryptography.",
+    "Career Advancement: Provides access to mid-tier security positions in various sectors.",
+    "Practical Significance: Acquire knowledge on how to protect networks, cloud services, and endpoints from contemporary digital security threats.",
+    "Foundation for Advanced Certifications: Acts as a precursor to certifications such as CompTIA SecurityX, CASP+, or CISSP.",
+  ],
+
+
+  whocanlearnheading: "Who Can Learn CompTIA Security Pro Certification?",
+  wclcontent: "This course is perfect for:",
+  wclpoints: [
+    "IT experts who have ambitions of becoming specialists in cybersecurity",
+    "Network administrators tasked with securing infrastructures",
+    "System administrators who want to broaden their skills",
+    "Security advisors and analysts",
+    "Individuals who want to confirm their security expertise with a worldwide credential",
+    "With the help of BITA's skilled trainers, even novices with basic IT knowledge can thrive in the CompTIA Security Pro Certification program."
+  ],
+
+
+  courseprerequestheading: "Prerequisites for CompTIA Security Pro Certification",
+  prerequestintro: "While there are no rigid prerequisites, we suggest that learners possess:",
+  courseprerequcontent: [
+    "Fundamental knowledge of IT and networking basics",
+    "Familiarity with security concepts and operating systems",
+    "Acquaintance with typical IT threats and problem-solving",
+    "The structured modules and labs of BITA Academy are intended to fill any gaps in knowledge, making certain that you are completely ready for the CompTIA Security Pro Certification exam."
+  ],
+
+
+  howtoapplyheading: "How to Apply for the CompTIA Security Pro Certification Exam?",
+  htaintro: "To schedule your exam, follow these steps:",
+  howtoapplycontent: [
+    "Go to the official CompTIA site and set up an account.",
+    "Select the CompTIA Security Pro Certification exam from the list of exams.",
+    "Choose your exam format (either online or face-to-face).",
+    "Choose a date and time that suits you best.",
+    "Use CompTIA’s testing partners to pay the exam fee.",
+    "Show up for the exam with a legitimate ID and the necessary setup (for online tests).",
+  ],
+
+
+  costofcourseheading: "",
+  costofcoursecontent: [
+  ],
+
+
+  obtaincourseheading: "How to Get CompTIA Security Pro Certification?",
+  obtainintro: "In order to obtain your CompTIA Security Pro Certification, you need to:",
+  obtaincoursecontent: [
+    "Finish BITA’s practical training involving real-world labs and practice exams.",
+    "Sign up for and successfully complete the certification exam.",
+    "Achieve the minimum passing score established by CompTIA.",
+    "Retrieve your official certificate and digital badge after success",
+    "This credential, recognized worldwide, will confirm your capability to protect systems, networks, and applications from emerging threats.",
+  ],
+
+
+  coheading: "Career Opportunities",
+  cointro: "With a CompTIA Security Pro Certification, you can pursue roles such as:",
+
+  careeroppotunities: [
+    "Cybersecurity Analyst",
+    "Network Security Specialist",
+    "Security Engineer",
+    "Information Security Consultant",
+    "Systems Security Administrator",
+    "IT Risk and Compliance Specialist",
+    "This certification strengthens your resume and paves the way for advanced security roles and certifications."
+  ],
+
+  examblueprint: "Not yet published",
+
+  finally: "As cyber threats increase, obtaining a CompTIA Security Pro Certification is the most effective move for safeguarding your IT career. Become a member of BITA Academy today and receive training from professionals in the field who will equip you for success in cybersecurity."
+};
+
+
+
+
+
+const comptiasecurityxcertificationtraining =  {
+  slug: "comptia-securityx-certification-training",
+  code: "CompTIA SecurityX",
+  title: "CompTIA SecurityX Certification Training",
+  description: "Protect enterprises from modern cyber threats with CompTIA SecurityX Certification Training. Learn advanced defense, compliance, and cloud security skills.",
+
+
+  cheading: "CompTIA SecurityX Certification",
+  courseoverview: [
+    "Want to establish a solid base in cybersecurity and advance your career in IT? The CompTIA SecurityX Certification training program offered by BITA Academy aims to equip learners with an understanding of contemporary security concepts, risk management practices, and compliance strategies. This certification, which is recognized worldwide, confirms your competence in securing networks, cloud platforms, and systems within real-world enterprise settings."
+  ],
+
+  whytakecourseheading: "Why Take the CompTIA SecurityX Certification Course?",
+  wtcintro: "",
+  wtcoursecontent: [
+    "Endorsed Credential: Employers around the globe rely on it as evidence of advanced security expertise.",
+    "Practical Skills: Acquire mastery in threat detection, risk mitigation, and vulnerability assessment via hands-on labs.",
+    "Professional Advancement: Provides access to positions in security engineering, compliance, and risk management.",
+    "Cloud & Compliance Focus: Discover methods for safeguarding data in hybrid and cloud environments.",
+    "Pathway to Advanced Certifications: Equips you for advanced certifications and leadership positions in security.",
+  ],
+
+
+  whocanlearnheading: "",
+  wclcontent: "",
+  wclpoints: [
+  ],
+
+
+  courseprerequestheading: "Prerequisites for CompTIA SecurityX Certification",
+  prerequestintro: "No strict prerequisites exist, but it is advisable for learners to have:",
+  courseprerequcontent: [
+    "An essential understanding of IT and networking",
+    "Fundamental comprehension of security principles and operating systems",
+    "Some familiarity with cloud technologies and compliance frameworks",
+    "With its organized course modules and professional direction, BITA guarantees that learners at any level can prepare efficiently for the CompTIA SecurityX Certification exam.",
+    
+  ],
+
+
+  howtoapplyheading: "How to Apply for the CompTIA SecurityX Certification Exam?",
+  htaintro: "",
+  howtoapplycontent: [
+    "Go to the official CompTIA site and set up an account.",
+    "Choose the CompTIA SecurityX Certification exam from the catalog.",
+    "Select your favored delivery method: online proctored or at a test center.",
+    "Select the date and time of your exam.",
+    "Securely pay the exam fee via CompTIA’s testing partners.",
+    "Be present at the exam with the necessary identification and setup (for online exams)."
+  ],
+
+
+
+  costofcourseheading: "",
+  costofcoursecontent: [
+  ],
+
+  obtaincourseheading: "How to Get CompTIA SecurityX Certification?",
+  obtainintro: "To obtain your CompTIA SecurityX Certification, adhere to this route:",
+  obtaincoursecontent: [
+    "Sign up for BITA’s practical training program, which encompasses theoretical instruction, laboratory work, and practice exams.",
+    "Sign up and show up for the test.",
+    "Achieve the minimum passing score set by CompTIA.",
+    "After you have successfully completed the process, access your official certificate and badge.",
+    "This confirms your capability to protect enterprise systems by employing best practices that are at the forefront of the industry.",
+  ],
+
+
+  coheading: "Career Opportunities",
+  cointro: "With a CompTIA SecurityX Certification, you can qualify for roles such as:",  
+  careeroppotunities: [
+"Security Engineer",
+"Cybersecurity Analyst",
+"Compliance Specialist",
+"Information Security Consultant",
+"IT Risk and Governance Specialist",
+"Cloud Security Engineer",
+"This certification positions you as a skilled professional ready to defend organizations from modern cyber threats."
+  ],
+
+  examblueprint: "Not yet published",
+  finally: "As the threat landscape continues to evolve, obtaining a CompTIA SecurityX Certification is among the most prudent strategies for securing your cybersecurity career against future challenges. Join BITA Academy today and learn from industry experts who will help you become a confident and certified"
+};
+
+
+const comptiacloudessentialspluscertification  =  {
+  slug: "comptia-cloud-essentials+-certification",
+  code: "CompTIA Cloud Essentials+",
+  title: "CompTIA Cloud Essentials+ Certification ",
+  description: "Become a CompTIA expert with our advanced certification.",
+  cheading: "CompTIA Cloud Essentials+ Certification",
+  courseoverview: [
+    "Are you prepared to establish a solid foundation in cloud computing and advance your IT career? BITA Academy provides a thorough CompTIA Cloud Essentials+ Certification course for anyone seeking to learn cloud ideas, business principles, and vital technical skills. This globally recognized certification is ideal for individuals seeking to confirm their cloud experience and differentiate themselves in today's competitive employment market."
+  ],
+  whytakecourseheading: "Why Take the CompTIA Cloud Essentials+ Certification Course?",
+  wtcoursecontent: [
+    "corporate-Centric Cloud Knowledge: Learn how cloud technologies impact corporate value and strategy.",
+    "Industry Recognition: The CompTIA Cloud Essentials+ Certification is recognized by top companies worldwide.",
+    "Practical Skill Development: Learn real-world applications using SaaS, PaaS, and IaaS technologies.",
+    "Compliance and Security Focus: Learn how to manage cloud risks and security needs.",
+    "Employment Advancement: The CompTIA Cloud Essentials+ Certification provides a variety of employment opportunities in cloud and IT operations.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA Cloud Essentials+ Certification?",
+  wclcontent: "The CompTIA Cloud Essentials+ Certification course is suitable for:",
+  wclpoints: [
+    "IT support and service desk specialists are shifting to cloud responsibilities",
+    "Sales and marketing teams utilize cloud-based technologies.",
+    "Business analysts, project managers, and IT auditors.",
+    "Aspiring professionals eager to understand cloud principles.",
+    "Anyone preparing for the vendor-neutral CompTIA Cloud Essentials+ certification.",
+    "No prior technical expertise is required—only a willingness to learn.",
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA Cloud Essentials+ Certification",
+  prerequestintro: "There are no mandatory prerequisites, although we recommend that students have:",
+  courseprerequcontent: [
+    "Six to twelve months of experience in IT environments",
+    "Fundamental understanding of networking and security concepts.",
+    "familiarity with commercial and IT terminology.",
+    "BITA Academy's skilled trainers guarantee that all complicated concepts in the CompTIA Cloud Essentials+ Certification course are broken down into straightforward, easy-to-understand modules."
+  ],
+  howtoapplyheading: "How to Apply for the CompTIA Cloud Essentials+ Certification Exam?",
+  htaintro: "To register for the CompTIA Cloud Essentials+ Certification exam, follow the steps below:",
+  howtoapplycontent: [
+    "Create or log in to your CompTIA account on the official CompTIA website.",
+    "Purchase an exam voucher for the CompTIA Cloud Essentials+ Certification (Exam Code: CLO-002).",
+    "Schedule your exam using Pearson VUE (online or at a test center).",
+    "Select the date, language, and test format.",
+    "Pay the exam fee (about USD 150).",
+    "On exam day, bring a valid ID and a test-ready setup.",
+    "After passing, you can obtain your digital badge and printable certificate.",
+  ],
+  costofcourseheading: "How to Apply for the CompTIA Cloud Essentials+ Certification Exam?",
+  costofcoursecontent: [
+    "To register for the CompTIA Cloud Essentials+ Certification exam, follow the steps below:",
+    "Create or log in to your CompTIA account on the official CompTIA website.",
+    "Purchase an exam voucher for the CompTIA Cloud Essentials+ Certification (Exam Code: CLO-002).",
+    "Schedule your exam using Pearson VUE (online or at a test center).",
+    "Select the date, language, and test format.",
+    "Pay the exam fee (about USD 150).",
+    "On exam day, bring a valid ID and a test-ready setup.",
+    "After passing, you can obtain your digital badge and printable certificate.",
+  ],
+  obtaincourseheading: "How to Earn Your CompTIA Cloud Essentials+ Certification?",
+  obtainintro: "To get the CompTIA Cloud Essentials+ certification, you need to:",
+  obtaincoursecontent: [
+    "Complete BITA's in-depth training with hands-on sessions and mock assessments.",
+    "Attend the CLO-002 exam (60 minutes)",
+    "Answer 75 multiple choice questions.",
+    "Score a minimum passing mark of 720 (on a scale of 100-900).",
+    "Download your official CompTIA Cloud Essentials+ Certification after passing.",
+    "This milestone demonstrates your ability to grasp cloud design, governance, and implementation from a business standpoint.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals certified with CompTIA Cloud Essentials+ Certification are in demand for various roles such as:",
+  careeroppotunities: [
+    "Cloud Business Analyst",
+    "Cloud Project Coordinator",
+    "Technical Support Specialist",
+    "Cloud Sales Consultant",
+    "Cloud Operations Specialist",
+    "Junior Cloud Administrator",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"The CompTIA Cloud Essentials+ Certification also serves as a strong foundation for pursuing further cloud-focused credentials in AWS, Azure, and Google Cloud. Cloud capabilities are becoming increasingly important across all business sectors. Enroll in BITA Academy's CompTIA Cloud Essentials+ Certification program today and take the first step towards a successful cloud career!",
+]
+};
+
+
+const comptiacloudessentialscertification =  {
+  slug: "comptia-cloud-essentials-certification",
+  code: "CompTIA Cloud Essentials",
+  title: "CompTIA Cloud Essentials Certification",
+  description: "Become a CompTIA expert with our advanced certification.",
+  cheading: "CompTIA Cloud Essentials Certification",
+  courseoverview: [
+    "Do you want to build a solid foundation in cloud technologies and take your first steps into the realm of cloud computing? BITA Academy provides an industry-recognized CompTIA Cloud Essentials Certification course that will help you comprehend cloud services, infrastructure, and business effect. This course is excellent for both technical and non-technical individuals who wish to grasp cloud computing's business benefits.",
+    "Our hands-on lessons, real-world examples, and professional supervision will help students obtain a thorough understanding of cloud principles, governance, and risk management. If you intend to work in or around cloud environments, the CompTIA Cloud Essentials Certification is an excellent starting point.",
+  ],
+  whytakecourseheading: "Why Take the CompTIA Cloud Essentials Certification Course?",
+  wtcintro: "Learn cloud ideas that are applicable to any cloud service provider, including AWS, Azure, and Google Cloud.",
+  wtcoursecontent: [
+    "corporate-Focused Learning: Discover how cloud computing influences corporate strategy, operations, and ROI.",
+    "Global Recognition: This credential is trusted across the world and can help you advance your career in a variety of areas.",
+    "Career Starter: This is ideal for anyone just starting out in the cloud, particularly for professions such as cloud analyst, support, or project coordinator.",
+    "Foundation for Growth: Provides a solid foundation for more advanced certifications such as CompTIA Cloud+ or vendor-specific routes.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA Cloud Essentials Certification?",
+  wclpoints: [
+    "Business analysts and IT support personnel.",
+    "Project managers working on cloud-based projects.",
+    "Sales and marketing personnel in technology firms.",
+    "Entry-level IT professionals and freshers.",
+    "Anyone looking for a fundamental understanding of cloud computing from a business perspective.",
+    "No prior technological experience is required—only a willingness to learn and an interest in cloud technology."
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA Cloud Essentials Certification",
+  prerequestintro: "This course has no mandatory prerequisites, therefore it is available to all learners. However, the BITA recommends:",
+  courseprerequcontent: [
+    "Basic understanding of IT principles and terminology.",
+    "Interested in learning how cloud computing helps business operations.",
+    "A desire to pursue a cloud-related job in the IT field.",
+    "Our training is designed to suit people from diverse backgrounds, with step-by-step learning modules.",
+  ],
+  howtoapplyheading: "How to Apply for the CompTIA Cloud Essentials Certification Exam?",
+  htaintro: "Follow these easy steps to register for the CompTIA Cloud Essentials Certification exam:",
+  howtoapplycontent: [
+    "Go to the CompTIA website and create an account.",
+    "Go to the 'Certifications' area and choose CompTIA Cloud Essentials Certification.",
+    "Pearson VUE allows you to choose between online and in-person testing formats.",
+    "Schedule your preferred exam date and pay the price (about $130).",
+    "Bring a valid ID on exam day, and if testing remotely, make sure to keep the atmosphere quiet.",
+    "After passing, you will receive your official CompTIA certification and digital badge.",
+  ],
+  obtaincourseheading: "How to Get CompTIA Cloud Essentials Certification?",
+  obtainintro: "To successfully get your CompTIA Cloud Essentials Certification, take these steps:",
+  obtaincoursecontent: [
+    "Enroll in BITA's expert-led training program, which covers cloud principles, risks, governance, and financial aspects",
+    "Participate in hands-on laboratories, case studies, and practice tests.",
+    "Register and take the CLO-002 exam (the most recent edition).",
+    "Passing your certification exam will authenticate your knowledge.",
+    "This certification will serve as a legitimate indicator of your knowledge of cloud computing and its business benefits.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "With a CompTIA Cloud Essentials Certification, you unlock opportunities in various domains where cloud knowledge is critical. Some popular roles include:",
+  careeroppotunities: [
+    "Cloud Support Specialist",
+    "Cloud Business Analyst",
+    "IT Project Coordinator",
+    "Sales Engineer (Cloud Solutions)",
+    "Entry-Level Cloud Consultant",
+    "Technical Account Manager",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"This certification also prepares you for future upskilling in cloud security, architecture, and operations.",
+"With digital transformation being a top goal for all organizations, knowing the cloud from a business and strategic standpoint is critical. Begin your cloud adventure with BITA's CompTIA Cloud Essentials Certification course, and become certified to future-proof your profession!",
+]
+};
+
+const comptiacloudnetxcertification =  {
+  slug: "comptia-cloudnetx-certification",
+  code: "CompTIA CloudNetX",
+  title: "CompTIA CloudNetX Certification",
+  description: "Become a comptia expert with our advanced certification.",
+  cheading: "CompTIA CloudNetX Certification",
+  courseoverview: [
+    "Are you ready to boost your cloud networking career with a globally respected credential? BITA Academy proudly offers a comprehensive CompTIA CloudNetX Certification training program designed for IT professionals aiming to master hybrid cloud networking. This certification is ideal for individuals looking to validate their skills in managing cloud-based and on-premises networks effectively. Through hands-on labs, real-time use cases, and expert mentorship, you’ll be prepared to build, manage, and secure next-gen network architectures.",
+  ],
+  whytakecourseheading: "Why Take the CompTIA CloudNetX Certification Course?",
+  wtcoursecontent: [
+    "Hybrid Cloud Expertise: Learn how to manage cloud, multi-cloud, and on-premise infrastructures effectively.",
+    "Career Advancement: Recognized by top companies across industries, this certification boosts your credibility in IT and networking positions.",
+    "Vendor-Neutral Knowledge: Learn ideas that apply to AWS, Azure, Google Cloud, and private clouds.",
+    "Network Security Focus: Learn how to create safe networks in cloud-native designs.",
+    "Future-Proof Skillset: Gets you ready for new trends in SD-WAN, automation, and cloud networking.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA CloudNetX Certification?",
+  wclpoints: [
+    "Network Administrators and Engineers",
+    "System administrators shifting to cloud responsibilities.",
+    "IT Support workers are moving into cloud networking.",
+    "Cloud practitioners seeking vendor-neutral credentials.",
+    "Tech consultants manage hybrid IT infrastructures.",
+    "This course is designed to fit all experience levels, whether you're just getting started with the cloud or looking to improve your existing skills.",
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA CloudNetX Certification",
+  prerequestintro: "There are no mandatory prerequisites, although we recommend that students have:",
+  courseprerequcontent: [
+    "2-3 years of network experience.",
+    "Experience with cloud systems (AWS, Azure, or GCP)",
+    "Basic knowledge of TCP/IP, DNS, VPNs, and routing protocols.",
+  ],
+  howtoapplyheading: "How to Apply for the CompTIA CloudNetX Certification Exam?",
+  htaintro: "Register for the CompTIA CloudNetX Certification exam:",
+  howtoapplycontent: [
+   "Create a candidate account on the official CompTIA website.",
+   "Go to the 'Certifications' section and choose CloudNetX.",
+   "Schedule your exam with Pearson VUE, either online or at a test center.",
+   "Pay the exam cost (current prices are available on the CompTIA website).",
+   "Prepare the essential IDs and create a distraction-free atmosphere for online assessment.",
+   "After completing the exam, you will obtain an authentic digital badge and certification that is recognized worldwide.",
+  ],
+  obtaincourseheading: "How to Get Certified?",
+  obtainintro: "To obtain the CompTIA CloudNetX certification, take these steps:",
+  obtaincoursecontent: [
+    "Enroll in BITA's instructor-led training program, which includes theory, labs, and mock tests.",
+    "Take the official certification exam, a multiple-choice test designed to assess real-world cloud networking scenarios.",
+    "Pass with a minimum necessary score.",
+    "Download your digital certificate from the CompTIA portal.",
+    "BITA's practical-focused curriculum will give you the confidence to use your knowledge in real-world IT contexts.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals who achieve the CompTIA CloudNetX Certification are in demand across industries adopting cloud infrastructure. Job roles include:",
+  careeroppotunities: [
+    "Cloud Network Engineer",
+    "Cloud Operations Specialist",
+    "Cloud Systems Administrator",
+    "Infrastructure Analyst",
+    "Hybrid Cloud Specialist",
+    "Network Support Technician",
+    "Cloud Migration Consultant",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"This certification also serves as a foundation for advanced roles in cloud architecture, DevOps, and cybersecurity.",
+"The CompTIA CloudNetX Certification prepares you for the future, as hybrid and multi-cloud architectures become the new standard. Enroll in BITA Academy today and let our industry-aligned training prepare you for success in cloud networking!",
+]
+};
+
+
+const comptiaaiessentialscertification =  {
+  slug: "comptia-ai-essentials-certification",
+  code: "CompTIA AI Essentials",
+  title: "CompTIA AI Essentials Certification ",
+  description: "Become a comptia expert with our advanced certification.",
+  cheading: "CompTIA AI Essentials Certification",
+  courseoverview: [
+    "Are you ready to start your career in artificial intelligence? BITA Academy proudly offers industry-aligned CompTIA AI Essentials Certification training for IT professionals and aspiring AI specialists. This course will expose you to fundamental AI principles, practical tools, and ethical frameworks, establishing the groundwork for future AI roles. Through hands-on projects, professional mentoring, and interactive labs, you'll gain real-world experience with AI basics and achieve the globally renowned CompTIA AI Essentials certification."
+  ],
+  whytakecourseheading: "Why Take the CompTIA AI Essentials Certification Course?",
+  wtcoursecontent: [
+    "Industry Relevance: Learn about real-world AI applications in banking, healthcare, and security.",
+    "Future-Proof Skills: CompTIA AI Essentials Certification teaches the fundamentals of machine learning, neural networks, and data processing, ensuring future-proof skills.",
+    "Career Development: AI talents are in high demand today, and this certification provides quick credibility.",
+    "Ethical Awareness: Learn about the proper use of AI technologies and data governance best practices.",
+    "Pathway to Advanced Learning: CompTIA AI Essentials Certification serves as a springboard to more advanced AI and ML certifications.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA AI Essentials Certification?",
+  wclcontent: "The CompTIA AI Essentials Certification course is suitable for:",
+  wclpoints: [
+    "IT professionals and developers are entering the AI domain.",
+    "Business analysts desire AI literacy.",
+    "Students and freshers pursuing a career in AI",
+    "Software engineers and system administrators are increasing their technical repertoire.",
+    "Tech consultants are interested in AI-driven solutions.",
+    "Anyone interested in intelligent systems and wants to achieve CompTIA AI Essentials Certification.",
+    "No advanced math or AI background is required—only a desire to learn!",
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA AI Essentials Certification",
+  prerequestintro: "While there are no strict criteria, trainees should have:",
+  courseprerequcontent: [
+    "Basic comprehension of IT fundamentals.",
+    "Knowledge of core programming concepts",
+    "Interested in data-driven technology.",
+    "Don't worry—BITA's skilled educators will guide you from basics to mastery and help you earn your CompTIA AI Essentials Certification.",
+  ],
+  howtoapplyheading: "How do I apply for the CompTIA AI Essentials Certification Exam?",
+  howtoapplycontent: [
+    "Create/Login to your CompTIA account on the official CompTIA website.",
+    "Go to Certifications > CompTIA AI Essentials Certification.",
+    "Select your selected exam partner (Pearson VUE).",
+    "Choose your exam language, test style (online/in-center), and date.",
+    "Pay the examination registration cost.",
+    "On exam day, make sure you have a valid ID, a quiet area (for online tests), and stable internet access.",
+    "After passing, you may download your digital badge and claim your CompTIA AI Essentials certification.",
+  ],
+  obtaincourseheading: "How to Get CompTIA AI Essentials Certification?",
+  obtaincoursecontent: [
+    "Complete BITA Academy's organized instruction, which includes videos, practical laboratories, and mock tests.",
+    "Register and take the CompTIA AI Essentials Certification test.",
+    "Pass the multiple-choice exam with the minimum required score.",
+    "You will instantly obtain your official certification and digital badge.",
+    "This globally recognized credential demonstrates your fundamental understanding of AI systems and applications.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals who earn the CompTIA AI Essentials Certification can pursue exciting roles including:",
+  careeroppotunities: [
+    "AI Support Specialist",
+    "Junior Machine Learning Analyst",
+    "AI Project Coordinator",
+    "Technical Consultant (AI Focus)",
+    "Automation Support Engineer",
+    "Emerging Tech Associate",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"AI is revolutionizing sectors around the world—don't fall behind. Enroll at BITA Academy today and let our intensive training prepare you to pass the CompTIA AI Essentials Certification and begin your adventure into the field of artificial intelligence!",
+]
+};
+
+
+const comptiaaplusnetworkcertification =  {
+  slug: "comptia-a+-network-certification",
+  code: "CompTIA a+ Network ",
+  title: "CompTIA a+ Network Certification",
+  description: "Become a comptia expert with our advanced certification.",
+  cheading: "CompTIA a+ Network Certification",
+  courseoverview: [
+    "Looking to start a career in IT and networking? BITA Academy provides a complete CompTIA A+ Network Certification training curriculum that will teach you key skills in computer hardware, software, networking, troubleshooting, and more. This course is suitable for beginners and aspiring IT professionals looking to get started with globally recognized certifications. With a combination of hands-on laboratories, real-world scenarios, and professional instruction, you'll be ready to face today's IT difficulties with confidence."
+  ],
+  whytakecourseheading: "Why Take the CompTIA A+ Network Certification Course?",
+  wtcintro: "Comprehensive Curriculum: Includes both core A+ courses and networking fundamentals such as TCP/IP, routers, switches, wireless settings, and troubleshooting methods.",
+  wtcoursecontent: [
+    "Career-Boosting Certification: Top employers regard this certification as a prerequisite for entry-level IT positions.",
+    "Hands-On Training: Learn in real-time lab environments and practical exercises that are meant to mimic real-world scenarios.",
+    "Job-Ready Skills: Understand operating systems, system security, mobile devices, cloud computing, and network troubleshooting.",
+    "Gateway to Advanced Certifications: Provides a solid foundation for future certifications such as Network+, Security+, and others.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA A+ Network Certification?",
+  wclpoints: [
+    "Beginners interested in starting an IT career.",
+    "Recent graduates or certificate holders in computer science, electronics",
+    "Desktop support technicians and help desk representatives.",
+    "Anyone seeking to gain a thorough understanding of computer networks",
+    "Non-technical professionals planning to switch to IT.",
+    "No previous experience? Not an issue. Our CompTIA A+ Network Certification program is designed for all learners, including those with limited IT experience.",
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA A+ Network Certification",
+  prerequestintro: "While there are no strict qualifications, it is suggested that learners:",
+  courseprerequcontent: [
+    "Have a fundamental understanding of computers and operating systems.",
+    "Are familiar with common hardware and software components.",
+    "Interested in technical systems and problem-solving.",
+    "BITA's professional trainers will accompany you every step of the way, ensuring that you are completely prepared for the CompTIA A+ Network Certification exam.",
+  ],
+  howtoapplyheading: "How to Apply for the CompTIA A+ Network Certification Exam?",
+  htaintro: "Follow these easy steps to arrange your exam:",
+  howtoapplycontent: [
+    "Browse the official CompTIA website.",
+    "Create an account and choose your exam (Core 1 (220-1101) or Core 2 (220-1102).",
+    "Select your desired testing method: online or in person.",
+    "Choose a date and time, then pay the exam fee (around USD 246 per exam).",
+    "Attend the exam with a valid ID and a reliable internet connection (for online testing).",
+    "If you pass both the Core 1 and Core 2 examinations, you will receive the CompTIA A+ Network Certification, which is an important step in your IT career.",
+  ],
+  obtaincourseheading: "How to Get CompTIA A+ Network Certification?",
+  obtainintro: "To achieve your CompTIA A+ Network Certification, perform these steps:",
+  obtaincoursecontent: [
+    "Complete the BITA industry-relevant training program, which includes theory sessions, hands-on labs, and mock examinations.",
+    "Register and pass the Core 1 and Core 2 examinations.",
+    "Get a passing score (675/900 for Core 1 and 700/900 for Core 2).",
+    "Download your official digital badge and certificate from the CompTIA website.",
+    "This certification demonstrates your ability to maintain and troubleshoot hardware, networking, and mobile devices.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals with a CompTIA A+ Network Certification are in high demand for a variety of entry-level IT roles, including:",
+  careeroppotunities: [
+    "IT Support Specialist",
+    "Technical Support Analyst",
+    "Desktop Support Technician",
+    "Field Service Technician",
+    "Junior Network Administrator",
+    "System Support Engineer",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"This certification also opens the door to mid-level IT and networking roles after gaining work experience and pursuing higher-level certifications.",
+"With technology continuously advancing, obtaining a CompTIA A+ Network Certification is one of the most effective strategies to secure your IT career. Join BITA Academy and let our expert-led training educate you to become a qualified professional ready for today's technologically advanced environment.",
+]
+};
+
+
+const Comptiacisconetworkingprocertification =  {
+  slug: "Comptia-cisco-networking-pro-certification",
+  code: "CompTIA Cisco Networking Pro",
+  title: "CompTIA Cisco Networking Pro",
+  description: "Become a comptia expert with our advanced certification.",
+  cheading: "CompTIA Cisco Networking Pro Certification",
+  courseoverview: [
+    "Are you ready to take your networking to the next level? BITA Academy is happy to provide a unique CompTIA Cisco Networking Pro Certification training program developed for those who wish to create a firm foundation in networking using a combination of CompTIA basics and Cisco technology. This course combines fundamental networking principles with hands-on configuration and troubleshooting of Cisco-based systems, equipping students for both industry certification and real-world issues."
+  ],
+  whytakecourseheading: "Why Take the CompTIA Cisco Networking Pro Certification Course?",
+  wtcoursecontent: [
+    "Dual Expertise: Learn both vendor-neutral (CompTIA) and vendor-specific (Cisco) networking skills in a single course.",
+    "Job Market Relevance: Employers place a high value on Cisco-trained professionals who have core CompTIA knowledge.",
+    "Practical Labs: Work with genuine Cisco routers and switches, as well as simulators such as Cisco Packet Tracer.",
+    "Improved Troubleshooting Skills: Discover how to identify and address network issues using best practices.",
+    "Pathway to Advanced Roles: Ideal for pursuing certifications such as CCNA, Network+, and even CCNP.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA Cisco Networking Pro Certification?",
+  wclcontent: "This course is appropriate for a variety of learners, including:",
+  wclpoints: [
+    "Entry-level IT and networking professionals.",
+    "System administrators want to specialize in network infrastructure.",
+    "Computer science or IT students looking for practical networking understanding.",
+    "Freelancers and support engineers manage Cisco-based environments.",
+    "Anyone intending to take several industry-standard certifications",
+    "No previous certification is required. However, BITA's CompTIA Cisco Networking Pro Certification course is best suited for students who have a basic understanding of networking or have finished CompTIA A+ or Network+.",
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA Cisco Networking Pro Certification",
+  prerequestintro: "There are no mandatory prerequisites, although we recommend that students have:",
+  courseprerequcontent: [
+    "A fundamental understanding of IP addressing and networking basics.",
+    "Experience with operating systems such as Windows and Linux.",
+    "Interested in network configuration and maintenance",
+    "BITA's trainers will assist all students, regardless of background, through each module of the CompTIA Cisco Networking Pro Certification course with clarity and confidence.",
+  ],
+  howtoapplyheading: "How to Apply for the CompTIA Cisco Networking Pro Certification Exam?",
+  htaintro: "To apply for the exam related to the CompTIA Cisco Networking Pro Certification, take these steps:",
+  howtoapplycontent: [
+    "Go to the official CompTIA or Cisco certification portal.",
+    "Select your preferred certification track (e.g., CompTIA Network+, Cisco CCNA).",
+    "Schedule your exam online or in a nearby authorized testing facility.",
+    "Pay the exam fee (CompTIA Network+: ~USD 358; Cisco CCNA: ~USD 300).",
+    "Prepare for the exam by bringing your ID, confirmation email, and other relevant documents.",
+    "If you pass, you will receive a badge and certificate from either or both authorities, depending on your selected course.",
+  ],
+  obtaincourseheading: "How to Get CompTIA Cisco Networking Pro Certification?",
+  obtainintro: "To successfully obtain the CompTIA Cisco Networking Pro Certification:",
+  obtaincoursecontent: [
+    "Enroll in BITA's industry-specific training, which includes live sessions, labs, and practice exams.",
+    "Complete the training modules that cover networking principles, Cisco device configuration, and security essentials.",
+    "Register for and pass the corresponding certification examinations.",
+    "Download your official digital certificate and badge from the provider's website.",
+    "The CompTIA Cisco Networking Pro Certification validates your ability to design, manage, and troubleshoot generic and Cisco-based networks.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals holding a CompTIA Cisco Networking Pro Certification are highly sought after for various networking roles. This certification opens up job opportunities such as:",
+  careeroppotunities: [
+    "Network Support Engineer",
+    "Network Administrator",
+    "Cisco Network Technician",
+    "Systems Engineer",
+    "IT Infrastructure Specialist",
+    "Technical Support Engineer",
+    "Junior Network Consultant",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"With hands-on Cisco training and foundational knowledge from CompTIA, your path to senior roles becomes clear and achievable.",
+"Networking is the foundation of every IT system, and workers with CompTIA Cisco Networking Pro Certification are driving the transition. BITA Academy offers skilled training to help you advance your career in today's connected environment.",
+]
+};
+
+
+const comptialinuxprocertification =  {
+  slug: "comptia-linux-pro-certification",
+  code: "CompTIA Linux Pro",
+  title: "CompTIA Linux Pro Certification ",
+  description: "Become a comptia expert with our advanced certification.",
+  cheading: "CompTIA Linux Pro Certification",
+  courseoverview: [
+    "Are you ready to master one of the most popular operating systems in IT? BITA Academy is happy to offer a rigorous CompTIA Linux Pro Certification training program for people seeking in-depth, hands-on experience with Linux systems. This course is ideal for IT professionals, system administrators, and developers who want to construct and administer open-source systems with confidence. Real-world labs, expert guidance, and thorough modules will help you become adept in Linux command-line tools, administration, and security."
+  ],
+  whytakecourseheading: "Why Take the CompTIA Linux Pro Certification Course?",
+  wtcoursecontent: [
+    "In-Demand Skill Set: Learn Linux system configuration, scripting, file rights, user management, and problem solving.",
+    "Globally Recognized Credential: The certification is well-regarded around the world, making it a valuable addition to your portfolio.",
+    "Hands-on Experience: Train in real-time lab conditions that simulate real-world job situations.",
+    "Open-Source Mastery: Gain a thorough understanding of the open-source principles and tools utilized in enterprise Linux settings.",
+    "Career Foundation: An important step for positions such as Linux Administrator, DevOps Engineer, and Cloud Support Specialist.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA Linux Pro Certification?",
+  wclcontent: "The CompTIA Linux Pro Certification course is suitable for:",
+  wclpoints: [
+    "System administrators want to validate their Linux knowledge.",
+    "IT professionals work in mixed-platform environments.",
+    "Cloud engineers manage Linux-based infrastructure.",
+    "Software developers using open-source platforms",
+    "Students or professionals with a basic understanding of operating systems.",
+    "Whether you are a beginner or have some experience, BITA's organized methodology ensures that all students are directed to certification success.",
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA Linux Pro Certification",
+  prerequestintro: "Although there are no strict qualifications, it is suggested that learners:",
+  courseprerequcontent: [
+    "Have a fundamental understanding of operating systems and networking.",
+    "Are you familiar with the Linux command line interface?",
+    "Possess problem-solving abilities and a willingness to investigate open-source systems.",
+    "Don't worry, our BITA trainers will fill any gaps with hands-on practice and dedicated supervision throughout the CompTIA Linux Pro Certification process.",
+  ],
+  howtoapplyheading: "How to Apply for the CompTIA Linux Pro Certification Exam?",
+  htaintro: "Follow these steps to register:",
+  howtoapplycontent: [
+    "Go to the official CompTIA Certification page.",
+    "Create an account and then choose the CompTIA Linux Pro (XK0-005) exam.",
+    "Select a test method: online or at a Pearson VUE test facility.",
+    "Select your exam date and location.",
+    "Pay a test fee of roughly USD 358.",
+    "Bring a valid ID on exam day and make sure you have a steady setting if you're testing online.",
+    "Once you pass, you will obtain a digital badge and certificate that will authenticate your Linux expertise to employers.",
+  ],
+  obtaincourseheading: "How to Get CompTIA Linux Pro Certification?",
+  obtainintro: "To successfully get your CompTIA Linux Pro Certification, perform these steps:",
+  obtaincoursecontent: [
+    "Complete BITA's end-to-end course, including labs, projects, and exam preparation.",
+    "Register for and pass the official Linux Pro test (XK0-005).",
+    "Achieve the minimal passing score (720 out of 900).",
+    "Download your official certificate and badge from the CompTIA portal.",
+    "This certification demonstrates your ability to manage Linux systems professionally in enterprise and cloud-based environments.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals with the CompTIA Linux Pro Certification are sought after for key roles in IT. Career paths include:",
+  careeroppotunities: [
+    "Linux Systems Administrator",
+    "DevOps Engineer",
+    "Cloud Support Specialist",
+    "Technical Support Engineer",
+    "IT Infrastructure Analyst",
+    "Open-Source Solutions Architect",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"The CompTIA Linux Pro Certification also serves as a gateway to higher-level Linux certifications like Red Hat or Linux Foundation.",
+"With the growing use of Linux in cloud computing, cybersecurity, and DevOps, the CompTIA Linux Pro Certification is a wise investment for your career. Enroll at BITA Academy today and take the first step toward becoming a certified Linux specialist.",
+]
+};
+
+
+
+const comptiaserverpluscertification =  {
+  slug: "comptia-server+-certification",
+  code: "CompTIA Server+",
+  title: "CompTIA Server+ Certification ",
+  description: "Become a comptia expert with our advanced certification.",
+  cheading: "CompTIA Server+ Certification",
+  courseoverview: [
+    "Are you looking to validate your server administration skills and further your IT career? BITA Academy provides hands-on training for the CompTIA Server+ Certification, a globally recognized credential that demonstrates your competence to manage, install, troubleshoot, and secure server settings in data centers and hybrid networks. This course is suitable for experienced IT professionals who wish to expand their knowledge of server hardware, virtualization, storage, and disaster recovery."
+  ],
+  whytakecourseheading: "Why Take the CompTIA Server+ Certification Course?",
+  wtcoursecontent: [
+    "Enterprise-Grade Training: Learn how to deploy, configure, and maintain physical and virtual servers across several settings.",
+    "Advanced Troubleshooting: Understand server diagnostics, disaster recovery, and problem-solving methodologies.",
+    "Career Advancement: This certification distinguishes you in areas such as system administration, server support, and network infrastructure.",
+    "Hybrid Network Expertise: Learn how to manage on-premises, cloud, and virtual servers.",
+    "A vendor-Neutral Approach: Focuses on industry-standard knowledge that is applicable across all technologies and platforms.",
+  ],
+  whocanlearnheading: "Who Can Learn CompTIA Server+ Certification?",
+  wclcontent: "The CompTIA Server+ certification course is intended for:",
+  wclpoints: [
+    "System and network administrators.",
+    "Server support technicians and IT infrastructure personnel",
+    "Datacenter specialists and NOC technicians",
+    "IT professionals prepare for server-related job roles.",
+    "Anyone who already has CompTIA A+ or equivalent expertise.",
+    "If you have a solid foundation in IT support and want to advance to server management, this course is the perfect next step.",
+  ],
+  courseprerequestheading: "Prerequisites for CompTIA Server+ Certification",
+  prerequestintro: "Though not required, candidates should have:",
+  courseprerequcontent: [
+    "18-24 months of practical experience in server or IT administration.",
+    "A fundamental understanding of networking, storage, and virtualization.",
+    "Completing the CompTIA A+ certification or equivalent expertise",
+    "Our skilled trainers at BITA Academy will walk you through each topic to ensure you're test and work ready for your CompTIA Server+ Certification.",
+  ],
+  howtoapplyheading: "How to Apply for the CompTIA Server+ Certification Exam?",
+  htaintro: "To register for the exam, follow the steps below:",
+  howtoapplycontent: [
+    "Go to the CompTIA website and create an account.",
+    "Select CompTIA Server+ (Exam Code: SK0-005).",
+    "Select your test delivery method.",
+    "Select a date, time, and language preference.",
+    "Pay the exam cost (USD 358) with an accepted payment method.",
+    "On exam day, make sure you have a valid ID and reliable internet access (for online exams).",
+    "Passing the exam gets you the CompTIA Server+ Certification, which is valid for three years.",
+  ],
+
+  obtaincourseheading: "How to Get CompTIA Server+ Certification?",
+  obtainintro: "To obtain CompTIA Server+ Certification certification:",
+  obtaincoursecontent: [
+    "Enroll in BITA's organized training program, which includes theory, laboratory sessions, and mock assessments.",
+    "Register and take the SK0-005 test.",
+    "Pass the exam with the minimum score set by CompTIA.",
+    "Receive your digital badge and certificate via your CompTIA account.",
+    "This certification demonstrates your competence to manage complicated server infrastructures and maintain mission-critical systems.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals holding a CompTIA Server+ Certification can pursue roles such as:",
+  careeroppotunities: [
+    "Server Administrator",
+    "Systems Support Engineer",
+    "IT Infrastructure Specialist",
+    "Network Operations Center (NOC) Technician",
+    "Data Center Technician",
+    "Virtualization Support Engineer",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"This certification also builds a strong foundation for advanced paths like Microsoft Server certifications, VMware, or CompTIA Cloud+.",
+"As companies depend on servers for their operations and services, obtaining the CompTIA Server+ Certification can pave your way to becoming a sought-after server professional. Join BITA Academy today to acquire the skills, confidence, and credentials essential for success in contemporary IT infrastructure positions.",
+]
+};
+
+
+
+
+// const awscertifieddeveloperassociate =  {
+//   slug: "",
+//   code: "",
+//   title: "",
+//   description: "",
+//   cheading: "",
+//   courseoverview: [
+//   ],
+//   whytakecourseheading: "",
+//   wtcintro: "",
+//   wtcoursecontent: [
+//   ],
+//   whocanlearnheading: "",
+//   wclcontent: "",
+//   wclpoints: [
+//   ],
+//   courseprerequestheading: "",
+//   prerequestintro: "",
+//   courseprerequcontent: "",
+//   howtoapplyheading: "",
+//   htaintro: "",
+//   howtoapplycontent: [
+//   ],
+//   costofcourseheading: "",
+//   costofcoursecontent: [
+//   ],
+//   obtaincourseheading: "",
+//   obtainintro: "",
+//   obtaincoursecontent: [
+//   ],
+//   coheading: "",
+//   cointro: "",
+//   careeroppotunities: [
+//   ],
+//   examblueprint: "Not yet published",
+//   finally: ""
+// };
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4395,6 +5480,899 @@ const isacacertificationcourses =  {
   finally: "Employers place a high value on experts who have completed ISACA certification courses, making this credential an important asset for career advancement in software development.BITA Academy's ISACA certification courses offer expert training and hands-on experience to help you pass the exam. Enroll today to advance your software development career!"
 };
 
+
+const certifiedethicalhackertraining =  {
+  slug: "certified-ethical-hacker-training",
+  code: "C|EH",
+  title: "EC-Council certification courses ",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "CEH Certification Training",
+  courseoverview: [
+  "Are you prepared to become an expert in cybersecurity protection and ethical hacking? The advanced CEH Master Certification Training is offered by BITA Academy and is intended for professionals who wish to verify their proficiency in network defense and penetration testing in the real world. In addition to improving your ethical hacking skills, this internationally recognized certification shows that you can spot weaknesses and defend businesses against online attacks."
+  ],
+  whytakecourseheading: "Why Take the CEH Master Certification Training Course?",
+  wtcintro: "You can gain extensive knowledge and practical expertise in ethical hacking by enrolling in BITA's CEH Master Certification Training program. What distinguishes this certification is as follows:",
+  wtcoursecontent: [
+  "Industry Recognition: Employers in the IT and cybersecurity fields trust this globally recognized credential.",
+  "Hands-on Labs: Practice with real-world hacking tools and techniques in a simulated setting.",
+  "Validation of Practical Skills: Contains a hands-on examination to assess your proficiency in threat analysis and penetration testing.",
+  "Career advancement: Provides access to high-paying positions in ethical hacking and cybersecurity.",
+  "Establishes a path to advanced cybersecurity certifications such as CompTIA SecurityX and CISSP, laying the groundwork for expert roles.",
+  ],
+  whocanlearnheading: "Who Can Learn CEH Master Certification Training?",
+  wclcontent: "This course is ideal for:",
+  wclpoints: [
+  "Penetration testers and ethical hackers looking to demonstrate their exceptional abilities.",
+  "Administrators of networks and systems are in charge of protecting IT infrastructures.",
+  "Professionals in cybersecurity looking to develop their skills with real-world hacking expertise.",
+  "Consultants and auditors for security.",
+  "Anyone with a strong interest in cyber protection and ethical hacking.",
+  "BITA's organized CEH Master Certification Training will equip you with the abilities to confidently pass both theoretical and practical tests, even if you're new to ethical hacking.",  
+],
+  courseprerequestheading: "Prerequisites for CEH Master Certification Training",
+  prerequestintro: "Although there aren't any rigid requirements, students are advised to have:",
+  courseprerequcontent: [
+    "Fundamental knowledge of OS systems, networking, and security principles",
+    "Knowledge of system administration or the principles of ethical hacking",
+    "Although it is not required, completing the CEH (Certified Ethical Hacker) course is preferred.",
+    "To guarantee that every student is adequately prepared for the CEH Master Certification Training exam, BITA's knowledgeable instructors offer comprehensive instruction and hands-on experience.",
+  ],
+  howtoapplyheading: "How to Apply for the CEH Master Certification Exam?",
+  htaintro: "Simply follow these procedures to get registered for your test:",
+  howtoapplycontent: [
+    "Go to the EC-Council's official website.",
+    "From the certification catalog, choose the CEH Master Certification.",
+    "Decide whether you want to take the test in person or online.",
+    "Securely pay the exam fee.",
+    "Plan for both the CEH Knowledge Exam and the CEH Practical Exam.",
+    "Get ready and confidently take your tests.",
+    "You will formally obtain the esteemed CEH Master Certification certificate upon completing both tests.",
+  ],
+  obtaincourseheading: "How to Get CEH Master Certification?",
+  obtainintro: "In order to obtain master-level certification as an ethical hacker, you need to:",
+  obtaincoursecontent: [
+  "Finish the extensive instruction provided by BITA Academy, which includes theory, labs, and practice exams.",
+  "Successfully complete the CEH Knowledge and Practical Exams.",
+  "Show that you can conduct penetration tests and vulnerability assessments in the real world.",
+  "Get your digital badge and certified certificate from EC-Council.",
+  "This demonstrates your proficiency with ethical hacking and your preparedness to fend off online attacks.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Holding a CEH Master Certification opens exciting career opportunities such as:",
+  careeroppotunities: [
+  "Senior Ethical Hacker",
+  "Cybersecurity Analyst",
+  "Penetration Testing Specialist",
+  "Information Security Consultant",
+  "Network Security Engineer",
+  "Cyber Forensics Expert",
+  ],
+  examblueprint: "Not published yet",
+  finally: [
+    "Organizations across industries seek professionals with this credential to strengthen their digital defense strategies.",
+    "Obtaining a CEH Master Certification Training from BITA Academy guarantees that you stand out as a qualified professional prepared to take on challenging security issues in light of the growing worldwide danger of cybersecurity. Enroll in BITA now to learn the methods employed by actual security professionals and obtain practical hacking experience.",
+  ],
+};
+
+const cehmastercertificationtraining =  {
+  slug: "ceh-master-certification-training",
+  code: "C|EHM",
+  title: "CEH Master Certification Training",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "CEH Master Certification Training",
+  courseoverview: [
+    "Are you prepared to become an expert in cybersecurity protection and ethical hacking? The advanced CEH Master Certification Training is offered by BITA Academy and is intended for professionals who wish to verify their proficiency in network defense and penetration testing in the real world. In addition to improving your ethical hacking skills, this internationally recognized certification shows that you can spot weaknesses and defend businesses against online attacks.",
+  ],
+  whytakecourseheading: "Why Take the CEH Master Certification Training Course?",
+  wtcintro: "You can gain extensive knowledge and practical expertise in ethical hacking by enrolling in BITA's CEH Master Certification Training program. What distinguishes this certification is as follows:",
+  wtcoursecontent: [
+    "Industry Recognition: Employers in the IT and cybersecurity fields trust this globally recognized credential.",
+    "Hands-on Labs: Practice with real-world hacking tools and techniques in a simulated setting.",
+    "Validation of Practical Skills: Contains a hands-on examination to assess your proficiency in threat analysis and penetration testing.",
+    "Career advancement: Provides access to high-paying positions in ethical hacking and cybersecurity.",
+    "Establishes a path to advanced cybersecurity certifications such as CompTIA SecurityX and CISSP, laying the groundwork for expert roles.",
+  ],
+  whocanlearnheading: "Who Can Learn CEH Master Certification Training?",
+  wclcontent: "This course is ideal for:",
+  wclpoints: [
+    "Penetration testers and ethical hackers looking to demonstrate their exceptional abilities",
+    "Administrators of networks and systems are in charge of protecting IT infrastructures.",
+    "Professionals in cybersecurity looking to develop their skills with real-world hacking expertise",
+    "Consultants and auditors for security",
+    "Anyone with a strong interest in cyber protection and ethical hacking",
+    "BITA's organized CEH Master Certification Training will equip you with the abilities to confidently pass both theoretical and practical tests, even if you're new to ethical hacking.",
+  ],
+  courseprerequestheading: "Prerequisites for CEH Master Certification Training",
+  prerequestintro: "Although there aren't any rigid requirements, students are advised to have:",
+  courseprerequcontent: [
+    "Fundamental knowledge of OS systems, networking, and security principles",
+    "Knowledge of system administration or the principles of ethical hacking",
+    "Although it is not required, completing the CEH (Certified Ethical Hacker) course is preferred.",
+    "To guarantee that every student is adequately prepared for the CEH Master Certification Training exam, BITA's knowledgeable instructors offer comprehensive instruction and hands-on experience."
+  ],
+  howtoapplyheading: "How to Apply for the CEH Master Certification Exam?",
+  htaintro: "Simply follow these procedures to get registered for your test:",
+  howtoapplycontent: [
+    "Go to the EC-Council's official website.",
+    "From the certification catalog, choose the CEH Master Certification.",
+    "Decide whether you want to take the test in person or online.",
+    "Securely pay the exam fee.",
+    "Plan for both the CEH Knowledge Exam and the CEH Practical Exam.",
+    "Get ready and confidently take your tests.",
+    "You will formally obtain the esteemed CEH Master Certification certificate upon completing both tests.",
+  ],
+  obtaincourseheading: "How to Get CEH Master Certification?",
+  obtainintro: "In order to obtain master-level certification as an ethical hacker, you need to:",
+  obtaincoursecontent: [
+  "Finish the extensive instruction provided by BITA Academy, which includes theory, labs, and practice exams.",
+  "Successfully complete the CEH Knowledge and Practical Exams.",
+  "Show that you can conduct penetration tests and vulnerability assessments in the real world.",
+  "Get your digital badge and certified certificate from EC-Council.",
+  "This demonstrates your proficiency with ethical hacking and your preparedness to fend off online attacks.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Holding a CEH Master Certification opens exciting career opportunities such as:",
+  careeroppotunities: [
+    "Senior Ethical Hacker",
+    "Cybersecurity Analyst",
+    "Penetration Testing Specialist",
+    "Information Security Consultant",
+    "Network Security Engineer",
+    "Cyber Forensics Expert",
+  ],
+  examblueprint: "Not yet published",
+  finally:[
+    "Organizations across industries seek professionals with this credential to strengthen their digital defense strategies.",
+    "Obtaining a CEH Master Certification Training from BITA Academy guarantees that you stand out as a qualified professional prepared to take on challenging security issues in light of the growing worldwide danger of cybersecurity. Enroll in BITA now to learn the methods employed by actual security professionals and obtain practical hacking experience.",
+  ]
+};
+
+
+
+const ccisocertificationtraining =  {
+  slug: "cciso-certification-training",
+  code: "C|CISO",
+  title: "CCISO Certification Training",
+  description: "Become a EC-Council CCISO Certification Training expert with our advanced certification.",
+  cheading: "CCISO Certification Training",
+  courseoverview: [
+    "With the CCISO Certification Training curriculum from BITA Academy, enter the realm of executive-level cybersecurity leadership. Experienced information security professionals who want to advance to strategic leadership positions in cybersecurity management are the target audience for the Certified Chief Information Security Officer (CCISO) certification. You will acquire the skills necessary to successfully lead security teams and match security initiatives with business goals through our expert-led seminars and real-world case studies."
+  ],
+  whytakecourseheading: "Why Take the CCISO Certification Training Course?",
+  wtcintro: "You will gain the abilities and executive attitude required to oversee intricate information security initiatives by enrolling in BITA's CCISO Certification Training. This training is unique for the following reasons:",
+  wtcoursecontent: [
+    "Executive-Level Skill Development: Develop your executive-level skills by learning how to create, carry out, and manage enterprise information security plans.",
+    "Real-World Situations: Develop governance models, compliance frameworks, and leadership case studies.",
+    "Real-World Scenarios: Advance your career by being qualified for C-suite roles like IT Security Director and Chief Information Security Officer (CISO).",
+    "Comprehensive Curriculum: Covers governance, risk management, and controls, the five key CCISO domains.",
+    "Globally Recognized Certification: Obtain a certification that is valued by leading enterprises across the globe.",
+  ],
+  whocanlearnheading: "Who Can Learn CCISO Certification Training?",
+  wclcontent: "The program for CCISO Certification Training is perfect for:",
+  wclpoints: [
+    "Senior IT workers hoping to hold cybersecurity leadership positions",
+    "knowledgeable security consultants and managers",
+    "Officers of risk and compliance",
+    "Administrators of network security who want to advance to executive positions",
+    "Professionals with credentials such as CEH, CISSP, or CISM",
+    "This course will assist you in moving from technical management to executive decision-making if you have substantial experience in governance or information security.",
+  ],
+  courseprerequestheading: "Prerequisites for CCISO Certification Training",
+  prerequestintro: "Prior to enrolling, students are advised to have:",
+  courseprerequcontent: [
+    "Five years or more of experience managing information security",
+    "familiarity with risk, governance, and compliance frameworks",
+    "Knowledge in incident response, audit management, and business continuity",
+    "Even if you come from a technical background, BITA's CCISO Certification Training offers guided modules to help you improve your comprehension of strategy, leadership, and security governance.",
+  ],
+  howtoapplyheading: "How to Apply for the CCISO Certification Exam?",
+  htaintro: "To register for your certification exam, follow these steps:",
+  howtoapplycontent: [
+    "Go to the official EC-Council website.",
+    "After creating an account, select the exam track for CCISO Certification Training.",
+    "Check your eligibility by sending in the necessary experience documentation.",
+    "Choose between taking the exam in person or online.",
+    "Set up your exam date and pay the exam price.",
+    "Use BITA's organized training and practice exams to get ready for the test.",
+  ],
+  obtaincourseheading: "How to Get CCISO Certification ?",
+  obtainintro: "In order to obtain your certification via CCISO Certification Training:",
+  obtaincoursecontent: [
+    "Finish the whole training program offered by BITA Academy, which includes case-based learning and interactive lectures.",
+    "Take the EC-Council CCISO test and pass it.",
+    "Reach the EC-Council's minimal passing score.",
+    "Get your digital badge and valid certification.",
+    "Your qualification proves that you can make security decisions at the executive level that support organizational objectives.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "After completing CCISO Certification Training, you’ll be equipped for top-tier cybersecurity management positions such as:",
+  careeroppotunities: [
+    "Chief Information Security Officer (CISO)",
+    "Information Security Director",
+    "Risk and Compliance Manager",
+    "Security Program Manager",
+    "IT Governance Lead",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "This certification validates your leadership capability and strategic understanding of cybersecurity management.",
+    "Organizations want leaders who can think strategically about cybersecurity in the ever changing digital context. You can acquire the abilities, perspective, and self-assurance necessary to safeguard company assets and oversee security operations at the highest level by completing your CCISO Certification Training at BITA Academy.",
+  ]
+};
+
+
+const associateccisocertificationtraining =  {
+  slug: "associate-cciso-certification-training",
+  code: "Associate C|CISO",
+  title: "Associate CCISO Certification Training",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Associate CCISO Certification Training",
+  courseoverview: [
+    "With the Associate CCISO Certification Training from BITA Academy, you may improve your leadership abilities in cybersecurity. IT workers, security managers, and future executives who wish to deepen their strategic grasp of cybersecurity governance, risk management, and program management are the target audience for this program. Your ability to successfully manage security initiatives while keeping them in line with business goals is validated by the certification.",
+  ],
+  whytakecourseheading: "Why Take the Associate CCISO Certification Training?",
+  wtcintro: "By enrolling in BITA's Associate CCISO Certification Training, you can get advanced cybersecurity knowledge and leadership abilities. Here's why it's essential:",
+  wtcoursecontent: [
+    "Leadership & Governance: Develop your ability to efficiently oversee security initiatives, finances, and assets.",
+    "Global Recognition: Organizations looking for cybersecurity leaders choose the certification, which is respected globally.",
+    "Expertise in Risk and Compliance: Gain a thorough understanding of enterprise security strategy, risk management, and regulatory compliance.",
+    "Practical Learning: Acquire firsthand knowledge of security program administration, policy formulation, and audit procedures.",
+    "Career advancement: Provides access to leadership positions like director of cybersecurity, CISO, or security manager.",
+  ],
+  whocanlearnheading: "Who Can Learn Associate CCISO Certification Training?",
+  wclcontent: "This course is perfect for:",
+  wclpoints: [
+    "Security experts and IT administrators seeking senior positions",
+    "Network and system administrators getting ready for executive duties",
+    "Aspiring security analysts who want to become managers",
+    "Professionals in charge of risk assessment and cybersecurity strategy",
+    "Anyone looking for internationally recognized cybersecurity leadership qualifications",
+    "The Associate CCISO Certification Training at BITA is ideal for anyone looking to advance their strategic cybersecurity abilities or transition from a technical role into management.",  
+  ],
+  courseprerequestheading: "Prerequisites for Associate CCISO Certification Training",
+  prerequestintro: "Although there are no hard and fast requirements, we advise students to have:",
+  courseprerequcontent: [
+    "An experience with risk management, security, or IT",
+    "Knowledge of company IT operations and cybersecurity principles",
+    "familiarity with security policies and compliance procedures",
+    "The organized modules, practical case studies, and expert-led sessions offered by BITA Academy guarantee that students are well-prepared for the Associate CCISO Certification Training test.",
+  ],
+  howtoapplyheading: "How to Apply for the Associate CCISO Certification Exam?",
+  htaintro: "To register, take these actions:",
+  howtoapplycontent: [
+    "Create an account on the official CCISO website or the EC-Council website.",
+    "From the catalog, choose the Associate CCISO Certification Training test.",
+    "Select whether you want to take the test in person or online.",
+    "Select a time and safely pay the exam money.",
+    "Bring a valid ID and the necessary setup (for online examinations) to the exam.",
+  ],
+  obtaincourseheading: "How to Get Associate CCISO Certification?",
+  obtainintro: "In order to obtain your Associate CCISO Certification Training, you must:",
+  obtaincoursecontent: [
+  "Complete BITA’s intensive training program, including theory, labs, and mock tests.",
+  "Take the official CCISO exam and pass it.",
+  "Reach the EC-Council minimal passing score.",
+  "After you succeed, download your official certificate and digital badge.",
+  "This prepares you for executive roles by validating your cybersecurity leadership and management skills.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals with Associate CCISO Certification Training can pursue positions such as:",
+  careeroppotunities: [
+    "Security Manager",
+    "IT Risk Manager",
+    "Cybersecurity Program Manager",
+    "Chief Information Security Officer (CISO)",
+    "Security Compliance Analyst",
+    "Enterprise Security Director",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "This certification establishes you as a capable cybersecurity leader, ready to manage and protect organizational assets effectively.",
+    "In today's digital age, obtaining the Associate CCISO Certification Training is a smart move in advancing your career in cybersecurity. Enroll in BITA Academy today to get the necessary skills and recognition to successfully lead security projects.",
+  ]
+};
+
+
+
+
+const certifiedpenetrationtestingprofessionalcourse =  {
+  slug: "certified-penetration-testing-professional-course",
+  code: "C|PENT",
+  title: "Certified Penetration Testing Professional course",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Certified Penetration Testing Professional course",
+  courseoverview: [
+    "Want to become a skilled ethical hacker and cybersecurity expert? BITA Academy provides the Certified Penetration Testing Professional course, which is meant to provide hands-on experience detecting and resolving security vulnerabilities. This widely recognized course teaches learners sophisticated penetration testing techniques and prepares them to protect networks, apps, and systems against malicious attacks.",
+  ],
+  whytakecourseheading: "Why Take the Certified Penetration Testing Professional Course?",
+  wtcintro: "Enrolling in BITA's Certified Penetration Testing Professional course assures that you obtain real-world skills and knowledge required in today's cybersecurity sector.",
+  wtcoursecontent: [
+    "Industry-Recognized Certification: Demonstrates your proficiency in penetration testing and ethical hacking.",
+    "Hands-On Training: Learn how to exploit vulnerabilities, simulate attacks, and safeguard systems in realistic lab scenarios.",
+    "Career Advancement: Provides access to high-demand positions in cybersecurity and ethical hacking.",
+    "Comprehensive Curriculum: Covers network penetration, web application testing, cloud security, and advanced attack strategies.",
+    "Pathway to Specialized Roles: Trains students for advanced security certifications and leadership positions in cyber defense."
+  ],
+  whocanlearnheading: "Who Can Learn Certified Penetration Testing Professional Course?",
+  wclcontent: "This course is suitable for:",
+  wclpoints: [
+    "IT experts and network administrators wanting to specialize in penetration testing.",
+    "Security researchers and ethical hackers",
+    "Cybersecurity consultants and freelancers.",
+    "Individuals practicing for ethical hacking and security roles.",
+    "Anyone looking for a globally recognized certification in penetration testing.",
+    "BITA's Certified Penetration Testing Professional course is intended for students with basic IT and networking skills, although it is built to suit a range of experience levels."
+  ],
+  courseprerequestheading: "Prerequisites for Certified Penetration Testing Professional Course",
+  prerequestintro: "While there are no official qualifications, learners should have:",
+  courseprerequcontent: [
+    "Fundamental understanding of networking, operating systems, and security concepts.",
+    "Experience in programming or scripting languages.",
+    "Some previous experience in IT or cybersecurity",
+    "BITA's skilled trainers use organized modules and hands-on labs to ensure that each learner is completely prepared for the Certified Penetration Testing Professional course test.",
+  ],
+  howtoapplyheading: "How to Apply for the Certified Penetration Testing Professional Exam?",
+  htaintro: "To enroll in the Certified Penetration Testing Professional Exam, take these steps:",
+  howtoapplycontent: [
+    "Create an account:  Sign up via the official EC-Council website.",
+    "Select the exam: From the catalog, select the Certified Penetration Testing Professional Exam.",
+    "Select Exam Mode: Choose whether to take the exam online (remote proctoring) or in a testing center.",
+    "Schedule and Payment: Select your preferred date and time, then pay the exam fee securely.",
+    "Prepare for exam day: Bring a valid government-issued ID, and make sure your setup matches the standards for online tests.",
+  ],
+
+  obtaincourseheading: "How to Get Certified in the Certified Penetration Testing Professional ?",
+  obtainintro: "To get your certification:",
+  obtaincoursecontent: [
+    "Complete BITA Academy's Certified Penetration Testing Professional course, which includes practical exercises and mock tests.",
+    "Register for and pass the certification examination.",
+    "Achieve the minimum passing score specified by the certification body.",
+    "Download your certified certificate and digital badge.",
+    "This certification proves your competence to conduct ethical hacking and penetration testing utilizing industry best practices.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "With a Certified Penetration Testing Professional course certification, you can pursue roles such as:",
+  careeroppotunities: [
+    "Ethical Hacker / Penetration Tester",
+    "Cybersecurity Analyst",
+    "Security Consultant",
+    "Vulnerability Assessment Specialist",
+    "Network Security Engineer",
+    "Information Security Officer",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "This certification helps professionals gain credibility and opens doors to high-paying, in-demand cybersecurity roles.",
+    "In today's cyber threat world, taking the Certified Penetration Testing Professional course is one of the most effective ways to secure a career in cybersecurity. Enroll at BITA Academy and receive expert-led training to become a certified penetration tester.",
+  ]
+};
+
+
+
+const incidenthandlercertification =  {
+  slug: "incident-handler-certification",
+  code: "E|CIH",
+  title: "Incident Handler Certification",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Incident Handler Certification",
+  courseoverview: [
+    "Are you prepared to be the first line of defense in cybersecurity? BITA Academy offers the Incident Handler Certification course, which is designed to provide professionals with the knowledge and practical skills required to detect, respond to, and manage cybersecurity situations efficiently. This certification prepares learners to deal with real-world security threats, mitigate assaults, and ensure business continuity in today's ever-changing digital landscape.",
+  ],
+  whytakecourseheading: "Why Take the Certified Incident Handler Course?",
+  wtcintro: "Enrolling in BITA's Incident Handler Certification program will equip you for one of the most important responsibilities in cybersecurity. Here's what makes it stand out:",
+  wtcoursecontent: [
+    "Incident Response Expertise: Learn how to recognize, analyze, and respond to cybersecurity incidents firsthand.",
+    "Career Advancement: The Incident Handler Certification is widely recognized, leading to opportunities in SOC operations, forensics, and cybersecurity management.",
+    "Real-World Scenarios: Learn through live case studies, simulations, and attack response models.",
+    "Risk Mitigation Skills: Learn how to prevent, contain, and recover from various types of cyberattacks.",
+    "Pathway to Advanced Roles: Provides a solid basis for higher-level EC-Council certifications and cybersecurity leadership positions.",
+  ],
+  whocanlearnheading: "Who Can Learn Incident Handler Certification?",
+  wclcontent: "The Incident Handler Certification is suitable for:",
+  wclpoints: [
+    "Cybersecurity experts and analysts",
+    "SOC and NOC team members",
+    "Network administrators and system engineers.",
+    "Penetration testers, ethical hackers",
+    "Anyone looking to pursue a career in incident response or digital forensics",
+    "Prior certification is not required, however a basic understanding of networking and security concepts is helpful.",
+  ],
+  courseprerequestheading: "Prerequisites for Incident Handler Certification",
+  prerequestintro: "While there are no strict criteria, trainees should have:",
+  courseprerequcontent: [
+    "Basic understanding of cybersecurity principles and network protocols.",
+    "Experience with threat analysis and security incident management",
+    "Hands-on expertise with security tools is optional.",
+    "BITA's skilled trainers will fill up the gaps with interactive seminars, practical exercises, and real-time laboratories.",
+  ],
+  howtoapplyheading: "How to Apply for the Incident Handler Certification Exam?",
+  htaintro: "To register, take these actions:",
+  howtoapplycontent: [
+    "Create an Account on the official EC-Council website.",
+    "Select the Exam: choose the Incident Handler Certification exam from the course catalog.",
+    "Choose Exam Mode:  take the test online (remote proctoring) or at an authorized test center.",
+    "Schedule & Pay:  select your preferred date and pay the exam fee securely.",
+    "Prepare for Exam Day: bring a valid ID and ensure your setup meets online exam requirements.",
+  ],
+  obtaincourseheading: "How to Get Incident Handler Certification?",
+  obtainintro: "To obtain your Incident Handler Certification, take these steps.",
+  obtaincoursecontent: [
+    "Complete BITA's organized training curriculum, including theory, laboratories, and mock examinations.",
+    "Register and pass the official EC-Council examination.",
+    "Earn the required passing score to receive your digital badge and certification.",
+    "This certification verifies your capacity to successfully monitor and respond to cybersecurity risks, hence maintaining system security and business resilience.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals who hold the Incident Handler Certification can pursue roles such as:",
+  careeroppotunities: [
+    "Incident Response Analyst",
+    "SOC Analyst",
+    "Threat Intelligence Specialist",
+    "Cybersecurity Investigator",
+    "Forensic Analyst",
+    "Security Operations Manager",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+    "With the global rise in cyber incidents, certified incident handlers are in high demand across government, finance, healthcare, and IT industries.",
+    "Take control of your cyber resiliency with BITA Academy's Incident Handler Certification training. Learn from experts, practice real-world incident response, and become a trustworthy cybersecurity professional. Enroll now to safeguard your firm against increasing digital dangers!",
+  ]
+};
+
+
+const certifiedsocanalystcertification =  {
+  slug: "certified-soc-analyst-certification",
+  code: "C|SA",
+  title: "Certified SOC Analyst Certification",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Certified SOC Analyst Certification",
+  courseoverview: [
+    "Are you prepared to establish a solid foundation in security operations and become an important member of an organization's defensive team? BITA Academy provides a comprehensive Certified SOC Analyst Certification course that will help you learn the essential skills needed for security operations, monitoring, and incident detection. This program is suitable for aspiring cybersecurity professionals who want to learn how to detect and respond to threats in real time using Security Operations Centers (SOCs).",
+    "Students will gain hands-on experience with SIEM technologies, log analysis, and network threat monitoring in our expert-led lectures, practical laboratories, and real-world scenarios, preparing them for a successful career as a Certified SOC Analyst Certification.",
+  ],
+  whytakecourseheading: "Why Take the Certified SOC Analyst Certification Course?",
+  wtcintro: "Enrolling in BITA Academy's Certified SOC Analyst Certification course will give you an advantage in the burgeoning cybersecurity field. Here's what makes this certification stand out:",
+  wtcoursecontent: [
+    "Real-Time Threat Analysis: Get hands-on experience detecting and mitigating cyber attacks with industry-standard technologies.",
+    "Career Advancement: The Certified SOC Analyst Certification credential is widely recognized and leads to high-demand cybersecurity positions.",
+    "Practical Learning: Gain knowledge through simulated SOC environments that mimic real-world attack detection and response.",
+    "Industry Recognition: This certification, endorsed by cybersecurity leaders, certifies your monitoring, analysis, and incident handling skills.",
+    "Stepping Stone to Advanced Roles: Prepares for advanced credentials such as Certified Threat Intelligence Analyst (CTIA) and Certified Incident Handler.",
+  ],
+  whocanlearnheading: "Who Can Learn to Become a Certified SOC Analyst Certification?",
+  wclcontent: "This course is ideal for:",
+  wclpoints: [
+    "Security professionals seeking to begin or advance their careers in SOC operations.",
+    "Network administrators and system engineers looking to improve their security expertise.",
+    "IT professionals prepared for cybersecurity responsibilities.",
+    "Fresh grads looking to enter the cybersecurity area.",
+    "A basic awareness of networking and security concepts is beneficial, but not required, as BITA educators provide comprehensive guidance throughout the training.",
+  ],
+  courseprerequestheading: "Prerequisites for Certified SOC Analyst Certification:",
+  prerequestintro: "Although there are no required qualifications, learners will benefit from knowing:",
+  courseprerequcontent: [
+    "Basic understanding of TCP/IP, networking, and system security.",
+    "Experience with Windows and Linux operating systems.",
+    "Understanding of security tools such as firewalls, IDS, and SIEM.",
+    "BITA Academy experts ensure that every learner, regardless of experience level, understands complicated SOC principles through structured modules and practical laboratories.",
+  ],
+  howtoapplyheading: "How do I apply for the Certified SOC Analyst Certification Exam?",
+  htaintro: "To register, take the following steps:",
+  howtoapplycontent: [
+    "Create an account. Create an account on the EC-Council's official website.",
+    "Select the exam: Select the Certified SOC Analyst Certification Exam from the course catalogue.",
+    "Select Exam Mode: Choose your desired format: online (remotely proctored) or in a test center.",
+    "Schedule and Payment: Select your preferred day and pay the exam fee securely.",
+    "Prepare for exam day: Bring a valid government-issued ID and make sure your setup fits the online exam criteria.",
+  ],
+  obtaincourseheading: "How to Get Certified SOC Analyst Certification?",
+  obtainintro: "To earn your Certified SOC Analyst Certification:",
+  obtaincoursecontent: [
+    "Complete BITA’s in-depth training with real-time projects and lab simulations.",
+    "Register for and pass the official EC-Council exam.",
+    "Score the required passing marks to receive your global certification.",
+    "Download your official certificate and digital badge from the EC-Council portal.",
+    "This certification validates your expertise in monitoring, detecting, and responding to cybersecurity incidents effectively.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "With the Certified SOC Analyst Certification credential, you can pursue job roles such as:",
+  careeroppotunities: [
+    "SOC Analyst",
+    "Cybersecurity Analyst",
+    "Network Security Engineer",
+    "Threat Monitoring Specialist",
+    "Incident Response Analyst",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"Organizations across industries seek professionals who can proactively detect and mitigate cyber threats, making this certification a powerful asset in your cybersecurity career.",
+"With cyber risks on the rise, the Certified SOC Analyst Certification can lead to a satisfying and future-proof cybersecurity profession. Enroll in BITA Academy today and receive the hands-on experience needed to safeguard enterprises from emerging digital threats!",
+]
+};
+
+
+
+const certifiedthreatintelligenceanalystcertification =  {
+  slug: "certified-threat-intelligence-analyst-certification",
+  code: "C|TIA",
+  title: "Certified Threat Intelligence Analyst Certification",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Certified Threat Intelligence Analyst Certification",
+  courseoverview: [
+    "Are you prepared to enhance your cybersecurity knowledge with advanced intelligence skills? BITA Academy provides a thorough Certified Threat Intelligence Analyst Certification course for professionals who want to learn how to identify, analyze, and proactively mitigate cyber risks. This training focuses on real-world intelligence tactics to help firms stay one step ahead of cybercriminals."
+  ],
+  whytakecourseheading: "Why Take the Certified Threat Intelligence Analyst Certification Course?",
+  wtcintro: "Enrolling in BITA's Certified Threat Intelligence Analyst Certification training will provide you a competitive advantage in the cybersecurity industry. Here's what makes this certification stand out:",
+  wtcoursecontent: [
+    "Industry Recognition: Top employers worldwide recognize and value the Certified Threat Intelligence Analyst certification.",
+    "Practical Learning: Real-time laboratories, case studies, and simulated threat environments will provide you with practical experience.",
+    "Career Advancement: Ideal for security professionals looking to develop into threat analysis, SOC, or cybersecurity operations positions.",
+    "Strategic Skills: Learn how to turn raw data into actionable intelligence to avert cyberattacks.",
+    "Path to Expertise: Provides a foundation for advanced certifications in ethical hacking, penetration testing, and digital forensics.",
+  ],
+  whocanlearnheading: "Who Can Learn Certified Threat Intelligence Analyst Certification?",
+  wclcontent: "This training is appropriate for professionals, including:",
+  wclpoints: [
+    "Security analysts and cybersecurity experts",
+    "Incident responders and SOC analysts.",
+    "Network Security Engineers",
+    "Penetration testers seeking to advance into intelligence roles.",
+    "Anyone hoping to be a Threat Intelligence Specialist",
+    "A rudimentary awareness of cybersecurity principles is beneficial, but not required; our experts at BITA guarantee that every learner gains clarity through structured lessons.",
+  ],
+  courseprerequestheading: "Prerequisites for Certified Threat Intelligence Analyst Certification",
+  prerequestintro: "While there are no strict criteria, trainees should have:",
+  courseprerequcontent: [
+    "Fundamental knowledge in cybersecurity or network protection",
+    "Understanding of Threat Vectors and Common Attack Types",
+    "Experience with security tools such as SIEM or intrusion detection systems.",
+    "BITA Academy's skilled mentors will walk you through each idea via practical demonstrations and hands-on projects.",
+  ],
+  howtoapplyheading: "How to Apply for the Certified Threat Intelligence Analyst Certification Exam?",
+  htaintro: "To register, take these actions:",
+  howtoapplycontent: [
+    "Create an Account on the official EC-Council website.",
+    "Select the Exam: From the catalog, choose the Certified Threat Intelligence Analyst Certification exam.",
+    "Schedule and Payment: Select your preferred date and pay the exam fee securely.",
+    "Exam Day: Bring a valid ID and ensure your system meets technical requirements for online exams.",
+  ],
+  obtaincourseheading: "How to Get Certified Threat Intelligence Analyst Certification?",
+  obtainintro: "To get your certification:",
+  obtaincoursecontent: [
+    "Complete BITA's intense training curriculum, which includes theory and practical laboratories.",
+    "Pass EC-Council's Certified Threat Intelligence Analyst certification exam.",
+    "Achieve the minimal passing score to receive your certified certification and digital badge.",
+    "This confirms your ability to gather, analyze, and effectively apply cyber threat intelligence.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals with the Certified Threat Intelligence Analyst Certification are in high demand across cybersecurity-driven industries. You can pursue roles such as:",
+  careeroppotunities: [
+    "Threat Intelligence Analyst",
+    "Cyber Defense Analyst",
+    "SOC Specialist",
+    "Security Operations Consultant",
+    "Incident Response Analyst",
+    "Cybersecurity Advisor",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"This certification also opens pathways to advanced EC-Council credentials like CEH, CHFI, or CPENT.",
+"As cyber threats become more complex, every security professional must understand threat intelligence. Enroll in BITA Academy's Certified Threat Intelligence Analyst Certification course today and become an expert in predicting, preventing, and protecting against future threats.",
+]
+};
+
+const certifiednetworkdefendercertification =  {
+  slug: "certified-network-defender-certification-training",
+  code: "C|ND",
+  title: "Certified Network Defender Certification Training",
+  description: "Join BITA Academy’s Certified Network Defender Certification training and master network security, threat detection, and defense strategies. Learn from experts and boost your cybersecurity career.",
+
+  cheading: "Certified Network Defender Certification",
+  courseoverview: [
+    "Are you ready to build a strong foundation in network security and defense? BITA Academy offers in-depth Certified Network Defender Certification training for professionals who want to identify, protect, and respond to cyber threats efficiently. This globally acclaimed EC-Council curriculum teaches you the technical skills and practical knowledge required to create and maintain secure network infrastructures. Through immersive labs and real-world case studies, students will learn how to safeguard essential data and prevent network intrusions."
+  ],
+
+  whytakecourseheading: "Why Take the Certified Network Defender Certification Course?",
+  wtcintro: "Enrolling in BITA Academy's Certified Network Defender Certification program will provide you a competitive advantage in the cybersecurity field. Here's what makes this training so valuable:",
+  wtcoursecontent: [
+    "Practical Experience: Learn how to use modern network defense tools and procedures firsthand.",
+    "Industry Recognition: The EC-Council has accredited the Certified Network Defender Certification, which is trusted by leading global companies.",
+    "Career Advancement: Prepare for high-demand careers in cybersecurity, network security, and system administration.",
+    "Incident Response Skills: Learn how to discover vulnerabilities, detect intrusions, and deploy countermeasures.",
+    "Foundation for Advanced Roles: This certification will prepare you for higher-level qualifications such as CEH and CHFI.",
+  ],
+
+  whocanlearnheading: "Who Can Learn Certified Network Defender Certification?",
+  wclcontent: "The Certified Network Defender Certification course is suitable for:",
+  wclpoints: [
+    "Network Administrators and Engineers.",
+    "Security analysts and system administrators.",
+    "IT specialists manage network operations.",
+    "Cybersecurity enthusiasts and ethical hackers.",
+    "Anyone who wants to become a Network Security Specialist.",
+    "A basic familiarity of networking concepts and operating systems is desirable, but not required.",
+  ],
+
+  courseprerequestheading: "Prerequisites for Certified Network Defender Certification",
+  prerequestintro: "While there are no exact criteria, it is desirable for students to have:",
+  courseprerequcontent: [
+    "Fundamental understanding of network protocols and devices.",
+    "Basic experience in Windows and Linux platforms.",
+    "Understand firewalls, routers, and IDS/IPS systems.",
+  ],
+
+  howtoapplyheading: "How to Apply for the Certified Network Defender Certification Exam?",
+  htaintro: "To register for the Certified Network Defender certification test, take these steps:",
+  howtoapplycontent: [
+   "Create an account. Sign up via the official EC-Council website.",
+   "Select the exam: Select the Certified Network Defender Certification test from the catalogue.",
+   "Exam Mode: Select between online proctored or in-person testing.",
+   "Schedule and Pay: Choose your favorite day and securely pay the exam fee.",
+   "Prepare for exam day: Bring a valid ID and ensure your system setup meets online testing requirements.",
+   
+  ],
+
+
+  obtaincourseheading: "How Do I Get Certified Network Defender Certification?",
+  obtainintro: "To obtain the Certified Network Defender certification, take these steps:",
+  obtaincoursecontent: [
+    "Complete the BITA Academy's thorough instruction.",
+    "Register and pass the EC-Council CND examination.",
+    "Achieve the minimal passing score established by the EC-Council.",
+    "Download your digital badge and official certificate.",
+  ],
+
+
+  coheading: "Career Opportunities",
+  cointro: "Professionals with the Certified Network Defender Certification are in high demand across industries. Job roles you can pursue include:",
+  careeroppotunities: [
+    "Network Security Administrator",
+    "Cybersecurity Analyst",
+    "Security Operations Center (SOC) Engineer",
+    "Network Defense Specialist",
+    "IT Infrastructure Security Engineer",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"This certification not only boosts your credibility but also opens pathways to advanced cybersecurity certifications and leadership roles.",
+"With cyber threats expanding by the day, network defense has become a primary priority for enterprises around the world. Enroll in BITA Academy today and take the first step toward becoming a certified expert in network defense with the Certified Network Defender Certification!",
+]
+};
+
+
+const cloudsecuritycertification =  {
+  slug: "cloud-security-certification",
+  code: "C|CSE",
+  title: "Cloud Security Certification(C|CSE)",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Cloud Security Certification(C|CSE)",
+  courseoverview: [
+    "As cloud adoption grows globally, firms are looking for people that can efficiently design, operate, and protect cloud infrastructures. BITA Academy provides the Certified Cloud Security Engineer (C|CSE) training program, a worldwide recognized course that teaches learners advanced principles in cloud protection, governance, and compliance. This Cloud Security Certification will provide you with the technical competence and strategic mentality needed to protect enterprise cloud systems through hands-on labs, real-world scenarios, and expert coaching."
+  ],
+  whytakecourseheading: "Why Take the Cloud Security Certification Course?",
+  wtcintro: "Enrolling in BITA's Cloud Security Certification course equips you with the specialist knowledge needed to address the complex cloud security concerns that modern enterprises face. This program is suitable for professionals who wish to demonstrate their ability to secure several cloud platforms and manage hybrid infrastructures.",
+  wtcoursecontent: [
+    "Industry-Recognized Credential: The C|CSE certification is provided by EC-Council, a well-known name in cybersecurity education. It certifies your advanced knowledge of cloud infrastructure security, compliance, and incident response.",
+    "Comprehensive Curriculum: The course covers all of the major topics, including cloud computing models and virtualization, data encryption, identity management, and threat mitigation approaches.",
+    "Hands-on labs and real-life scenarios: BITA's learning approach focuses on practical knowledge. You will practice safeguarding cloud infrastructures on AWS, Azure, and Google Cloud.",
+    "Career Advancement: Cloud security experts are in high demand in IT, banking, healthcare, and government industries. With this Cloud Security Certification, you'll be recognized as a competent and skilled expert.",
+    "Steppingstone to Leadership Roles: The certification lays the foundation for advanced roles like Cloud Security Architect or Chief Information Security Officer (CISO)."
+  ],
+  whocanlearnheading: "Who Can Learn Certified Cloud Security Engineer (C|CSE)?",
+  wclcontent: "This course is meant for professionals from various IT and security backgrounds who want to improve their knowledge of cloud defense. You are an excellent prospect if you:",
+  wclpoints: [
+    "A Cloud Administrator or Architect oversees public or hybrid cloud platforms.",
+    "A security engineer or analyst in charge of securing enterprise data.",
+    "An IT consultant or freelancer providing cloud-based security services.",
+    "A System Administrator or Network Professional seeking to advance into cybersecurity.",
+    "A beginner with basic IT skills who wants to specialize in cloud protection.",
+    "BITA Academy's expert instructors will walk you through each session with practical demonstrations, ensuring that you fully grasp how to deploy cloud security frameworks in real-world scenarios.",
+  ],
+  courseprerequestheading: "Prerequisites for Certified Cloud Security Engineer (C|CSE)",
+  prerequestintro: "Although the Cloud Security Certification does not require any prerequisites, applicants will benefit from having:",
+  courseprerequcontent: [
+    "A fundamental overview of cloud computing topics including IaaS, PaaS, and SaaS.",
+    "Understanding of IT networking, virtualization, and data security concepts.",
+    "Experience with public cloud systems such as AWS, Microsoft Azure, and Google Cloud.",
+    "Even if you are a newbie, BITA's systematic approach ensures that you fully understand each idea. Trainers use live labs to demystify complicated security subjects, ensuring that each learner feels confident before sitting the official C|CSE exam.",
+  ],
+  howtoapplyheading: "How to Apply for the Cloud Security Certification Exam?",
+  htaintro: "To obtain an authentic Cloud Security Certification, perform these steps:",
+  howtoapplycontent: [
+    "Visit the EC-Council's official website to build your candidacy profile.",
+    "Select the Certified Cloud Security Engineer (C|CSE) exam.",
+    "Choose your preferred mode: online proctored or test center-based.",
+    "Schedule your exam date and pay the registration cost for your region.",
+    "Prepare thoroughly by utilizing BITA's training courses, practice tests, and hands-on laboratories.",
+    "Attend the examination with appropriate identification and follow the exam guidelines.",
+    "After passing, you will earn your globally recognized C|CSE certificate and digital badge, confirming your expertise in cloud security architecture, design, and operations.",
+  ],
+  obtaincourseheading: "How to Get Certified Cloud Security Engineer (C|CSE)?",
+  obtainintro: "To obtain your Cloud Security Certification from EC-Council, you must",
+  obtaincoursecontent: [
+    "Complete the instructor-led training at BITA Academy.",
+    "Perform real-world lab exercises and mock tests.",
+    "Pass the official C|CSE exam with a minimum score.",
+    "Get your certified certificate and badge from EC-Council.",
+    "This certification confirms your competence to secure cloud infrastructures utilizing internationally recognized standards and frameworks such as ISO/IEC 27017, NIST, and CSA guidelines.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "With a Cloud Security Certification, you open the door to several high-paying and impactful job roles. Companies across industries are actively seeking professionals who can design secure cloud infrastructures and manage compliance. After completing this certification, you can work as:",
+  careeroppotunities: [
+    "Cloud Security Engineer",
+    "Cloud Solutions Architect",
+    "Cybersecurity Analyst",
+    "Information Security Consultant",
+    "Risk and Compliance Manager",
+    "DevSecOps Engineer",
+    "Cloud Infrastructure Security Specialist",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"This credential not only boosts your earning potential but also helps you gain recognition as a trusted expert in cloud security implementation and governance.",
+"At BITA Academy, we go beyond theory and focus on developing real-world competence. With a planned curriculum, industry-certified teachers, and access to advanced cloud laboratories, we ensure that every learner gets hands-on experience safeguarding cloud settings. Our mentoring and placement assistance enable students to confidently transition into cloud security careers.",
+"In today's quickly changing technological landscape, the Cloud Security Certification is one of the most valuable credentials for IT workers. It verifies your capacity to protect enterprise systems from cyber attacks while adhering to regulatory standards in hybrid and multi-cloud environments.",
+"Join BITA Academy today to take the next step towards becoming a Certified Cloud Security Engineer (C|CSE). Equip yourself with the skills, knowledge, and confidence to thrive in the world of cloud cybersecurity.",
+]
+};
+
+
+const devSecOpsengineercertification =  {
+  slug: "devSecOps-engineer-certification",
+  code: "E|CDE",
+  title: "Certified DevSecOps Engineer (E|CDE)",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Certified DevSecOps Engineer (E|CDE)",
+  courseoverview: [
+    "Are you prepared to include security into all phases of your software development lifecycle? BITA Academy proudly announces the Certified DevSecOps Engineer (E|CDE) course, an advanced training program for professionals seeking to learn secure DevOps principles. This globally renowned DevSecOps Engineer Certification teaches students how to design, implement, and manage security across continuous integration and continuous delivery (CI/CD) pipelines."
+  ],
+  whytakecourseheading: "Why Take the DevSecOps Engineer Certification Course?",
+  wtcintro: "As more firms implement DevOps approaches, the demand for experts who can combine development, security, and operations abilities has risen dramatically. By obtaining your DevSecOps Engineer Certification from BITA Academy, you will receive hands-on experience and the confidence to create secure, automated workflows in modern IT environments.",
+  wtcoursecontent: [
+    "Security-Driven DevOps Training: Learn how to incorporate security measures into CI/CD pipelines without delaying deployment.",
+    "Comprehensive curriculum: Includes application security, infrastructure as code (IaC), containerization, monitoring, and compliance.",
+    "Real-World Case Studies: Participate in live projects that replicate enterprise-level DevSecOps settings.",
+    "Global Recognition: The DevSecOps Engineer Certification is recognized around the world, demonstrating your competence to assure software delivery security, agility, and reliability.",
+    "Career Advancement: Prepare for high-demand roles that connect development, operations, and security teams.",
+   "BITA Academy's industry-expert teachers ensure that each participant receives both theoretical knowledge and hands-on experience in implementing secure automation.",
+  ],
+  whocanlearnheading: "Who Can Learn Certified DevSecOps Engineer (E|CDE)?",
+  wclcontent: "The Certified DevSecOps Engineer (E|CDE) course is intended for IT professionals who want to include security into the DevOps culture. It’s ideal for:",
+  wclpoints: [
+    "Software developers and engineers focus on secure code delivery.",
+    "DevOps professionals looking to grow into cybersecurity.",
+    "Security analysts and architects manage CI/CD environments.",
+    "Cloud developers want automation and compliance competence.",
+    "IT managers and consultants are leading DevSecOps reforms.",
+    "Even if you're new to DevOps, BITA Academy's structured courses will help you comprehend security integration principles, automation frameworks, and toolchains related to the DevSecOps Engineer Certification.",
+  ],
+  courseprerequestheading: "Prerequisites for Certified DevSecOps Engineer (E|CDE)",
+  prerequestintro: "While there are no essential requirements, learners will benefit from knowing:",
+  courseprerequcontent: [
+    "A fundamental understanding of software development or DevOps procedures.",
+    "Experience with CI/CD tools such as Jenkins, GitLab, or GitHub Actions.",
+    "Knowledge of cloud infrastructures such as AWS, Azure, and GCP",
+    "Understanding of common cybersecurity principles",
+    "Our skilled trainers at BITA provide a smooth learning curve by covering all fundamental principles before delving into advanced security automation. So, even if you're new to DevSecOps, you'll be ready for the DevSecOps Engineer Certification exam.",
+  ],
+  howtoapplyheading: "How to Apply for the DevSecOps Engineer Certification Exam?",
+  htaintro: "To obtain your DevSecOps Engineer Certification, simply follow these steps:",
+  howtoapplycontent: [
+    "Go to the official EC-Council website and create an account.",
+    "Choose the Certified DevSecOps Engineer (E|CDE) exam.",
+    "Choose whether to take the exam online or at a test center.",
+    "Choose your favorite date and time.",
+    "Pay the exam cost securely through the EC-Council's authorized platform.",
+    "Attend the exam with proper identity and system prerequisites (online examinations).",
+    "BITA's mentors will walk you through the registration and preparation process, including exam suggestions, practice tests, and project critiques.",
+  ],
+  obtaincourseheading: "How to Get Certified DevSecOps Engineer (E|CDE)?",
+  obtainintro: "To achieve your DevSecOps Engineer Certification, follow this roadmap:",
+  obtaincoursecontent: [
+    "Complete BITA's comprehensive training, which includes theory, laboratories, and projects.",
+    "Register and pass the official EC-Council E|CDE examination.",
+    "Meet the EC-Council's passing score.",
+    "Following completion, you will be able to get your official digital certificate and badge.",
+    "This certification certifies your ability to create, automate, and manage safe software delivery processes that adhere to modern DevOps concepts.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "Professionals holding a DevSecOps Engineer Certification are among the most sought-after in the IT industry. This certification opens doors to diverse cybersecurity and DevOps roles, including:",
+  careeroppotunities: [
+    "DevSecOps Engineer",
+    "Cloud Security Engineer",
+    "Application Security Specialist",
+    "Security Automation Engineer",
+    "DevOps Security Consultant",
+    "Infrastructure Security Lead",
+    "CI/CD Security Architect",
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"With organizations increasingly adopting a “shift-left” security mindset, certified professionals are in high demand across startups, enterprises, and cloud-driven companies.",
+"As the demand for secure software delivery grows, achieving your DevSecOps Engineer Certification is the best way to ensure your IT career for the future. Enroll today at BITA Academy, where expertise meets innovation, and you'll be transformed into a trained, certified DevSecOps professional prepared to lead the future generation of secure software development.",
+]
+};
+
+
+
+const cybersecuritytechniciancertification =  {
+  slug: "cybersecurity-technician-certification",
+  code: "C|CT",
+  title: "Certified Cybersecurity Technician C|CT",
+  description: "Become a EC-Council expert with our advanced certification.",
+  cheading: "Certified Cybersecurity Technician C|CT",
+  courseoverview: [
+    "Are you passionate about protecting digital systems from cyber threats? BITA Academy offers the Certified Cybersecurity Technician (C|CT) training program, a globally recognized certification created by EC-Council for anyone seeking to establish a solid foundation in cybersecurity. This program gives extensive hands-on training in ethical hacking, network defense, digital forensics, and security operations, preparing you for real-world cyber issues.",
+    "EC-Council's Cybersecurity Technician Certification is ideal for beginners and intermediate professionals looking to understand and implement key cybersecurity principles across many areas. BITA Academy's structured approach provides learners with hands-on experience with the most recent tools, attack simulations, and protection mechanisms, preparing them to work in the cybersecurity business as technicians.",
+  ],
+  whytakecourseheading: "Why Take the Cybersecurity Technician Certification Course?",
+  wtcintro: "Enrolling in BITA Academy's Cybersecurity Technician Certification course is a first step toward a successful career in information security. With the global rise in cyberattacks, firms require specialists who can discover vulnerabilities, mitigate threats, and secure digital assets. Here's why this certification comes highly recommended:",
+  wtcoursecontent: [
+    "Global Recognition: EC-Council's Cybersecurity Technician Certification is acknowledged internationally and recognized by major employers in the cybersecurity field.",
+    "Comprehensive Coverage: This course covers critical topics such as network security, ethical hacking, incident response, and digital forensics.",
+    "Hands-on Labs: BITA's lab-based training provides practical comprehension by simulating real-world circumstances.",
+    "Career Advancement: Ideal for students, recent grads, and IT professionals seeking to begin or advance their cybersecurity careers.",
+    "Strong Foundation: Provides a solid foundation for further certifications such as CEH (Certified Ethical Hacker) and CND (Certified Network Defender).",
+    "BITA Academy's expert-led training bridges the gap between theoretical principles and real-world execution, allowing you to grasp all aspects of cybersecurity from the start.",
+  ],
+  whocanlearnheading: "Who Can Learn Certified Cybersecurity Technician (C|CT)?",
+  wclcontent: "The Cybersecurity Technician Certification course is appropriate for a variety of learners, including:",
+  wclpoints: [
+    "Students and recent graduates interested in cybersecurity careers.",
+    "IT professionals looking to improve their network and system security skills",
+    "Network Administrators looking to move into security operations",
+    "Ethical hacking Enthusiasts seek to earn professional repute.",
+    "Tech Consultants and Freelancers managing customer data and infrastructure",
+    "Whether you're just starting out in cybersecurity or looking to strengthen your current IT role, BITA Academy provides individualized mentorship, hands-on learning, and career assistance to help you succeed.",
+  ],
+  courseprerequestheading: "Prerequisites for Certified Cybersecurity Technician (C|CT)",
+  prerequestintro: "The training is designed for beginners and does not require any advanced technical knowledge. However, learners will benefit by having:",
+  courseprerequcontent: [
+    "Basic knowledge of computer networks and operating systems.",
+    "Experience with common IT tools and network settings.",
+    "Interested in security principles and issue resolution.",
+    "At BITA Academy, our skilled trainers simplify complicated ideas with structured modules, visual demonstrations, and real-time labs, guaranteeing that every student is fully prepared for the Cybersecurity Technician Certification exam.",
+  ],
+  howtoapplyheading: "How to Apply for the Cybersecurity Technician Certification Exam?",
+  htaintro: "To register for your certification exam, follow the procedures below:",
+  howtoapplycontent: [
+    "Create an account on the EC-Council's official website.",
+    "Select the Certified Cybersecurity Technician (C|CT) examination.",
+    "Choose your desired delivery method: online proctored or test center-based.",
+    "Schedule your exam and pay the appropriate examination fee.",
+    "Prepare thoroughly by utilizing BITA's practice exams and lab tasks.",
+    "Attend the exam with a valid ID in a safe setting (online testing).",
+    "When you pass the exam, EC-Council will offer you an authentic Cybersecurity Technician Certification, which validates your practical skills in cybersecurity fundamentals.",
+  ],
+  obtaincourseheading: "How to Get Certified Cybersecurity Technician (C|CT)?",
+  obtainintro: "To register for your certification exam, follow the procedures below:",
+  obtaincoursecontent: [
+    "Create an account on the EC-Council's official website.",
+    "Select the Certified Cybersecurity Technician (C|CT) examination.",
+    "Choose your desired delivery method: online proctored or test center-based.",
+    "Schedule your exam and pay the appropriate examination fee.",
+    "Prepare thoroughly by utilizing BITA's practice exams and lab tasks.",
+    "Attend the exam with a valid ID in a safe setting (online testing).",
+    "When you pass the exam, EC-Council will offer you an authentic Cybersecurity Technician Certification, which validates your practical skills in cybersecurity fundamentals.",
+  ],
+  coheading: "Career Opportunities",
+  cointro: "With a Cybersecurity Technician Certification, you open doors to some of the most in-demand roles in today’s digital world. Career opportunities include:",
+  careeroppotunities: [
+    "Cybersecurity Technician",
+    "Network Security Specialist",
+    "Security Operations Center (SOC) Analyst",
+    "IT Security Administrator",
+    "Junior Penetration Tester",
+    "System Support and Security Engineer",
+    "Incident Response Assistant"
+  ],
+  examblueprint: "Not yet published",
+  finally: [
+"In today's digital age, every firm requires experienced individuals capable of detecting, defending, and responding to cyber attacks. The Cybersecurity Technician Certification not only verifies your technical expertise, but also allows you to make a valuable contribution to cybersecurity defensive methods.",
+"Join BITA Academy's Certified Cybersecurity Technician (C|CT) course today and start your journey to becoming a trusted cybersecurity expert.",
+]
+};
+
 export const allCertifications = {
   "pcep-training-course": pcepTrainingCourse,
   "pcap-preparation-course": pcappreparationcourse,
@@ -4440,6 +6418,11 @@ export const allCertifications = {
   "comptia-data-training" : comptiadatatraining,
   "comptia-datasys-training" : comptiadatasystraining,
   "comptia-datax-certification-training" : comptiadataxcertificationtraining,
+  "compTIA-aplus-cyber-certification-training" : compTIAapluscybercertificationtraining,
+  "comptia-cyberDefense-pro-certification-training" : comptiacyberDefenseprocertificationtraining,
+  "comptia-ethical-hacker-pro-certification-training" : comptiaethicalhackerprocertificationtraining,
+  "comptia-security-pro-certification-training" : comptiasecurityprocertificationtraining,
+  "comptia-securityx-certification-training" : comptiasecurityxcertificationtraining,
   "giac-certification-exam-cost" : giaccertificationexamcost,
   "giac-security-operations-certified-training" : giacsecurityoperationscertifiedtraining,
   "giac-information-security-fundamentals-certification" : giacinformationsecurityfundamentalscertification,
@@ -4455,6 +6438,30 @@ export const allCertifications = {
   "isaca-data-privacy-certification" : isacadataprivacycertification,
   "isaca-cyber-security-audit-certificate" : isacacybersecurityauditcertificate,
   "isaca-data-science-fundamentals" : isacadatasciencefundamentals,
-  "isaca-certification-courses" : isacacertificationcourses
+  "isaca-certification-courses" : isacacertificationcourses,
+
+  "certified-ethical-hacker-training":certifiedethicalhackertraining,
+  "ceh-master-certification-training":cehmastercertificationtraining,
+  "cciso-certification-training":ccisocertificationtraining,
+  "associate-cciso-certification-training":associateccisocertificationtraining,
+  "certified-penetration-testing-professional-course":certifiedpenetrationtestingprofessionalcourse,
+  "incident-handler-certification":incidenthandlercertification,
+  "certified-soc-analyst-certification":certifiedsocanalystcertification,
+  "certified-threat-intelligence-analyst-certification":certifiedthreatintelligenceanalystcertification,
+  // 
+  "certified-network-defender-certification":certifiednetworkdefendercertification,
+  "cloud-security-certification":cloudsecuritycertification,
+  "devSecOps-engineer-certification":devSecOpsengineercertification,
+  "cybersecurity-technician-certification":cybersecuritytechniciancertification,
+
+  "comptia-cloud-essentialsplus-certification":comptiacloudessentialspluscertification,
+  "comptia-cloud-essentials-certification":comptiacloudessentialscertification,
+  "comptia-cloudnetx-certification":comptiacloudnetxcertification,
+  "comptia-ai-essentials-certification":comptiaaiessentialscertification,
+  "comptia-aplus-network-certification":comptiaaplusnetworkcertification,
+  "Comptia-cisco-networking-pro-certification":Comptiacisconetworkingprocertification,
+  "comptia-linux-pro-certification":comptialinuxprocertification,
+  "comptia-serverplus-certification":comptiaserverpluscertification,
+
 
 };

@@ -589,6 +589,7 @@ export const examdetails = [
       price: "USD 207"
     }
   },
+
   {
     code: "CompTIA DataX",
     slug: "comptia-datax-certification-training",
@@ -603,6 +604,91 @@ export const examdetails = [
       price: "As per CompTIA Exam Pricing"
     }
   },
+  
+
+  {
+    code: "220-1101 (Core 1), 220-1102 (Core 2)",
+    slug: "compTIA-aplus-cyber-certification-training",
+    examdetails: {
+      examname: "CompTIA A+ Cyber",
+      examlevel: "",
+      examcode: "220-1101 (Core 1), 220-1102 (Core 2)",
+      prereq: "",
+      examlength: "90 minutes per exam",
+      nofq: "",
+      passingscore: "675 (Core 1), 700 (Core 2)",
+      price: "USD 246 per exam"
+    }
+  },
+  
+
+  {
+    code: "",
+    slug: "comptia-cyberDefense-pro-certification-training",
+    examdetails: {
+      examname: "CompTIA CyberDefense Pro",
+      examlevel: "Intermediate to Advanced",
+      examcode: "",
+      prereq: "",
+      examlength: "120-150 minutes",
+      nofq: "",
+      passingscore: "Set by CompTIA’s scoring scale",
+      price: "Varies by region"
+    }
+  },
+  
+
+  {
+    code: "",
+    slug: "comptia-ethical-hacker-pro-certification-training",
+    examdetails: {
+      examname: "CompTIA Ethical Hacker Pro",
+      examlevel: "Intermediate to Advanced",
+      examcode: "",
+      prereq: "",
+      examlength: "120–150 minutes",
+      nofq: "",
+      passingscore: "Defined by CompTIA’s scoring scale",
+      price: "Varies by region"
+    }
+  },
+
+  
+
+  {
+    code: "",
+    slug: "comptia-security-pro-certification-training",
+    examdetails: {
+      examname: "CompTIA Security Pro",
+      examlevel: "Intermediate",
+      examcode: "",
+      prereq: "",
+      examlength: "90 minutes",
+      nofq: "",
+      passingscore: "Defined by CompTIA’s scoring system",
+      price: "Varies by region"
+    }
+  },
+
+  
+
+  {
+    code: "",
+    slug: "comptia-securityx-certification-training",
+    examdetails: {
+      examname: "CompTIA SecurityX",
+      examlevel: "Intermediate to Advanced",
+      examcode: "",
+      prereq: "",
+      examlength: "90–120 minutes",
+      nofq: "",
+      passingscore: "As defined by CompTIA standards",
+      price: "Region-specific pricing"
+    }
+  },
+
+
+
   {
     code: "GMLE",
     slug: "giac-certification-exam-cost",
@@ -736,6 +822,251 @@ export const examdetails = [
       price: "$2,499 USD"
     }
   },
+
+{
+    code: "CompTIA Cloud Essentials+ Certification",
+    slug: "comptia-cloud-essentialsplus-certification",
+    examdetails:{
+      examname:"CompTIA Cloud Essentials+ Certification",
+      examlevel:"Entry-Level",
+      examcode: "CLO-002",
+      prereq :"Recommended 6–12 months of IT experience",
+      examlength:"60 Minutes",
+      passingscore:"720 / 900",
+      price:"~USD 150",
+    }
+  },
+  {
+    code: "CompTIA Cloud Essentials",
+    slug: "comptia-cloud-essentials-certification",
+    examdetails:{
+      examname:"CompTIA Cloud Essentials",
+      examcode:"CLO-002",
+      examlevel:"Entry-Level",
+      prereq :"6–12 months in an IT environment",
+      examformat:"75 (Multiple Choice)",
+      examlength:"60 minutes",
+      passingscore:"720 (on a scale of 100–900)",
+      price:"USD 130 (approx.)",
+    }
+  },
+  {
+    code: "CompTIA CloudNetX Certification",
+    slug: "comptia-cloudnetx-certification",
+    examdetails:{
+      examname:"CompTIA CloudNetX Certification",
+      examformat:"Multiple-choice",
+      examlength:"90 minutes",
+      passingscore:"Varies (refer CompTIA website)",
+      prereq :"2–3 years in networking or cloud operations",
+      price:"As per CompTIA pricing guidelines",
+    }
+  },
+  {
+    code: "CompTIA AI Essentials Certification",
+    slug: "comptia-ai-essentials-certification",
+    examdetails:{
+      examname:"CompTIA AI Essentials Certification",
+      examlevel:"Entry / Foundational",
+      prereq :"Basic IT knowledge recommended",
+      examformat:"Multiple Choice",
+      examlength:"90 Minutes",
+      passingscore:"Pass or fail only",
+      price:"Varies by region",
+    }
+  },
+  {
+    code: "CompTIA A+",
+    slug: "comptia-aplus-network-certification",
+    examdetails:{
+      examname:"CompTIA A+",
+      examcode:"220-1101 (Core 1), 220-1102 (Core 2)",
+      examformat:"Multiple-choice and performance-based",
+      examlength:"90 minutes per exam",
+      passingscore:"675 (Core 1), 700 (Core 2)",
+      price:"USD 246 per exam",
+    }
+  },
+  {
+    code: "CompTIA Network+ and Cisco",
+    slug: "Comptia-cisco-networking-pro-certification",
+    examdetails:{
+      examname:"CompTIA Network+ and Cisco CCNA",
+      examformat:"Multiple-choice ",
+      examlength:"120 minutes",
+      passingscore:"Varies by exam ",
+      price:"USD 300–358 per exam",
+    }
+  },
+  {
+    code: "CompTIA Linux Pro",
+    slug: "comptia-linux-pro-certification",
+    examdetails:{
+      examname:"CompTIA Linux Pro",
+      examcode:"XK0-005",
+      examlevel:" Intermediate",
+      examformat:"Multiple-choice and performance-based questions",
+      examlength:"90 minutes",
+      passingscore:"720/900",
+      price:"USD 358",
+    }
+  },
+  {
+    code: "CompTIA Server+",
+    slug: "comptia-serverplus-certification",
+    examdetails:{
+      examname:"CompTIA Server+",
+      examcode:"SK0-005",
+      examformat:"Multiple-choice and performance-based questions",
+      examlength:"90 minutes",
+      passingscore:"Variable (CompTIA uses scaled scoring)",
+      price:"USD 358",
+    }
+  },
+
+
+{
+    code: "C|EH",
+    slug: "certified-ethical-hacker-training",
+    examdetails:{
+      examname:"CEH",
+      examformat:"Knowledge Exam (125 questions) + Practical Exam (6 hours)",
+      examlength:"4 hours (Knowledge) + 6 hours (Practical)",
+      passingscore:"Based on EC-Council’s scoring methodology",
+      price:"Varies by region",
+      validity:"3 years",
+    }
+  },
+   {
+    code: "C|EHM",
+    slug: "ceh-master-certification-training",
+    examdetails:{
+      examname:"CEH Master",
+      examformat:"Knowledge Exam (125 questions) + Practical Exam (6 hours)",
+      examlength:"4 hours (Knowledge) + 6 hours (Practical)",
+      passingscore:"Based on EC-Council’s scoring methodology",
+      price:"Varies by region",
+      validity:"3 years",
+    }
+  },
+   {
+    code: "C|CISO",
+    slug: "cciso-certification-training",
+    examdetails:{
+      examname:"Certified Chief Information Security Officer (CCISO)",
+      examformat:"Multiple-choice and scenario-based",
+      examlength:"150 minutes",
+      passingscore:"72% (subject to EC-Council guidelines)",
+      price:"As per EC-Council’s regional pricing",
+      validity:"3 years",
+    }
+  },
+  {
+    code: "Associate C|CISO",
+    slug: "associate-cciso-certification-training",
+    examdetails:{
+      examname:"Associate C|CISO",
+      examlevel:"Associate / Management",
+      examformat:"Multiple-choice and scenario-based",
+      examlength:"2–3 hours",
+      passingscore:"As defined by EC-Council",
+      price:"Region-specific",
+      validity:"3 years",
+    }
+  },
+    {
+    code: "C|PENT",
+    slug: "certified-penetration-testing-professional-course",
+    examdetails:{
+      examname:"Certified Penetration Testing Professional",
+      examlevel:"Intermediate to Advanced",
+      examformat:"Multiple-choice and practical assessments",
+      examlength:"120–150 minutes",
+      passingscore:"Defined by the certification body",
+      price:"Varies by region",
+      validity:"3 years",
+    }
+  },
+    {
+    code: "E|CIH",
+    slug: "incident-handler-certification",
+    examdetails:{
+      examname:" Incident Handler Certification",
+      exammode:"Online / Test Center",
+      examlength:"2 hours",
+      passingscore:"As defined by EC-Council standards",
+      price:"Based on EC-Council region and format",
+    }
+  },
+    {
+    code: "C|SA",
+    slug: "certified-soc-analyst-certification",
+    examdetails:{
+      examname:"Certified SOC Analyst",
+      certificationbody:"EC-Council",
+      examformat:"Multiple-choice",
+      examlength:"2 hours",
+      passingscore:"As set by EC-Council",
+      price:"As per EC-Council guidelines",
+    }
+  },
+    {
+    code: "C|TIA",
+    slug: "certified-threat-intelligence-analyst-certification",
+    examdetails:{
+      examname:"Certified Threat Intelligence Analyst Certification",
+      examcode:"312-85",
+      examlevel:"Intermediate",
+      examformat:"Multiple Choice",
+      examlength:"2 Hours",
+      passingscore:"As determined by EC-Council",
+      price:" USD 150 (approx.)",
+    }
+  },
+    {
+    code: "C|ND",
+    slug: "certified-network-defender-certification-training",
+    examdetails:{
+      examname:"Certified Network Defender (CND)",
+      examcode:"312-85",
+      examlevel:"Intermediate",
+      examformat:"Multiple Choice",
+      examlength:"2 Hours",
+      passingscore:"As determined by EC-Council",
+      price:" USD 150 (approx.)",
+    }
+  },
+    {
+    code: "C|CSE",
+    slug: "cloud-security-certification",
+    examdetails:{
+      examname:"Certified Cloud Security Engineer (C|CSE)",
+      certificationbody:"EC-Council",
+      examcode:"312-40",
+      examformat:"Multiple-choice and scenario-based",
+      examlength:" 4 Hours",
+      passingscore:"Defined by EC-Council guidelines",
+      price:"Varies by region",
+      validity:"3 years",
+    }
+  },
+      {
+    code: "C|CT",
+    slug: "cybersecurity-technician-certification",
+    examdetails:{
+      examname:"Certified Cybersecurity Technician (C|CT)",
+      certificationbody:"EC-Council",
+      examformat:"Multiple-choice and lab-based questions",
+      examlength:"2–3 hours",
+      passingscore:"Determined by EC-Council",
+      delmode:"Online or at authorized test centers",
+      validity:"3 years(renewable)",
+    }
+  },
+
+
+
+  
   {
     code: "CISM",
     slug: "isaca-cyber-security-certification",
