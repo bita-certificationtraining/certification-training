@@ -2,7 +2,8 @@
 
 import { useMemo, useState } from "react"
 import Link from "next/link"
-import { Clock, Search, Star, Wallet } from "lucide-react"
+import { Search } from "lucide-react"
+// import { Clock, Search, Star, Wallet } from "lucide-react"
 
 // ---- Static data (Next.js la ithha oru separate data.js file ku move pannalam) ----
 const CATEGORIES = [
@@ -127,7 +128,7 @@ export default function CoursesPage() {
                     <img
                       src={course.icon}
                       alt={course.title}
-                      className="h-30 w-30 object-contain"
+                      className="h-24 w-24 object-contain"
                     />
                   </div>
 

@@ -49,12 +49,19 @@ const popularCerts = [
 ];
 
 const comparisonTable = [
-  { cert: "Cloud Support Associate", level: "", focus: "$55,000-$70,000", duration: "₹6-9 LPA" },
-  { cert: "Junior Cloud Engineer", level: "", focus: "$65,000-$85,000", duration: "₹8-14 LPA" },
-  { cert: "Cloud Operations Analyst", level: "", focus: "$70,000-$90,000", duration: "₹9-16 LPA" },
-  { cert: "Associate Solutions Architect", level: "", focus: "$85,000-$110,000", duration: "₹14-22 LPA" },
-  { cert: "Cloud Consultant", level: "", focus: "$95,000-$130,000", duration: "₹18-28 LPA" },
+  { cert: "Cloud Support Associate", focus: "$55,000-$70,000", duration: "₹6-9 LPA" },
+  { cert: "Junior Cloud Engineer", focus: "$65,000-$85,000", duration: "₹8-14 LPA" },
+  { cert: "Cloud Operations Analyst", focus: "$70,000-$90,000", duration: "₹9-16 LPA" },
+  { cert: "Associate Solutions Architect", focus: "$85,000-$110,000", duration: "₹14-22 LPA" },
+  { cert: "Cloud Consultant", focus: "$95,000-$130,000", duration: "₹18-28 LPA" },
 ];
+// const comparisonTable = [
+//   { cert: "Cloud Support Associate", level: "", focus: "$55,000-$70,000", duration: "₹6-9 LPA" },
+//   { cert: "Junior Cloud Engineer", level: "", focus: "$65,000-$85,000", duration: "₹8-14 LPA" },
+//   { cert: "Cloud Operations Analyst", level: "", focus: "$70,000-$90,000", duration: "₹9-16 LPA" },
+//   { cert: "Associate Solutions Architect", level: "", focus: "$85,000-$110,000", duration: "₹14-22 LPA" },
+//   { cert: "Cloud Consultant", level: "", focus: "$95,000-$130,000", duration: "₹18-28 LPA" },
+// ];
 
 const roadmapSteps = [
   "Understand the exam guide and four domains published by AWS.",
