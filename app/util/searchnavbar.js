@@ -48,70 +48,70 @@ export const searchnavbar = [
     c_image: "/certification_img/aws_logo/aws_cp.webp",
   },
   {
-  code: "AIF-C01",
-  slug: "aws-certified-ai-practitioner-foundational",
-  title: "AWS Certified AI Practitioner - Foundational",
-  c_image: "/certification_img/aws_logo/aws_ai.webp",
+    code: "AIF-C01",
+    slug: "aws-certified-ai-practitioner-foundational",
+    title: "AWS Certified AI Practitioner - Foundational",
+    c_image: "/certification_img/aws_logo/aws_ai.webp",
   },
   {
-  code: "MLA-C01",
-  slug: "aws-certified-machine-learning-engineer-associate",
-  title: "AWS Certified Machine Learning Engineer - Associate",
-  c_image: "/certification_img/aws_logo/aws_mle.webp",
+    code: "MLA-C01",
+    slug: "aws-certified-machine-learning-engineer-associate",
+    title: "AWS Certified Machine Learning Engineer - Associate",
+    c_image: "/certification_img/aws_logo/aws_mle.webp",
   },
   {
-  code: "SAA-C03",
-  slug: "aws-certified-solutions-architect-associate",
-  title: "AWS Certified Solutions Architect - Associate",
-  c_image: "/certification_img/aws_logo/aws_saa.webp",
+    code: "SAA-C03",
+    slug: "aws-certified-solutions-architect-associate",
+    title: "AWS Certified Solutions Architect - Associate",
+    c_image: "/certification_img/aws_logo/aws_saa.webp",
   },
   {
-  code: "DVA-C02",
-  slug: "aws-certified-developer-associate",
-  title: "AWS Certified Developer - Associate",
-  c_image: "/certification_img/aws_logo/aws_da.webp",
+    code: "DVA-C02",
+    slug: "aws-certified-developer-associate",
+    title: "AWS Certified Developer - Associate",
+    c_image: "/certification_img/aws_logo/aws_da.webp",
   },
   {
-  code: "DEA-C01",
-  slug: "aws-certified-data-engineer-associate",
-  title: "AWS Certified Data Engineer - Associate",
-  c_image: "/certification_img/aws_logo/aws_dea.webp",
+    code: "DEA-C01",
+    slug: "aws-certified-data-engineer-associate",
+    title: "AWS Certified Data Engineer - Associate",
+    c_image: "/certification_img/aws_logo/aws_dea.webp",
   },
   {
-  code: "SOA-C02",
-  slug: "aws-certified-sysops-administrator-associate",
-  title: "AWS Certified SysOps Administrator - Associate",
-  c_image: "/certification_img/aws_logo/aws_soaa.webp",
+    code: "SOA-C02",
+    slug: "aws-certified-sysops-administrator-associate",
+    title: "AWS Certified SysOps Administrator - Associate",
+    c_image: "/certification_img/aws_logo/aws_soaa.webp",
   },
   {
-  code: "DOP-C02",
-  slug: "aws-certified-devops-engineer-professional",
-  title: "AWS Certified DevOps Engineer - Professional",
-  c_image: "/certification_img/aws_logo/aws_dep.webp",
+    code: "DOP-C02",
+    slug: "aws-certified-devops-engineer-professional",
+    title: "AWS Certified DevOps Engineer - Professional",
+    c_image: "/certification_img/aws_logo/aws_dep.webp",
   },
   {
-  code: "SAP-C02",
-  slug: "aws-certified-solutions-architect-professional",
-  title: "AWS Certified Solutions Architect - Professional",
-  c_image: "/certification_img/aws_logo/aws_sap.webp",
+    code: "SAP-C02",
+    slug: "aws-certified-solutions-architect-professional",
+    title: "AWS Certified Solutions Architect - Professional",
+    c_image: "/certification_img/aws_logo/aws_sap.webp",
   },
   {
-  code: "MLS-C01",
-  slug: "aws-certified-machine-learning-specialty",
-  title: "AWS Certified Machine Learning - Specialty",
-  c_image: "/certification_img/aws_logo/aws_mls.webp",
+    code: "MLS-C01",
+    slug: "aws-certified-machine-learning-specialty",
+    title: "AWS Certified Machine Learning - Specialty",
+    c_image: "/certification_img/aws_logo/aws_mls.webp",
   },
   {
-  code: "ANS-C01",
-  slug: "aws-certified-advanced-networking-specialty",
-  title: "AWS Certified Advanced Networking - Specialty",
-  c_image: "/certification_img/aws_logo/aws_ans.webp",
+    code: "ANS-C01",
+    slug: "aws-certified-advanced-networking-specialty",
+    title: "AWS Certified Advanced Networking - Specialty",
+    c_image: "/certification_img/aws_logo/aws_ans.webp",
   },
   {
-  code: "SCS-C02",
-  slug: "aws-certified-security-specialty",
-  title: "AWS Certified Security - Specialty",
-  c_image: "/certification_img/aws_logo/aws_ss.webp",
+    code: "SCS-C02",
+    slug: "aws-certified-security-specialty",
+    title: "AWS Certified Security - Specialty",
+    c_image: "/certification_img/aws_logo/aws_ss.webp",
   },
   {
     code: "SC-200",
@@ -182,9 +182,31 @@ export const searchnavbar = [
   {
     code: "MB-700",
     slug: "microsoft-finance-and-operations-training",
-    title:"Microsoft Dynamics 365 Finance and Operations Apps Solution Architect",
+    title:
+      "Microsoft Dynamics 365 Finance and Operations Apps Solution Architect",
     c_image: "/certification_img/microsoft_logo/MB700.webp",
   },
+  // new 63 - 70
+  {
+    code: "AZ-700",
+    slug: "az-700-designing-and-implementing-microsoft-azure-networking-solutions",
+    title:
+      "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+    c_image: "/certification_img/microsoft_logo/AZ-700.png",
+  },
+  {
+    code: "DP-203",
+    slug: "dp-203-data-engineering-and-solutions-on-microsoft-azure",
+    title: "DP-203: Data Engineering & Solutions on Microsoft Azure",
+    c_image: "/certification_img/microsoft_logo/DP-203.png",
+  },
+  {
+    code: "DP-300",
+    slug: "dp-300-administering-microsoft-azure-sql-solutions",
+    title: "DP-300: Administering Microsoft Azure SQL Solutions",
+    c_image: "/certification_img/microsoft_logo/DP-300.png",
+  },
+
   {
     code: "220-1101",
     slug: "comptia-a-course-in-chennai",
@@ -245,12 +267,13 @@ export const searchnavbar = [
     title: "CompTIA DataSys+",
     c_image: "/certification_img/comptia_logo/comds0.webp",
   },
-  
+
   {
     code: "DY0-002",
     slug: "comptia-datax-certification-training",
     title: "CompTIA DataX",
-    c_image: "/certification_img/comptia_logo/CompTIADataXCertificationTraining.png",
+    c_image:
+      "/certification_img/comptia_logo/CompTIADataXCertificationTraining.png",
   },
 
   {
@@ -264,7 +287,8 @@ export const searchnavbar = [
     code: "CompTIA CyberDefense Pro",
     slug: "comptia-cyberDefense-pro-certification-training",
     title: "CompTIA CyberDefense Pro",
-    c_image: "/certification_img/comptia_logo/CompTIACyberDefenseProCertification.png",
+    c_image:
+      "/certification_img/comptia_logo/CompTIACyberDefenseProCertification.png",
   },
 
   {
@@ -281,15 +305,12 @@ export const searchnavbar = [
     c_image: "/certification_img/comptia_logo/CompTIASecurityPro.png",
   },
 
-  
-
   {
     code: "CompTIA  SecurityX",
     slug: "comptia-securityx-certification-training",
     title: "CompTIA SecurityX",
     c_image: "/certification_img/comptia_logo/CompTIA SecurityX.png",
   },
-
 
   {
     code: "GMLE",
@@ -352,134 +373,148 @@ export const searchnavbar = [
     c_image: "/certification_img/giac_logo/gcsa.webp",
   },
 
+  {
+    code: "CompTIA Cloud Essentials+",
+    slug: "comptia-cloud-essentialsplus-certification",
+    title: "CompTIA Cloud Essentials+ Certification",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA Cloud Essentials+ Certification.png",
+  },
+  {
+    code: "CompTIA Cloud Essentials",
+    slug: "comptia-cloud-essentials-certification",
+    title: "CompTIA Cloud Essentials Certification",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
+  },
+  {
+    code: "CompTIA CloudNetX",
+    slug: "comptia-cloudnetx-certification",
+    title: "CompTIA CloudNetX Certification",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA CloudNetX Certification.png",
+  },
+  {
+    code: "CompTIA AI Essentials",
+    slug: "comptia-ai-essentials-certification",
+    title: "CompTIA AI Essentials Certification",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
+  },
+  {
+    code: "CompTIA a+ Network Certification",
+    slug: "comptia-aplus-network-certification",
+    title: "CompTIA a+ Network Certification",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA  a+ Network Certification.png",
+  },
+  {
+    code: "CompTIA Cisco Networking Pro",
+    slug: "Comptia-cisco-networking-pro-certification",
+    title: "CompTIA Cisco Networking Pro",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA Cisco Networking Pro Certification.png",
+  },
+  {
+    code: "CompTIA Linux Pro",
+    slug: "comptia-linux-pro-certification",
+    title: " CompTIA Linux Pro Certification",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA Linux Pro Certification.png",
+  },
+  {
+    code: "CompTIA Server+",
+    slug: "comptia-serverplus-certification",
+    title: "CompTIA Server+ Certification",
+    c_image:
+      "/certification_img/comptia_logo/CompTIA Server+ Certification.png",
+  },
 
-{
-            code: "CompTIA Cloud Essentials+",
-            slug: "comptia-cloud-essentialsplus-certification",
-            title: "CompTIA Cloud Essentials+ Certification",
-            c_image: "/certification_img/comptia_logo/CompTIA Cloud Essentials+ Certification.png",
-          },
-           {
-            code: "CompTIA Cloud Essentials",
-            slug: "comptia-cloud-essentials-certification",
-            title: "CompTIA Cloud Essentials Certification",
-            c_image: "/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
-          },
-           {
-            code: "CompTIA CloudNetX",
-            slug: "comptia-cloudnetx-certification",
-            title: "CompTIA CloudNetX Certification",
-            c_image: "/certification_img/comptia_logo/CompTIA CloudNetX Certification.png",
-          },
-           {
-            code: "CompTIA AI Essentials",
-            slug: "comptia-ai-essentials-certification",
-            title: "CompTIA AI Essentials Certification",
-            c_image: "/certification_img/comptia_logo/CompTIA AI Essentials Certification.png",
-          },
-          {
-            code: "CompTIA a+ Network Certification",
-            slug: "comptia-aplus-network-certification",
-            title: "CompTIA a+ Network Certification",
-            c_image: "/certification_img/comptia_logo/CompTIA  a+ Network Certification.png",
-          },
-           {
-            code: "CompTIA Cisco Networking Pro",
-            slug: "Comptia-cisco-networking-pro-certification",
-            title: "CompTIA Cisco Networking Pro",
-            c_image: "/certification_img/comptia_logo/CompTIA Cisco Networking Pro Certification.png",
-          },
-           {
-            code: "CompTIA Linux Pro",
-            slug: "comptia-linux-pro-certification",
-            title: " CompTIA Linux Pro Certification",
-            c_image: "/certification_img/comptia_logo/CompTIA Linux Pro Certification.png",
-          },
-           {
-            code: "CompTIA Server+",
-            slug: "comptia-serverplus-certification",
-            title: "CompTIA Server+ Certification",
-            c_image: "/certification_img/comptia_logo/CompTIA Server+ Certification.png"
-          },
+  {
+    code: "C|EH",
+    slug: "certified-ethical-hacker-training",
+    title: "Certified Ethical Hacker Training",
+    c_image:
+      "/certification_img/ec-council/Certified Ethical Hacker Training.png",
+  },
+  {
+    code: "C|EH (Master)",
+    slug: "ceh-master-certification-training-in-chennai",
+    title: "CEH Master Certification Training",
+    c_image:
+      "/certification_img/ec-council/CEH Master Certification Training.png",
+  },
+  {
+    code: "C|CISO",
+    slug: "cciso-certification-training-in-chennai",
+    title: "CCISO Certification Training",
+    c_image:
+      "/certification_img/ec-council/CCISO Certification Training in Chennai.png",
+  },
 
+  {
+    code: "Associate C|CISO",
+    slug: "associate-cciso-certification-training",
+    title: "Associate CCISO Certification Training",
+    c_image:
+      "/certification_img/ec-council/Associate CCISO Certification Training.png",
+  },
+  {
+    code: "C|PENT",
+    slug: "certified-penetration-testing-professional",
+    title: "Certified Penetration Testing Professional C|PENT",
+    c_image:
+      "/certification_img/ec-council/Certified Penetration Testing Professional.png",
+  },
+  {
+    code: "E|CIH",
+    slug: "incident-handler-certification-training",
+    title: "Certified Incident Handler E|CIH",
+    c_image:
+      "/certification_img/ec-council/Incident Handler Certification Training.png",
+  },
+  {
+    code: "C|SA",
+    slug: "certified-soc-analyst-certification-training",
+    title: "Certified SOC Analyst C|SA",
+    c_image:
+      "/certification_img/ec-council/Certified SOC Analyst Certification Training.png",
+  },
+  {
+    code: "C|TIA",
+    slug: "certified-threat-intelligence-analyst-certification",
+    title: "Certified Threat Intelligence Analyst C|TIA",
+    c_image:
+      "/certification_img/ec-council/Certified Threat Intelligence Analyst Certification.png",
+  },
+  {
+    code: "C|ND",
+    slug: "certified-network-defender-certification-training",
+    title: "Certified Network Defender C|ND",
+    c_image:
+      "/certification_img/ec-council/Certified Network Defender Certification Training.png",
+  },
+  {
+    code: "C|CSE",
+    slug: "cloud-security-certification",
+    title: "Certified Cloud Security Engineer C|CSE",
+    c_image: "/certification_img/ec-council/Cloud Security Certification.png",
+  },
+  {
+    code: "E|CDE",
+    slug: "devSecOps-engineer-certification",
+    title: "Certified DevSecOps Engineer E|CDE",
+    c_image:
+      "/certification_img/ec-council/DevSecOps Engineer Certification.png",
+  },
 
-
-          {
-            code: "C|EH",
-            slug: "certified-ethical-hacker-training",
-            title: "Certified Ethical Hacker Training",
-            c_image: "/certification_img/ec-council/Certified Ethical Hacker Training.png",
-          },
-           {
-            code: "C|EH (Master)",
-            slug: "ceh-master-certification-training-in-chennai",
-            title: "CEH Master Certification Training",
-            c_image: "/certification_img/ec-council/CEH Master Certification Training.png",
-          },
-          {
-            code: "C|CISO",
-            slug: "cciso-certification-training-in-chennai",
-            title: "CCISO Certification Training",
-            c_image: "/certification_img/ec-council/CCISO Certification Training in Chennai.png",
-          },
-
-          {
-            code: "Associate C|CISO",
-            slug: "associate-cciso-certification-training",
-            title: "Associate CCISO Certification Training",
-            c_image: "/certification_img/ec-council/Associate CCISO Certification Training.png",
-          },
-          {
-            code: "C|PENT",
-            slug: "certified-penetration-testing-professional",
-            title: "Certified Penetration Testing Professional C|PENT",
-            c_image: "/certification_img/ec-council/Certified Penetration Testing Professional.png",
-          },
-          {
-            code: "E|CIH",
-            slug: "incident-handler-certification-training",
-            title: "Certified Incident Handler E|CIH",
-            c_image: "/certification_img/ec-council/Incident Handler Certification Training.png",
-          },
-          {
-            code: "C|SA",
-            slug: "certified-soc-analyst-certification-training",
-            title: "Certified SOC Analyst C|SA",
-            c_image: "/certification_img/ec-council/Certified SOC Analyst Certification Training.png",
-          },
-          {
-            code: "C|TIA",
-            slug: "certified-threat-intelligence-analyst-certification",
-            title: "Certified Threat Intelligence Analyst C|TIA",
-            c_image: "/certification_img/ec-council/Certified Threat Intelligence Analyst Certification.png",
-          },
-           {
-            code: "C|ND",
-            slug: "certified-network-defender-certification-training",
-            title: "Certified Network Defender C|ND",
-            c_image: "/certification_img/ec-council/Certified Network Defender Certification Training.png",
-          },
-          {
-            code: "C|CSE",
-            slug: "cloud-security-certification",
-            title: "Certified Cloud Security Engineer C|CSE",
-            c_image: "/certification_img/ec-council/Cloud Security Certification.png",
-          },
-           {
-            code: "E|CDE",
-            slug: "devSecOps-engineer-certification",
-            title: "Certified DevSecOps Engineer E|CDE",
-            c_image: "/certification_img/ec-council/DevSecOps Engineer Certification.png",
-          },
-           
-           {
-            code: "C|CT",
-            slug: "cybersecurity-technician-certification",
-            title: "Certified Cybersecurity Technician C|CT",
-            c_image: "/certification_img/ec-council/Cybersecurity Technician Certification.png",
-          },
-
-
+  {
+    code: "C|CT",
+    slug: "cybersecurity-technician-certification",
+    title: "Certified Cybersecurity Technician C|CT",
+    c_image:
+      "/certification_img/ec-council/Cybersecurity Technician Certification.png",
+  },
 
   {
     code: "CISM",

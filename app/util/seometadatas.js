@@ -185,6 +185,29 @@ export const seometadatas = [
         metadescription : "Master financial and operational processes with Microsoft Finance & Operations training. Learn to optimize ERP solutions",
         metaimage: "/certification_img/microsoft_logo/MB700.png",
     },
+
+    // new 63 - 70
+{
+        slug: "az-700-designing-and-implementing-microsoft-azure-networking-solutions",
+        metatitle: "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+        metadescription : "Learn to design, implement, and manage networking solutions on Microsoft Azure. Get certified in Azure networking to enhance your cloud career.",
+        metaimage: "/certification_img/microsoft_logo/AZ-700.png",
+    },
+{
+        slug: "dp-203-data-engineering-and-solutions-on-microsoft-azure",
+        metatitle: "DP-203: Data Engineering & Solutions on Microsoft Azure",
+        metadescription : "Master data engineering on Azure. Get certified in building, managing, and designing data solutions using Microsoft Azure’s data management tools.",
+        metaimage: "/certification_img/microsoft_logo/DP-203.png",
+    },
+{
+        slug: "dp-300-administering-microsoft-azure-sql-solutions",
+        metatitle: "DP-300: Administering Microsoft Azure SQL Solutions",
+        metadescription : "Learn to manage and administer Microsoft Azure SQL solutions. Get certified in SQL database administration to efficiently run Azure SQL services.",
+        metaimage: "/certification_img/microsoft_logo/DP-300.png",
+    },
+
+
+
     {
         slug: "comptia-a-course-in-chennai",
         metatitle: "CompTIA A+ Course in Chennai",

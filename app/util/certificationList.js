@@ -194,6 +194,25 @@ export const CertificationList = [
             title: "Microsoft Azure Security Technologies",
             c_image: "/certification_img/microsoft_logo/AZ500.webp",
           },
+          // new 63 - 70
+          {
+            code: "AZ-700",
+            slug: "az-700-designing-and-implementing-microsoft-azure-networking-solutions",
+            title: "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+            c_image: "/certification_img/microsoft_logo/AZ-700.png",
+          },
+          {
+            code: "DP-203",
+            slug: "dp-203-data-engineering-and-solutions-on-microsoft-azure",
+            title: "DP-203: Data Engineering & Solutions on Microsoft Azure",
+            c_image: "/certification_img/microsoft_logo/DP-203.png",
+          },
+          {
+            code: "DP-300",
+            slug: "dp-300-administering-microsoft-azure-sql-solutions",
+            title: "DP-300: Administering Microsoft Azure SQL Solutions",
+            c_image: "/certification_img/microsoft_logo/DP-300.png",
+          },
         ],
       },
       {

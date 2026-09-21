@@ -2238,6 +2238,267 @@ const microsoftfinanceandoperationstraining = {
   finally: "Choosing BITA Certification Training Institute for your Microsoft finance and operations training means investing in a brighter future with limitless employment options. Join us today to take the first step toward becoming a certified Dynamics 365 Finance and Operations Apps Solution Architect!"
 };
 
+
+// new 63 - 70
+const az700designingandimplementingmicrosoftazurenetworkingsolutions = {
+  slug: "az-700-designing-and-implementing-microsoft-azure-networking-solutions",
+  code: "AZ-700",
+  title: "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+  description: "Learn to design, implement, and manage networking solutions on Microsoft Azure. Get certified in Azure networking to enhance your cloud career.",
+
+  cheading: "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+  courseoverview: "Are you prepared to become an expert in Azure networking? BITA Academy provides a thorough course on AZ-700: Designing and Implementing Microsoft Azure Networking Solutions, which will assist IT professionals grasp the skills required to create, protect, and manage network solutions in Azure. This certification is suitable for those who want to advance their careers in cloud networking by creating scalable, high-performance, and secure Azure networks.",
+
+  whytakecourseheading: "Why Take the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course?",
+  wtcintro: "BITA's expertly crafted course for AZ-700: Designing and implementing Microsoft Azure Networking Solutions provides a competitive advantage in today's cloud-driven technology market. Here's why this training is important:",
+  wtcoursecontent: [
+    "Real-world Skills: Learn how to set up Azure networking services like Virtual WAN, ExpressRoute, VPN Gateway, and Application Gateway.",
+    "Career Advancement: Companies migrating or managing Azure infrastructure value the certification, which is recognized globally.",
+    "Security-First Design: Master the art of creating secure and compatible network designs.",
+    "High Demand: Azure networking professionals are in great demand across businesses, despite a shortage.",
+    "Foundation for Specialization: This course prepares you for advanced responsibilities in cloud security and enterprise networking.",
+  ],
+
+
+  whocanlearnheading: "",
+  wclcontent: "BITA Academy's training is intended for people who have prior knowledge with Azure and networking fundamentals. You are the best candidate if you:",
+  wclpoints: [
+    "A network engineer or cloud administrator with basic Azure experience.",
+    "An IT professional plans to specialize in Azure networking.",
+    "A Cloud Solutions Architect aiming to enhance their knowledge",
+    "Someone preparing for the AZ-700 certification exam.",
+    "A system engineer manages hybrid or cloud environments.",
+  ],
+
+
+  courseprerequestheading: "Prerequisites for AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+  prerequestintro: "There are no required prerequisites, but to get the most out of the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions course, learners should have",
+  courseprerequcontent: [
+    "A fundamental understanding of Azure workloads.",
+    "Experience with fundamental networking principles (DNS, TCP/IP, firewalls)",
+    "Experience with the Azure portal, CLI, and ARM templates.",
+    "BITA's training strategy assures that, even if you have limited prior knowledge, our structured sessions and lab-based learning will effectively bridge any gaps.",
+  ],
+
+
+  howtoapplyheading: "How to Apply for the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam?",
+  htaintro: "Follow these steps to register:",
+  howtoapplycontent: [
+    "Log in to your Microsoft Learn profile or create one on the official Microsoft certification website.",
+    "Go to the AZ-700: Designing and implementing Microsoft Azure Networking Solutions test page.",
+    "Choose an exam language, delivery type (online/proctored or test center), and chosen schedule.",
+    "Pay the exam money ($165) and confirm your reservation.",
+    "If you are taking the exam online, make sure you meet all of the ID and system requirements. ",
+  ],
+
+
+  // costofcourseheading: "How to Get AZ-700 Certified?",
+  // costofcoursecontent: "To obtain the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification:",
+  obtaincourseheading: "How to Get AZ-700 Certified?",
+  obtainintro: "To obtain the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification:",
+  obtaincoursecontent: [
+    "Complete the BITA hands-on training course.",
+    "Practice with real-time scenarios, fake assessments, and labs.",
+    "Take the 100-minute exam (40-60 questions) and obtain the requisite 700 out of 1,000.",
+    "Once you pass, you can download your Microsoft Certified badge and certificate",
+  ],
+
+costofcourseheading: "Career Opportunities",
+  costofcoursecontent: "Completing the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification opens doors to roles such as:",
+  costofcoursecontent: [
+    "Azure Network Engineer",
+    "Cloud Infrastructure Specialist",
+    "Solutions Architect",
+    "Azure Security Consultant",
+    "Hybrid Cloud Specialist",
+    "Network Administrator (Azure-focused)",
+    "Enterprise Cloud Engineer",
+  ],
+
+  examblueprint: [
+    "Architect solutions (20-25%)",
+    "Define solution strategies (35-40%)",
+    "Manage implementations (20-25%)",
+    "Manage testing (10-15%)"
+  ],
+  finally: "Enterprises are progressively adopting Azure for scalable solutions, making the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification more relevant than ever. Enroll in BITA Academy today and elevate your cloud networking skills to the next level!"
+};
+
+const dp203dataengineeringandsolutionsonmicrosoftazure = {
+  slug: "dp-203-data-engineering-and-solutions-on-microsoft-azure",
+  code: "DP-203",
+  title: "DP-203: Data Engineering & Solutions on Microsoft Azure",
+  description: "Master data engineering on Azure. Get certified in building, managing, and designing data solutions using Microsoft Azure’s data management tools.",
+
+  cheading: "DP-203: Data Engineering & Solutions on Microsoft Azure",
+  courseoverview: "Are you ready to embark on a lucrative career in data engineering with one of the most powerful cloud platforms? BITA Academy offers a thorough DP-203: Data Engineering & Solutions on Microsoft Azure course designed for professionals looking to grasp the end-to-end data pipeline on Azure. This certification is excellent for anyone who wants to develop, construct, manage, and protect data solutions with Azure data services. Real-time projects, hands-on labs, and expert mentoring will teach you the skills you need to work effectively with large-scale data systems in Azure.",
+
+  whytakecourseheading: "Why Take the DP-203: Data Engineering & Solutions on Microsoft Azure Course?",
+  wtcintro: "Enrolling in BITA's Data Engineering & Solutions on Microsoft Azure course will provide you a competitive advantage in today's data-driven marketplace. What makes this qualification a must-have:",
+  wtcoursecontent: [
+    "In-Demand Skills: Learn how to develop and implement data storage, transformation, and security solutions in Azure.",
+    "Industry Recognition: Microsoft certifications are worldwide recognized and respected by leading enterprises.",
+    "Practical Experience: Learn how to use Azure Synapse Analytics, Azure Data Lake, Azure Data Factory, and other tools firsthand.",
+    "Optimize and Secure Data Workflows: Learn how to improve performance, cost, and security in data solutions.",
+    "Pathway to Data Specialization: Provides a foundation for more advanced knowledge of AI, machine learning, or advanced analytics on Azure.",
+  ],
+
+
+  whocanlearnheading: "Who Can Learn Data Engineering & Solutions on Microsoft Azure?",
+  wclcontent: "The Data Engineering & Solutions on Microsoft Azure course is suitable for:",
+  wclpoints: [
+    "Data engineers seeking to expand their Azure expertise",
+    "Database managers are turning to cloud-based data solutions.",
+    "BI specialists and data analysts are shifting into engineering jobs.",
+    "Software developers having experience in data systems.",
+    "Anyone who has completed the Microsoft Azure Fundamentals or DP-900 certification",
+    "While not required, having a basic understanding of SQL, data modeling, and Azure foundations is strongly encouraged.",
+  ],
+
+
+  courseprerequestheading: "Prerequisites for Data Engineering & Solutions on Microsoft Azure:",
+  prerequestintro: "While there are no official requirements for this course, we recommend:",
+  courseprerequcontent: [
+    "At least one year of expertise with data storage and processing systems.",
+    "Experience with Azure services and the Azure site.",
+    "Working understanding of Python or SQL for data transformation.",
+    "Understanding of Data Privacy, Compliance, and Security Principles",
+    "Don't worry if you don't satisfy all of these requirements—BITA's skilled trainers will walk you through each idea using real-world examples and structured modules.",
+  ],
+
+
+  howtoapplyheading: "How to Apply for the DP-203: Data Engineering & Solutions on Microsoft Azure Exam?",
+  htaintro: "To register for the DP-203 exam, follow the procedures below:",
+  howtoapplycontent: [
+    "Sign in or create a Microsoft Learning account.",
+    "Visit the Microsoft Certification page and look for DP-203: Data Engineering & Solutions on Microsoft Azure.",
+    "Click 'Schedule Exam' to select between online proctored and test center alternatives.",
+    "Choose your favorite language, day, and time.",
+    "Pay the exam fee of USD 165.",
+    "If you're testing remotely, make sure you have a legitimate government ID and a stable internet connection.",
+    "If you pass, you will receive a digital badge and certified certification from Microsoft.",
+  ],
+
+
+  // costofcourseheading: "How to Get AZ-700 Certified?",
+  // costofcoursecontent: "To obtain the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification:",
+  obtaincourseheading: "How to Get Certified in DP-203: Data Engineering & Solutions on Microsoft Azure?",
+  obtainintro: "To get your certification:",
+  obtaincoursecontent: [
+    "Complete BITA Academy's in-depth Data Engineering & Solutions for Microsoft Azure training.",
+    "Participate in our simulated tests, case studies, and hands-on experiments.",
+    "Register and pass the DP-203 examination.",
+    "Score the needed minimum to pass the exam (700 out of 1000).",
+    "Download your certification and badge from the Microsoft dashboard.",
+    "This globally recognized accreditation demonstrates your competence to design and manage modern data solutions on Azure.",
+  ],
+
+costofcourseheading: "Career Opportunities",
+  costofcoursecontent: "After completing the DP-203: Data Engineering & Solutions on Microsoft Azure course, you can explore roles such as:",
+  costofcoursecontent: [
+    "Data Engineer on Azure",
+    "Azure Data Architect",
+    "Big Data Developer",
+    "ETL Developer",
+    "Cloud Data Engineer",
+    "Analytics Engineer",
+    "Azure Data Platform Consultant",
+  ],
+
+  examblueprint: [
+    
+  ],
+  finally: "As businesses rely more on cloud-based data solutions, people trained in Data Engineering & Solutions on Microsoft Azure are in high demand. Enroll today at BITA Academy and let our expert-led course guide you to a successful data career on the Azure platform!"
+};
+
+
+
+const dp300administeringmicrosoftazuresqlsolutions = {
+  slug: "dp-300-administering-microsoft-azure-sql-solutions",
+  code: "DP-300",
+  title: "DP-300: Administering Microsoft Azure SQL Solutions",
+  description: "Learn to manage and administer Microsoft Azure SQL solutions. Get certified in SQL database administration to efficiently run Azure SQL services.",
+
+  cheading: "DP-300: Administering Microsoft Azure SQL Solutions",
+  courseoverview: "Are you ready to gain experience managing cloud-based data platforms? BITA Academy now offers the industry-focused DP-300: Administering Microsoft Azure SQL Solutions course, which educates IT professionals with the skills required to manage, monitor, and optimize modern database solutions on Azure. Whether you're a database administrator or aspiring cloud professional, this certification will help you handle hybrid data environments with ease and confidence.",
+
+  whytakecourseheading: "Why Take the DP-300: Administering Microsoft Azure SQL Solutions Course?",
+  wtcintro: "Enrolling in BITA's DP-300: Administering Microsoft Azure SQL Solutions program equips you with the real-world knowledge and practical skills required to efficiently manage data on Azure. Here's why it's a good professional decision:",
+  wtcoursecontent: [
+   "Cloud Database Mastery: Understand how to deploy, manage, and maintain SQL databases in the cloud, on-premises, and hybrid settings.",
+   "Hands-on Labs: Learn how to configure high availability, disaster recovery, and monitoring with Azure tools.",
+   "Boost Your Career: This certification is acknowledged by major businesses looking for SQL solutions and Azure data management professionals.",
+   "Security and Performance Tuning: Learn how to safeguard Azure SQL databases and boost performance using intelligent insights.",
+   "Certification Pathway: The course is a step toward becoming a Microsoft Certified: Azure Database Administrator Associate.",
+  ],
+
+
+  whocanlearnheading: "Who Can Learn DP-300: Administering Microsoft Azure SQL Solutions?",
+  wclcontent: "",
+  wclpoints: [
+   "Database administrators looking to migrate into cloud-based jobs",
+   "Data Engineers seeking to obtain Azure platform experience.",
+   "System administrators are responsible for data storage and administration.",
+   "Professionals seeking the Microsoft Certified: Azure Database Administrator Associate credential.",
+   "Individuals have fundamental knowledge of SQL Server and database administration.",
+   "A background in database concepts or prior SQL experience is suggested for the best learning results.",
+  ],
+
+
+  courseprerequestheading: "Prerequisites for Administering Microsoft Azure SQL Solutions",
+  prerequestintro: "There are no required requirements for this course, although we recommend:",
+  courseprerequcontent: [
+    "Experience in SQL Server architecture and management.",
+    "Basic knowledge of Azure services and infrastructure.",
+    "Experience with T-SQL and database backup/restore procedures",
+    "Comfort with using technologies like Azure Portal, PowerShell, and Azure CLI.",
+    "Don't worry, our skilled trainers at BITA will walk you through organized modules, hands-on exercises, and scenario-based projects to help you gain confidence in administering Microsoft Azure SQL Solutions.",
+    
+  ],
+
+
+  howtoapplyheading: "How to Apply for the DP-300: Administering Microsoft Azure SQL Solutions Exam?",
+  htaintro: "Here's a step-by-step approach to enrolling for the Microsoft DP-300 exam:",
+  howtoapplycontent: [
+    "Visit the Microsoft Certification Portal.",
+    "Sign in to your Microsoft account and search for 'DP-300'.",
+    "Select your exam language and chosen testing mode.",
+    "Pearson VUE allows you to schedule your exam date.",
+    "Pay the exam fee of USD 165.",
+    "On exam day, make sure you have a valid ID, a quiet area (if testing online), and a reliable internet connection.",
+  ],
+
+
+  // costofcourseheading: "How to Get AZ-700 Certified?",
+  // costofcoursecontent: "To obtain the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification:",
+  obtaincourseheading: "How to Get DP-300: Administering Microsoft Azure SQL Solutions Certification?",
+  obtainintro: "To obtain this renowned certificate:",
+  obtaincoursecontent: [
+    "Complete BITA's expert-led Administering Microsoft Azure SQL Solutions program, which includes theory and lab practice.",
+    "Prepare using our mock tests and exam simulations.",
+    "Pass the DP-300 test with a score of 700 or higher (out of 1000).",
+    "Microsoft will send you a digital badge and a certificate.",
+    "This credential validates your ability to manage real-world Azure SQL environments with security, automation, and efficiency.",
+    
+  ],
+
+costofcourseheading: "Career Opportunities",
+  costofcoursecontent: "Professionals certified in Administering Microsoft Azure SQL Solutions are highly valued in data-centric organizations. Career roles include:",
+  costofcoursecontent: [
+    "Azure Database Administrator",
+    "Cloud Database Engineer",
+    "SQL Server Database Admin",
+    "Data Platform Consultant",
+    "Database Security Analyst",
+    "Azure Solutions Specialist",
+  ],
+
+  examblueprint: [
+    
+  ],
+  finally: "With cloud-based data management in great demand, Administering Microsoft Azure SQL Solutions has become a must-have certification for today's IT professionals. Enroll at BITA Academy today and let our structured training route lead you to career success in cloud database administration."
+};
+
 const comptiaacourseinchennai = {
   slug: "comptia-a-course-in-chennai",
   code: "CompTIA A+",
@@ -6407,6 +6668,14 @@ export const allCertifications = {
   "microsoft-dynamics365-training-courses" : microsoftdynamics365trainingcourses,
   "microsoft-365administrator-training" : microsoft365administratortraining,
   "microsoft-finance-and-operations-training" : microsoftfinanceandoperationstraining,
+  // new 63 - 70
+
+  "az-700-designing-and-implementing-microsoft-azure-networking-solutions" : az700designingandimplementingmicrosoftazurenetworkingsolutions,
+  "dp-203-data-engineering-and-solutions-on-microsoft-azure" : dp203dataengineeringandsolutionsonmicrosoftazure,
+  "dp-300-administering-microsoft-azure-sql-solutions" : dp300administeringmicrosoftazuresqlsolutions,
+
+
+
   "comptia-a-course-in-chennai" : comptiaacourseinchennai,
   "comptia-network-certification" : comptianetworkcertification,
   "comptia-security-course-in-chennai" : comptiasecuritycourseinchennai,

@@ -450,6 +450,48 @@ export const examdetails = [
     }
   },
   {
+    code: "AZ-700",
+    slug: "az-700-designing-and-implementing-microsoft-azure-networking-solutions",
+    examdetails: {
+      examname: "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+      examlevel: "Associate",
+      examcode: "AZ-700",
+      prereq: "",
+      examlength: "100 minutes",
+      nofq: "700 out of 1000",
+      passingscore: "",
+      price: "USD 165"
+    }
+  },
+  {
+    code: "DP-203",
+    slug: "dp-203-data-engineering-and-solutions-on-microsoft-azure",
+    examdetails: {
+      examname: "DP-203: Data Engineering & Solutions on Microsoft Azure",
+      examlevel: "Associate",
+      examcode: "DP-203",
+      prereq: "Recommended experience in data engineering and Azure basics",
+      examlength: "120 minutes",
+      nofq: "700 out of 1000",
+      passingscore: "",
+      price: "USD 165"
+    }
+  },
+  {
+    code: "DP-300",
+    slug: "dp-300-administering-microsoft-azure-sql-solutions",
+    examdetails: {
+      examname: "DP-300: Administering Microsoft Azure SQL Solutions",
+      examlevel: "Associate",
+      examcode: "DP-300",
+      prereq: "1-2 years in database administration",
+      examlength: "120 minutes",
+      nofq: "700 out of 1000",
+      passingscore: "700/1000",
+      price: "USD 165"
+    }
+  },
+  {
     code: "CompTIA A+",
     slug: "comptia-a-course-in-chennai",
     examdetails: {
