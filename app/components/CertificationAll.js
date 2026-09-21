@@ -1,13 +1,14 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, Suspense } from "react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import ContactForm from "@/app/components/ContactForm";
 import Image from "next/image";
 import { CertificationList } from "../util/certificationList";
 
-export default function CertificationPage() {
+// export default function CertificationPage() {
+function CertificationContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -193,5 +194,13 @@ export default function CertificationPage() {
         )}
       </main>
     </div>
+  );
+}
+
+export default function CertificationPage() {
+  return (
+    <Suspense fallback={<div className="p-4">Loading...</div>}>
+      <CertificationContent />
+    </Suspense>
   );
 }
