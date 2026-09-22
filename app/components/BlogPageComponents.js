@@ -36,6 +36,27 @@ const COURSES = [
     // hours: 30,
     // salary: "11 LPA",
   },
+  {
+    id: 3,
+    title: "AWS Cloud Practitioner Practice Exams: The Complete Guide to Mock Tests & Simulators",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-cloud-practitioner-practice-exams-the-complete-guide-to-mock-tests-simulators",
+    icon: "/allblogpage/AWS/aws_blog.png",
+  },
+  {
+    id: 4,
+    title: "AWS Cloud Practitioner Training Resources: Best Courses, Books, Labs & Channels",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-cloud-practitioner-training-resources-best-courses-books-labs-and-channels",
+    icon: "/allblogpage/AWS/aws_blog.png",
+  },
+  {
+    id: 5,
+    title: "AWS Cloud Concepts Explained: IaaS, PaaS, SaaS, Shared Responsibility & Regions",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-cloud-concepts-explained-laas-paas-saas-shared-responsibility-regions",
+    icon: "/allblogpage/AWS/aws_blog.png",
+  },
 ]
 
 export default function CoursesPage() {

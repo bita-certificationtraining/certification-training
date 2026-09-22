@@ -12,16 +12,17 @@ import { useState } from "react";
 
 const stats = [
   { value: "15,000+", label: "Professionals Certified" },
-  { value: "₹6-28 LPA", label: "Cloud Salary Range" },
-  { value: "90-Day Average", label: "Career Switch Timeline" },
+  { value: "700/1000", label: "Passing Score" },
+  { value: "3+ Mock Exams", label: "Recommended Before Test Day" },
 ];
 
 const keyTakeaways = [
-  "The 2-week plan requires 2-3 hours of work per day and is appropriate for candidates who have some technical background.",
-  "This 4-week plan is suitable for students of 1-1.5 hours a day (plus weekends) who are working professionals.",
-  "This is the 8-week plan that is best suited for absolute beginners who can only attend classes on weekend days.",
-  "Weekly mock tests need to be part of all plans; otherwise, candidates will fail the test on their first attempt #1.",
-  "Even just 20 minutes per day of hands-on AWS Free Tier practice will increase retention over passively watching videos.",
+  "Practice tests reveal weak domains far more accurately than re-reading notes or watching videos.",
+  "Always simulate real exam conditions — 90 minutes, no pauses, no notes — for at least your last 2-3 attempts.",
+  "Reviewing wrong answers matters more than the score itself; understand why an option was correct.",
+  "A consistent 80%+ across multiple full mocks is a reliable readiness signal for CLF-C02.",
+  "Overusing dumps or memorized question banks backfires, since AWS regularly rotates its question pool.",
+  
 ];
 
 // const skillsCompared = [
@@ -33,34 +34,24 @@ const keyTakeaways = [
 // ];
 
 const skillsCompared = [
-  { detail: "Understanding and answering scenario-based, multiple-response exam questions" },
-  {  detail: "With confidence, navigating the AWS Management Console to core services." },
-  { detail: "Knowing how AWS prices and utilizing the Pricing Calculator" },
-  {  detail: "Real security scenarios in the shared responsibility model." },
-  {  detail: "Strategies for time management during an actual exam with timed mock exams. " },
+  { detail: "Time management across 65 questions within a 90-minute window" },
+  {  detail: "Identifying keywords in scenario-based, multiple-response questions" },
+  { detail: "Domain-wise self-assessment to prioritize revision" },
+  {  detail: "Eliminating incorrect options systematically under pressure" },
+  {  detail: "Staying calm and pacing yourself during unfamiliar or tricky questions" },
 ];
 
 const popularCerts = [
-  "Cloud Concepts — 3 hours",
-  "AWS Global Infrastructure — 2 hours.",
-  "Compute Services (EC2, Lambda) — 5 hours",
-  "Storage in S3/EBS takes 4 hours.Storage (S3/EBS): 4 hours.",
-  "Database Services (RDS, DynamoDB) — 3 hours",
-  "Networking (VPC) — 4 hours",
-  "Security and Compliance — 5 hours",
-  "Identity and Access Management (IAM) — 4 hrs",
-  "Monitoring and Logging (CloudWatch, CloudTrail) — 2 hours",
-  "Billing and Pricing Models (3 hours)",
-  "It's time to teach students about AWS Support Plans — 1 hour.",
-  "2 hours AWS Well-Architected Framework.2 hours: AWS Well-Architected Framework.",
-  "Cloud Economics — 2 hours",
-  "Total: 42 hours of core content plus additional time for mock tests and revision (usually 10-15 hours for a total of 50-55 hours of prep, depending on how much you can do each day!",
+  "Cloud Concepts",
+  "Security and Compliance",
+  "Cloud Technology and Services",
+  "Billing, Pricing, and Support",
 ];
 
 const comparisonTable = [
-  { cert: "Week 1", focus: "Cloud Concepts and the shared responsibility model", duration: "2-week: combined into one intensive session; 4-week: dedicated week; 8-week: two weeks with extra doubt-clearing" },
-  { cert: "Middle weeks", focus: "Core services (EC2, S3, VPC, IAM, Lambda) plus Security/Compliance", duration: "2-week: compressed into a few intensive sessions; 4-week: 2 dedicated weeks; 8-week: 4 weeks with added hands-on labs" },
-  { cert: "Final week", focus: "Mock exams, weak-area revision, and exam-day logistics", duration: "2-week: last 2-3 days; 4-week: final week; 8-week: final 1-2 weeks with more mock attempts" },
+  { cert: "Topic-wise quizzes (10-15 questions per domain)", focus: "Right after studying a specific domain like IAM or S3", duration: "Helps catch knowledge gaps early while the concept is still fresh" },
+  { cert: "Full-length exam simulators (65 questions, 90 minutes)", focus: "Final 1-2 weeks of prep", duration: "Builds time management and stamina, not just knowledge" },
+  { cert: "Relying on only one type", focus: "Skipping either topic quizzes or full simulators", duration: "Topic quizzes alone leave you unprepared for exam pacing; simulators alone (without domain practice first) often cause frustration and inflated anxiety about difficulty" },
 ];
 // const comparisonTable = [
 //   { cert: "Cloud Support Associate", level: "", focus: "$55,000-$70,000", duration: "₹6-9 LPA" },
@@ -71,38 +62,34 @@ const comparisonTable = [
 // ];
 
 const roadmapSteps = [
-  "Complete a diagnostic exam to determine where you're starting out with cloud knowledge.",
-  "Build a shared responsibility model and study cloud concepts first — the rest of it follows.",
-  "Get hands-on experience running resources on the core services (EC2, S3, VPC, IAM, Lambda) offered on Free Tier.",
-  "Cover the Security/Compliance and the Pricing/Billing domains as they share similarities with each other in exam contexts.",
-  "Complete at least 3 full length, timed, mock exams, learning from all the incorrect responses.",
-  "You can do a last run-through of weak domain and then follow AWS's exam-day checklist before scheduling your exam. ",
+   "Finish studying all four domains before attempting your first full-length mock.",
+  "Take topic-wise quizzes immediately after each domain to catch gaps early.",
+  "Attempt your first full simulator under real exam conditions (90 minutes, no notes).",
+  "Log every wrong answer by domain and error type in a simple tracker.",
+  "Revise weak domains, then retake full mocks until you consistently score 80%+.",
+  "Do one final simulator 2–3 days before the real exam, then rest instead of cramming.",
 ];
 
 const faqs = [
   {
-    q: "Which study plan is correct for me, 2, 4 or 8 weeks?",
-    a: " If you have experience with IT, 2 weeks with 2-3 hours per day will be sufficient. Most working professionals want 4 weeks and those who are complete novices and can only engage in the weekend would want 8 weeks.",
+    q: "How to prepare for the AWS Cloud Practitioner exam in 30 days?",
+    a: "Split your 30 days into 3 weeks of domain-wise study (Cloud Concepts, Technology, Security, Billing) followed by a final week dedicated entirely to full-length mock exams and weak-area revision.",
   },
   {
-    q: "Which institute is best for AWS Cloud Practitioner in chennai? ",
-    a: " To find institutes that provide batches with proper structure, instruction, hands-on lab work, mock tests and placement assistance. One such institutes that provide AWS Cloud Practitioner Course in Chennai (near Porur) is Bita Academy.",
+    q: "Which How to pass AWS Cloud Practitioner on the first attempt?",
+    a: "Combine structured domain-wise study with at least 3-5 full-length timed mock exams, and don't book your exam date until you're consistently scoring 80%+.",
   },
   {
-    q: "What is the best place to get trained to AWS certification training near me in Porur?",
-    a: "Bita Academy offers AWS Cloud Practitioner batches for candidates from Porur and other areas of Chennai, both in the day and the night.",
+    q: "How hard is the AWS Cloud Practitioner exam?",
+    a: "It's a foundational-level exam and considered beginner-friendly, but candidates who skip hands-on practice and mock tests often underestimate its scenario-based question style.",
   },
   {
-    q: " What are the salary expectations of AWS Cloud Practitioner Course participants in Chennai? ",
-    a: "Please check course fees for the different batches (weekday, weekend and fast-track) as well as current offers. For up to the minute and accurate pricing it is best to book a free counselling call.",
+    q: "How many questions are in the AWS CLF-C02 exam?",
+    a: "The exam has 65 questions (50 scored, 15 unscored) to be completed in 90 minutes, with a passing score of 700 out of 1000.",
   },
   {
-    q: "Does Bita Academy offer any certifications?",
-    a: "If you are a beginner and prefer a structured way of training rather than self-study, then Bita Academy is a good option and provides you with mock tests, hands-on labs, and placement support for CLF-C02.",
-  },
-  {
-    q: " Can I find AWS cloud training that includes job placement services near me in Chennai?",
-    a: "Yes, there are a few institutes in Chennai that provide placement support along with AWS certification training programmes — check with them what are the institutes they have currently partnered with, and their success rates for placements.",
+    q: "What are the best study materials for the AWS Cloud Practitioner exam?",
+    a: "If you are a beginner and prefer a structured way of training rather than self-study, then Bita Academy is a good opA mix of AWS's official exam guide, structured instructor-led content, AWS Free Tier hands-on labs, and full-length timed practice simulators works best — avoid relying solely on unofficial question dumps."
   },
 ];
 
@@ -138,7 +125,7 @@ export default function Page() {
           <Eyebrow > <p className="text-yellow-300">AWS CLOUD CERTIFICATIONS</p></Eyebrow>
 
           <h1 className="mt-6 text-3xl sm:text-4xl lg:text-4xl font-extrabold leading-tight text-white">
-            AWS Cloud Practitioner Exam Guide (CLF-C02): Complete Overview 202AWS Cloud Practitioner Study Plan: 2-Week, 4-Week & 8-Week Roadmaps
+            AWS Cloud Practitioner Practice Exams: The Complete Guide to Mock Tests & Simulators
           </h1>
 
           <div className="mt-8 flex flex-wrap gap-x-10 gap-y-4">
@@ -151,7 +138,7 @@ export default function Page() {
           </div>
 
           <p className="mt-8 max-w-3xl text-white/90 leading-relaxed">
-            Are you unsure of how many weeks you need to pass CLF-C02? With just 14 days left before the deadline—or an easier 8 weekends—this guide will provide you a methodical approach so you can start studying and getting ready without having to wing it.
+            Reading notes for weeks but still unsure if you're actually exam-ready? Practice tests are the single biggest predictor of a first-attempt pass — this guide shows you how to use mock exams, simulators, and result analysis to walk into your CLF-C02 exam with real confidence, not guesswork.
           </p>
         </div>
       </section>
@@ -163,7 +150,7 @@ export default function Page() {
             Quick Answers
           </h3>
           <p className="leading-relaxed text-slate-700">
-            You can prepare for the AWS Cloud Practitioner (CLF-C02) exam in 2 weeks (intensive, previous IT experience), 4 weeks (balanced, most working professionals) and 8 weeks (relaxed, complete beginners with weekend only availability). The three plans have the same four domains of study (Cloud Concepts, Security, Technology, and Billing), but vary in hours of daily study and hands-on practice. The plan you choose will vary based on your existing exposure to AWS, hours you have to study per day, and your exam date.
+            Practice exams for AWS Cloud Practitioner (CLF-C02) are timed, scenario-based question sets that mimic the real exam's 65-question, 90-minute format. They matter because AWS exams test applied understanding, not memorization — a mock exam exposes exactly which of the four domains (Cloud Concepts, Security, Technology, Billing) you're weak in before it costs you the $100 exam fee. Most successful candidates take 3–5 full-length mocks in their final week, aiming to consistently score 80%+ before booking their actual exam slot.
           </p>
         </div>
 
@@ -185,16 +172,16 @@ export default function Page() {
       {/* COMPARISON PROSE */}
       <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto space-y-12">
         <div>
-          <SectionHeading>Choosing the Right Plan for Your Schedule</SectionHeading>
+          <SectionHeading>Why should freshers start with AWS Cloud Practitioner? </SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           Choosing a study plan isn't about the ego — it's about truthfulness about the time and the background. For those with no previous exposure to cloud or coming from a non-IT career, the 8-week approach helps reduce the burnout by having each domain covered on one weekend only, with a chance to actually do something new in the AWS console, rather than just read slides. The 2-week intensive plan is feasible for IT professionals who already have some experience with networking or server concepts because they are using AWS's terms to consolidate existing concepts instead of building them up from the ground up. The middle course, the 4-week plan, is what most working professionals with 9 to 6s work around weekday-night evenings and weekend deep dives actually do, as it doesn't involve unpaid leave.
+           For freshers, AWS Cloud Practitioner is the ideal starting point because it builds foundational cloud understanding without requiring prior coding or infrastructure experience, making the learning curve manageable while still being a recognized, resume-worthy credential. It gives freshers working vocabulary and conceptual clarity around cloud computing, security, and pricing that every higher-level AWS role builds on, so instead of jumping straight into a harder Associate-level exam and feeling overwhelmed, they gain confidence and exam-taking experience first. It's also a strong signal to recruiters that a candidate is serious about a cloud career even without job experience, often helping freshers stand out for entry-level cloud support or operations roles that don't demand deep technical skills yet.
           </p>
         </div>
 
         <div>
-          <SectionHeading>Best mock tests for AWS CLF-C02 </SectionHeading>
+          <SectionHeading>Analyzing Practice Results Effectively</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           The most reliable mock tests are AWS's official practice test directly from AWS Skill Builder, it contains the closest approach to the real question style, format and difficulty. Further, candidates widely use third party answer explanations, such as Tutorials Dojo (Jon Bonso) and Whizlabs, which offer detailed explanations of answers and domain-wise explanations, which allow candidates to see why the answer is the right one, not merely memorize it. You should steer clear of free, uncredited exam dumps or sites as AWS is constantly changing its question pool and the garbage ones can teach you outdated or deleted information. Ideally use AWS's official practice test for accuracy and a third-party simulator for volume and variety and keep track of your domain-wise performance on both to get a realistic picture of how ready you are for the exam.
+           Scoring 65% on a mock exam isn't a failure — it's data. The candidates who improve fastest treat every wrong answer as a mini case study: they identify whether the mistake was a knowledge gap, a misread question, or a careless timing error, and tag each wrong answer by domain (Cloud Concepts, Security, Technology, Billing) to spot patterns. If Security and Compliance keeps showing up as your weakest domain across three consecutive mocks, that's a clear signal to revisit IAM and the shared responsibility model before touching another practice set. Tracking this in a simple spreadsheet — attempt number, score, weak domain, error type — turns random practice into a targeted revision plan.
           </p>
         </div>
       </section>
@@ -202,7 +189,7 @@ export default function Page() {
 
       {/* SKILLS Required */}
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
-        <SectionHeading>Skills You'll Build Through the Study Plan</SectionHeading>
+        <SectionHeading>Skills You Build Through Practice Testing</SectionHeading>
         <div className="space-y-3">
           {skillsCompared.map((s,i) => (
             <div
@@ -226,7 +213,7 @@ export default function Page() {
 
       {/* Related AWS Certifications */}
       <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto">
-        <SectionHeading>What topics are covered in AWS Cloud Practitioner?</SectionHeading>
+        <SectionHeading>How many domains are in AWS Cloud Practitioner CLF-C02? </SectionHeading>
         <div className="divide-y divide-slate-200 rounded-2xl bg-white shadow-sm">
           {popularCerts.map((c) => (
             <div key={c} className="p-4 sm:p-5 text-slate-700">
@@ -300,19 +287,16 @@ export default function Page() {
             Book Your Free Counselling Session
           </h3>
           <p className="mx-auto mt-4 max-w-2xl text-2xl text-yellow-200 font-bold  leading-relaxed">
-            Still stuck deciding between 2, 4, or 8 weeks for your AWS journey?
+            Not sure if your mock scores mean you're actually ready?
           </p>
           <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-            Get a personalized study plan mapped to your schedule, background, and career goals
+            Get your practice test results reviewed by a cloud mentor and find out exactly which domains need more work —
           </p>
           <button className="mt-6 rounded-xl bg-white px-6 py-3 font-semibold text-[#3a7ba5] transition hover:bg-slate-100">
             Book Your Free Counselling Call Today
           </button>
            <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-            and walk in with a clear timeline, not a guess.
-          </p>
-           <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-            If you're searching for AWS Cloud Practitioner training in Chennai — including near Porur — Bita Academy offers structured, instructor-led batches with hands-on labs, mock tests, and placement support, so you don't have to piece together a study plan on your own from scattered YouTube videos. 
+            and stop guessing your exam readiness.
           </p>
 
         </div>
@@ -324,7 +308,7 @@ export default function Page() {
         <blockquote className="rounded-2xl bg-white p-6 sm:p-8 shadow-sm">
           <span className="text-3xl text-yellow-400">&ldquo;</span>
           <p className="-mt-4 italic leading-relaxed text-slate-700">
-           Mentors who've guided hundreds of candidates through CLF-C02 consistently see the same pattern: candidates who follow a fixed weekly structure — rather than "studying when they feel like it" — finish faster and retain more. The 8-week plan isn't slower because the content is harder; it's paced deliberately so beginners build genuine hands-on confidence instead of memorizing answers.
+           Mentors who track candidate performance closely notice that first-attempt failures rarely come from lack of knowledge — they come from skipping full-length, timed mocks and walking in unprepared for the pacing. Candidates who treat practice exams as a diagnostic tool, not just a score to chase, consistently outperform those who simply repeat the same question bank hoping to memorize answers.
           </p>
         </blockquote>
       </section>

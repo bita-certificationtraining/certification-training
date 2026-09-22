@@ -12,16 +12,16 @@ import { useState } from "react";
 
 const stats = [
   { value: "15,000+", label: "Professionals Certified" },
-  { value: "₹6-28 LPA", label: "Cloud Salary Range" },
-  { value: "#1 Entry-Level", label: "Cloud Cert Worldwide" },
+  { value: "24% Exam Weightage", label: "on Cloud Concepts" },
+  { value: "700/1000", label: "Passing Score" },
 ];
 
 const keyTakeaways = [
-  "CLF-C02 has 4 domains, weighted differently, with Cloud Concepts and Security/Compliance carrying the most marks.",
-  "You don't need programming skills - this exam tests conceptual and business understanding of AWS.",
-  "Passing score is 700/1000, and unused/incorrect answers aren't penalized (no negative marking).",
-  "The certification is valid for 3 years and must be renewed through recertification.",
-  "It's the single best ROI certification for IT professionals wanting a structured entry into cloud roles.",
+  "IaaS, PaaS, and SaaS differ mainly in how much infrastructure management AWS handles versus you.",
+  "The shared responsibility model splits security duties between AWS ('security of the cloud') and you ('security in the cloud').",
+  "Regions are geographic locations, while Availability Zones are isolated data centers within a Region.",
+  "Understanding global infrastructure helps you answer scenario questions about latency, redundancy, and compliance.",
+  "These concepts carry roughly 24% of exam weightage, making them too important to skip or rush.",
 ];
 
 // const skillsCompared = [
@@ -33,69 +33,63 @@ const keyTakeaways = [
 // ];
 
 const skillsCompared = [
-  { detail: "An understanding of some concepts of cloud computing (public/private/hybrid cloud)" },
-  {  detail: "Understanding the fundamentals of IT infrastructure (servers, networks, storage)" },
-  { detail: "Knowledge of business principles such as cost control and adherence to laws and regulations." },
-  {  detail: "Easily manage the AWS Management Console.Easily manage AWS Management Console." },
-  {  detail: "Analytical thinking to understand questions in the exam in the context of a scenario" },
+  { detail: "Distinguishing between IaaS, PaaS, and SaaS through real AWS service examples" },
+  {  detail: "Correctly applying the shared responsibility model to security scenarios" },
+  { detail: "Understanding the relationship between Regions, Availability Zones, and Edge Locations" },
+  {  detail: "Evaluating deployment models (public, private, hybrid) for different business needs" },
+  {  detail: "Connecting cloud concepts to the AWS Well-Architected Framework's reliability pillar" },
 ];
 
-const popularCerts = [
-  "AWS Certified Cloud Practitioner (CLF-C02) - Foundational - 4-6 weeks",
-  "AWS Certified Solutions Architect - Associate - Associate - 8-10 weeks",
-  "AWS Certified Developer -  Associate - Associate - 8-10 weeks",
-  "AWS Certified SysOps Administrator - Associate - Associate - 8-10 weeks",
-  "AWS Certified Solutions Architect - Professional - Professional - 12-16 weeks",
-];
-
-const comparisonTable = [
-  { cert: "Cloud Support Associate", focus: "$55,000-$70,000", duration: "₹6-9 LPA" },
-  { cert: "Junior Cloud Engineer", focus: "$65,000-$85,000", duration: "₹8-14 LPA" },
-  { cert: "Cloud Operations Analyst", focus: "$70,000-$90,000", duration: "₹9-16 LPA" },
-  { cert: "Associate Solutions Architect", focus: "$85,000-$110,000", duration: "₹14-22 LPA" },
-  { cert: "Cloud Consultant", focus: "$95,000-$130,000", duration: "₹18-28 LPA" },
-];
-// const comparisonTable = [
-//   { cert: "Cloud Support Associate", level: "", focus: "$55,000-$70,000", duration: "₹6-9 LPA" },
-//   { cert: "Junior Cloud Engineer", level: "", focus: "$65,000-$85,000", duration: "₹8-14 LPA" },
-//   { cert: "Cloud Operations Analyst", level: "", focus: "$70,000-$90,000", duration: "₹9-16 LPA" },
-//   { cert: "Associate Solutions Architect", level: "", focus: "$85,000-$110,000", duration: "₹14-22 LPA" },
-//   { cert: "Cloud Consultant", level: "", focus: "$95,000-$130,000", duration: "₹18-28 LPA" },
+// const popularCerts = [
+//   "AWS Certified Cloud Practitioner (CLF-C02) - Foundational - 4-6 weeks",
+//   "AWS Certified Solutions Architect - Associate - Associate - 8-10 weeks",
+//   "AWS Certified Developer -  Associate - Associate - 8-10 weeks",
+//   "AWS Certified SysOps Administrator - Associate - Associate - 8-10 weeks",
+//   "AWS Certified Solutions Architect - Professional - Professional - 12-16 weeks",
 // ];
 
+const comparisonTable = [
+  { cert: "IaaS", focus: "You manage OS, apps, and data; AWS manages hardware", duration: "Amazon EC2" },
+  { cert: "PaaS", focus: "AWS manages infrastructure and runtime; you manage code", duration: "AWS Elastic Beanstalk" },
+  { cert: "SaaS", focus: "AWS manages almost everything except your data/settings", duration: "Amazon Chime" },
+  { cert: "Region", focus: "A physical geographic area with multiple Availability Zones", duration: "Asia Pacific (Mumbai)" },
+  { cert: "Availability Zone", focus: "An isolated data center within a Region", duration: "ap-south-1a" },
+  { cert: "Shared Responsibility", focus: "Security split between AWS and the customer", duration: "IAM policies (customer-managed)" },
+];
+
 const roadmapSteps = [
-  "Read and grasp AWS exam guide and four domains.",
-  "Develop fundamental concepts in a structured course: Cloud Concepts, Security, Technology, Billing.",
-  "Practice with AWS Free Tier features such as EC2, S3 and IAM.",
-  "Complete timed practice tests each week to develop speed and to find out about low performing areas.",
-  "Participate in a doubt clearing or mentoring session on concepts that are uncertain.",
-  "After you have consistently been scoring 80%+, schedule your exam, and check out AWS's exam day checklist.",
+  "Learn the definitions of IaaS, PaaS, and SaaS with one AWS service example for each.",
+  "Study the shared responsibility model and practice sorting tasks into 'AWS' vs. 'customer' columns.",
+  "Understand the hierarchy of Regions, Availability Zones, and Edge Locations.",
+  "Connect these concepts to real scenarios like disaster recovery and latency reduction.",
+  "Test your understanding with topic-wise quizzes focused only on Cloud Concepts.",
+  "Revisit weak areas using AWS's official documentation before moving to the next domain.",
 ];
 
 const faqs = [
   {
-    q: "Is AWS Cloud Practitioner enough to get a job?",
-    a: "It's a strong foundation and helps with entry-level cloud roles, but pairing it with a hands-on associate-level certification improves job prospects significantly.",
+    q: "What does the AWS Cloud Practitioner exam test you on?",
+    a: "It tests foundational understanding across four domains: Cloud Concepts, Security and Compliance, Cloud Technology and Services, and Billing, Pricing, and Support — focusing on applied understanding rather than memorization.",
   },
   {
-    q: "How difficult is the CLF-C02 exam?",
-    a: " It's considered foundational-level and manageable for beginners, provided you follow a structured study plan rather than random self-study.",
+    q: "What are the top AWS Cloud Practitioner practice exam platforms?",
+    a: "AWS's official practice exam through Skill Builder is the most accurate, while third-party platforms like Tutorials Dojo and Whizlabs are widely used for detailed explanations and additional question variety.",
   },
   {
-    q: "Self-study or instructor-led training - which is better?",
-    a: "Self-study works if you're highly disciplined; instructor-led training helps working professionals stay accountable and clears doubts faster, especially on weekends.",
+    q: "Can I take the AWS Cloud Practitioner exam online from India?",
+    a: "Yes, AWS offers online proctored exams that can be taken from home in India, in addition to in-person testing centers, provided you meet the technical and ID verification requirements.",
   },
   {
-    q: "How much does the exam cost?",
-    a: "The exam fee is $100 (approximately ₹8,300), with practice exams available separately.",
+    q: "How many attempts are allowed for AWS Cloud Practitioner?",
+    a: "You can retake the exam, but you must wait 14 days between attempts, and after your third failed attempt in a 12-month period, you must wait 180 days before trying again.",
   },
   {
-    q: "How long is the certification valid?",
-    a: "Three years, after which you need to recertify through AWS's recertification process.",
+    q: "Does AWS Cloud Practitioner expire? How do I renew it?",
+    a: "Yes, the certification is valid for 3 years. You can renew it by retaking the current version of the exam before your certification expires.",
   },
   {
-    q: " I only have weekends - is that enough time to prepare?",
-    a: "Yes. Most working professionals complete preparation in 4-6 weekends when following a structured, domain-wise study plan.",
+    q: "Is AWS Cloud Practitioner enough to understand cloud computing basics for other roles?",
+    a: "Yes, the concepts covered — service models, shared responsibility, and global infrastructure — form a strong foundation applicable to cloud roles across AWS, Azure, and GCP alike.",
   },
 ];
 
@@ -131,7 +125,7 @@ export default function Page() {
           <Eyebrow > <p className="text-yellow-300">AWS CLOUD CERTIFICATIONS</p></Eyebrow>
 
           <h1 className="mt-6 text-3xl sm:text-4xl lg:text-4xl font-extrabold leading-tight text-white">
-            AWS Cloud Practitioner Exam Guide (CLF-C02): Complete Overview 2026
+            AWS Cloud Concepts Explained: IaaS, PaaS, SaaS, Shared Responsibility & Regions
           </h1>
 
           <div className="mt-8 flex flex-wrap gap-x-10 gap-y-4">
@@ -144,7 +138,7 @@ export default function Page() {
           </div>
 
           <p className="mt-8 max-w-3xl text-white/90 leading-relaxed">
-            Stuck in a non-cloud IT role while your peers move into higher-paying cloud jobs? The AWS Certified Cloud Practitioner (CLF-C02) is the fastest, most affordable way to break in - no coding background required, and most working professionals clear it in 4-6 weeks of weekend study.
+            Confused about the difference between IaaS, PaaS, and SaaS, or what "shared responsibility" actually means on exam day? This blog breaks down the core cloud concepts tested in AWS Cloud Practitioner (CLF-C02) in plain language, so you understand the why behind each term instead of just memorizing definitions.
           </p>
         </div>
       </section>
@@ -156,7 +150,7 @@ export default function Page() {
             Quick Answers
           </h3>
           <p className="leading-relaxed text-slate-700">
-            The AWS Cloud Practitioner exam (CLF-C02) is a 90-minute, 65-question, foundational-level exam testing your understanding of AWS Cloud concepts, security, technology, and billing. It costs $100 (~₹8,300), requires no prerequisites, and is scored out of 1,000, with 700 needed to pass. It is the recommended starting point before Solutions Architect, Developer, or SysOps certifications, and is widely accepted by recruiters as proof you understand cloud fundamentals.
+            Cloud Concepts is the foundational domain of the CLF-C02 exam, covering service models (IaaS, PaaS, SaaS), deployment models (public, private, hybrid), the shared responsibility model, and AWS's global infrastructure (Regions, Availability Zones, Edge Locations). These concepts matter because every other exam domain — Security, Technology, Billing — builds on this vocabulary. Getting comfortable with these basics early makes the rest of your CLF-C02 preparation significantly easier to absorb.
           </p>
         </div>
 
@@ -178,16 +172,16 @@ export default function Page() {
       {/* COMPARISON PROSE */}
       <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto space-y-12">
         <div>
-          <SectionHeading>Exam Structure and Domains</SectionHeading>
+          <SectionHeading>Understanding Service Models and the Shared Responsibility Model</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           The CLF-C02 exam consists of 65 questions (50 scored, 15 unscored for AWS research) delivered as multiple-choice and multiple-response formats, to be completed in 90 minutes. It is available online or at a testing center in multiple languages. The exam is divided into four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%), and Billing, Pricing, and Support (12%). This weighting tells you exactly where to focus — Security and Technology together make up nearly two-thirds of the exam, so candidates worried about "where do I even start studying" should prioritize IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda), and AWS pricing models before anything else.
+           Cloud service models exist on a spectrum of control versus convenience. With IaaS (Infrastructure as a Service), like Amazon EC2, you manage the operating system, applications, and data while AWS handles physical hardware and networking. PaaS (Platform as a Service), like AWS Elastic Beanstalk, goes a step further by managing the runtime and infrastructure for you, letting you focus purely on your application code. SaaS (Software as a Service), like Amazon Chime, hands over almost everything except your own data and user settings. This same logic extends into the shared responsibility model: AWS is always responsible for the "security of the cloud" — physical data centers, hardware, and global infrastructure — while you're responsible for "security in the cloud," meaning your data, access management, and configuration choices. Exam questions often test whether you can correctly place a security task on the right side of this line.
           </p>
         </div>
 
         <div>
-          <SectionHeading>Key Concepts Candidates Must Understand</SectionHeading>
+          <SectionHeading>Regions, Availability Zones, and Global Infrastructure</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           The CLF-C02 exam is 65 questions (50 scored; 15 unscored for AWS research) with multiple-choice and multiple response questions, and a test time of 90 minutes. It can be taken online or at a test centre, in various languages. The exam consists of four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%) and Billing, Pricing, and Support (12%). It is like a compass giving you direction on where to focus — Security and Technology account for almost two-thirds of the exam, so candidates' question on "where do I even start studying" should direct them to study IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda) and AWS pricing models.
+           AWS's global infrastructure is built around Regions, Availability Zones (AZs), and Edge Locations, and understanding how they relate is essential for scenario-based questions. A Region is a physical geographic area (like Mumbai or Singapore) containing multiple, isolated Availability Zones, each with independent power, cooling, and networking to protect against localized failures. Edge Locations, used by services like Amazon CloudFront, sit even closer to end users to reduce latency for content delivery. Exam scenarios often ask you to choose the right combination of Regions and AZs for high availability, disaster recovery, or compliance reasons — for example, deploying across multiple AZs within a Region protects against a single data center failure, while replicating across Regions protects against a Region-wide outage.
           </p>
         </div>
       </section>
@@ -195,7 +189,7 @@ export default function Page() {
 
       {/* SKILLS Required */}
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
-        <SectionHeading>Skills Required for This Certification</SectionHeading>
+        <SectionHeading>Skills Needed to Master These Concepts</SectionHeading>
         <div className="space-y-3">
           {skillsCompared.map((s,i) => (
             <div
@@ -218,7 +212,7 @@ export default function Page() {
       </section>
 
       {/* Related AWS Certifications */}
-      <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto">
+      {/* <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto">
         <SectionHeading>Related AWS Certifications and Duration</SectionHeading>
         <div className="divide-y divide-slate-200 rounded-2xl bg-white shadow-sm">
           {popularCerts.map((c) => (
@@ -227,19 +221,18 @@ export default function Page() {
             </div>
           ))}
         </div>
-      </section>
+      </section> */}
 
       {/* COMPARISON TABLE */}
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
-        <SectionHeading>Salary Data: Cloud Practitioner Certified Roles</SectionHeading>
+        <SectionHeading>Cloud Concepts at a Glance</SectionHeading>
         <div className="overflow-x-auto rounded-2xl shadow-sm">
           <table className="w-full min-w-[640px] border-collapse overflow-hidden rounded-2xl bg-white text-left text-sm sm:text-base">
             <thead>
               <tr className="bg-[#3a7ba5] text-white">
-                <th className="p-4 font-semibold">Role</th>
-                {/* <th className="p-4 font-semibold">Level</th> */}
-                <th className="p-4 font-semibold">Salary (USD)</th>
-                <th className="p-4 font-semibold">Salary (INR)</th>
+                <th className="p-4 font-semibold">Concept</th>            
+                <th className="p-4 font-semibold">Definition</th>
+                <th className="p-4 font-semibold">Example AWS Service</th>
               </tr>
             </thead>
             <tbody>
@@ -249,7 +242,7 @@ export default function Page() {
                   className={i % 2 === 0 ? "bg-white" : "bg-slate-50"}
                 >
                   <td className="p-4 font-medium text-slate-900">{row.cert}</td>
-                  {/* <td className="p-4 text-slate-600">{row.level}</td> */}
+                  
                   <td className="p-4 text-slate-600">{row.focus}</td>
                   <td className="p-4 text-slate-600">{row.duration}</td>
                 </tr>
@@ -259,13 +252,13 @@ export default function Page() {
         </div>
       </section>
 
-      <p className="px-6 sm:px-10 lg:px-20 pb-10 text-center text-md text-slate-700">
+      {/* <p className="px-6 sm:px-10 lg:px-20 pb-10 text-center text-md text-slate-700">
         Figures vary by region, employer, and experience; use as directional guidance, not a guarantee.
-      </p>
+      </p> */}
 
       {/* ROADMAP */}
       <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto">
-        <SectionHeading>Step-by-Step Roadmap to Get Certified</SectionHeading>
+        <SectionHeading>Step-by-Step Roadmap to Mastering Cloud Concepts</SectionHeading>
         <div className="space-y-3">
           {roadmapSteps.map((step, i) => (
             <div
@@ -288,14 +281,17 @@ export default function Page() {
             Book Your Free Counselling Session
           </h3>
           <p className="mx-auto mt-4 max-w-2xl text-2xl text-yellow-200 font-bold  leading-relaxed">
-            Still guessing which cloud path fits your career instead of knowing it?
+            Still mixing up IaaS, PaaS, and SaaS on every practice question?
           </p>
           <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-            Talk to a cloud career expert, get a personalized study plan, and find out if CLF-C02 is your right first step
+           Get these foundational concepts explained clearly by a cloud mentor, with real examples that actually stick —
           </p>
           <button className="mt-6 rounded-xl bg-white px-6 py-3 font-semibold text-[#3a7ba5] transition hover:bg-slate-100">
             Book Your Free Counselling Call Today
           </button>
+          <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
+           and build a foundation strong enough for every AWS exam after this one too.
+          </p>
         </div>
       </section>
 
@@ -305,7 +301,7 @@ export default function Page() {
         <blockquote className="rounded-2xl bg-white p-6 sm:p-8 shadow-sm">
           <span className="text-3xl text-yellow-400">&ldquo;</span>
           <p className="-mt-4 italic leading-relaxed text-slate-700">
-           Some of the most common responses from industry mentors is that candidates who have a structured, instructor-led course, and practice on the AWS Free Tier on their first try, pass much more often than those who just self taught. The real difference-maker isn't intelligence – it's consistency and a person to clear up any doubts before they become exam day panic.
+           Mentors consistently find that candidates who skip a deep understanding of Cloud Concepts struggle later with Security and Technology domains too, since those build directly on this vocabulary. Spending extra time here — even if it feels "too basic" — pays off across the entire exam, not just one domain.
           </p>
         </blockquote>
       </section>
