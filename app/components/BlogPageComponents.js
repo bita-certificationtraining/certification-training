@@ -18,9 +18,19 @@ const CATEGORIES = [
 const COURSES = [
   {
     id: 1,
-    title: "aws cloud practitioner exam guide",
+    title: "AWS Cloud Practitioner Exam Guide (CLF-C02): Complete Overview 2026",
     category: "AWS Certification",
     link: "/blog/aws/aws-cloud-practitioner-exam-guide",
+    icon: "/allblogpage/AWS/aws_blog.png",
+    // rating: 5,
+    // hours: 30,
+    // salary: "11 LPA",
+  },
+  {
+    id: 2,
+    title: "AWS Cloud Practitioner Study Plan: 2-Week, 4-Week & 8-Week Roadmaps",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-cloud-practitioner-study-plan",
     icon: "/allblogpage/AWS/aws_blog.png",
     // rating: 5,
     // hours: 30,

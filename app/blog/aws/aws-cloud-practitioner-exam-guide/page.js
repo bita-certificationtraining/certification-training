@@ -33,11 +33,11 @@ const keyTakeaways = [
 // ];
 
 const skillsCompared = [
-  { detail: "Basic understanding of cloud computing concepts (public/private/hybrid cloud)" },
-  {  detail: "Familiarity with IT infrastructure basics (servers, networking, storage)" },
-  { detail: "Understanding of business concepts like cost management and compliance" },
-  {  detail: "Comfort navigating the AWS Management Console" },
-  {  detail: "Analytical thinking to interpret scenario-based exam questions" },
+  { detail: "An understanding of some concepts of cloud computing (public/private/hybrid cloud)" },
+  {  detail: "Understanding the fundamentals of IT infrastructure (servers, networks, storage)" },
+  { detail: "Knowledge of business principles such as cost control and adherence to laws and regulations." },
+  {  detail: "Easily manage the AWS Management Console.Easily manage AWS Management Console." },
+  {  detail: "Analytical thinking to understand questions in the exam in the context of a scenario" },
 ];
 
 const popularCerts = [
@@ -64,12 +64,12 @@ const comparisonTable = [
 // ];
 
 const roadmapSteps = [
-  "Understand the exam guide and four domains published by AWS.",
-  "Build core concepts with a structured course covering Cloud Concepts, Security, Technology, and Billing.",
-  "Get hands-on with the AWS Free Tier to practice services like EC2, S3, and IAM.",
-  "Take timed mock exams weekly to build speed and identify weak domains.",
-  "Join a doubt-clearing or mentor session for concepts you're unsure about.",
-  "Schedule your exam once you consistently score 80%+ on practice tests, then review AWS's exam-day checklist.",
+  "Read and grasp AWS exam guide and four domains.",
+  "Develop fundamental concepts in a structured course: Cloud Concepts, Security, Technology, Billing.",
+  "Practice with AWS Free Tier features such as EC2, S3 and IAM.",
+  "Complete timed practice tests each week to develop speed and to find out about low performing areas.",
+  "Participate in a doubt clearing or mentoring session on concepts that are uncertain.",
+  "After you have consistently been scoring 80%+, schedule your exam, and check out AWS's exam day checklist.",
 ];
 
 const faqs = [
@@ -180,14 +180,14 @@ export default function Page() {
         <div>
           <SectionHeading>Exam Structure and Domains</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           The CLF-C02 exam consists of 65 questions (50 scored, 15 unscored for AWS research) delivered as multiple-choice and multiple-response formats, to be completed in 90 minutes. It is available online or at a testing center in multiple languages. The exam is divided into four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%), and Billing, Pricing, and Support (12%). This weighting tells you exactly where to focus - Security and Technology together make up nearly two-thirds of the exam, so candidates worried about where do I even start studying should prioritize IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda), and AWS pricing models before anything else.
+           The CLF-C02 exam consists of 65 questions (50 scored, 15 unscored for AWS research) delivered as multiple-choice and multiple-response formats, to be completed in 90 minutes. It is available online or at a testing center in multiple languages. The exam is divided into four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%), and Billing, Pricing, and Support (12%). This weighting tells you exactly where to focus — Security and Technology together make up nearly two-thirds of the exam, so candidates worried about "where do I even start studying" should prioritize IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda), and AWS pricing models before anything else.
           </p>
         </div>
 
         <div>
           <SectionHeading>Key Concepts Candidates Must Understand</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           Beyond memorizing services, CLF-C02 tests whether you grasp how AWS actually works in the real world. This includes the shared responsibility model (what AWS secures vs. what you secure), core compute/storage/database services, the AWS Well-Architected Framework is six pillars, and pricing/billing tools like AWS Budgets and the Pricing Calculator. Many candidates fail not because the concepts are hard, but because they self-study without structure, jumping between random YouTube videos and outdated PDFs. A guided, instructor-led path with mock tests and doubt-clearing sessions consistently produces higher first-attempt pass rates than unstructured self-study, especially for working professionals with limited weekend hours.
+           The CLF-C02 exam is 65 questions (50 scored; 15 unscored for AWS research) with multiple-choice and multiple response questions, and a test time of 90 minutes. It can be taken online or at a test centre, in various languages. The exam consists of four domains: Cloud Concepts (24%), Security and Compliance (30%), Cloud Technology and Services (34%) and Billing, Pricing, and Support (12%). It is like a compass giving you direction on where to focus — Security and Technology account for almost two-thirds of the exam, so candidates' question on "where do I even start studying" should direct them to study IAM, shared responsibility model, core services (EC2, S3, VPC, Lambda) and AWS pricing models.
           </p>
         </div>
       </section>
@@ -265,7 +265,7 @@ export default function Page() {
 
       {/* ROADMAP */}
       <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto">
-        <SectionHeading>Step-by-Step Roadmap to Choosing Your Certification Path</SectionHeading>
+        <SectionHeading>Step-by-Step Roadmap to Get Certified</SectionHeading>
         <div className="space-y-3">
           {roadmapSteps.map((step, i) => (
             <div
@@ -305,7 +305,7 @@ export default function Page() {
         <blockquote className="rounded-2xl bg-white p-6 sm:p-8 shadow-sm">
           <span className="text-3xl text-yellow-400">&ldquo;</span>
           <p className="-mt-4 italic leading-relaxed text-slate-700">
-           Industry mentors consistently note that candidates who combine structured, instructor-led learning with hands-on AWS Free Tier practice pass on their first attempt far more often than those relying solely on self-study. The biggest differentiator is not intelligence - it's consistency and having someone to clarify doubts before they turn into exam-day panic.
+           Some of the most common responses from industry mentors is that candidates who have a structured, instructor-led course, and practice on the AWS Free Tier on their first try, pass much more often than those who just self taught. The real difference-maker isn't intelligence – it's consistency and a person to clear up any doubts before they become exam day panic.
           </p>
         </blockquote>
       </section>
