@@ -278,14 +278,14 @@ export const searchnavbar = [
 
   {
     code: "CompTIA a+ Cyber",
-    slug: "compTIA-aplus-cyber-certification-training",
+    slug: "comptia-aplus-cyber-certification-training",
     title: "CompTIA A+ Cyber",
     c_image: "/certification_img/comptia_logo/CompTIAa+Cyber.png",
   },
 
   {
     code: "CompTIA CyberDefense Pro",
-    slug: "comptia-cyberDefense-pro-certification-training",
+    slug: "comptia-cyberdefense-pro-certification-training",
     title: "CompTIA CyberDefense Pro",
     c_image:
       "/certification_img/comptia_logo/CompTIACyberDefenseProCertification.png",
@@ -410,7 +410,7 @@ export const searchnavbar = [
   },
   {
     code: "CompTIA Cisco Networking Pro",
-    slug: "Comptia-cisco-networking-pro-certification",
+    slug: "comptia-cisco-networking-pro-certification",
     title: "CompTIA Cisco Networking Pro",
     c_image:
       "/certification_img/comptia_logo/CompTIA Cisco Networking Pro Certification.png",
@@ -502,7 +502,7 @@ export const searchnavbar = [
   },
   {
     code: "E|CDE",
-    slug: "devSecOps-engineer-certification",
+    slug: "devsecops-engineer-certification",
     title: "Certified DevSecOps Engineer E|CDE",
     c_image:
       "/certification_img/ec-council/DevSecOps Engineer Certification.png",

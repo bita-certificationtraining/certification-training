@@ -117,79 +117,79 @@ export const seometadatas = [
         slug: "microsoft-security-operations-analyst-certification",
         metatitle: "Microsoft Security Analyst Certification | SC-200",
         metadescription : "Become a certified Security Operations Analyst with SC-200. Learn threat management and security monitoring techniques",
-        metaimage: "/certification_img/microsoft_logo/SC200.png",
+        metaimage: "/certification_img/microsoft_logo/SC200.webp",
     },
     {
         slug: "microsoft-identity-manager-training",
         metatitle: "Microsoft Identity Manager Training | Identity Solutions",
         metadescription : "Master identity and access management with Microsoft Identity Manager training. Learn to implement and manage identity solutions",
-        metaimage: "/certification_img/microsoft_logo/SC300.png",
+        metaimage: "/certification_img/microsoft_logo/SC300.webp",
     },
     {
         slug: "microsoft-azure-administrator-training-course",
         metatitle: "Azure Administrator Training | AZ-104 Certification",
         metadescription : "Prepare for the AZ-104 exam with Azure Administrator training. Learn to manage Azure resources, identities, and governance",
-        metaimage: "/certification_img/microsoft_logo/AZ104.png",
+        metaimage: "/certification_img/microsoft_logo/AZ104.webp",
     },
     {
         slug: "az204-training-courses",
         metatitle: "AZ-204 Training Courses | Azure Developer Certification",
         metadescription : "Enhance your development skills with AZ-204 training. Learn to build and deploy Azure applications effectively",
-        metaimage: "/certification_img/microsoft_logo/AZ204.png",
+        metaimage: "/certification_img/microsoft_logo/AZ204.webp",
     },
     {
         slug: "microsoft-azure-security-technologies-course",
         metatitle: "Azure Security Technologies Course | AZ-500 Prep",
         metadescription : "Secure your Azure environment with AZ-500 training. Learn to implement security controls and threat protection",
-        metaimage: "/certification_img/microsoft_logo/AZ500.png",
+        metaimage: "/certification_img/microsoft_logo/AZ500.webp",
     },
     {
         slug: "az305-training-course",
         metatitle: "AZ-305 Training Course | Azure Solutions Architect",
         metadescription : "Prepare for the AZ-305 exam with our training course. Learn to design Azure solutions and achieve certification success.",
-        metaimage: "/certification_img/microsoft_logo/AZ305.png",
+        metaimage: "/certification_img/microsoft_logo/AZ305.webp",
     },
     {
         slug: "az400-training-online",
         metatitle: "AZ-400 Training Online | DevOps Engineer Certification",
         metadescription : "Advance your DevOps skills with AZ-400 online training. Learn continuous integration, delivery, and infrastructure as code.",
-        metaimage: "/certification_img/microsoft_logo/AZ400.png",
+        metaimage: "/certification_img/microsoft_logo/AZ400.webp",
     },
     {
         slug: "microsoft-cyber-security-course-for-beginners",
         metatitle: "Microsoft Cybersecurity Course | Beginner's Guide",
         metadescription : "Start your cybersecurity journey with Microsoft's beginner course. Learn fundamentals of security, compliance, and identity",
-        metaimage: "/certification_img/microsoft_logo/SC100.png",
+        metaimage: "/certification_img/microsoft_logo/SC100.webp",
     },
     {
         slug: "microsoft-dynamics365-training-in-chennai",
         metatitle: "Dynamics 365 Training in Chennai | CRM & ERP Skills",
         metadescription : "Enhance your business skills with Dynamics 365 training in Chennai. Learn CRM and ERP solutions for career advancement",
-        metaimage: "/certification_img/microsoft_logo/MB910.png",
+        metaimage: "/certification_img/microsoft_logo/MB910.webp",
     },
     {
         slug: "microsoft-dynamics365-training-courses",
         metatitle: "Dynamics 365 Training Courses | Business Applications",
         metadescription : "Explore Microsoft Dynamics 365 training courses. Gain expertise in business applications, CRM, and ERP solutions",
-        metaimage: "/certification_img/microsoft_logo/MB920.png",
+        metaimage: "/certification_img/microsoft_logo/MB920.webp",
     },
     {
         slug: "microsoft-365administrator-training",
         metatitle: "Microsoft 365 Administrator Training | MS-100 & MS-101",
         metadescription : "Become a certified Microsoft 365 Administrator. Learn to manage user identities, security, and compliance in Microsoft 365",
-        metaimage: "/certification_img/microsoft_logo/MB335.png",
+        metaimage: "/certification_img/microsoft_logo/MB335.webp",
     },
     {
         slug: "microsoft-finance-and-operations-training",
         metatitle: "Microsoft Finance & Operations Training | ERP Solutions",
         metadescription : "Master financial and operational processes with Microsoft Finance & Operations training. Learn to optimize ERP solutions",
-        metaimage: "/certification_img/microsoft_logo/MB700.png",
+        metaimage: "/certification_img/microsoft_logo/MB700.webp",
     },
 
     // new 63 - 70
 {
         slug: "az-700-designing-and-implementing-microsoft-azure-networking-solutions",
-        metatitle: "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions",
+        metatitle: "AZ-700 Azure Networking Solutions Certification Course",
         metadescription : "Learn to design, implement, and manage networking solutions on Microsoft Azure. Get certified in Azure networking to enhance your cloud career.",
         metaimage: "/certification_img/microsoft_logo/AZ-700.png",
     },
@@ -277,7 +277,7 @@ export const seometadatas = [
 
 
     {
-        slug: "compTIA-aplus-cyber-certification-training",
+        slug: "comptia-aplus-cyber-certification-training",
         metatitle: "CompTIA a+ Cyber Certification Training",
         metadescription : "Kickstart your IT career with CompTIA A+ Cyber Certification Training. Learn hardware, software, networking, and security fundamentals at BITA Academy.",
         metaimage: "/certification_img/comptia_logo/CompTIAa+Cyber.png",
@@ -286,7 +286,7 @@ export const seometadatas = [
 
 
     {
-        slug: "comptia-cyberDefense-pro-certification-training",
+        slug: "comptia-cyberdefense-pro-certification-training",
         metatitle: "CompTIA  CyberDefense Pro Certification Training",
         metadescription : "Advance your cybersecurity career with CompTIA CyberDefense Pro Certification Training. Gain hands-on skills in threat detection and defense strategies.",
         metaimage: "/certification_img/comptia_logo/CompTIACyberDefenseProCertification.png",
@@ -358,7 +358,7 @@ export const seometadatas = [
     {
         slug: "giac-cloud-security-automation-training",
         metatitle: "GIAC Cloud Security Automation | GCSA Certification",
-        metadescription : "GIAC Cloud Security Automation | GCSA Certification",
+        metadescription : "Prepare for the GIAC Cloud Security Automation (GCSA) certification with BITA Academy. Learn to automate and secure cloud workloads with expert-led training.",
         metaimage: "/certification_img/giac_logo/gcsa.webp",
     },
 
@@ -394,7 +394,7 @@ export const seometadatas = [
     metaimage:"/certification_img/comptia_logo/CompTIA  a+ Network Certification.png",
     },
     {
-    slug:"Comptia-cisco-networking-pro-certification",
+    slug:"comptia-cisco-networking-pro-certification",
     metatitle:"CompTIA Cisco Networking Pro Certification Training",
     metadescription:"Advance in networking with CompTIA Cisco Networking Pro Certification Training. Learn routing, switching, and Cisco-based infrastructure skills. ",
     metaimage:"/certification_img/comptia_logo/CompTIA Cisco Networking Pro Certification.png",
@@ -417,14 +417,14 @@ export const seometadatas = [
     {
     slug:"certified-ethical-hacker-training",
     metatitle:"Certified Ethical Hacker Training | CEH Certification Course",
-    metadescription:"Become a cybersecurity expert with BITA Academy's Certified Ethical Hacker training. Learn ethical hacking, penetration testing, and real-world defense techniques.",
+    metadescription:"Become a cybersecurity expert with BITA Academy's Certified Ethical Hacker training. Learn ethical hacking, penetration testing and real-world defense.",
     metaimage:"/certification_img/ec-council/Certified Ethical Hacker Training.png",
     },
 
     {
     slug:"ceh-master-certification-training-in-chennai",
     metatitle:"CEH Master Certification Training in Chennai",
-    metadescription:"Join BITA Academy's CEH Master Certification training in Chennai to gain hands-on ethical hacking skills and real-world cybersecurity expertise. Prepare for the CEH Master exam with expert-led practical labs and become a certified cybersecurity professional.",
+    metadescription:"Join BITA Academy's CEH Master certification training in Chennai. Gain hands-on ethical hacking skills with expert-led labs and prepare for the CEH Master exam.",
     metaimage:"/certification_img/ec-council/CEH Master Certification Training.png",
     },
 
@@ -432,7 +432,7 @@ export const seometadatas = [
     {
     slug:"cciso-certification-training-in-chennai",
     metatitle:"CCISO Certification Training in Chennai",
-    metadescription:"Advance your cybersecurity career with BITA Academy's CCISO Certification Training. Master executive-level security leadership, risk management, and governance to become a Certified Chief Information Security Officer. Join the best CCISO training in Chennai today!",
+    metadescription:"Advance your cybersecurity career with BITA Academy's CCISO training in Chennai. Learn executive-level security leadership, risk management and governance.",
     metaimage:"/certification_img/ec-council/CCISO Certification Training in Chennai.png",
     },
 
@@ -440,7 +440,7 @@ export const seometadatas = [
     {
     slug:"associate-cciso-certification-training",
     metatitle:"Associate CCISO Certification Training",
-    metadescription:"Start your cybersecurity leadership journey with BITA Academy's Associate CCISO Certification Training. Learn information security management, governance, and risk strategies to prepare for executive security roles.",
+    metadescription:"Start your security leadership journey with BITA Academy's Associate CCISO training. Learn security management, governance and risk strategy.",
     metaimage:"/certification_img/ec-council/Associate CCISO Certification Training.png",
     },
 
@@ -449,7 +449,7 @@ export const seometadatas = [
     {
     slug:"certified-penetration-testing-professional",
     metatitle:"Certified Penetration Testing Professional",
-    metadescription:"Master ethical hacking and penetration testing with BITA Academy's Certified Penetration Testing Professional course. Gain hands-on skills to secure networks and systems.",
+    metadescription:"Master ethical hacking and penetration testing with BITA Academy's Certified Penetration Testing Professional course. Gain hands-on skills to secure systems.",
     metaimage:"/certification_img/ec-council/Certified Penetration Testing Professional.png",
     },
 
@@ -458,7 +458,7 @@ export const seometadatas = [
     {
     slug:"incident-handler-certification-training",
     metatitle:"Incident Handler Certification Training",
-    metadescription:"Master cyber incident response with BITA Academy's  Incident Handler Certification training. Learn to detect, analyze, and respond to real-world security threats.",
+    metadescription:"Master cyber incident response with BITA Academy's Incident Handler certification training. Learn to detect, analyze and respond to real security threats.",
     metaimage:"/certification_img/ec-council/Incident Handler Certification Training.png",
     },
 
@@ -467,7 +467,7 @@ export const seometadatas = [
     {
     slug:"certified-soc-analyst-certification-training",
     metatitle:"Certified SOC Analyst Certification Training",
-    metadescription:"Boost your cybersecurity career with BITA Academy's Certified SOC Analyst Certification Training. Learn real-time threat monitoring, SIEM tools, and incident response skills to become a certified SOC professional.",
+    metadescription:"Boost your cybersecurity career with BITA Academy's Certified SOC Analyst training. Learn threat monitoring, SIEM tools and incident response skills.",
     metaimage:"/certification_img/ec-council/Certified SOC Analyst Certification Training.png",
     },
 
@@ -475,7 +475,7 @@ export const seometadatas = [
     {
     slug:"certified-threat-intelligence-analyst-certification",
     metatitle:"Certified Threat Intelligence Analyst Certification",
-    metadescription:"Join BITA Academy's Certified Threat Intelligence Analyst Certification training to master cyber threat detection, intelligence analysis, and proactive defense. Learn to identify and prevent attacks using real-world tools and techniques.",
+    metadescription:"Join BITA Academy's Certified Threat Intelligence Analyst training. Learn cyber threat detection, intelligence analysis and proactive defense with real tools.",
     metaimage:"/certification_img/ec-council/Certified Threat Intelligence Analyst Certification.png",
     },
 
@@ -483,7 +483,7 @@ export const seometadatas = [
     {
     slug:"certified-network-defender-certification-training",
     metatitle:"Certified Network Defender Certification Training",
-    metadescription:"Join BITA Academy's Certified Network Defender Certification training and master network security, threat detection, and defense strategies. Learn from experts and boost your cybersecurity career.",
+    metadescription:"Join BITA Academy's Certified Network Defender training and master network security, threat detection and defense strategies from expert trainers.",
     metaimage:"/certification_img/ec-council/Certified Network Defender Certification Training.png",
     },
 
@@ -496,7 +496,7 @@ export const seometadatas = [
     },
 
     {
-    slug:"devSecOps-engineer-certification",
+    slug:"devsecops-engineer-certification",
     metatitle:"DevSecOps Engineer Certification",
     metadescription:"Master DevSecOps practices with BITA Academy's DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
     metaimage:"/certification_img/ec-council/DevSecOps Engineer Certification.png",
@@ -505,7 +505,7 @@ export const seometadatas = [
     {
     slug:"cybersecurity-technician-certification",
     metatitle:"Cybersecurity Technician Certification",
-    metadescription:"Master DevSecOps practices with BITA Academy's DevSecOps Engineer Certification course. Learn secure CI/CD, automation, and cloud-native security skills.",
+    metadescription:"Start your cybersecurity career with the Certified Cybersecurity Technician (C|CT) course from BITA Academy. Learn core security skills with hands-on training.",
     metaimage:"/certification_img/ec-council/Cybersecurity Technician Certification.png",
     },
 
@@ -546,11 +546,17 @@ export const seometadatas = [
         metatitle: "ISACA Certification Courses | Cybersecurity & IT Audit",
         metadescription : "Explore top ISACA certification courses like CISA, CISM, CRISC, and CGEIT. Enhance your IT governance, audit, and security expertise",
         metaimage: "/certification_img/isaca_logo/csdf.webp",
-    }
-
-
-
-
-
-    
+    },
+    {
+        slug: "comptia-security-pro-certification-training",
+        metatitle: "CompTIA Security Pro Certification Training",
+        metadescription: "Prepare for the CompTIA Security Pro certification with BITA Academy. Build hands-on cybersecurity skills with expert trainers and exam-focused practice.",
+        metaimage: "/certification_img/comptia_logo/CompTIASecurityPro.png",
+    },
+    {
+        slug: "comptia-securityx-certification-training",
+        metatitle: "CompTIA SecurityX Certification Training",
+        metadescription: "Prepare for the CompTIA SecurityX certification with BITA Academy. Learn advanced enterprise security skills through expert-led, exam-focused training.",
+        metaimage: "/certification_img/comptia_logo/CompTIA SecurityX.png",
+    },
 ];

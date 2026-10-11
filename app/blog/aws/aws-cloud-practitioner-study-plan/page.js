@@ -138,7 +138,7 @@ export default function Page() {
           <Eyebrow > <p className="text-yellow-300">AWS CLOUD CERTIFICATIONS</p></Eyebrow>
 
           <h1 className="mt-6 text-3xl sm:text-4xl lg:text-4xl font-extrabold leading-tight text-white">
-            AWS Cloud Practitioner Exam Guide (CLF-C02): Complete Overview 202AWS Cloud Practitioner Study Plan: 2-Week, 4-Week & 8-Week Roadmaps
+            AWS Cloud Practitioner Study Plan: 2-Week, 4-Week & 8-Week Roadmaps
           </h1>
 
           <div className="mt-8 flex flex-wrap gap-x-10 gap-y-4">

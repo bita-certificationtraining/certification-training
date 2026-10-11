@@ -650,7 +650,7 @@ export const examdetails = [
 
   {
     code: "220-1101 (Core 1), 220-1102 (Core 2)",
-    slug: "compTIA-aplus-cyber-certification-training",
+    slug: "comptia-aplus-cyber-certification-training",
     examdetails: {
       examname: "CompTIA A+ Cyber",
       examlevel: "",
@@ -666,7 +666,7 @@ export const examdetails = [
 
   {
     code: "",
-    slug: "comptia-cyberDefense-pro-certification-training",
+    slug: "comptia-cyberdefense-pro-certification-training",
     examdetails: {
       examname: "CompTIA CyberDefense Pro",
       examlevel: "Intermediate to Advanced",
@@ -931,7 +931,7 @@ export const examdetails = [
   },
   {
     code: "CompTIA Network+ and Cisco",
-    slug: "Comptia-cisco-networking-pro-certification",
+    slug: "comptia-cisco-networking-pro-certification",
     examdetails:{
       examname:"CompTIA Network+ and Cisco CCNA",
       examformat:"Multiple-choice ",
@@ -981,7 +981,7 @@ export const examdetails = [
   },
    {
     code: "C|EHM",
-    slug: "ceh-master-certification-training",
+    slug: "ceh-master-certification-training-in-chennai",
     examdetails:{
       examname:"CEH Master",
       examformat:"Knowledge Exam (125 questions) + Practical Exam (6 hours)",
@@ -993,7 +993,7 @@ export const examdetails = [
   },
    {
     code: "C|CISO",
-    slug: "cciso-certification-training",
+    slug: "cciso-certification-training-in-chennai",
     examdetails:{
       examname:"Certified Chief Information Security Officer (CCISO)",
       examformat:"Multiple-choice and scenario-based",
@@ -1018,7 +1018,7 @@ export const examdetails = [
   },
     {
     code: "C|PENT",
-    slug: "certified-penetration-testing-professional-course",
+    slug: "certified-penetration-testing-professional",
     examdetails:{
       examname:"Certified Penetration Testing Professional",
       examlevel:"Intermediate to Advanced",
@@ -1031,7 +1031,7 @@ export const examdetails = [
   },
     {
     code: "E|CIH",
-    slug: "incident-handler-certification",
+    slug: "incident-handler-certification-training",
     examdetails:{
       examname:" Incident Handler Certification",
       exammode:"Online / Test Center",
@@ -1042,7 +1042,7 @@ export const examdetails = [
   },
     {
     code: "C|SA",
-    slug: "certified-soc-analyst-certification",
+    slug: "certified-soc-analyst-certification-training",
     examdetails:{
       examname:"Certified SOC Analyst",
       certificationbody:"EC-Council",

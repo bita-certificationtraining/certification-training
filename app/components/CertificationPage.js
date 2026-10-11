@@ -1,6 +1,5 @@
 "use client"
 
-import { useEffect, useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
 import { useParams } from "next/navigation"
@@ -11,57 +10,26 @@ import { CertificationList } from "@/app/util/certificationList"
 
 export default function CertificationPage() {
   const { slug } = useParams()
-  const [certification, setCertification] = useState(null)
-  const [relatedCerts, setRelatedCerts] = useState([])
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
+  const wanted = slug.toLowerCase()
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        // Find the certification based on slug
-        const foundCertification = CertificationList.flatMap(
-          (category) => category.subcategories
-        )
-          .flatMap((subcategory) => subcategory.items)
-          .find((item) => item.slug.toLowerCase() === slug.toLowerCase())
-        // const foundCertification = allCertifications[slug];
+  // Computed during render (not in useEffect) so the course content is part of
+  // the server-rendered HTML that Google reads, instead of a "Loading..." <h1>.
+  const certification = CertificationList.flatMap((category) => category.subcategories)
+    .flatMap((subcategory) => subcategory.items)
+    .find((item) => item.slug.toLowerCase() === wanted)
 
-        //  related course
-        const coursedata = CertificationList
-        let selectedCert = null
-        let relatedCertsList = []
-
-        coursedata.forEach((category) => {
-          category.subcategories.forEach((subcategory) => {
-            const foundCert = subcategory.items.find(
-              (cert) => cert.slug === slug
-            )
-            if (foundCert) {
-              selectedCert = foundCert
-              relatedCertsList = subcategory.items.filter(
-                (cert) => cert.slug !== slug
-              ) // Exclude current cert
-            }
-          })
-        })
-
-        if (!foundCertification) throw new Error("Certification Not Found")
-        setCertification(foundCertification)
-        if (!selectedCert) throw new Error("No Related Certification")
-        setRelatedCerts(relatedCertsList)
-      } catch (err) {
-        setError(err.message)
-      } finally {
-        setLoading(false)
+  let relatedCerts = []
+  CertificationList.forEach((category) => {
+    category.subcategories.forEach((subcategory) => {
+      if (subcategory.items.some((cert) => cert.slug.toLowerCase() === wanted)) {
+        relatedCerts = subcategory.items.filter(
+          (cert) => cert.slug.toLowerCase() !== wanted
+        ) // Exclude current cert
       }
-    }
+    })
+  })
 
-    fetchData()
-  }, [slug])
-
-  if (loading) return <h1>Loading...</h1>
-  if (error) return <h1>{error}</h1>
+  if (!certification) return <p>Certification Not Found</p>
 
   // const structuredData = {
   //   "@context": "https://schema.org",

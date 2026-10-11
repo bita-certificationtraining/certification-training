@@ -1,30 +1,12 @@
 import Image from "next/image";
+import { buildMetadata } from "@/app/util/seo"
 
-export const metadata = {
-    title: "Certification Training - About us",
-    description: "Contact us and enquire about the services provided by us and upskill your IT Career.",
-    robots: {
-      index: true,
-      follow: true,
-      nocache: false,
-    },
-    alternates: {
-      canonical: "https://certificationtraining.in/aboutus",
-    },
-    openGraph: {
-      title: "Certification Training - About us",
-    description: "Contact us and enquire about the services provided by us and upskill your IT Career.",
-    url: "https://certificationtraining.in/aboutus",
-      siteName: "Certification Training",
-      type: "website",
-    },
-    twitter: {
-      card: "summary",
-      title: "Certification Training - About us",
-    description: "Contact us and enquire about the services provided by us and upskill your IT Career.",
-    images: ["https://certificationtraining.in/bitalogo.png"],
-    },
-  };
+export const metadata = buildMetadata({
+  title: "Certification Training - About us",
+  description:
+    "Learn about BITA Academy: expert trainers, hands-on practice and exam-focused preparation to help you earn IT certifications and upskill your IT career.",
+  path: "/aboutus",
+})
 
 export default function AboutUs() {
 const whybita = [

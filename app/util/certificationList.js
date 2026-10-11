@@ -375,14 +375,14 @@ export const CertificationList = [
         items: [
            {
             code: " 220-1101 (Core 1), 220-1102 (Core 2)",
-            slug: "compTIA-aplus-cyber-certification-training",
+            slug: "comptia-aplus-cyber-certification-training",
             title: "CompTIA a+ Cyber Certification Training",
             c_image: "/certification_img/comptia_logo/CompTIAa+Cyber.png",
           },
 
            {
             code: "CompTIA CyberDefense Pro",
-            slug: "comptia-cyberDefense-pro-certification-training",
+            slug: "comptia-cyberdefense-pro-certification-training",
             title: "CompTIA CyberDefense Pro Certification Training",
             c_image: "/certification_img/comptia_logo/CompTIACyberDefenseProCertification.png",
           },
@@ -463,7 +463,7 @@ export const CertificationList = [
           },
            {
             code: "CompTIA Cisco Networking Pro",
-            slug: "Comptia-cisco-networking-pro-certification",
+            slug: "comptia-cisco-networking-pro-certification",
             title: "CompTIA Cisco Networking Pro",
             c_image: "/certification_img/comptia_logo/CompTIA Cisco Networking Pro Certification.png",
           },
@@ -646,7 +646,7 @@ export const CertificationList = [
           },
            {
             code: "E|CDE",
-            slug: "devSecOps-engineer-certification",
+            slug: "devsecops-engineer-certification",
             title: "Certified DevSecOps Engineer E|CDE",
             c_image: "/certification_img/ec-council/DevSecOps Engineer Certification.png",
           },

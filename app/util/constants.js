@@ -3445,7 +3445,7 @@ const comptiadataxcertificationtraining = {
 
 
 const compTIAapluscybercertificationtraining =  {
-  slug: "compTIA-aplus-cyber-certification-training",
+  slug: "comptia-aplus-cyber-certification-training",
   code: "220-1101 (Core 1), 220-1102 (Core 2)",
   title: "CompTIA a+ Cyber Certification Training",
   description: "Kickstart your IT career with CompTIA A+ Cyber Certification Training. Learn hardware, software, networking, and security fundamentals at BITA Academy.",
@@ -3536,7 +3536,7 @@ htaintro: "This confirms your ability to uphold and safeguard IT environments us
 
 
 const comptiacyberDefenseprocertificationtraining =  {
-  slug: "comptia-cyberDefense-pro-certification-training",
+  slug: "comptia-cyberdefense-pro-certification-training",
   code: "CompTIA CyberDefense Pro",
   title: "CompTIA CyberDefense Pro Certification Training",
   description: "Advance your cybersecurity career with CompTIA CyberDefense Pro Certification Training. Gain hands-on skills in threat detection and defense strategies.",
@@ -4261,7 +4261,7 @@ const comptiaaplusnetworkcertification =  {
 
 
 const Comptiacisconetworkingprocertification =  {
-  slug: "Comptia-cisco-networking-pro-certification",
+  slug: "comptia-cisco-networking-pro-certification",
   code: "CompTIA Cisco Networking Pro",
   title: "CompTIA Cisco Networking Pro",
   description: "Become a comptia expert with our advanced certification.",
@@ -6479,7 +6479,7 @@ const cloudsecuritycertification =  {
 
 
 const devSecOpsengineercertification =  {
-  slug: "devSecOps-engineer-certification",
+  slug: "devsecops-engineer-certification",
   code: "E|CDE",
   title: "Certified DevSecOps Engineer (E|CDE)",
   description: "Become a EC-Council expert with our advanced certification.",
@@ -6687,8 +6687,8 @@ export const allCertifications = {
   "comptia-data-training" : comptiadatatraining,
   "comptia-datasys-training" : comptiadatasystraining,
   "comptia-datax-certification-training" : comptiadataxcertificationtraining,
-  "compTIA-aplus-cyber-certification-training" : compTIAapluscybercertificationtraining,
-  "comptia-cyberDefense-pro-certification-training" : comptiacyberDefenseprocertificationtraining,
+  "comptia-aplus-cyber-certification-training" : compTIAapluscybercertificationtraining,
+  "comptia-cyberdefense-pro-certification-training" : comptiacyberDefenseprocertificationtraining,
   "comptia-ethical-hacker-pro-certification-training" : comptiaethicalhackerprocertificationtraining,
   "comptia-security-pro-certification-training" : comptiasecurityprocertificationtraining,
   "comptia-securityx-certification-training" : comptiasecurityxcertificationtraining,
@@ -6710,17 +6710,17 @@ export const allCertifications = {
   "isaca-certification-courses" : isacacertificationcourses,
 
   "certified-ethical-hacker-training":certifiedethicalhackertraining,
-  "ceh-master-certification-training":cehmastercertificationtraining,
-  "cciso-certification-training":ccisocertificationtraining,
+  "ceh-master-certification-training-in-chennai":cehmastercertificationtraining,
+  "cciso-certification-training-in-chennai":ccisocertificationtraining,
   "associate-cciso-certification-training":associateccisocertificationtraining,
-  "certified-penetration-testing-professional-course":certifiedpenetrationtestingprofessionalcourse,
-  "incident-handler-certification":incidenthandlercertification,
-  "certified-soc-analyst-certification":certifiedsocanalystcertification,
+  "certified-penetration-testing-professional":certifiedpenetrationtestingprofessionalcourse,
+  "incident-handler-certification-training":incidenthandlercertification,
+  "certified-soc-analyst-certification-training":certifiedsocanalystcertification,
   "certified-threat-intelligence-analyst-certification":certifiedthreatintelligenceanalystcertification,
   // 
-  "certified-network-defender-certification":certifiednetworkdefendercertification,
+  "certified-network-defender-certification-training":certifiednetworkdefendercertification,
   "cloud-security-certification":cloudsecuritycertification,
-  "devSecOps-engineer-certification":devSecOpsengineercertification,
+  "devsecops-engineer-certification":devSecOpsengineercertification,
   "cybersecurity-technician-certification":cybersecuritytechniciancertification,
 
   "comptia-cloud-essentialsplus-certification":comptiacloudessentialspluscertification,
@@ -6728,7 +6728,7 @@ export const allCertifications = {
   "comptia-cloudnetx-certification":comptiacloudnetxcertification,
   "comptia-ai-essentials-certification":comptiaaiessentialscertification,
   "comptia-aplus-network-certification":comptiaaplusnetworkcertification,
-  "Comptia-cisco-networking-pro-certification":Comptiacisconetworkingprocertification,
+  "comptia-cisco-networking-pro-certification":Comptiacisconetworkingprocertification,
   "comptia-linux-pro-certification":comptialinuxprocertification,
   "comptia-serverplus-certification":comptiaserverpluscertification,
 

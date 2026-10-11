@@ -3,30 +3,42 @@
 import { useEffect, useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
+import { usePathname } from "next/navigation"
 import { Menu, X } from "lucide-react"
 
 import NavSearchBar from "@/app/components/NavSearchBar"
 
+const navLinks = [
+  { href: "/", label: "HOME", mobileLabel: "HOME" },
+  { href: "/aboutus", label: "ABOUT US", mobileLabel: "ABOUT" },
+  { href: "/blog", label: "BLOG", mobileLabel: "BLOG" },
+  { href: "/contactus", label: "CONTACT US", mobileLabel: "CONTACT US" },
+]
+
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false)
-
   const [scrolling, setScrolling] = useState(false)
+  const pathname = usePathname()
 
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 50) {
-        setScrolling(true)
-      } else {
-        setScrolling(false)
-      }
+      setScrolling(window.scrollY > 50)
     }
 
     window.addEventListener("scroll", handleScroll)
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
 
+  // "/" ku exact match, mathi pages-ku startsWith (e.g. /blog/post-1 la um BLOG active-a irukum)
+  const isActive = (href) =>
+    href === "/" ? pathname === "/" : pathname.startsWith(href)
+
+  const linkClass = (href) =>
+    `rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white ${
+      isActive(href) ? "bg-themeblue text-white" : ""
+    }`
+
   return (
-    // className="fixed top-0 left-0 w-full p-4 z-50"
     <nav
       className={`fixed left-0 top-0 z-[99] w-full p-2 transition-all duration-300 ${
         scrolling ? "bg-white shadow-md" : "bg-white md:bg-transparent"
@@ -35,49 +47,25 @@ export default function Navbar() {
       <div className="mx-auto flex max-w-6xl items-center justify-between">
         {/* Left - Logo */}
         <div>
-          <Image
-            src="/homepageimages/bitalogo.png"
-            width={120}
-            height={120}
-            alt="BITA Logo"
-          />
-          {/* <img src="/homepageimages/bitalogo.png" alt="BITA Logo" className="w-full h-full"/> */}
+          <Link href="/">
+            <Image
+              src="/homepageimages/bitalogo.png"
+              width={120}
+              height={120}
+              alt="BITA Logo"
+            />
+          </Link>
         </div>
 
         {/* Right - Desktop Menu */}
         <ul className="hidden items-center space-x-6 text-sm md:flex">
-          <li>
-            <Link
-              href="/"
-              className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-            >
-              HOME
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/aboutus"
-              className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-            >
-              ABOUT US
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/blog"
-              className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-            >
-              BLOG
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/contactus"
-              className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-            >
-              CONTACT US
-            </Link>
-          </li>
+          {navLinks.map((link) => (
+            <li key={link.href}>
+              <Link href={link.href} className={linkClass(link.href)}>
+                {link.label}
+              </Link>
+            </li>
+          ))}
           <li>
             <NavSearchBar />
           </li>
@@ -99,41 +87,17 @@ export default function Navbar() {
         }`}
       >
         <ul className="text-md flex flex-col space-y-4 p-4">
-          <li>
-            <Link
-              href="/"
-              className="block rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-              onClick={() => setMenuOpen(false)}
-            >
-              HOME
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/aboutus"
-              className="block rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-              onClick={() => setMenuOpen(false)}
-            >
-              ABOUT
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/blog"
-              className="rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-            >
-              BLOG
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/contactus"
-              className="block rounded-xl px-3 py-1 transition duration-75 ease-linear hover:bg-themeblue hover:text-white"
-              onClick={() => setMenuOpen(false)}
-            >
-              CONTACT US
-            </Link>
-          </li>
+          {navLinks.map((link) => (
+            <li key={link.href}>
+              <Link
+                href={link.href}
+                className={`block ${linkClass(link.href)}`}
+                onClick={() => setMenuOpen(false)}
+              >
+                {link.mobileLabel}
+              </Link>
+            </li>
+          ))}
         </ul>
       </div>
     </nav>

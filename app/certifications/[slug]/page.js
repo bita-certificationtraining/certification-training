@@ -1,49 +1,82 @@
+import { notFound } from "next/navigation"
+
 import CertificationPage from "@/app/components/CertificationPage"
+import JsonLd from "@/app/components/JsonLd"
+import { allCertifications } from "@/app/util/constants"
 import { seometadatas } from "@/app/util/seometadatas"
+import { ORG_NAME, SITE_URL, absoluteUrl, buildMetadata } from "@/app/util/seo"
 
-export async function generateMetadata({ params }) {
-  const { slug } =await params
-  
+// URLs are matched case-insensitively (old links like /compTIA-... still work),
+// but the canonical URL is always the lowercase slug.
+const findSeo = (slug) =>
+  seometadatas.find((item) => item.slug.toLowerCase() === slug.toLowerCase())
 
-  const seodata = seometadatas.find(
-    (item) => item.slug.toLowerCase() === slug.toLowerCase()
-  ) 
-
-  return {
-    title: `${seodata.metatitle || "BITA Academy - Best Software Training Institute in Chennai | IT Courses with Certification"}`,
-    description: `${seodata.metadescription || "Join BITA Academy, the top-rated software training institute in Chennai. We offer expert-led IT courses in Python, Java, Full Stack, AWS, and More."}`,
-    alternates: {
-      canonical: `https://certificationtraining.in/certifications/${slug}`,
-    },
-    robots: {
-      index: true,
-      follow: true,
-      nocache: false,
-    },
-    openGraph: {
-      title: `${seodata.metatitle || "BITA Academy - Best Software Training Institute in Chennai | IT Courses with Certification"}`,
-    description: `${seodata.metadescription || "Join BITA Academy, the top-rated software training institute in Chennai. We offer expert-led IT courses in Python, Java, Full Stack, AWS, and More."}`,
-    url: `https://certificationtraining.in/certifications/${slug}`,
-      images: [
-        {
-          url:`${seodata.metaimage || "BITA Academy"}`,
-          width: 800,
-          height: 600,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: `${seodata.metatitle || "BITA Academy - Best Software Training Institute in Chennai | IT Courses with Certification"}`,
-    description: `${seodata.metadescription || "Join BITA Academy, the top-rated software training institute in Chennai. We offer expert-led IT courses in Python, Java, Full Stack, AWS, and More."}`,
-    images: `${[seodata.metaimage] || "BITA Academy"}`,
-    },
-  }
+const findContent = (slug) => {
+  const key = Object.keys(allCertifications).find(
+    (k) => k.toLowerCase() === slug.toLowerCase()
+  )
+  return key ? allCertifications[key] : null
 }
 
-export default function Certification() {
+// Pre-render every course page at build time (unknown slugs still hit notFound())
+export function generateStaticParams() {
+  return seometadatas.map((item) => ({ slug: item.slug.toLowerCase() }))
+}
+
+export async function generateMetadata({ params }) {
+  const { slug } = await params
+  const seo = findSeo(slug)
+
+  if (!seo) {
+    return {
+      title: "Page not found",
+      robots: { index: false, follow: false },
+    }
+  }
+
+  return buildMetadata({
+    title: seo.metatitle,
+    description: seo.metadescription,
+    path: `/certifications/${seo.slug.toLowerCase()}`,
+    image: seo.metaimage, // course logo
+    imageAlt: seo.metatitle,
+    square: true,
+  })
+}
+
+export default async function Certification({ params }) {
+  const { slug } = await params
+  const seo = findSeo(slug)
+  const content = findContent(slug)
+
+  // unknown slug -> real 404 (not a soft-404 "Certification Not Found" page)
+  if (!seo || !content) notFound()
+
+  const url = `${SITE_URL}/certifications/${seo.slug.toLowerCase()}`
+  const courseJsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Course",
+        name: content.cheading || seo.metatitle,
+        description: seo.metadescription,
+        url,
+        image: absoluteUrl(seo.metaimage),
+        provider: { "@type": "Organization", name: ORG_NAME, url: SITE_URL },
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          { "@type": "ListItem", position: 2, name: seo.metatitle, item: url },
+        ],
+      },
+    ],
+  }
+
   return (
     <>
+      <JsonLd data={courseJsonLd} />
       <CertificationPage />
     </>
   )

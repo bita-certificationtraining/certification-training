@@ -1,30 +1,12 @@
 import BlogPageComponents from "@/app/components/BlogPageComponents";
+import { buildMetadata } from "@/app/util/seo"
 
-export const metadata = {
-    title: "Certification Training - Blog",
-    description: "Here is our blog which helps to know and get knowledge about latest IT certification programs.",
-    robots: {
-      index: true,
-      follow: true,
-      nocache: false,
-    },
-    alternates: {
-      canonical: "https://certificationtraining.in/blog",
-    },
-    openGraph: {
-    title: "Certification Training - Blog",
-    description: "Here is our blog which helps to know and get knowledge about latest IT certification programs.",
-    url: "https://certificationtraining.in/blog",
-      siteName: "Certification Training",
-      type: "website",
-    },
-    twitter: {
-      card: "summary",
-    title: "Certification Training - Blog",
-    description: "Here is our blog which helps to know and get knowledge about latest IT certification programs.",
-    images: ["https://certificationtraining.in/bitalogo.png"],
-    },
-  };
+export const metadata = buildMetadata({
+  title: "Certification Training - Blog",
+  description:
+    "Here is our blog which helps to know and get knowledge about latest IT certification programs.",
+  path: "/blog",
+})
 
 export default function Page() {
   return (

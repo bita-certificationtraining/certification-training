@@ -3,40 +3,14 @@ import MobileviewForm from "@/app/components/MobileviewForm"
 import MobileviewSlider from "@/app/components/MobileviewSlider"
 import TestimonialSlider from "@/app/components/TestimonialSlider"
 import Image from "next/image";
+import { buildMetadata } from "@/app/util/seo"
 
-export const metadata = {
+export const metadata = buildMetadata({
   title: "BITA Academy - it certification training online",
-  description: "Start or grow your career in IT with an IT certification from us. Find everything you need to get certified - from exploring certifications to training.",
-  robots: {
-    index: true,
-    follow: true,
-    nocache: false,
-  },
-  alternates: {
-    canonical: "https://certificationtraining.in/",
-  },
-  openGraph: {
-     title: "BITA Academy - it certification training online",
-  description: "Start or grow your career in IT with an IT certification from us. Find everything you need to get certified - from exploring certifications to training.",
- url: "https://certificationtraining.in/",
-    siteName: "Certification Trainings",
-    type: "website",
-    images: [
-      {
-        url: "https://certificationtraining.in/bitalogo.png",
-        width: 1200,
-        height: 630,
-        alt: "BITA IT Academy",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary",
-     title: "BITA Academy - it certification training online",
-  description: "Start or grow your career in IT with an IT certification from us. Find everything you need to get certified - from exploring certifications to training.",
- images: ["https://certificationtraining.in/bitalogo.png"],
-  },
-};
+  description:
+    "Start or grow your career in IT with an IT certification from us. Find everything you need to get certified - from exploring certifications to training.",
+  path: "/",
+})
 
 export default function Home() {
   return (

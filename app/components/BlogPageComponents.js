@@ -57,6 +57,13 @@ const COURSES = [
     link: "/blog/aws/aws-cloud-concepts-explained-laas-paas-saas-shared-responsibility-regions",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
+  {
+    id: 6,
+    title: "Microsoft Azure Certifications: Complete Guide to All Certifications & Learning Paths",
+    category: "Microsoft Certification",
+    link: "/blog/microsoft/microsoft-azure-certifications-complete-guide-to-all-certifications-and-learning-paths",
+    icon: "/allblogpage/microsoft/microsoft.png",
+  },
 ]
 
 export default function CoursesPage() {
