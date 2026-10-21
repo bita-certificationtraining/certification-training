@@ -4,7 +4,7 @@ export const ORG_NAME = "BITA Academy"
 export const ORG_LOGO = "/homepageimages/bitalogo.png"
 
 // 1200x630 default share image (public/og-default.png)
-export const DEFAULT_OG_IMAGE = "/og-default.png"
+export const DEFAULT_OG_IMAGE = "/bitalogo.png"
 
 export function absoluteUrl(path = "") {
   if (!path) return SITE_URL
