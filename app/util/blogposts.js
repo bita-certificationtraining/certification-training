@@ -61,9 +61,36 @@ export const blogposts = [
     path: "/blog/microsoft/microsoft-azure-certifications-complete-guide-to-all-certifications-and-learning-paths",
     title: "Microsoft Azure Certifications: Complete Guide & Learning Paths",
     heading:
-      "Microsoft Azure Certifications: Complete Guide to All Certifications & Learning Paths",
+      "Explore all Microsoft Azure certifications, learning paths, exam details, and career opportunities to plan your cloud journey.",
     description:
       "Complete guide to Microsoft Azure certifications and learning paths. Compare the exams and choose the right Azure certification for your career.",
+    image: "/allblogpage/microsoft/microsoft.png",
+  },
+  {
+    path: "/blog/microsoft/azure-fundamentals-az-900-exam-guide-syllabus-study-plan-and-practice-questions",
+    title: "Azure Fundamentals (AZ-900): Exam Guide, Syllabus, Study Plan & Practice Questions",
+    heading:
+      "Azure Fundamentals (AZ-900): Exam Guide, Syllabus, Study Plan & Practice Questions",
+    description:
+      " Prepare for the Azure Fundamentals AZ-900 exam with the complete syllabus, study plan, exam guide, and practice questions.",
+    image: "/allblogpage/microsoft/microsoft.png",
+  },
+  {
+    path: "/blog/microsoft/azure-administrator-az-104-complete-certification-guide",
+    title: "Azure Administrator (AZ-104): Complete Certification Guide",
+    heading:
+      "Azure Administrator (AZ-104): Complete Certification Guide",
+    description:
+      "Master the Azure Administrator AZ-104 certification with exam objectives, study resources, hands-on labs, and preparation tips.",
+    image: "/allblogpage/microsoft/microsoft.png",
+  },
+  {
+    path: "/blog/python/pcap-certified-associate-python-programmer-complete-exam-guide",
+    title: "PCAP - Certified Associate Python Programmer: Complete Exam Guide",
+    heading:
+      "PCAP - Certified Associate Python Programmer: Complete Exam Guide",
+    description:
+      "Master the Azure Administrator AZ-104 certification with exam objectives, study resources, hands-on labs, and preparation tips.",
     image: "/allblogpage/microsoft/microsoft.png",
   },
 ]

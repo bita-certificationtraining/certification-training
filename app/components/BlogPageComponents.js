@@ -7,7 +7,7 @@ import { Search } from "lucide-react"
 
 // ---- Static data (Next.js la ithha oru separate data.js file ku move pannalam) ----
 const CATEGORIES = [
-  "Python Institute Certification",
+  "Python Certification",
   "AWS Certification",
   "Microsoft Certification",
   "CompTIA Certification",
@@ -44,6 +44,20 @@ const COURSES = [
     icon: "/allblogpage/microsoft/microsoft.png",
   },
   {
+    id: 8,
+    title: "Azure Fundamentals (AZ-900): Exam Guide, Syllabus, Study Plan & Practice Questions",
+    category: "Microsoft Certification",
+    link: "/blog/microsoft/azure-fundamentals-az-900-exam-guide-syllabus-study-plan-and-practice-questions",
+    icon: "/allblogpage/microsoft/microsoft.png",
+  },
+   {
+    id: 11,
+    title: "PCAP - Certified Associate Python Programmer: Complete Exam Guide",
+    category: "Python Certification",
+    link: "/blog/python/pcap-certified-associate-python-programmer-complete-exam-guide",
+    icon: "/allblogpage/python/python.png",
+  },
+  {
     id: 4,
     title: "AWS Cloud Practitioner Practice Exams: The Complete Guide to Mock Tests & Simulators",
     category: "AWS Certification",
@@ -71,7 +85,20 @@ const COURSES = [
     link: "/blog/aws/aws-core-services-overview",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
-  
+  {
+    id: 9,
+    title: "Azure Administrator (AZ-104): Complete Certification Guide",
+    category: "Microsoft Certification",
+    link: "/blog/microsoft/azure-administrator-az-104-complete-certification-guide",
+    icon: "/allblogpage/microsoft/microsoft.png",
+  },
+  {
+    id: 10,
+    title: "PCAP - Certified Associate Python Programmer: Complete Exam Guide",
+    category: "Python Institute Certification",
+    link: "/blog/python/pcap-certified-associate-python-programmer-complete-exam-guide",
+    icon: "/allblogpage/python/python.png",
+  },
 ]
 
 export default function CoursesPage() {
