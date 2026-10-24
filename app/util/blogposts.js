@@ -90,7 +90,7 @@ export const blogposts = [
     heading:
       "PCAP - Certified Associate Python Programmer: Complete Exam Guide",
     description:
-      "Master the Azure Administrator AZ-104 certification with exam objectives, study resources, hands-on labs, and preparation tips.",
+      "Prepare for the PCAP Python Programmer certification with exam topics, syllabus, study resources, practice questions, and tips.",
     image: "/allblogpage/microsoft/microsoft.png",
   },
 ]
