@@ -306,7 +306,7 @@ export default function Page() {
             Get a personalized study plan mapped to your schedule, background, and career goals
           </p>
           <button className="mt-6 rounded-xl bg-white px-6 py-3 font-semibold text-[#3a7ba5] transition hover:bg-slate-100">
-            Book Your Free Counselling Call Today
+            <a href="/contactus">Book Your Free Counselling Call Today</a>
           </button>
            <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
             and walk in with a clear timeline, not a guess.

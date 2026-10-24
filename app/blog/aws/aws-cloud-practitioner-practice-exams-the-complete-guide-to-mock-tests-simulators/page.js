@@ -17,11 +17,11 @@ const stats = [
 ];
 
 const keyTakeaways = [
-  "Practice tests reveal weak domains far more accurately than re-reading notes or watching videos.",
-  "Always simulate real exam conditions — 90 minutes, no pauses, no notes — for at least your last 2-3 attempts.",
-  "Reviewing wrong answers matters more than the score itself; understand why an option was correct.",
-  "A consistent 80%+ across multiple full mocks is a reliable readiness signal for CLF-C02.",
-  "Overusing dumps or memorized question banks backfires, since AWS regularly rotates its question pool.",
+  "Weak areas are identified much more clearly with practice tests than by re-reading notes or watching videos.",
+  "For your final 2-3 attempts, always practice as if it were an actual exam (90 minutes, no breaks, no notes).",
+  "It is more important to look at wrong answers than the score itself; know why an answer was right.",
+  "If a student gets 80%+ on several full mocks, then they are likely to be ready for CLF-C02.",
+  "An overuse of dumps or memorized question banks is counterproductive as AWS rotates its question pool.",
   
 ];
 
@@ -34,11 +34,11 @@ const keyTakeaways = [
 // ];
 
 const skillsCompared = [
-  { detail: "Time management across 65 questions within a 90-minute window" },
-  {  detail: "Identifying keywords in scenario-based, multiple-response questions" },
-  { detail: "Domain-wise self-assessment to prioritize revision" },
-  {  detail: "Eliminating incorrect options systematically under pressure" },
-  {  detail: "Staying calm and pacing yourself during unfamiliar or tricky questions" },
+  { detail: "65 questions in 90 minutes" },
+  {  detail: "Identifying keywords in scenario-based, multiple response questions" },
+  { detail: "Self-assessment to prioritize revision, domain-wise" },
+  {  detail: "Taking out false alternatives under pressure one by one" },
+  {  detail: "Being relaxed and calm during difficult or unfamiliar questions" },
 ];
 
 const popularCerts = [
@@ -49,9 +49,9 @@ const popularCerts = [
 ];
 
 const comparisonTable = [
-  { cert: "Topic-wise quizzes (10-15 questions per domain)", focus: "Right after studying a specific domain like IAM or S3", duration: "Helps catch knowledge gaps early while the concept is still fresh" },
-  { cert: "Full-length exam simulators (65 questions, 90 minutes)", focus: "Final 1-2 weeks of prep", duration: "Builds time management and stamina, not just knowledge" },
-  { cert: "Relying on only one type", focus: "Skipping either topic quizzes or full simulators", duration: "Topic quizzes alone leave you unprepared for exam pacing; simulators alone (without domain practice first) often cause frustration and inflated anxiety about difficulty" },
+  { cert: "Topic-wise quizzes (10-15 questions per topic)", focus: "Immediately following learning a particular domain such as IAM or S3", duration: "Helps identify gaps in knowledge at an early stage when the concept is still fresh." },
+  { cert: "Full-length exam simulators (65 questions, 90 minutes)", focus: "Final 1-2 weeks of prep", duration: "Develops time management and stamina as well as knowledge" },
+  { cert: "Using just one type", focus: "Avoiding topic quizzes or entire simulators", duration: "Topic quizzes without domain practice, simulators without topic quizzes, or both are not sufficient for exam pacing, and can lead to frustration and false sense of difficulty level." },
 ];
 // const comparisonTable = [
 //   { cert: "Cloud Support Associate", level: "", focus: "$55,000-$70,000", duration: "₹6-9 LPA" },
@@ -62,34 +62,39 @@ const comparisonTable = [
 // ];
 
 const roadmapSteps = [
-   "Finish studying all four domains before attempting your first full-length mock.",
-  "Take topic-wise quizzes immediately after each domain to catch gaps early.",
-  "Attempt your first full simulator under real exam conditions (90 minutes, no notes).",
-  "Log every wrong answer by domain and error type in a simple tracker.",
-  "Revise weak domains, then retake full mocks until you consistently score 80%+.",
-  "Do one final simulator 2–3 days before the real exam, then rest instead of cramming.",
+   "Complete your studies of all four domains before taking your first full-length mock.",
+   "Immediately after each domain, take topic-wise quizzes to find gaps early.",
+   "Do your first full simulator with no notes and under real exam conditions (90 minutes).",
+   "Make a basic tracker for all the incorrect responses for each domain and error type.",
+   "Rather than rewriting weak domains, take full mocks until you get 80%+ every time.",
+   "Test one last time on the simulator 2-3 days prior to actual test; relax rather than cramming.",
 ];
 
 const faqs = [
   {
     q: "How to prepare for the AWS Cloud Practitioner exam in 30 days?",
-    a: "Split your 30 days into 3 weeks of domain-wise study (Cloud Concepts, Technology, Security, Billing) followed by a final week dedicated entirely to full-length mock exams and weak-area revision.",
+    a: "Divide your 30 days into 3 weeks of domain-wise study (Cloud Concepts, Technology, Security, Billing) and the last week to be spent fully on mock exams and weak area revision.",
   },
   {
-    q: "Which How to pass AWS Cloud Practitioner on the first attempt?",
-    a: "Combine structured domain-wise study with at least 3-5 full-length timed mock exams, and don't book your exam date until you're consistently scoring 80%+.",
+    q: "How to pass AWS Cloud Practitioner on the first attempt?",
+    a: "Use a structured domain-wise study plan in conjunction with a minimum of 3-5 full-length timed mock exams and do not schedule your exam date until you are consistently getting 80% or above.",
   },
   {
     q: "How hard is the AWS Cloud Practitioner exam?",
-    a: "It's a foundational-level exam and considered beginner-friendly, but candidates who skip hands-on practice and mock tests often underestimate its scenario-based question style.",
+    a: "The test is at a basic level and beginner friendly, however, many candidates tend to underestimate the scenario-based questions because they haven't practiced hands-on or taken mock tests.",
   },
   {
     q: "How many questions are in the AWS CLF-C02 exam?",
-    a: "The exam has 65 questions (50 scored, 15 unscored) to be completed in 90 minutes, with a passing score of 700 out of 1000.",
+    a: "There are 65 questions (50 scored, 15 unscored) to be answered in 90 minutes and a passing score is 700 out of 1000.",
   },
+
   {
     q: "What are the best study materials for the AWS Cloud Practitioner exam?",
-    a: "If you are a beginner and prefer a structured way of training rather than self-study, then Bita Academy is a good opA mix of AWS's official exam guide, structured instructor-led content, AWS Free Tier hands-on labs, and full-length timed practice simulators works best — avoid relying solely on unofficial question dumps."
+    a: "The best way to prepare is to use a combination of AWS's official exam guide, instructor-led content, AWS Free Tier hands-on labs, and full-length timed practice simulators, rather than relying exclusively on unofficial question dumps.",
+  },
+  {
+    q: "How many practice exams should I take before the real test?",
+    a: "Most successful candidates attempt 3-5 full-length mocks, working out which areas they are weak at in the early attempts and which areas they are ready for in the later attempts, under timed conditions.",
   },
 ];
 
@@ -138,7 +143,7 @@ export default function Page() {
           </div>
 
           <p className="mt-8 max-w-3xl text-white/90 leading-relaxed">
-            Reading notes for weeks but still unsure if you're actually exam-ready? Practice tests are the single biggest predictor of a first-attempt pass — this guide shows you how to use mock exams, simulators, and result analysis to walk into your CLF-C02 exam with real confidence, not guesswork.
+            This is a recommended date prior to Test Day. Weeks of reading notes and still not sure if you're exam ready or not? The single most important thing to know about passing a first attempt at CLF-C02 is that practice tests are the best indicator — this guide teaches you how to use practice tests, simulators and result analysis to enter your CLF-C02 exam with real confidence, not guesswork. 
           </p>
         </div>
       </section>
@@ -150,7 +155,7 @@ export default function Page() {
             Quick Answers
           </h3>
           <p className="leading-relaxed text-slate-700">
-            Practice exams for AWS Cloud Practitioner (CLF-C02) are timed, scenario-based question sets that mimic the real exam's 65-question, 90-minute format. They matter because AWS exams test applied understanding, not memorization — a mock exam exposes exactly which of the four domains (Cloud Concepts, Security, Technology, Billing) you're weak in before it costs you the $100 exam fee. Most successful candidates take 3–5 full-length mocks in their final week, aiming to consistently score 80%+ before booking their actual exam slot.
+            AWS Cloud Practitioner (CLF-C02) practice exams are timed, scenario-based question sets which simulate the actual exam format of 65 questions in 90 minutes. They are important because AWS exams are not about memorizing facts but about applying your knowledge, so a mock exam can tell you which of the four areas of the exam (Cloud Concepts, Security, Technology, Billing) you are weak in, before you pay the $100 exam fee! The majority of successful candidates sit 3-5 full-length mocks in the final week in order to achieve a score of 80%+ each time and therefore secure their actual exam slot.
           </p>
         </div>
 
@@ -174,14 +179,14 @@ export default function Page() {
         <div>
           <SectionHeading>Why should freshers start with AWS Cloud Practitioner? </SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           For freshers, AWS Cloud Practitioner is the ideal starting point because it builds foundational cloud understanding without requiring prior coding or infrastructure experience, making the learning curve manageable while still being a recognized, resume-worthy credential. It gives freshers working vocabulary and conceptual clarity around cloud computing, security, and pricing that every higher-level AWS role builds on, so instead of jumping straight into a harder Associate-level exam and feeling overwhelmed, they gain confidence and exam-taking experience first. It's also a strong signal to recruiters that a candidate is serious about a cloud career even without job experience, often helping freshers stand out for entry-level cloud support or operations roles that don't demand deep technical skills yet.
+           AWS Cloud Practitioner is the perfect course for beginners as it is a recognized and desired credential that doesn't require any coding or infrastructure skills, and provides a basic understanding of cloud. It provides freshers with a working vocabulary and conceptual understanding that will be used throughout all of the higher level AWS roles, and can help them feel more confident and comfortable with taking exams, rather than plunging straight into a more challenging Associate-level exam. It's also a positive indicator to recruiters that the candidate is interested in a cloud career without having any experience, and often it can get a fresher notice for entry-level cloud support or operations positions that don't require a lot of technical expertise yet.
           </p>
         </div>
 
         <div>
           <SectionHeading>Analyzing Practice Results Effectively</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           Scoring 65% on a mock exam isn't a failure — it's data. The candidates who improve fastest treat every wrong answer as a mini case study: they identify whether the mistake was a knowledge gap, a misread question, or a careless timing error, and tag each wrong answer by domain (Cloud Concepts, Security, Technology, Billing) to spot patterns. If Security and Compliance keeps showing up as your weakest domain across three consecutive mocks, that's a clear signal to revisit IAM and the shared responsibility model before touching another practice set. Tracking this in a simple spreadsheet — attempt number, score, weak domain, error type — turns random practice into a targeted revision plan.
+           65% on a mock exam is not a failure, it's data. The candidates that get the best results view each incorrect response as a mini case study, asking themselves if it was a lack of knowledge, a misread question, or a careless timing mistake, and then tagging each incorrect answer by domain to look for patterns (Cloud Concepts, Security, Technology, Billing). If Security and Compliance is your lowest domain score on three consecutive practice sets, it's a strong indicator that you need to revisit IAM and the shared responsibility model before moving onto the next domain. This is tracked in a simple spreadsheet (attempt number, score, weak domain, error type) and converts random practise into a focused revision plan.
           </p>
         </div>
       </section>
@@ -230,7 +235,7 @@ export default function Page() {
 
       {/* COMPARISON TABLE */}
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
-        <SectionHeading>Structure Within Each Plan</SectionHeading>
+        <SectionHeading>Types of Practice Resources and How to Use Them</SectionHeading>
         <div className="overflow-x-auto rounded-2xl shadow-sm">
           <table className="w-full min-w-[640px] border-collapse overflow-hidden rounded-2xl bg-white text-left text-sm sm:text-base">
             <thead>
@@ -264,7 +269,7 @@ export default function Page() {
 
       {/* ROADMAP */}
       <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto">
-        <SectionHeading>Step-by-Step Study Roadmap </SectionHeading>
+        <SectionHeading>Step-by-Step Roadmap to Using Practice Exams</SectionHeading>
         <div className="space-y-3">
           {roadmapSteps.map((step, i) => (
             <div
@@ -284,19 +289,20 @@ export default function Page() {
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
         <div className="rounded-3xl bg-gradient-to-br from-[#3a7ba5] to-[#3a7ba5] px-6 sm:px-10 py-10 text-center">
           <h3 className="text-2xl sm:text-3xl font-bold text-white">
-            Book Your Free Counselling Session
+            Book your Free Counselling Session and get the answers to your questions.
           </h3>
           <p className="mx-auto mt-4 max-w-2xl text-2xl text-yellow-200 font-bold  leading-relaxed">
-            Not sure if your mock scores mean you're actually ready?
+            Not certain whether your mock scores imply you are prepared for the real test?
           </p>
           <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-            Get your practice test results reviewed by a cloud mentor and find out exactly which domains need more work —
+            Have your practice test results analyzed by a cloud mentor and know exactly where to focus your efforts for more practice
           </p>
+         
           <button className="mt-6 rounded-xl bg-white px-6 py-3 font-semibold text-[#3a7ba5] transition hover:bg-slate-100">
-            Book Your Free Counselling Call Today
+            <a href="/contactus">Book Your Free Counselling Call Today</a>
           </button>
            <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-            and stop guessing your exam readiness.
+            and end the guessing game about exam readiness. 
           </p>
 
         </div>
@@ -308,7 +314,7 @@ export default function Page() {
         <blockquote className="rounded-2xl bg-white p-6 sm:p-8 shadow-sm">
           <span className="text-3xl text-yellow-400">&ldquo;</span>
           <p className="-mt-4 italic leading-relaxed text-slate-700">
-           Mentors who track candidate performance closely notice that first-attempt failures rarely come from lack of knowledge — they come from skipping full-length, timed mocks and walking in unprepared for the pacing. Candidates who treat practice exams as a diagnostic tool, not just a score to chase, consistently outperform those who simply repeat the same question bank hoping to memorize answers.
+           Mentors who keep a close eye on candidates' performance realize that a first attempt error is not a lack of knowledge error, but rather an error caused by not taking timed, full-length practice tests and being unprepared for the pacing. The candidates who use the practice tests as a diagnostic tool rather than a score to chase, always outperform those candidates who just repeat the same question bank, hoping to memorize the answers.
           </p>
         </blockquote>
       </section>

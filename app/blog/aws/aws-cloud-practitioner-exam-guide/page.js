@@ -293,8 +293,8 @@ export default function Page() {
           <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
             Talk to a cloud career expert, get a personalized study plan, and find out if CLF-C02 is your right first step
           </p>
-          <button className="mt-6 rounded-xl bg-white px-6 py-3 font-semibold text-[#3a7ba5] transition hover:bg-slate-100">
-            Book Your Free Counselling Call Today
+           <button className="mt-6 rounded-xl bg-white px-6 py-3 font-semibold text-[#3a7ba5] transition hover:bg-slate-100">
+            <a href="/contactus">Book Your Free Counselling Call Today</a>
           </button>
         </div>
       </section>

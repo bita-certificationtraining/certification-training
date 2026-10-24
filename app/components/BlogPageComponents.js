@@ -30,7 +30,7 @@ const COURSES = [
     id: 2,
     title: "AWS Cloud Practitioner Study Plan: 2-Week, 4-Week & 8-Week Roadmaps",
     category: "AWS Certification",
-    link: "/blog/aws/aws-cloud-practitioner-study-plan",
+    link: "/blog/awsaws-core-services-overview",
     icon: "/allblogpage/AWS/aws_blog.png",
     // rating: 5,
     // hours: 30,
@@ -38,32 +38,40 @@ const COURSES = [
   },
   {
     id: 3,
+    title: "Microsoft Azure Certifications: Complete Guide to All Certifications & Learning Paths",
+    category: "Microsoft Certification",
+    link: "/blog/microsoft/microsoft-azure-certifications-complete-guide-to-all-certifications-and-learning-paths",
+    icon: "/allblogpage/microsoft/microsoft.png",
+  },
+  {
+    id: 4,
     title: "AWS Cloud Practitioner Practice Exams: The Complete Guide to Mock Tests & Simulators",
     category: "AWS Certification",
     link: "/blog/aws/aws-cloud-practitioner-practice-exams-the-complete-guide-to-mock-tests-simulators",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
   {
-    id: 4,
+    id: 5,
     title: "AWS Cloud Practitioner Training Resources: Best Courses, Books, Labs & Channels",
     category: "AWS Certification",
     link: "/blog/aws/aws-cloud-practitioner-training-resources-best-courses-books-labs-and-channels",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
   {
-    id: 5,
+    id: 6,
     title: "AWS Cloud Concepts Explained: IaaS, PaaS, SaaS, Shared Responsibility & Regions",
     category: "AWS Certification",
     link: "/blog/aws/aws-cloud-concepts-explained-laas-paas-saas-shared-responsibility-regions",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
   {
-    id: 6,
-    title: "Microsoft Azure Certifications: Complete Guide to All Certifications & Learning Paths",
-    category: "Microsoft Certification",
-    link: "/blog/microsoft/microsoft-azure-certifications-complete-guide-to-all-certifications-and-learning-paths",
-    icon: "/allblogpage/microsoft/microsoft.png",
+    id: 7,
+    title: "AWS Core Services Overview: EC2, S3, RDS, Lambda, VPC & More",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-core-services-overview",
+    icon: "/allblogpage/AWS/aws_blog.png",
   },
+  
 ]
 
 export default function CoursesPage() {

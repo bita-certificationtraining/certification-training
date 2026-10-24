@@ -27,7 +27,7 @@ export const blogposts = [
     heading:
       "AWS Cloud Practitioner Practice Exams: The Complete Guide to Mock Tests & Simulators",
     description:
-      "Find the best AWS Cloud Practitioner practice exams, mock tests and simulators, and learn how to use them to check your CLF-C02 readiness.",
+      "Explore the AWS Cloud Practitioner exam guide with key topics, exam format, preparation tips, and strategies to pass the certification exam.",
     image: "/allblogpage/AWS/aws_blog.png",
   },
   {
@@ -46,6 +46,15 @@ export const blogposts = [
       "AWS Cloud Concepts Explained: IaaS, PaaS, SaaS, Shared Responsibility & Regions",
     description:
       "AWS cloud concepts made simple: IaaS vs PaaS vs SaaS, the shared responsibility model and AWS Regions explained for Cloud Practitioner prep.",
+    image: "/allblogpage/AWS/aws_blog.png",
+  },
+  {
+    path: "/blog/aws/aws-core-services-overview",
+    title: "AWS Core Services Overview: EC2, S3, RDS, Lambda, VPC & More",
+    heading:
+      "AWS Core Services Overview: EC2, S3, RDS, Lambda, VPC & More",
+    description:
+      "Explore essential AWS services, including EC2, S3, RDS, Lambda, and VPC, with key features and practical cloud use cases.",
     image: "/allblogpage/AWS/aws_blog.png",
   },
   {

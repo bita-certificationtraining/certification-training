@@ -17,11 +17,11 @@ const stats = [
 ];
 
 const keyTakeaways = [
-  "AWS's own Skill Builder platform is the most reliable source for accurate, up-to-date exam content.",
-  "Hands-on labs matter as much as video lectures — passive watching alone rarely builds real confidence.",
-  "Books work best as reference material for revision, not as a primary learning method for beginners.",
-  "Free YouTube channels are excellent for reinforcing concepts but shouldn't replace structured, sequential learning.",
-  "Combining official AWS resources with instructor-led guidance reduces confusion caused by outdated or conflicting third-party content.",
+ "The most trusted and up-to-date exam content is found on AWS's own Skill Builder platform.",
+ "Hands-on labs are just as important as video lectures — nothing can replace hands-on practice.",
+ "Books are not a great tool for learning, as they are primarily used for reference when revising.",
+ "Free channels on YouTube are great for reinforcing concepts but should not be used in place of structured, sequential learning.",
+ "Official AWS resources and instructor-led guidance will minimize confusion from outdated or conflicting third-party content.",
 ];
 
 // const skillsCompared = [
@@ -33,11 +33,11 @@ const keyTakeaways = [
 // ];
 
 const skillsCompared = [
-  { detail: "Navigating AWS documentation independently for accurate answers" },
-  {  detail: "Practical, hands-on comfort with the AWS Free Tier console" },
-  { detail: "Ability to cross-verify information across multiple sources for accuracy" },
-  {  detail: "Structured self-study discipline when using free or book-based resources" },
-  {  detail: "Applying theoretical concepts to scenario-based practice questions" },
+  { detail: "Self-learning AWS documentation for correct answers" },
+  { detail: "Hands-on experience and comfort using the AWS Free Tier console." },
+  { detail: "Interpretation skills of checking facts from different sources to make sure they are correct" },
+  { detail: "Self-study discipline with the use of free or book-based resources" },
+  { detail: "Using theory to answer scenario based practice questions." },
 ];
 
 const popularCerts = [
@@ -46,6 +46,7 @@ const popularCerts = [
   "AWS Certified Cloud Practitioner (CLF-C02) Certification Guide - Sunil Gupta",
   "AWS Certified Cloud Practitioner Exam Prep - Neal Davis",
   "AWS Certified Cloud Practitioner Practice Tests - Ben Piper & David Clinton (Sybex)",
+  "As a quick note: any copy you choose is specifically for the CLF-C02 exam (as the CLF-C01 exam was retired by AWS, so older versions may not have the same domains and weightings)."
 ];
 
 const comparisonTable = [
@@ -64,38 +65,38 @@ const comparisonTable = [
 // ];
 
 const roadmapSteps = [
-  "Start with AWS's official exam guide to understand domain weightage and scope.",
-  "Take a structured course (free or paid) to build a sequential, domain-wise foundation.",
-  "Reinforce each domain with 20-30 minutes of hands-on Free Tier practice.",
-  "Use YouTube channels to clarify specific confusing topics as they come up.",
-  "Switch to a book or PDF reference during your revision phase, not your first pass.",
-  "Finish with AWS's official practice exam plus a reputable third-party simulator before booking your test.",
+  " Use AWS's official exam guide to get to know domain weightage and scope.",
+  "Enroll in an organized course (paid or free) for a sequential, domain by domain foundation.",
+  "Complete 20-30 minutes of hands-on Free Tier practice for each domain.",
+  "Take advantage of YouTube channels to explain particular topics that you are unsure of when they arise.",
+  "Use a book or PDF reference when revising, not during your initial reading.",
+  "Complete AWS's official practice test and a trusted third party simulator before taking the test. ",
 ];
 
 const faqs = [
   {
     q: "How to study for AWS Cloud Practitioner with no prior cloud experience?",
-    a: "Start with AWS's official exam guide for scope, follow a structured beginner-friendly course for sequence, and reinforce each domain with hands-on Free Tier practice rather than passive video watching alone.",
+    a: "Use the AWS official exam guide to set the scope, a step-by-step, beginner-friendly course for sequence, and hands-on practice in AWS's Free Tier for each domain, not just watching videos.",
   },
   {
     q: "How does AWS Cloud Practitioner help in career growth?",
-    a: "It builds foundational cloud credibility that helps freshers and non-cloud professionals qualify for entry-level cloud support and operations roles, and serves as a stepping stone toward higher-paying Associate-level certifications.",
+    a: "It establishes ground-level credibility in the cloud space to enable freshers and even non-cloud professionals to pursue entry-level cloud support and operations jobs, and is a pathway to higher-paid Associate-level credentials.",
   },
   {
     q: "Why is AWS Cloud Practitioner the best entry-level cloud certification?",
-    a: "It requires no coding background, covers foundational concepts applicable across all AWS roles, and is widely recognized by recruiters as proof of genuine cloud fundamentals.",
+    a: "It does not require any coding skills, provides basic concepts that can be used by all AWS roles and is a known benchmark by recruiters for real cloud knowledge. ",
   },
   {
     q: "What's the best way to prepare for AWS Cloud Practitioner in 2026?",
-    a: "Combine AWS's official Skill Builder content for accuracy, a structured instructor-led course for pacing, hands-on Free Tier labs for practical exposure, and full-length mock exams in your final weeks.",
+    a: "Use AWS's official Skill Builder content for accuracy, a structured instructor-led course for pacing, hands on Free Tier labs for hands-on experience, and full length mock exams in your final weeks.",
   },
   {
     q: "What is the best AWS Cloud Practitioner training institute in Chennai?",
-    a: "Look for institutes offering structured batches with hands-on labs, mock tests, and mentor support rather than pure video content. Bita Academy is one option in Chennai offering this kind of guided AWS Cloud Practitioner training.",
+    a: "Seek institutes that provide well-organized batches, practical sessions, mock tests, and mentorship instead of just videos. One of the training institutes that provide this kind of AWS Cloud Practitioner training in Chennai is Bita Academy.",
   },
   {
     q: " Are free resources enough to clear the AWS Cloud Practitioner exam?",
-    a: "Free resources can work if you're highly disciplined and combine documentation, hands-on labs, and mock tests consistently, but many beginners find structured, instructor-led guidance helps maintain pace and clarity, especially with limited weekend hours.",
+    a: "Free resources can be effective when you're extremely disciplined and use them in conjunction with documentation and hands-on labs, but many students find that they're more effective when they're provided with consistent, structured and instructor-led guidance, particularly if they have limited weekend hours.",
   },
 ];
 
@@ -156,7 +157,7 @@ export default function Page() {
             Quick Answers
           </h3>
           <p className="leading-relaxed text-slate-700">
-            The best AWS Cloud Practitioner (CLF-C02) prep combines four resource types: a structured course for guided learning, AWS's official documentation and Skill Builder content for accuracy, hands-on labs using the AWS Free Tier for practical exposure, and curated YouTube channels for free conceptual reinforcement. No single resource covers everything well — courses give structure, official resources give accuracy, labs give confidence, and free content fills gaps between paid options. Combining 2–3 of these, rather than relying on just one, consistently produces stronger exam readiness.
+            The top AWS Cloud Practitioner (CLF-C02) prep includes four types of resources: guided learning in a structured course, accurate information in AWS's official documentation and Skill Builder content, hands-on practice in the AWS Free Tier, and free conceptual reinforcement from curated YouTube channels. There are no perfect resources that do everything well, courses provide structure, official resources provide accuracy, labs provide confidence, and free resources provide gaps between paid resources. Using 2-3 of these, as opposed to one, consistently leads to better exam readiness. 
           </p>
         </div>
 
@@ -180,7 +181,7 @@ export default function Page() {
         <div>
           <SectionHeading>Choosing Between Free and Paid Resources</SectionHeading>
           <p className="leading-relaxed text-slate-700">
-           Free resources like AWS's official documentation, Skill Builder digital courses, and reputable YouTube channels are excellent for building conceptual understanding at zero cost, but they place the entire burden of structure and consistency on the learner — something that's difficult for beginners juggling full-time jobs. Paid, instructor-led courses solve this by providing a fixed sequence, doubt-clearing support, and accountability, which matters most for candidates with no prior cloud exposure or limited self-study discipline. Books, meanwhile, occupy a different role entirely: they're best used for revision and reference after you've already been introduced to a topic, since reading about IAM policies cold, without hands-on context, rarely sticks the way a guided lab or video walkthrough does.
+           Free resources, such as AWS's official documentation, AWS Skill Builder digital courses, and trusted YouTube channels, are great for conceptual understanding, but they leave it up to the learner to provide structure and consistency, which is challenging for those with full-time jobs. This is where paid, instructor-led courses come in handy: They offer a set sequence, support to clear up doubts, and accountability, which is crucial for candidates who have little or no prior cloud experience, or lack the discipline to study on their own. Books, however, have a different purpose: they are intended for revision and reference after you have been introduced to the topic, and reading about IAM policies cold, without any context or hands-on experience, doesn't stick in the mind like a guided lab or walk-through video does.
           </p>
         </div>
 
@@ -289,20 +290,23 @@ export default function Page() {
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
         <div className="rounded-3xl bg-gradient-to-br from-[#3a7ba5] to-[#3a7ba5] px-6 sm:px-10 py-10 text-center">
           <h3 className="text-2xl sm:text-3xl font-bold text-white">
-            Book Your Free Counselling Session
+            Click to book a free counselling session.
           </h3>
           <p className="mx-auto mt-4 max-w-2xl text-2xl text-yellow-200 font-bold  leading-relaxed">
-            Get a curated, step-by-step resource list mapped to your background and timeline —
+            Frustrated by having to switch between 15 tabs to determine what to study first?
+          </p>
+          <p className="mx-auto mt-4 max-w-2xl text-2xl text-yellow-200 font-bold  leading-relaxed">
+            Frustrated by using 15 browser tabs to determine what to study first? Find a curated list of resources, step-by-step, according to your background and timeline —
           </p>
         
           <button className="mt-6 rounded-xl bg-white px-6 py-3 font-semibold text-[#3a7ba5] transition hover:bg-slate-100">
-            Book Your Free Counselling Call Today
+            <a href="/contactus">Book Your Free Counselling Call Today</a>
           </button>
            <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-            and start learning with a plan, not a pile of bookmarks.
+            and start learning with a plan — not a pile of bookmarks.
           </p>
            <p className="mx-auto mt-4 max-w-2xl text-white/90 leading-relaxed">
-           If you're in Chennai and want structured, instructor-led AWS Cloud Practitioner training instead of piecing together free resources on your own, Bita Academy offers guided batches with hands-on labs, mock tests, and doubt-clearing sessions, so you get the accountability that self-study often lacks.
+           If you are in Chennai and looking for a structured AWS Cloud Practitioner training with instructor-led classes and hands-on labs, mock tests, and doubt clearing sessions, then you are lucky to find Bita Academy as they provide it. 
           </p>
 
         </div>
@@ -314,7 +318,7 @@ export default function Page() {
         <blockquote className="rounded-2xl bg-white p-6 sm:p-8 shadow-sm">
           <span className="text-3xl text-yellow-400">&ldquo;</span>
           <p className="-mt-4 italic leading-relaxed text-slate-700">
-           Mentors who've guided hundreds of candidates through CLF-C02 consistently see the same pattern: candidates who follow a fixed weekly structure — rather than "studying when they feel like it" — finish faster and retain more. The 8-week plan isn't slower because the content is harder; it's paced deliberately so beginners build genuine hands-on confidence instead of memorizing answers.
+           Mentors who have seen hundreds of study plans frequently see candidates who only use one type of resource (typically only YouTube videos) get stuck at 60-65% on mock exams, because they don't have a way to apply what they've learned to a scenario. Candidates with structured courses (with lab and AWS documentation) always cross the 80%+ mock score threshold fast. 
           </p>
         </blockquote>
       </section>
