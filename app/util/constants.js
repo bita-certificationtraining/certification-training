@@ -2328,7 +2328,7 @@ const dp203dataengineeringandsolutionsonmicrosoftazure = {
   slug: "dp-203-data-engineering-and-solutions-on-microsoft-azure",
   code: "DP-203",
   title: "DP-203: Data Engineering & Solutions on Microsoft Azure",
-  description: "Master data engineering on Azure. Get certified in building, managing, and designing data solutions using Microsoft Azure’s data management tools.",
+  description: "Master data engineering on Azure. Get certified in building, managing, and designing data solutions using Microsoft Azure's data management tools.",
 
   cheading: "DP-203: Data Engineering & Solutions on Microsoft Azure",
   courseoverview: "Are you ready to embark on a lucrative career in data engineering with one of the most powerful cloud platforms? BITA Academy offers a thorough DP-203: Data Engineering & Solutions on Microsoft Azure course designed for professionals looking to grasp the end-to-end data pipeline on Azure. This certification is excellent for anyone who wants to develop, construct, manage, and protect data solutions with Azure data services. Real-time projects, hands-on labs, and expert mentoring will teach you the skills you need to work effectively with large-scale data systems in Azure.",
@@ -2498,6 +2498,549 @@ costofcourseheading: "Career Opportunities",
   ],
   finally: "With cloud-based data management in great demand, Administering Microsoft Azure SQL Solutions has become a must-have certification for today's IT professionals. Enroll at BITA Academy today and let our structured training route lead you to career success in cloud database administration."
 };
+
+
+
+const az900microsoftazurefundamentalscertification = {
+  slug: "az-900-microsoft-azure-fundamentals-certification",
+  code: "AZ-900",
+  title: "AZ-900: Microsoft Azure Fundamentals Certification",
+  description: "Learn the basics of cloud computing and Azure. Get certified in Azure Fundamentals and gain a strong foundation in cloud services with Microsoft Azure.",
+
+  cheading: "AZ-900: Microsoft Azure Fundamentals Certification",
+  courseoverview: "Are you ready to step into the world of cloud computing with one of the most trusted cloud platforms? BITA Academy proudly presents the AZ-900: Microsoft Azure Fundamentals Certification course, a beginner-friendly program designed for individuals who want to understand core Azure services, cloud concepts, and Azure pricing and support. This foundational certification is perfect for both technical and non-technical professionals looking to build a career in cloud technologies.",
+
+  whytakecourseheading: "Why Take the AZ-900: Microsoft Azure Fundamentals Certification Course?",
+  wtcintro: "BITA Academy's AZ-900: Microsoft Azure Fundamentals Certification program provides you with vital cloud expertise, which opens up a variety of job prospects. Here's why this certification is a wise decision:",
+  wtcoursecontent: [
+   "Foundational Knowledge: Understand the fundamentals of cloud computing, including public, private, and hybrid models.",
+   "Vendor-Neutral Entry Point: No technical knowledge required—ideal for novices exploring cloud ideas.",
+   "Employers recognize the following: The AZ-900: Microsoft Azure Fundamentals Certification is internationally recognized and will help you demonstrate your skills to prospective employers.",
+   "Real-Time Labs: Provide hands-on experience with Azure tools and services through live labs and guided practice.",
+   "Boosts Further Learning: Serves as a stepping stone for advanced Azure certifications such as AZ-104, AZ-204, and AZ-305.",
+   ],
+
+
+  whocanlearnheading: "Who Can Learn AZ-900: Microsoft Azure Fundamentals Certification?",
+  wclcontent: "The AZ-900: Microsoft Azure Fundamentals Certification course is ideal for:",
+  wclpoints: [
+   "Beginners are researching cloud computing.",
+   "Non-technical professionals collaborate with cloud teams.",
+   "Business leaders interested in cloud capabilities.",
+   "Students and graduates begin a cloud journey.",
+   "Professionals moving to cloud-based roles.",
+   "No prior Azure experience is required; only curiosity and a willingness to learn.",
+  ],
+
+
+  courseprerequestheading: "Prerequisites for AZ-900: Microsoft Azure Fundamentals Certification",
+  prerequestintro: "There are no explicit requirements for taking this course. Nonetheless, having:",
+  courseprerequcontent: [
+    "A fundamental understanding of IT concepts or general computing.",
+    "Interest in cloud technology and how organizations use it.",
+  ],
+
+
+  howtoapplyheading: "How to Apply for the AZ-900: Microsoft Azure Fundamentals Certification Exam?",
+  htaintro: "Follow these easy steps to register for the AZ-900: Microsoft Azure Fundamentals Certification exam:",
+  howtoapplycontent: [
+    "Create or log in to your account on the Microsoft Certification Dashboard.",
+    "Select the AZ-900 Microsoft Azure Fundamentals Certification exam.",
+    "Select your desired test format: online or in a test center.",
+    "Choose a date and time that works for you.",
+    "Pay the exam fee (USD 99) through Microsoft's testing partners (Pearson VUE).",
+    "Prepare thoroughly with BITA's course materials and sample examinations.",
+    "If you are taking the test online, make sure you have a valid photo ID and a good internet connection.",
+   ],
+
+
+  // costofcourseheading: "How to Get AZ-700 Certified?",
+  // costofcoursecontent: "To obtain the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification:",
+  obtaincourseheading: "How to Get AZ-900: Microsoft Azure Fundamentals Certification?",
+  obtainintro: "To obtain your AZ-900: Microsoft Azure Fundamentals Certification, take this path:",
+  obtaincoursecontent: [
+   "Complete BITA Academy's extensive instruction through instructor-led classes and real-time labs.",
+   "Participate in quizzes, assignments, and full-length mock tests.",
+   "Pass the certified Microsoft test with a thorough understanding of cloud principles.",
+   "After passing, you will earn a digital badge and certificate that will demonstrate your core Azure knowledge to employers and colleagues.",
+  ],
+
+costofcourseheading: "Career Opportunities",
+  costofcoursecontent: "The AZ-900: Microsoft Azure Fundamentals Certification lays the groundwork for a career in cloud technology. It's a great fit for roles like:",
+  costofcoursecontent: [
+    "Cloud Support Associate",
+    "Cloud Sales Specialist",
+    "Junior Azure Administrator",
+    "Technical Support Executive (Cloud)",
+    "Business Analyst (Cloud Domain)",
+   
+  ],
+
+  examblueprint: [
+    
+  ],
+  finally: "It also acts as your launchpad into more specialized Azure certifications and roles in cloud security, AI, DevOps, and more.With cloud technology becoming the new standard across industries, the AZ-900: Microsoft Azure Fundamentals Certification is your ticket to a successful computing career. Join BITA Academy and let our qualified instructors help you achieve Azure success!"
+};
+
+
+const dp900microsoftazuredatafundamentalscertification = {
+  slug: "dp-900-microsoft-azure-data-fundamentals-certification",
+  code: "DP-900",
+  title: "DP-900: Microsoft Azure Data Fundamentals Certification",
+  description: "Master the fundamentals of data services on Azure. Get certified in cloud data solutions and Microsoft Azure's data management tools.",
+
+  cheading: "DP-900: Microsoft Azure Data Fundamentals Certification",
+  courseoverview: "Do you want to start your journey in data and cloud using Microsoft Azure? BITA Academy provides a comprehensive training curriculum for the DP-900: Microsoft Azure Data Fundamentals Certification, specifically developed for people who are new to data and cloud services. This entry-level certification will equip you with the fundamental knowledge required to work with core data ideas and services in the Azure ecosystem. You'll be confident enough to take your first step into the Azure cloud after participating in interactive labs, real-world use cases, and expert coaching.",
+
+  whytakecourseheading: "Why Take the DP-900: Microsoft Azure Data Fundamentals Certification Course?",
+  wtcintro: "Choose BITA Academy for your DP-900: Microsoft Azure Data Fundamentals Certification program provides several critical benefits that position you for long-term success in the data domain:",
+  wtcoursecontent: [
+   "Strong Foundation: Learn about fundamental data concepts, relational and non-relational data models, and analytical workloads.",
+   "Azure Familiarity: Learn about important Azure services like Azure SQL Database, Cosmos DB, Synapse Analytics, and Azure Data Lake.",
+   "Career Entry Point: Ideal for those wishing to get started in data-related professions or pursue advanced certifications such as Azure Data Engineer or Azure Database Administrator.",
+   "Hands-On Training: Develop real-world skills with guided laboratories, projects, and scenario-based exercises.",
+   "Exam Readiness: Get access to practice tests, exam-focused materials, and doubt-clearing sessions.",
+],
+
+
+  whocanlearnheading: "Who Can Learn DP-900: Microsoft Azure Data Fundamentals Certification?",
+  wclcontent: "The DP-900: Microsoft Azure Data Fundamentals Certification course is designed for beginners seeking a career in data and cloud computing.",
+  wclpoints: [
+   "Business analysts and data lovers seek to understand data workloads.",
+   "Students looking to get Microsoft certification early in their careers.",
+   "Non-technical professionals interested in exploring data services on Azure.",
+   "Professionals preparing for upcoming Azure certifications.",
+   "No prior technical experience is required. If you are passionate about data and want to get started with Microsoft Azure, this is the course for you. ",
+   ],
+
+
+  courseprerequestheading: "Prerequisites for DP-900: Microsoft Azure Data Fundamentals Certification",
+  prerequestintro: "There are no prerequisites for taking the DP-900: Microsoft Azure Data Fundamentals certification course. However, we suggest having:",
+  courseprerequcontent: [
+    "Enroll in BITA's training program to learn all the necessary principles.",
+    "Quizzes, case studies, and mock tests can all be used for practice.",
+    "Take the official DP-900 exam (a 60-minute multiple-choice examination).",
+    "Get the required passing grade and download your certified Microsoft badge and certificate.",
+    "This certification demonstrates your understanding of core data concepts and Azure data services.",
+],
+
+
+  howtoapplyheading: "How to Apply for the DP-900: Microsoft Azure Data Fundamentals Certification Exam?",
+  htaintro: "To register for the DP-900: Microsoft Azure Data Fundamentals Certification exam:",
+  howtoapplycontent: [
+        "Sign in to your Microsoft account or create a new one at the official Microsoft Certification Portal.",
+    "Navigate to the DP-900 exam website and select 'Schedule Exam.'",
+    "Select your language, exam delivery method (online or testing center), and date.",
+    "Pay the exam fee of USD 99 through Microsoft's exam partner (Pearson VUE).",
+    "On exam day, make sure you have a quiet space (for online testing), a valid ID, and a reliable internet connection.",
+    ],
+
+
+  // costofcourseheading: "How to Get AZ-700 Certified?",
+  // costofcoursecontent: "To obtain the AZ-700: Designing and Implementing Microsoft Azure Networking Solutions certification:",
+  obtaincourseheading: "How to Get DP-900: Microsoft Azure Data Fundamentals Certification?",
+  obtainintro: "To obtain your DP-900: Microsoft Azure Data Fundamentals certification, take these steps:",
+  obtaincoursecontent: [
+  "Enroll in BITA's training program to learn all the necessary principles.",
+  "Quizzes, case studies, and mock tests can all be used for practice.",
+  "Take the official DP-900 exam (a 60-minute multiple-choice examination).",
+  "Get the required passing grade and download your certified Microsoft badge and certificate.",
+  "This certification demonstrates your understanding of core data concepts and Azure data services.",
+],
+
+costofcourseheading: "Career Opportunities",
+  costofcoursecontent: "After earning the DP-900: Microsoft Azure Data Fundamentals Certification, you'll be well-positioned for entry-level roles in cloud and data:",
+  costofcoursecontent: [
+ "Data Analyst (Entry Level)",
+ "Azure Data Associate",
+ "Business Intelligence Trainee",
+ "Cloud Data Support Specialist",
+ "Junior Data Engineer",
+ "IT Intern (Cloud/Data Focus)",
+],
+
+  examblueprint: [
+    
+  ],
+  finally: "Additionally, the DP-900 certification serves as a launchpad toward advanced Microsoft certifications and specialized career tracks in data science, data engineering, and cloud architecture.Begin your cloud journey with confidence. Join BITA Academy's expert-led DP-900: Microsoft Azure Data Fundamentals Certification course to launch a lucrative career in data and the cloud!"
+};
+
+
+
+
+
+const az120azurefrsapworkloadsplanningandadministration =  {
+
+  slug: "az-120-azure-for-sap-workloads-planning-and-administration",
+  code: "AZ-120",
+  title: "AZ-120: Azure for SAP Workloads Planning & Administration",
+  description: "Get certified in managing SAP workloads on Azure. Learn to plan and administer SAP solutions efficiently using Microsoft Azure cloud services.",
+  cheading: "AZ-120: Azure for SAP Workloads Planning & Administration",
+  courseoverview: [
+    "Are you eager to boost your career by mastering the deployment and administration of SAP workloads on Microsoft Azure? BITA Academy provides an intense AZ-120: Azure for SAP Workloads Planning & Administration course designed specifically for IT professionals, cloud architects, and SAP administrators looking to thrive in this hybrid domain. Our program is intended to provide in-depth knowledge through real-world labs, expert-led workshops, and industry-specific case studies."
+  ],
+  whytakecourseheading: "Why Take the AZ-120: Azure for SAP Workloads Planning & Administration Course?",
+  wtcintro: "Enrolling in BITA Academy's AZ-120: Azure for SAP Workloads Planning & Administration program will provide you with vital skills that bridge the gap between SAP and Azure environments. Here's why this qualification is in such high demand:",
+  wtcoursecontent: [
+    "Real-World Scenarios: Learn how to plan, install, and manage SAP systems on Azure using scenario-based learning.",
+    "Career Development: This certification is appropriate for people who want to work in enterprise cloud systems that require SAP integration.",
+    "Hybrid Cloud Mastery: Gain experience with Azure services such as Virtual Machines, Storage, Networking, Identity, and Backup in SAP environments.",
+    "Performance and Security Optimization: Discover how to provide high availability, disaster recovery, and compliance for SAP workloads on Azure.",
+    "A stepping stone to more advanced professions such as Azure Architect, SAP on Azure Specialist, and Cloud Consultant.",
+  ],
+  whocanlearnheading: "Who Can Learn AZ-120: Azure for SAP Workloads Planning & Administration?",
+  wclcontent: "The AZ-120 Azure for SAP Workloads Planning & Administration course is ideal for cloud developers handling business SAP applications.",
+  wclpoints: [
+    "Azure architects want to specialize in SAP implementations.",
+    "SAP BASIS or HANA administrators are transitioning to cloud-based infrastructures.",
+    "IT professionals operate in hybrid contexts.",
+    "Cloud consultants prepare for SAP migrations.",
+],
+
+  courseprerequestheading: "Prerequisites for AZ-120: Azure for SAP Workloads Planning & Administration",
+  prerequestintro: "To fully benefit from the AZ-120: Azure for SAP Workloads Planning & Administration course, we recommend:",
+  courseprerequcontent: [
+    "Basic understanding of SAP solutions and workloads.",
+    "Experience with Azure infrastructure components.",
+    "Understanding networking, storage, and virtualization.",
+    "Experience with operating systems like Windows and Linux.",
+    "BITA Academy fills knowledge gaps through explicit learning routes and hands-on laboratories, boosting your confidence and competence."
+],
+
+  howtoapplyheading: "How to Apply for the AZ-120: Azure for SAP Workloads Planning & Administration Exam?",
+  htaintro: "Follow these procedures to register for the official Microsoft certification.",
+  howtoapplycontent: [
+    "Visit Microsoft's official certification page.",
+    "Log in with your Microsoft account and select the AZ-120 certification.",
+    "Click 'Schedule Exam' and select your selected test provider (Pearson VUE).",
+    "Choose your exam language, test style (online or at a testing center), and date.",
+    "Pay the USD 165 exam cost and complete registration.",
+    "If you're taking the exam online, make sure your ID is verified and your internet connection is stable.",
+  ],
+
+  
+  // costofcourseheading: "",
+  // costofcoursecontent: [
+  // ],
+
+  obtaincourseheading: "How to Get Certified in AZ-120: Azure for SAP Workloads Planning & Administration?",
+  obtainintro: "To get the certification:",
+  obtaincoursecontent: [
+    "Complete BITA's expert-led training, which covers theory, use cases, and mock examinations.",
+    "Pass the AZ-120 exam, which assesses your ability to plan and administer SAP workloads on Azure.",
+    "Get the required passing score and download your certification and badge from the Microsoft dashboard.",
+    "This globally recognized accreditation demonstrates your competence to manage complex SAP infrastructure in Azure.",
+    ],
+
+  coheading: "Career Opportunities",
+  cointro: "Certified professionals in AZ-120: Azure for SAP Workloads Planning & Administration are highly valued in cloud-first enterprises. This certification opens doors to roles such as:",
+  careeroppotunities: [
+    "SAP on Azure Specialist",
+    "Azure Cloud Architect",
+    "SAP Infrastructure Consultant",
+    "Cloud Engineer (SAP Focus)",
+    "Technical Architect - SAP Migrations",
+    "Enterprise Solutions Consultant",
+],
+  examblueprint: "Not yet published",
+  finally: "It also prepares you for higher-level certifications or specialized roles in SAP HANA, Azure Governance, and Cloud Security.Modern company operations rely heavily on cloud solutions involving SAP. With BITA Academy's thorough AZ-120: Azure for SAP Workloads Planning & Administration course, you'll obtain the knowledge and confidence needed to succeed in this high-demand field."
+};
+
+
+
+
+const az140configuringmicrosoftazurevirtualdesktopsolutions =  {
+  slug: "az-140-configuring-microsoft-azure-virtual-desktop-solutions",
+  code: "AZ-140",
+  title: "AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions",
+  description: "Become certified in configuring and managing Azure Virtual Desktop. Learn to deploy, secure, and optimize virtual desktop environments on Azure.",
+
+  cheading: "AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions",
+  courseoverview: "Are you ready to obtain specialist knowledge of managing virtual desktop infrastructure on Azure? BITA Academy proudly provides a complete training curriculum for AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions, which is excellent for IT professionals looking to design, deploy, and manage virtual desktop environments in the cloud. With real-time labs, scenario-based learning, and expert-led instruction, this course will get you ready for Microsoft's AZ-140 certification.",
+
+  whytakecourseheading: "Why Take the AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions Course?",
+  wtcintro: "BITA's AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions training provides you with hands-on skills and industry-ready knowledge. Here's why we highly suggest this course:",
+  wtcoursecontent: [
+    "Enterprise-Ready Training: Learn how to implement scalable and secure virtual desktop infrastructures (VDI) that suit enterprise needs.",
+    "Microsoft Certification Advantage: Validate your talents with a globally recognized Microsoft certification.",
+    "Hands-on experience: Use Azure Virtual Desktop (AVD), FSLogix, user profile management, and monitoring tools.",
+    "Career Advancement: Explore opportunities in cloud computing, desktop virtualization, and IT infrastructure management.",
+    "Future Skills: Learn how to configure host pools, session hosts, app groups, and security policies in Azure.",
+],
+
+  whocanlearnheading: "Who Can Learn AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions?",
+  wclcontent: "This training is appropriate for a variety of professionals who want to enhance their understanding about Azure Virtual Desktop.",
+  wclpoints: [
+    "IT administrators, infrastructure engineers",
+    "Cloud professionals with Azure experience.",
+    "Desktop support engineers want to advance.",
+    "System administrators moving to Azure",
+    "Professionals preparing for the AZ-140 examination",
+    "A basic grasp of Microsoft Azure and virtual desktop environments is advantageous, but our organized course will help learners at any point.",
+],
+
+
+  courseprerequestheading: "Prerequisites for AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions",
+  prerequestintro: "While the AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions exam has no mandatory prerequisites, participants should have:",
+  courseprerequcontent: [
+    "Experience in Azure administration",
+    "Experience with Microsoft 365 and Active Directory.",
+    "Understanding of Virtualization Technologies",
+    "Basic understanding of networking and identity management.",
+    "BITA Academy fills knowledge gaps with individualized training modules, hands-on labs, and expert mentorship to guarantee you're exam-ready.",
+  ],
+
+  howtoapplyheading: "How to Apply for the AZ-140 Exam?",
+  htaintro: "Follow these easy steps to register for the AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions exam:",
+  howtoapplycontent: [
+    "Sign in to your Microsoft Certification Dashboard.",
+    "Search for and select the AZ-140 test from the 'Configure and Operate Azure Virtual Desktop' category.",
+    "Select your desired test format (online proctoring or testing center).",
+    "Pay the USD 165 exam cost to Microsoft's authorized partners (Pearson VUE).",
+    "Schedule your exam date and prepare confidently using BITA's training materials and sample examinations.",
+  ],
+
+  // costofcourseheading: "",
+  // costofcoursecontent: [
+  // ],
+
+  obtaincourseheading: "How to Get Certified in AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions?",
+  obtainintro: "To earn this credential:",
+  obtaincoursecontent: [
+    "Complete the AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions training program offered by BITA Academy.",
+    "Pass the certification exam, which consists of multiple-choice questions based on scenarios.",
+    "Meet the minimal passing score (usually around 700).",
+    "Get your official Microsoft badge and certificate through the Microsoft Learn portal.",
+    "Your certification will demonstrate your ability to design, deploy, and maintain Azure Virtual Desktop solutions in a professional setting.",
+],
+
+  coheading: "Career Opportunities",
+  cointro: "Earning the AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions certification opens exciting career paths, including:",
+  careeroppotunities: [
+    "Azure Virtual Desktop Administrator",
+    "Cloud Infrastructure Engineer",
+    "IT Systems Administrator",
+    "Desktop Virtualization Consultant",
+    "Microsoft Azure Support Specialist",
+    "Cloud Solutions Architect",
+    "This credential also prepares you for more advanced Azure certifications and leadership roles in enterprise IT infrastructure.",
+  ],
+  examblueprint: "Not yet published",
+  finally: "With remote work and digital transformation on the rise, the demand for Azure Virtual Desktop expertise is increasing quickly. Join BITA Academy today and begin your path to becoming a certified expert in AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions."
+};
+
+
+
+
+
+const dp420cloudnativeapplicationswithazurecosmosdb =  {
+  slug: "dp-420-cloud-native-applications-with-azure-cosmos-db",
+  code: "DP-420",
+  title: "DP-420: Cloud-Native Applications with Azure Cosmos DB",
+  description: "Get certified in designing and implementing cloud-native apps using Azure Cosmos DB. Learn to leverage Microsoft's NoSQL database for scalable applications.",
+
+  cheading: "DP-420: Cloud-Native Applications with Azure Cosmos DB",
+  courseoverview:"Are you prepared to create highly responsive, scalable, and cloud-native applications using Microsoft Azure? BITA Academy provides an in-depth DP-420: Cloud-Native Applications with Azure Cosmos DB course that teaches you how to develop, implement, and manage modern apps utilizing Azure Cosmos Database. This course is suitable for developers, architects, and data professionals who want to learn cloud-native patterns and NoSQL database systems. Hands-on labs, real-world scenarios, and professional advice will teach you how to easily construct globally distributed applications.",
+
+  whytakecourseheading: "Why Take the DP-420: Cloud-Native Applications with Azure Cosmos DB Course?",
+  wtcintro: "Enrolling in BITA's DP-420: Cloud-Native Applications with Azure Cosmos DB course will provide you a competitive advantage in the growing cloud development ecosystem. Here's why this certification is a wise decision:",
+  wtcoursecontent: [
+    "Cloud-Native Expertise: Discover how to create distributed, highly available apps with Cosmos DB and Azure services.",
+    "Real-World Experience: Complete guided laboratories, hands-on activities, and scenario-based instruction.",
+    "Microsoft Certification Advantage: Validate your abilities with an industry-recognized certification that demonstrates Azure competency.",
+    "Performance at Scale: Understand partitioning, indexing, and consistency models to improve database performance.",
+    "Security and Compliance: Learn how to build strong data security, role-based access control, and regulatory compliance.",
+    "Global Reach: Create systems that are highly available and globally scalable.",
+    
+  ],
+
+  whocanlearnheading: "Who Can Learn DP-420: Cloud-Native Applications with Azure Cosmos DB?",
+  wclcontent: "This course is perfect for individuals who want to specialize in developing cloud-native applications with Microsoft technologies. Suitable candidates include:",
+  wclpoints: [
+    "Azure developers and backend engineers.",
+    "Software architects design microservices and distributed systems.",
+    "Full-stack engineers focus on scalable cloud applications.",
+    "Data engineers integrate NoSQL databases into solutions.",
+    "Candidates pursuing the Microsoft Certification: Azure Cosmos DB Developer Specialty.",
+    "A basic grasp of Azure services, JSON, and APIs is useful but not required.",
+  ],
+
+  courseprerequestheading: "Prerequisites for DP-420: Cloud-Native Applications with Azure Cosmos DB",
+  prerequestintro: "familiarity with Azure principles.",
+  courseprerequcontent: [
+    "Basic understanding of REST APIs and SDKs.",
+    "Understanding of JSON Data Modeling",
+    "Experience developing applications using any programming language.",
+    "BITA Academy's structured lessons and hands-on tutoring can help you fill any skill gaps."
+  ],
+
+  howtoapplyheading: "How to Apply for the DP-420: Cloud-Native Applications with Azure Cosmos DB Exam?",
+  htaintro: "To apply for the DP-420: Cloud-Native Applications with Azure Cosmos DB test, follow these instructions:",
+  howtoapplycontent: [
+    "Sign into your Microsoft Learn account.",
+    "Navigate to the DP-420 exam website and select ‘Schedule Exam.’",
+    "Select your test delivery method: online or in a testing center.",
+    "Choose your language, date, and hour for the examination.",
+    "Pay the USD 165 registration cost through Pearson VUE.",
+    "If you are taking the exam online, be sure you have a valid ID and a quiet testing environment.",
+  ],
+
+  // costofcourseheading: "",
+  // costofcoursecontent: [
+  // ],
+
+  obtaincourseheading: "How to Get DP-420: Cloud-Native Applications with Azure Cosmos DB Certification?",
+  obtainintro: "To obtain your DP-420: Cloud-Native Applications with Azure Cosmos Database certification:",
+  obtaincoursecontent: [
+    "Prepare using Microsoft. Learn materials and BITA's personalized practice sets.",
+    "Register for and pass the DP-420 exam, which is timed and includes multiple-choice and case study questions.",
+    "Earn your Microsoft Certified badge by achieving the required passing score.",
+    "This certification confirms your proficiency in creating efficient and scalable applications with Azure Cosmos DB.",
+  ],
+
+  coheading: "Career Opportunities",
+  cointro: "Professionals certified in DP-420: Cloud-Native Applications with Azure Cosmos DB are in high demand across industries that require modern, high-performance applications. Career paths include:",
+  careeroppotunities: [
+    "Azure Cosmos DB Developer",
+    "Cloud Application Developer",
+    "Full-Stack Cloud Engineer",
+    "Azure Solutions Architect",
+    "Data Platform Specialist",
+    "Distributed Systems Engineer",
+  ],
+  examblueprint: "Not yet published",
+  finally: "This certification also opens doors to roles in industries such as fintech, e-commerce, healthcare, and IoT.With cloud-native technologies quickly revolutionizing corporate processes, the DP-420: Cloud-Native Applications with Azure Cosmos DB certification provides a competitive advantage. Enroll at BITA Academy today and our intensive training will equip you to become a future-ready Azure specialist!"
+};
+
+
+const ai901azureaifundamentalscertification =  {
+  slug: "ai-901-azure-ai-fundamentals-certification",
+  code: "AI-901",
+  title: "AI-901 Azure AI Fundamentals Certification",
+  description: "Kickstart your AI career with Microsoft Azure AI Fundamentals. Get certified in foundational AI concepts and tools used in Azure environments.",
+  
+  cheading: "I-Microsoft Azure AI Fundamentals Certification ",
+  courseoverview: [
+    "Are you interested in artificial intelligence and want to establish a solid foundation in the field utilizing Azure? BITA Academy provides an interesting and beginner-friendly Microsoft Azure AI Fundamentals Certification course that will help you grasp the fundamental concepts of AI and how they are implemented using Microsoft Azure services. This course is appropriate for anyone who wants to get started in artificial intelligence but doesn't have any coding experience.",
+    "Students will learn about AI workloads, machine learning models, computer vision, natural language processing, and other Azure AI services through hands-on labs, real-time demos, and expert instruction.",
+  ],
+
+  whytakecourseheading: "Why Take the Microsoft Azure AI Fundamentals Certification Course?",
+  wtcintro: "BITA Academy’s Microsoft Azure AI Fundamentals Certification training is perfect for beginners who want to explore how AI is transforming industries. Here’s why enrolling in this course is a smart choice:",
+  wtcoursecontent: [
+    "Beginner-Friendly Approach: No programming knowledge required—ideal for students, professionals, and non-technical backgrounds.",
+    "Future-Proof Your Skills: AI is shaping the future, and this certification helps you stay relevant in a rapidly evolving tech landscape.",
+    "Microsoft Recognition: The certification is globally acknowledged by employers and strengthens your resume for AI-related roles.",
+    "Practical Learning: Real-time use cases and lab sessions using Azure AI services.",
+    "Foundation for Advanced Learning: A stepping stone toward advanced certifications like Azure AI Engineer Associate or Azure Data Scientist Associate.",
+  ],
+
+  whocanlearnheading: "Who Can Learn Microsoft Azure AI Fundamentals Certification?",
+  wclcontent: "The Microsoft Azure AI Fundamentals Certification course is ideal for:",
+  wclpoints: [
+    "Students and recent graduates pursuing a career in AI.",
+    "Business professionals and sales teams use AI-based solutions.",
+    "IT professionals wishing to understand the foundations of AI without strong technical knowledge.",
+    "Anyone interested in AI, machine learning, and Azure services.",
+    "Whether you have a technical or non-technical background, this course will provide you with AI principles utilizing Azure.",
+  ],
+  
+  // courseprerequestheading: "",
+  // prerequestintro: "",
+
+  courseprerequcontent: "Prerequisites for Microsoft Azure AI Fundamentals Certification",
+  howtoapplyheading: "There are no formal requirements for the Microsoft Azure AI Fundamentals Certification course. However, a fundamental grasp of:",
+  htaintro: "",
+  howtoapplycontent: [
+    "Cloud concepts (preferred, but not required)",
+"General technology or software usage",
+"Interest in data, AI, or cloud computing",
+
+  ],
+
+  costofcourseheading: "How to Apply for the Microsoft Azure AI Fundamentals Certification Exam?",
+  costofcoursecontent: [
+    "Create or sign into your Microsoft Learn account.",
+"Go to the Microsoft Certification Portal and look for 'AI-901: Azure AI Fundamentals.'",
+"Select the exam format (online proctored or test center).",
+"Choose your favorite language and examination date.",
+"Pay the exam fee of USD 99.",
+"On exam day, make sure you have a peaceful area, a valid ID, and a solid internet connection if you are taking the test online.",
+"When you pass, you'll get your official Microsoft badge and certificate.",
+
+  ],
+
+  obtaincourseheading: "How to Get Certified in Microsoft Azure AI Fundamentals Certification?",
+  obtainintro: "To obtain the Microsoft Azure AI Fundamentals Certification, take these steps:",
+  obtaincoursecontent: [
+    "Complete the BITA comprehensive training program, which includes theoretical information, hands-on labs, and mock assessments.",
+"Register and take the AI-901 test offered by Microsoft.",
+"Score at least 700 points out of 1000 to pass.",
+"You may access your digital certificate and badge through your Microsoft account.",
+"This certification confirms your comprehension of AI ideas as well as your ability to effectively use Azure AI technologies.",
+  ],
+
+  coheading: "Career Opportunities",
+  cointro: "Completing the Microsoft Azure AI Fundamentals Certification opens up exciting career pathways in the world of AI and cloud computing. With this credential, you can pursue roles such as:",
+  careeroppotunities: [
+    "AI Analyst",
+
+
+"Business Intelligence Associate",
+
+
+"Technical Sales Specialist for AI Solutions",
+
+
+"Azure Support Specialist",
+
+
+"Junior AI Consultant",
+
+  ],
+  examblueprint: "Not yet published",
+  finally: "This course also serves as a strong foundation for further specialization in AI development, data science, or machine learning.With AI becoming a part of every business, the Microsoft Azure AI Fundamentals Certification prepares you for the future of intelligent solutions. Join BITA Academy today to start your journey into artificial intelligence with confidence!"
+};
+
+
+
+// const awscertifieddeveloperassociate =  {
+//   slug: "",
+//   code: "",
+//   title: "",
+//   description: "",
+//   cheading: "",
+//   courseoverview: [
+//   ],
+//   whytakecourseheading: "",
+//   wtcintro: "",
+//   wtcoursecontent: [
+//   ],
+//   whocanlearnheading: "",
+//   wclcontent: "",
+//   wclpoints: [
+//   ],
+//   courseprerequestheading: "",
+//   prerequestintro: "",
+//   courseprerequcontent: "",
+//   howtoapplyheading: "",
+//   htaintro: "",
+//   howtoapplycontent: [
+//   ],
+//   costofcourseheading: "",
+//   costofcoursecontent: [
+//   ],
+//   obtaincourseheading: "",
+//   obtainintro: "",
+//   obtaincoursecontent: [
+//   ],
+//   coheading: "",
+//   cointro: "",
+//   careeroppotunities: [
+//   ],
+//   examblueprint: "Not yet published",
+//   finally: ""
+// };
 
 const comptiaacourseinchennai = {
   slug: "comptia-a-course-in-chennai",
@@ -4520,16 +5063,6 @@ const comptiaserverpluscertification =  {
 //   examblueprint: "Not yet published",
 //   finally: ""
 // };
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -6673,6 +7206,13 @@ export const allCertifications = {
   "az-700-designing-and-implementing-microsoft-azure-networking-solutions" : az700designingandimplementingmicrosoftazurenetworkingsolutions,
   "dp-203-data-engineering-and-solutions-on-microsoft-azure" : dp203dataengineeringandsolutionsonmicrosoftazure,
   "dp-300-administering-microsoft-azure-sql-solutions" : dp300administeringmicrosoftazuresqlsolutions,
+  "az-900-microsoft-azure-fundamentals-certification" : az900microsoftazurefundamentalscertification,
+  "dp-900-microsoft-azure-data-fundamentals-certification" : dp900microsoftazuredatafundamentalscertification,
+  "az-120-azure-for-sap-workloads-planning-and-administration" : az120azurefrsapworkloadsplanningandadministration,
+  "az-140-configuring-microsoft-azure-virtual-desktop-solutions" : az140configuringmicrosoftazurevirtualdesktopsolutions,
+  "dp-420-cloud-native-applications-with-azure-cosmos-db" : dp420cloudnativeapplicationswithazurecosmosdb,
+  "ai-901-azure-ai-fundamentals-certification" : ai901azureaifundamentalscertification,
+  
 
 
 

@@ -492,6 +492,90 @@ export const examdetails = [
     }
   },
   {
+    code: "AZ-900",
+    slug: "az-900-microsoft-azure-fundamentals-certification",
+    examdetails: {
+      examname: "Microsoft Azure Fundamentals",
+      examlevel: "Foundational",
+      examcode: "AZ-900",
+      prereq: "None",
+      examlength: "60 minutes",
+      nofq: "",
+      passingscore: "700/1000",
+      price: "USD 99"
+    }
+  },
+  {
+    code: "DP-900",
+    slug: "dp-900-microsoft-azure-data-fundamentals-certification",
+    examdetails: {
+      examname: "DP-900: Microsoft Azure Data Fundamentals Certification",
+      examlevel: "Beginner / Fundamental",
+      examcode: "DP-900",
+      prereq: "None",
+      examlength: "60 minutes",
+      nofq: "",
+      passingscore: "700/1000",
+      price: "USD 99"
+    }
+  },
+  {
+    code: "AZ-120",
+    slug: "az-120-azure-for-sap-workloads-planning-and-administration",
+    examdetails: {
+      examname: "AZ-120: Azure for SAP Workloads Planning & Administration",
+      examlevel: "Associate / Specialist",
+      examcode: "AZ-120",
+      prereq: "SAP + Azure",
+      examlength: "100-120 minutes",
+      nofq: "",
+      passingscore: "700 out of 1000",
+      price: "USD 165"
+    }
+  },
+  {
+    code: "AZ-140",
+    slug: "az-140-configuring-microsoft-azure-virtual-desktop-solutions",
+    examdetails: {
+      examname: "AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions",
+      examlevel: "Associate",
+      examcode: "AZ-140",
+      prereq: "Azure administration and virtual desktop knowledge",
+      examlength: "Approximately 120 minutes",
+      nofq: "",
+      passingscore: "700 (subject to change)",
+      price: "USD 165"
+    }
+  },
+  {
+    code: "DP-420",
+    slug: "dp-420-cloud-native-applications-with-azure-cosmos-db",
+    examdetails: {
+      examname: " DP-420: Cloud-Native Applications with Azure Cosmos DB",
+      examlevel: "Specialty",
+      examcode: "DP-420",
+      prereq: "1+ year of Azure development",
+      examlength: "100-120 minutes",
+      nofq: "",
+      passingscore: "Approximately 700 (subject to Microsoft’s evaluation)",
+      price: "USD 165"
+    }
+  },
+  {
+    code: "AI-901",
+    slug: "ai-901-azure-ai-fundamentals-certification",
+    examdetails: {
+      examname: "  Microsoft Azure AI Fundamentals",
+      examlevel: "Fundamental",
+      examcode: "AI-901",
+      prereq: "",
+      examlength: "60 minutes",
+      nofq: "",
+      passingscore: "700 out of 1000",
+      price: "USD 99"
+    }
+  },
+  {
     code: "CompTIA A+",
     slug: "comptia-a-course-in-chennai",
     examdetails: {

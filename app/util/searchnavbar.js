@@ -206,6 +206,42 @@ export const searchnavbar = [
     title: "DP-300: Administering Microsoft Azure SQL Solutions",
     c_image: "/certification_img/microsoft_logo/DP-300.png",
   },
+  {
+    code: "AZ-900",
+    slug: "az-900-microsoft-azure-fundamentals-certification",
+    title: "AZ-900: Microsoft Azure Fundamentals Certification",
+    c_image: "/certification_img/microsoft_logo/AZ900.png",
+  },
+  {
+    code: "DP-900",
+    slug: "dp-900-microsoft-azure-data-fundamentals-certification",
+    title: "DP-900: Microsoft Azure Data Fundamentals Certification",
+    c_image: "/certification_img/microsoft_logo/DP900.png",
+  },
+  {
+    code: "AZ-120",
+    slug: "az-120-azure-for-sap-workloads-planning-and-administration",
+    title: "AZ-120: Azure for SAP Workloads Planning & Administration",
+    c_image: "/certification_img/microsoft_logo/AZ120.png",
+  },
+  {
+    code: "AZ-140",
+    slug: "az-140-configuring-microsoft-azure-virtual-desktop-solutions",
+    title: "AZ-140: Configuring Microsoft Azure Virtual Desktop Solutions",
+    c_image: "/certification_img/microsoft_logo/AZ140.png",
+  },
+  {
+    code: "DP-420",
+    slug: "dp-420-cloud-native-applications-with-azure-cosmos-db",
+    title: "DP-420: Cloud-Native Applications with Azure Cosmos DB",
+    c_image: "/certification_img/microsoft_logo/DP420.png",
+  },
+  {
+    code: "AI-901",
+    slug: "ai-901-azure-ai-fundamentals-certification",
+    title: "AI-901 Azure AI Fundamentals Certification",
+    c_image: "/certification_img/microsoft_logo/AI-901.png",
+  },
 
   {
     code: "220-1101",
