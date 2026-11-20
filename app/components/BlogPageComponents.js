@@ -99,6 +99,13 @@ const COURSES = [
     link: "/blog/python/pcap-certified-associate-python-programmer-complete-exam-guide",
     icon: "/allblogpage/python/python.png",
   },
+  {
+    id: 12,
+    title: "AWS Pricing and Billing Fundamentals: Complete Guide for CLF-C02",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-pricing-and-billing-fundamentals",
+    icon: "/allblogpage/AWS/aws_blog.png",
+  },
 ]
 
 export default function CoursesPage() {

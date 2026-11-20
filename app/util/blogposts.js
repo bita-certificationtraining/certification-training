@@ -93,6 +93,15 @@ export const blogposts = [
       "Prepare for the PCAP Python Programmer certification with exam topics, syllabus, study resources, practice questions, and tips.",
     image: "/allblogpage/microsoft/microsoft.png",
   },
+  {
+    path: "/blog/aws/aws-pricing-and-billing-fundamentals",
+    title: "AWS Pricing and Billing Fundamentals: Complete Guide for CLF-C02",
+    heading:
+      "AWS Pricing and Billing Fundamentals: Complete Guide for CLF-C02",
+    description:
+      "Learn AWS Pricing and Billing Fundamentals for the CLF-C02 certification. Explore AWS pricing models, billing tools, cost management, Free Tier, and budgeting strategies to understand and optimize your AWS cloud costs.",
+    image: "/allblogpage/AWS/aws_blog.png",
+  },
 ]
 
 export function getBlogPost(path) {
