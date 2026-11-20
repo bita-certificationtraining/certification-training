@@ -199,7 +199,7 @@ export default function Page() {
 
       {/* SKILLS Required */}
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
-        <SectionHeading>Skills Needed to Understand Core AWS Services</SectionHeading>
+        <SectionHeading>Skills Needed to Master Pricing and Billing</SectionHeading>
         <div className="space-y-3">
           {skillsCompared.map((s,i) => (
             <div
@@ -223,7 +223,7 @@ export default function Page() {
 
       {/* Related AWS Certifications */}
       <section className="px-6 sm:px-10 lg:px-20 py-4 max-w-5xl mx-auto">
-        <SectionHeading>Core AWS Services Covered in CLF-C02</SectionHeading>
+        <SectionHeading>AWS Support Plans Covered in the Exam</SectionHeading>
         <div className="divide-y divide-slate-200 rounded-2xl bg-white shadow-sm">
           {popularCerts.map((c) => (
             <div key={c} className="p-4 sm:p-5 text-slate-700">
@@ -240,7 +240,7 @@ export default function Page() {
 
       {/* COMPARISON TABLE */}
       <section className="px-6 sm:px-10 lg:px-20 py-12 max-w-5xl mx-auto">
-        <SectionHeading>Services at a Glance</SectionHeading>
+        <SectionHeading>Pricing Models at a Glance</SectionHeading>
         <div className="overflow-x-auto rounded-2xl shadow-sm">
           <table className="w-full min-w-[640px] border-collapse overflow-hidden rounded-2xl bg-white text-left text-sm sm:text-base">
             <thead>
@@ -296,7 +296,7 @@ export default function Page() {
           <h3 className="text-2xl sm:text-3xl font-bold text-white">
             Book Your Free Counselling Session
           </h3>
-          
+
           <h3 className="text-2xl sm:text-xl font-semibold">
             Still mixing up Reserved Instances with Savings Plans on practice tests?
           </h3>

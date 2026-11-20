@@ -102,6 +102,15 @@ export const blogposts = [
       "Learn AWS Pricing and Billing Fundamentals for the CLF-C02 certification. Explore AWS pricing models, billing tools, cost management, Free Tier, and budgeting strategies to understand and optimize your AWS cloud costs.",
     image: "/allblogpage/AWS/aws_blog.png",
   },
+  {
+    path: "/blog/aws/aws-security-and-compliance-basics",
+    title: "AWS Security and Compliance Basics: IAM, Encryption & Shared Responsibility",
+    heading:
+      "AWS Security and Compliance Basics: IAM, Encryption & Shared Responsibility",
+    description:
+      "Explore AWS Security and Compliance Basics for the CLF-C02 certification. Learn IAM, access management, data encryption, AWS security services, and the Shared Responsibility Model to understand how AWS protects cloud environments and ensures data security.",
+    image: "/allblogpage/AWS/aws_blog.png",
+  },
 ]
 
 export function getBlogPost(path) {

@@ -106,6 +106,13 @@ const COURSES = [
     link: "/blog/aws/aws-pricing-and-billing-fundamentals",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
+  {
+    id: 13,
+    title: "AWS Security and Compliance Basics: IAM, Encryption & Shared Responsibility",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-security-and-compliance-basics",
+    icon: "/allblogpage/AWS/aws_blog.png",
+  },
 ]
 
 export default function CoursesPage() {
