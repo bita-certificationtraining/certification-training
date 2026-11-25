@@ -111,6 +111,15 @@ export const blogposts = [
       "Explore AWS Security and Compliance Basics for the CLF-C02 certification. Learn IAM, access management, data encryption, AWS security services, and the Shared Responsibility Model to understand how AWS protects cloud environments and ensures data security.",
     image: "/allblogpage/AWS/aws_blog.png",
   },
+  {
+    path: "/blog/microsoft/azure-solutions-architect-az-305",
+    title: "Azure Solutions Architect (AZ-305): Exam Guide and Career Path",
+    heading:
+      "Azure Solutions Architect (AZ-305): Exam Guide and Career Path",
+    description:
+      "Prepare for the Microsoft Azure Solutions Architect (AZ-305) certification with this complete exam guide. Explore key Azure architecture concepts, cloud infrastructure, security, networking, and governance while discovering career opportunities, essential skills, and growth paths in cloud computing.",
+    image: "/allblogpage/microsoft/microsoft.png",
+  },
 ]
 
 export function getBlogPost(path) {

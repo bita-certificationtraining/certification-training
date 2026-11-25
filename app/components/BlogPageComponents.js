@@ -113,6 +113,13 @@ const COURSES = [
     link: "/blog/aws/aws-security-and-compliance-basics",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
+  {
+    id: 14,
+    title: "Azure Solutions Architect (AZ-305): Exam Guide and Career Path",
+    category: "Microsoft Certification",
+    link: "/blog/microsoft/azure-solutions-architect-az-305",
+    icon: "/allblogpage/microsoft/microsoft.png",
+  },
 ]
 
 export default function CoursesPage() {

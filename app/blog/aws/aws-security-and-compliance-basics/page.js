@@ -53,12 +53,12 @@ const popularCerts = [
 ];
 
 const comparisonTable = [
-  { cert: "Physical data center security", focus: "AWS", duration: "Facility access controls, hardware security" },
-  { cert: "Network infrastructure", focus: "AWS", duration: "Global network, edge locations" },
-  { cert: "Data encryption configuration", focus: "Customer", duration: "Enabling encryption on S3 buckets" },
-  { cert: "Identity and access management", focus: "Customer", duration: "Setting up IAM users, roles, and policies" },
-  { cert: "Compliance documentation access", focus: "AWS (provides), Customer (uses)", duration: "AWS Artifact reports" },
-  { cert: "Operating system patching (IaaS)", focus: "Customer", duration: "Patching an EC2 instance's OS" },
+  { cert: "Physical data center security", level: "AWS", focus: "Facility access controls, hardware security" },
+  { cert: "Network infrastructure", level: "AWS", focus: "Global network, edge locations" },
+  { cert: "Data encryption configuration", level: "Customer", focus: "Enabling encryption on S3 buckets" },
+  { cert: "Identity and access management", level: "Customer", focus: "Setting up IAM users, roles, and policies" },
+  { cert: "Compliance documentation access", level: "AWS (provides), Customer (uses)", focus: "AWS Artifact reports" },
+  { cert: "Operating system patching (IaaS)", level: "Customer", focus: "Patching an EC2 instance's OS" },
   ];
 
 
@@ -250,9 +250,10 @@ export default function Page() {
             <thead>
               <tr className="bg-[#3a7ba5] text-white">
                 <th className="p-4 font-semibold">Responsibility</th>            
+                
                 <th className="p-4 font-semibold">Owned By</th>
+                
                 <th className="p-4 font-semibold">Example</th>
-                {/* <th className="p-4 font-semibold">Best For</th> */}
               </tr>
             </thead>
             <tbody>
@@ -264,7 +265,7 @@ export default function Page() {
                   <td className="p-4 font-medium text-slate-900">{row.cert}</td>
                   <td className="p-4 text-slate-600">{row.level}</td>
                   <td className="p-4 text-slate-600">{row.focus}</td>
-                  <td className="p-4 text-slate-600">{row.duration}</td>
+                  {/* <td className="p-4 text-slate-600">{row.duration}</td> */}
                 </tr>
               ))}
             </tbody>
