@@ -113,12 +113,28 @@ const COURSES = [
     link: "/blog/aws/aws-security-and-compliance-basics",
     icon: "/allblogpage/AWS/aws_blog.png",
   },
+  
   {
     id: 14,
     title: "Azure Solutions Architect (AZ-305): Exam Guide and Career Path",
     category: "Microsoft Certification",
     link: "/blog/microsoft/azure-solutions-architect-az-305",
     icon: "/allblogpage/microsoft/microsoft.png",
+  },
+
+  {
+    id: 15,
+    title: "AWS Cloud Practitioner Career Path: Salary, Roles & What Comes Next",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-cloud-practitioner-career-path-salary-roles-what-comes-next",
+    icon: "/allblogpage/AWS/aws_blog.png",
+  },
+  {
+    id: 16,
+    title: "AWS Certification Comparison: Cloud Practitioner vs Solutions Architect vs Developer",
+    category: "AWS Certification",
+    link: "/blog/aws/aws-certification-comparison-cloud-practitioner-vs-solutions-architect-vs-developer",
+    icon: "/allblogpage/AWS/aws_blog.png",
   },
 ]
 

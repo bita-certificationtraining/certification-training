@@ -120,6 +120,24 @@ export const blogposts = [
       "Prepare for the Microsoft Azure Solutions Architect (AZ-305) certification with this complete exam guide. Explore key Azure architecture concepts, cloud infrastructure, security, networking, and governance while discovering career opportunities, essential skills, and growth paths in cloud computing.",
     image: "/allblogpage/microsoft/microsoft.png",
   },
+    {
+    path: "/blog/aws/aws-cloud-practitioner-career-path-salary-roles-what-comes-next",
+    title: "AWS Cloud Practitioner Career Path: Salary, Roles & What Comes Next",
+    heading:
+      "AWS Cloud Practitioner Career Path: Salary, Roles & What Comes Next",
+    description:
+      "EDiscover the AWS Cloud Practitioner career path, including job roles, salary expectations, required skills, and career opportunities. Learn how the AWS CLF-C02 certification can help you start your cloud computing journey and explore the next steps toward advanced AWS certifications and high-demand cloud careers.",
+    image: "/allblogpage/AWS/aws_blog.png",
+  },
+    {
+    path: "/blog/aws/aws-certification-comparison-cloud-practitioner-vs-solutions-architect-vs-developer",
+    title: "AWS Certification Comparison: Cloud Practitioner vs Solutions Architect vs Developer",
+    heading:
+      "AWS Certification Comparison: Cloud Practitioner vs Solutions Architect vs Developer",
+    description:
+      "Compare AWS Cloud Practitioner, Solutions Architect, and Developer certifications to understand their exam objectives, difficulty levels, skills, and career opportunities. Discover which AWS certification is right for your career goals and learn how to choose the best learning path to build a successful career in cloud computing.",
+    image: "/allblogpage/AWS/aws_blog.png",
+  },
 ]
 
 export function getBlogPost(path) {

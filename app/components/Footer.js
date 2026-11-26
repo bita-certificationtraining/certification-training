@@ -39,11 +39,22 @@ export default function Footer() {
           </div>
           <div className="w-42">
             <ul className="leading-7">
-              <li>Python Institute Certification</li>
-              <li>Microsoft Certification</li>
-              <li>Comptia Certification</li>
-              <li>GIAC Certification</li>
-              <li>ISACA Certification</li>
+              <li>
+                <Link href="/blog">Python Institute Certification</Link>
+                
+              </li>
+              <li>
+                <Link href="/blog">Microsoft Certification</Link>
+                </li>
+              <li>
+                <Link href="/blog">Comptia Certification</Link>
+                </li>
+              <li>
+                <Link href="/blog">GIAC Certification</Link>
+                </li>
+              <li>
+                <Link href="/blog">ISACA Certification</Link>
+                </li>
             </ul>
           </div>
           <div className="w-42">
